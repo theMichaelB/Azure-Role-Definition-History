@@ -1,10 +1,10 @@
 on: [push]
 
-name: AzureCLISampleForFile
+name: GetAzureRoles
 
 jobs:
 
-  build-and-deploy:
+  Azure-Login-Run:
     runs-on: ubuntu-latest
     steps:
     
@@ -21,7 +21,7 @@ jobs:
       with:
         azcliversion: 2.0.72
         inlineScript: |
-          chmod +x $GITHUB_WORKSPACE/sampleScript.sh
+          chmod +x $GITHUB_WORKSPACE/parseRoles.sh
           $GITHUB_WORKSPACE/parseRoles.sh
 
 
