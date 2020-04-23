@@ -40,7 +40,7 @@
     "assignableScopes": [
       "/"
     ],
-    "description": "test push",
+    "description": "acr push",
     "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/8311e382-0749-4cb8-b61a-304f252e45ec",
     "name": "8311e382-0749-4cb8-b61a-304f252e45ec",
     "permissions": [
@@ -89,7 +89,7 @@
     "assignableScopes": [
       "/"
     ],
-    "description": "test pull",
+    "description": "acr pull",
     "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/7f951dda-4ed3-4680-a7ca-43fe172d538d",
     "name": "7f951dda-4ed3-4680-a7ca-43fe172d538d",
     "permissions": [
@@ -110,7 +110,7 @@
     "assignableScopes": [
       "/"
     ],
-    "description": "test image signer",
+    "description": "acr image signer",
     "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/6cef56e8-d556-48e5-a04f-b8e64114680f",
     "name": "6cef56e8-d556-48e5-a04f-b8e64114680f",
     "permissions": [
@@ -131,7 +131,7 @@
     "assignableScopes": [
       "/"
     ],
-    "description": "test delete",
+    "description": "acr delete",
     "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/c2f4ef07-c644-48eb-af81-4b1b4947fb11",
     "name": "c2f4ef07-c644-48eb-af81-4b1b4947fb11",
     "permissions": [
@@ -152,7 +152,7 @@
     "assignableScopes": [
       "/"
     ],
-    "description": "test quarantine data reader",
+    "description": "acr quarantine data reader",
     "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/cdda3590-29a3-44f6-95f2-9f980659eb04",
     "name": "cdda3590-29a3-44f6-95f2-9f980659eb04",
     "permissions": [
@@ -173,7 +173,7 @@
     "assignableScopes": [
       "/"
     ],
-    "description": "test quarantine data writer",
+    "description": "acr quarantine data writer",
     "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/c8d4ff99-41c3-41a8-9f60-21dfdad59608",
     "name": "c8d4ff99-41c3-41a8-9f60-21dfdad59608",
     "permissions": [

@@ -1,12 +1,10 @@
-on:
-  schedule:
-    - cron:  '0 0 * * *'
+on: [push]
 
 name: GetAzureRoles
 
 jobs:
 
-  Scheduled-Azure-Login-Run:
+  Azure-Login-Run:
     runs-on: ubuntu-latest
     steps:
     
