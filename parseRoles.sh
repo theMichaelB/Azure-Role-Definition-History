@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+git checkout master
 az role definition list > roles.json
 
 subscriptionId=$(az account show | jq -r .id)
@@ -22,7 +22,7 @@ for row in $(echo "${cleanedroles}" | jq -r '.[] | select(.roleType=="BuiltInRol
 done
 
 if ! git diff --no-ext-diff --quiet --exit-code; then
-    git switch master
+    #git switch master
     git add roles/*
     git config --global user.email "action@azured.io"
     git config --global user.name "Github Action"
