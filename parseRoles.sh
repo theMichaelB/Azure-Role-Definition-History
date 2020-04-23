@@ -17,7 +17,7 @@ for row in $(echo "${cleanedroles}" | jq -r '.[] | select(.roleType=="BuiltInRol
     }
    roleName="$(_jq '.roleName').json"
    roleName=${roleName// /_}
-   echo $row | base64 -d | jq > "roles/${roleName}"
+   echo $row | base64 -d | jq -r '.' > "roles/${roleName}"
    
 done
 
