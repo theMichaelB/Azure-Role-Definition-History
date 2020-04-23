@@ -1,12 +1,11 @@
 #!/bin/bash
 
-#subscriptionId=$(az account show | jq -r .id)
-#nullId="00000000-0000-0000-0000-000000000000"
+subscriptionId=$(az account show | jq -r .id)
+nullId="00000000-0000-0000-0000-000000000000"
 
-#sed "s/$subscriptionId/$nullId/g" roles.json > cleanedroles.json
+sed "s/$subscriptionId/$nullId/g" roles.json > cleanedroles.json
 
- #| select(.roleType=="CustomRole" | not
- rm -rf roles/* 
+rm -rf roles/* 
 
 cleanedroles=$(cat cleanedroles.json)
 for row in $(echo "${cleanedroles}" | jq -r '.[] | select(.roleType=="BuiltInRole") | @base64'); do
@@ -19,3 +18,4 @@ for row in $(echo "${cleanedroles}" | jq -r '.[] | select(.roleType=="BuiltInRol
    
 done
 
+git add roles/*
