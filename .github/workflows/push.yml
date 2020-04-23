@@ -9,6 +9,7 @@ jobs:
     steps:
     
     - name: Azure Login
+    
       uses: azure/login@v1
       with:
         creds: ${{ secrets.AZURE_CREDENTIALS }}
@@ -17,6 +18,8 @@ jobs:
       uses: actions/checkout@v1
 
     - name: Azure CLI script file
+      env:
+        GHA_DEPLOY_KEY: ${{ secrets.GHA_DEPLOY_KEY }}
       uses: azure/CLI@v1
       with:
         azcliversion: 2.0.72

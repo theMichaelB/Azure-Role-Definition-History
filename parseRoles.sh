@@ -21,9 +21,16 @@ for row in $(echo "${cleanedroles}" | jq -r '.[] | select(.roleType=="BuiltInRol
    
 done
 
-git config --global user.email "action@azured.io"
-git config --global user.name "Github Action"
-git add roles/*
-commitDate=$(date "+%Y-%B-%d")
-git commit -m $commitDate
-git push origin master
+if ! git diff --no-ext-diff --quiet --exit-code; then
+    git add roles/*
+    git config --global user.email "action@azured.io"
+    git config --global user.name "Github Action"
+    git commit -m $commitDate
+    git remote set-url origin "$(git config --get remote.origin.url | sed 's#http.*com/#git@github.com:#g')"
+    eval `ssh-agent -t 60 -s`
+    echo "$GHA_DEPLOY_KEY" | ssh-add -
+    mkdir -p ~/.ssh/
+    ssh-keyscan github.com >> ~/.ssh/known_hosts
+    git push origin master
+    ssh-agent -k
+fi
