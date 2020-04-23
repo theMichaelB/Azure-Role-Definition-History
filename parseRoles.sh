@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+az role definition list > roles.json
+
 subscriptionId=$(az account show | jq -r .id)
 nullId="00000000-0000-0000-0000-000000000000"
 
@@ -19,3 +22,6 @@ for row in $(echo "${cleanedroles}" | jq -r '.[] | select(.roleType=="BuiltInRol
 done
 
 git add roles/*
+commitDate=$(date "+%Y-%B-%d")
+git commit -m $commitDate
+git push origin master
