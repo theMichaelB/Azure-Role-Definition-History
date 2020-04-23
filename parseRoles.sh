@@ -20,9 +20,8 @@ for row in $(echo "${cleanedroles}" | jq -r '.[] | select(.roleType=="BuiltInRol
    echo $row | base64 -d | jq -r '.' > "roles/${roleName}"
    
 done
-
+# largely stolen from - https://github.com/eine/actions/blob/3f0701c2f20780984590bd955839a38b75c96668/.github/workflows/push.yml
 if ! git diff --no-ext-diff --quiet --exit-code; then
-    #git switch master
     git add roles/*
     git config --global user.email "action@azured.io"
     git config --global user.name "Github Action"
