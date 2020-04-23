@@ -2,7 +2,7 @@
   "assignableScopes": [
     "/"
   ],
-  "description": "test image signer",
+  "description": "acr image signer",
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/6cef56e8-d556-48e5-a04f-b8e64114680f",
   "name": "6cef56e8-d556-48e5-a04f-b8e64114680f",
   "permissions": [
