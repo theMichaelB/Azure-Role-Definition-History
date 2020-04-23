@@ -1,0 +1,28 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "Experimentation Contributor",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/7f646f1b-fa08-80eb-a22b-edd6ce5c915c",
+  "name": "7f646f1b-fa08-80eb-a22b-edd6ce5c915c",
+  "permissions": [
+    {
+      "actions": [
+        "Microsoft.Resources/subscriptions/resourceGroups/read"
+      ],
+      "dataActions": [
+        "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/read",
+        "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/write",
+        "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/delete",
+        "Microsoft.Experimentation/experimentWorkspaces/read",
+        "Microsoft.Experimentation/experimentWorkspaces/write",
+        "Microsoft.Experimentation/experimentWorkspaces/delete"
+      ],
+      "notActions": [],
+      "notDataActions": []
+    }
+  ],
+  "roleName": "Experimentation Contributor",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}

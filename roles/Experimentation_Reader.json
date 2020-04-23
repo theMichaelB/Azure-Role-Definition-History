@@ -1,0 +1,22 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "Experimentation Reader",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/49632ef5-d9ac-41f4-b8e7-bbe587fa74a1",
+  "name": "49632ef5-d9ac-41f4-b8e7-bbe587fa74a1",
+  "permissions": [
+    {
+      "actions": [],
+      "dataActions": [
+        "Microsoft.Experimentation/experimentWorkspaces/read",
+        "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/read"
+      ],
+      "notActions": [],
+      "notDataActions": []
+    }
+  ],
+  "roleName": "Experimentation Reader",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}

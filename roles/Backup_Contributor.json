@@ -1,0 +1,61 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "Lets you manage backup service,but can't create vaults and give access to others",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/5e467623-bb1f-42f4-a55d-6e525e11384b",
+  "name": "5e467623-bb1f-42f4-a55d-6e525e11384b",
+  "permissions": [
+    {
+      "actions": [
+        "Microsoft.Authorization/*/read",
+        "Microsoft.Network/virtualNetworks/read",
+        "Microsoft.RecoveryServices/locations/*",
+        "Microsoft.RecoveryServices/Vaults/backupFabrics/operationResults/*",
+        "Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/*",
+        "Microsoft.RecoveryServices/Vaults/backupFabrics/refreshContainers/action",
+        "Microsoft.RecoveryServices/Vaults/backupJobs/*",
+        "Microsoft.RecoveryServices/Vaults/backupJobsExport/action",
+        "Microsoft.RecoveryServices/Vaults/backupOperationResults/*",
+        "Microsoft.RecoveryServices/Vaults/backupPolicies/*",
+        "Microsoft.RecoveryServices/Vaults/backupProtectableItems/*",
+        "Microsoft.RecoveryServices/Vaults/backupProtectedItems/*",
+        "Microsoft.RecoveryServices/Vaults/backupProtectionContainers/*",
+        "Microsoft.RecoveryServices/Vaults/backupSecurityPIN/*",
+        "Microsoft.RecoveryServices/Vaults/backupUsageSummaries/read",
+        "Microsoft.RecoveryServices/Vaults/certificates/*",
+        "Microsoft.RecoveryServices/Vaults/extendedInformation/*",
+        "Microsoft.RecoveryServices/Vaults/monitoringAlerts/read",
+        "Microsoft.RecoveryServices/Vaults/monitoringConfigurations/*",
+        "Microsoft.RecoveryServices/Vaults/read",
+        "Microsoft.RecoveryServices/Vaults/registeredIdentities/*",
+        "Microsoft.RecoveryServices/Vaults/usages/*",
+        "Microsoft.Resources/deployments/*",
+        "Microsoft.Resources/subscriptions/resourceGroups/read",
+        "Microsoft.Storage/storageAccounts/read",
+        "Microsoft.RecoveryServices/Vaults/backupstorageconfig/*",
+        "Microsoft.RecoveryServices/Vaults/backupconfig/*",
+        "Microsoft.RecoveryServices/Vaults/backupValidateOperation/action",
+        "Microsoft.RecoveryServices/Vaults/write",
+        "Microsoft.RecoveryServices/Vaults/backupOperations/read",
+        "Microsoft.RecoveryServices/Vaults/backupEngines/read",
+        "Microsoft.RecoveryServices/Vaults/backupFabrics/backupProtectionIntent/*",
+        "Microsoft.RecoveryServices/Vaults/backupFabrics/protectableContainers/read",
+        "Microsoft.RecoveryServices/locations/backupStatus/action",
+        "Microsoft.RecoveryServices/locations/backupPreValidateProtection/action",
+        "Microsoft.RecoveryServices/locations/backupValidateFeatures/action",
+        "Microsoft.RecoveryServices/Vaults/monitoringAlerts/write",
+        "Microsoft.RecoveryServices/operations/read",
+        "Microsoft.RecoveryServices/locations/operationStatus/read",
+        "Microsoft.RecoveryServices/Vaults/backupProtectionIntents/read",
+        "Microsoft.Support/*"
+      ],
+      "dataActions": [],
+      "notActions": [],
+      "notDataActions": []
+    }
+  ],
+  "roleName": "Backup Contributor",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}
