@@ -13,11 +13,11 @@ rm -rf roles/*
 cleanedroles=$(cat cleanedroles.json)
 for row in $(echo "${cleanedroles}" | jq -r '.[] | select(.roleType=="BuiltInRole") | @base64'); do
     _jq() {
-     echo ${row} | base64 --decode | jq -r ${1}
+     echo ${row} | base64 -d | jq -r ${1}
     }
    roleName="$(_jq '.roleName').json"
    roleName=${roleName// /_}
-   echo $row | base64 --decode | jq > "roles/${roleName}"
+   echo $row | base64 -d | jq > "roles/${roleName}"
    
 done
 
