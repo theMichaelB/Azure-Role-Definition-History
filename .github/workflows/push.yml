@@ -23,3 +23,6 @@ jobs:
         inlineScript: |
           chmod +x $GITHUB_WORKSPACE/sampleScript.sh
           $GITHUB_WORKSPACE/parseRoles.sh
+
+
+          
