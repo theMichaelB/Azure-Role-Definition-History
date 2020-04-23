@@ -21,6 +21,8 @@ for row in $(echo "${cleanedroles}" | jq -r '.[] | select(.roleType=="BuiltInRol
    
 done
 
+git config --global user.email "action@azured.io"
+git config --global user.name "Github Action"
 git add roles/*
 commitDate=$(date "+%Y-%B-%d")
 git commit -m $commitDate
