@@ -25,6 +25,7 @@ if ! git diff --no-ext-diff --quiet --exit-code; then
     git add roles/*
     git config --global user.email "action@azured.io"
     git config --global user.name "Github Action"
+    commitDate=$(date "+%Y-%B-%d")
     git commit -m $commitDate
     git remote set-url origin "$(git config --get remote.origin.url | sed 's#http.*com/#git@github.com:#g')"
     eval `ssh-agent -t 60 -s`
