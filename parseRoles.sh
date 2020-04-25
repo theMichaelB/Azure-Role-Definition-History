@@ -28,7 +28,6 @@ if ! git diff --no-ext-diff --quiet --exit-code; then
     
     echo "Staging roles/*"
     git add -a -v -- roles/*
-    git add -u -v -- roles/* 
     git ls-files --deleted -z | xargs -0 git rm 
     echo "Committing changes"
     commitDate=$(date "+%Y-%B-%d")
