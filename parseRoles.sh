@@ -28,7 +28,7 @@ if ! git diff --no-ext-diff --quiet --exit-code; then
     
     git status 
     echo "Staging roles/*"
-    git add -A -v -- roles/*
+    git add -a -v --no-ignore-removal -- roles/*
     git status 
     echo "Committing changes"
     commitDate=$(date "+%Y-%B-%d")
