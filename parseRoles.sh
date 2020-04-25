@@ -26,8 +26,10 @@ if ! git diff --no-ext-diff --quiet --exit-code; then
     git config --global user.email "action@azured.io"
     git config --global user.name "Github Action"
     
+    git status 
     echo "Staging roles/*"
-    git add -A -- roles/*
+    git add -A -v -- roles/*
+    git status 
     echo "Committing changes"
     commitDate=$(date "+%Y-%B-%d")
     git commit -m $commitDate
