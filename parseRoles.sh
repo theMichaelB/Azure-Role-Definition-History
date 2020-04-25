@@ -22,9 +22,13 @@ for row in $(echo "${cleanedroles}" | jq -r '.[] | select(.roleType=="BuiltInRol
 done
 # largely stolen from - https://github.com/eine/actions/blob/3f0701c2f20780984590bd955839a38b75c96668/.github/workflows/push.yml
 if ! git diff --no-ext-diff --quiet --exit-code; then
-    git add --all roles/*
+
     git config --global user.email "action@azured.io"
     git config --global user.name "Github Action"
+    
+    echo "Staging roles/*"
+    git add -A -- roles/*
+    echo "Committing changes"
     commitDate=$(date "+%Y-%B-%d")
     git commit -m $commitDate
     git remote set-url origin "$(git config --get remote.origin.url | sed 's#http.*com/#git@github.com:#g')"
@@ -32,6 +36,7 @@ if ! git diff --no-ext-diff --quiet --exit-code; then
     echo "$GHA_DEPLOY_KEY" | ssh-add -
     mkdir -p ~/.ssh/
     ssh-keyscan github.com >> ~/.ssh/known_hosts
+    echo "Pushing origin"
     git push origin master
     ssh-agent -k
 fi
