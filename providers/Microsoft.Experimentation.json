@@ -1,0 +1,34 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "e00d2f8a-f6c8-46e4-b379-e66082e28ca8",
+      "managedByRoleDefinitionId": "fa096ccd-4e8f-49de-9594-64449b3ac6b3",
+      "roleDefinitionId": "d3a360d9-17f9-410e-9465-5c914c8cf570"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Experimentation",
+  "namespace": "Microsoft.Experimentation",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview"
+      ],
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "locations/operations"
+    }
+  ]
+}

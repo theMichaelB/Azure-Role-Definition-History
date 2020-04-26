@@ -1,0 +1,66 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.PowerBI",
+  "namespace": "Microsoft.PowerBI",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-01-29"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2016-01-29",
+      "locations": [
+        "South Central US",
+        "North Central US",
+        "East US 2",
+        "West US",
+        "West Europe",
+        "North Europe",
+        "Brazil South",
+        "Southeast Asia",
+        "Australia Southeast",
+        "Canada Central",
+        "Japan East",
+        "UK South",
+        "West India"
+      ],
+      "properties": null,
+      "resourceType": "workspaceCollections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-01-29"
+      ],
+      "defaultApiVersion": "2016-01-29",
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-01-29"
+      ],
+      "defaultApiVersion": "2016-01-29",
+      "locations": [
+        "South Central US",
+        "North Central US",
+        "East US 2",
+        "West US",
+        "West Europe",
+        "North Europe",
+        "Brazil South",
+        "Southeast Asia",
+        "Australia Southeast",
+        "Canada Central",
+        "Japan East",
+        "UK South",
+        "West India"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
+    }
+  ]
+}

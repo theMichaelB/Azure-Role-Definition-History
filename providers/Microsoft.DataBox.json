@@ -1,0 +1,189 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "5613cb5c-a7c9-4099-8034-511fd7616cb2",
+      "managedByRoleDefinitionId": "f4c0a4f9-768c-4927-ab83-d319111d6ef4",
+      "roleDefinitionId": "382D72D1-63DC-4243-9B99-CB69FDD473D8"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DataBox",
+  "namespace": "Microsoft.DataBox",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2018-01-01"
+      ],
+      "capabilities": "SystemAssignedResourceIdentity",
+      "locations": [
+        "West US",
+        "West Europe",
+        "Southeast Asia",
+        "East Asia",
+        "South India",
+        "Brazil South",
+        "Australia East",
+        "Canada Central",
+        "Korea Central",
+        "Japan East",
+        "South Africa North"
+      ],
+      "properties": null,
+      "resourceType": "jobs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2018-01-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2018-01-01"
+      ],
+      "locations": [
+        "West US",
+        "West Europe",
+        "Southeast Asia",
+        "East Asia",
+        "South India",
+        "Brazil South",
+        "Australia East",
+        "Canada Central",
+        "Korea Central",
+        "Japan East",
+        "South Africa North"
+      ],
+      "properties": null,
+      "resourceType": "locations/validateAddress"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2018-01-01"
+      ],
+      "locations": [
+        "West US",
+        "West Europe",
+        "Southeast Asia",
+        "East Asia",
+        "South India",
+        "Brazil South",
+        "Australia East",
+        "Canada Central",
+        "Korea Central",
+        "Japan East",
+        "South Africa North"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2018-01-01"
+      ],
+      "locations": [
+        "West US",
+        "West Europe",
+        "Southeast Asia",
+        "East Asia",
+        "South India",
+        "Brazil South",
+        "Australia East",
+        "Canada Central",
+        "Korea Central",
+        "Japan East",
+        "South Africa North"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationresults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2018-01-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2018-01-01"
+      ],
+      "locations": [
+        "West US",
+        "West Europe",
+        "Southeast Asia",
+        "East Asia",
+        "South India",
+        "Brazil South",
+        "Australia East",
+        "Canada Central",
+        "Korea Central",
+        "Japan East",
+        "South Africa North"
+      ],
+      "properties": null,
+      "resourceType": "locations/availableSkus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2018-01-01"
+      ],
+      "locations": [
+        "West US",
+        "West Europe",
+        "Southeast Asia",
+        "East Asia",
+        "South India",
+        "Brazil South",
+        "Australia East",
+        "Canada Central",
+        "Korea Central",
+        "Japan East",
+        "South Africa North"
+      ],
+      "properties": null,
+      "resourceType": "locations/validateInputs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2018-01-01"
+      ],
+      "locations": [
+        "West US",
+        "West Europe",
+        "Southeast Asia",
+        "East Asia",
+        "South India",
+        "Brazil South",
+        "Australia East",
+        "Canada Central",
+        "Korea Central",
+        "Japan East",
+        "South Africa North"
+      ],
+      "properties": null,
+      "resourceType": "locations/regionConfiguration"
+    }
+  ]
+}

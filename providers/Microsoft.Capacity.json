@@ -1,0 +1,326 @@
+{
+  "authorization": {
+    "applicationId": "4d0ad6c7-f6c3-46d8-ab0d-1406d5e6c86b",
+    "roleDefinitionId": "FD9C0A9A-4DB9-4F41-8A61-98385DEB6E2D"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Capacity",
+  "namespace": "Microsoft.Capacity",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01",
+        "2018-06-01",
+        "2017-11-01"
+      ],
+      "locations": [
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "resources"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "reservationOrders"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "reservationOrders/reservations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "reservations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "reservationOrders/reservations/revisions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "catalogs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "appliedReservations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkOffers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkScopes"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "calculatePrice"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "calculateExchange"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "exchange"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "reservationOrders/calculateRefund"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "reservationOrders/return"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "reservationOrders/split"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "reservationOrders/merge"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "reservationOrders/swap"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "validateReservationOrder"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01",
+        "2017-11-01-beta",
+        "2017-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "reservationOrders/availableScopes"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01",
+        "2018-06-01-beta",
+        "2018-06-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "commercialReservationOrders"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-privatepreview",
+        "2019-06-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "calculatePurchasePrice"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-privatepreview",
+        "2019-06-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "placePurchaseOrder"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-privatepreview",
+        "2019-06-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkPurchaseStatus"
+    }
+  ]
+}

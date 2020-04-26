@@ -1,0 +1,43 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "e6c69915-bcc7-4335-b655-c62f949d691b",
+      "roleDefinitionId": "9bccffcd-2d3d-4b7c-a2cb-bb26e77b4810"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.WindowsESU",
+  "namespace": "Microsoft.WindowsESU",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-16-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-16-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01"
+      ],
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "Locations/OperationStatuses"
+    }
+  ]
+}

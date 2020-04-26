@@ -1,0 +1,317 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "d10de03d-5ba3-497a-90e6-7ff8c9736059",
+      "roleDefinitionId": "BC13595A-E262-4621-929E-56FF90E6BF18"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ServiceFabricMesh",
+  "namespace": "Microsoft.ServiceFabricMesh",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview",
+        "2018-07-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "South Central US",
+        "Central US",
+        "France Central",
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "Australia East",
+        "East Asia",
+        "Southeast Asia",
+        "Korea Central",
+        "West India",
+        "Brazil South"
+      ],
+      "properties": null,
+      "resourceType": "applications"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview",
+        "2018-07-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "South Central US",
+        "Central US",
+        "France Central",
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "Australia East",
+        "East Asia",
+        "Southeast Asia",
+        "Korea Central",
+        "West India",
+        "Brazil South"
+      ],
+      "properties": null,
+      "resourceType": "networks"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview",
+        "2018-07-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "South Central US",
+        "Central US",
+        "France Central",
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "Australia East",
+        "East Asia",
+        "Southeast Asia",
+        "Korea Central",
+        "West India",
+        "Brazil South"
+      ],
+      "properties": null,
+      "resourceType": "volumes"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview",
+        "2018-07-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "South Central US",
+        "Central US",
+        "France Central",
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "Australia East",
+        "East Asia",
+        "Southeast Asia",
+        "Korea Central",
+        "West India",
+        "Brazil South"
+      ],
+      "properties": null,
+      "resourceType": "secrets"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview",
+        "2018-07-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "South Central US",
+        "Central US",
+        "France Central",
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "Australia East",
+        "East Asia",
+        "Southeast Asia",
+        "Korea Central",
+        "West India",
+        "Brazil South"
+      ],
+      "properties": null,
+      "resourceType": "gateways"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview",
+        "2018-07-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview",
+        "2018-07-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "South Central US",
+        "Central US",
+        "France Central",
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "Australia East",
+        "East Asia",
+        "Southeast Asia",
+        "Korea Central",
+        "West India",
+        "Brazil South"
+      ],
+      "properties": null,
+      "resourceType": "locations/applicationOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview",
+        "2018-07-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "South Central US",
+        "Central US",
+        "France Central",
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "Australia East",
+        "East Asia",
+        "Southeast Asia",
+        "Korea Central",
+        "West India",
+        "Brazil South"
+      ],
+      "properties": null,
+      "resourceType": "locations/networkOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview",
+        "2018-07-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "South Central US",
+        "Central US",
+        "France Central",
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "Australia East",
+        "East Asia",
+        "Southeast Asia",
+        "Korea Central",
+        "West India",
+        "Brazil South"
+      ],
+      "properties": null,
+      "resourceType": "locations/volumeOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview",
+        "2018-07-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "South Central US",
+        "Central US",
+        "France Central",
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "Australia East",
+        "East Asia",
+        "Southeast Asia",
+        "Korea Central",
+        "West India",
+        "Brazil South"
+      ],
+      "properties": null,
+      "resourceType": "locations/gatewayOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview",
+        "2018-07-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "South Central US",
+        "Central US",
+        "France Central",
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "Australia East",
+        "East Asia",
+        "Southeast Asia",
+        "Korea Central",
+        "West India",
+        "Brazil South"
+      ],
+      "properties": null,
+      "resourceType": "locations/secretOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

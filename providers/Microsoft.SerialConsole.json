@@ -1,0 +1,45 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.SerialConsole",
+  "namespace": "Microsoft.SerialConsole",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "consoleServices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-01"
+      ],
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "locations/consoleServices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

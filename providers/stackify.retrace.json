@@ -1,0 +1,46 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/stackify.retrace",
+  "namespace": "stackify.retrace",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-01-01"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "services"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-01-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-01-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "listCommunicationPreference"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-01-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "updateCommunicationPreference"
+    }
+  ]
+}

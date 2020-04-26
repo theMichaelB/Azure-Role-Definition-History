@@ -1,0 +1,343 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "80369ed6-5f11-4dd9-bef3-692475845e77",
+      "roleDefinitionId": "eb8e1991-5de0-42a6-a64b-29b059341b7b"
+    },
+    {
+      "applicationId": "6201d19e-14fb-4472-a2d6-5634a5c97568"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.EventHub",
+  "namespace": "Microsoft.EventHub",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-01-01-preview",
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2017-04-01",
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "North Central US",
+        "South Central US",
+        "West Central US",
+        "East Asia",
+        "Southeast Asia",
+        "Brazil South",
+        "Japan East",
+        "Japan West",
+        "North Europe",
+        "West Europe",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK West",
+        "UK South",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "namespaces"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-01-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "North Central US",
+        "South Central US",
+        "West Central US",
+        "East Asia",
+        "Southeast Asia",
+        "Brazil South",
+        "Japan East",
+        "Japan West",
+        "North Europe",
+        "West Europe",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK West",
+        "UK South",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "South Africa North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "clusters"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/authorizationrules"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-01-01-preview",
+        "2017-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/networkrulesets"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/eventhubs"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/eventhubs/authorizationrules"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/eventhubs/consumergroups"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2015-08-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNamespaceAvailability"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "sku"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/disasterrecoveryconfigs"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/disasterrecoveryconfigs/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-01-01-preview",
+        "2017-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-01-01-preview",
+        "2017-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations/deleteVirtualNetworkOrSubnets"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-01-01-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "availableClusterRegions"
+    }
+  ]
+}

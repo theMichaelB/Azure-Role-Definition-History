@@ -1,0 +1,352 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "fc75330b-179d-49af-87dd-3b1acf6827fa",
+      "roleDefinitionId": "95fd5de3-d071-4362-92bf-cf341c1de832"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Automation",
+  "namespace": "Microsoft.Automation",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-13-preview",
+        "2018-06-30",
+        "2018-01-15",
+        "2017-05-15-preview",
+        "2015-10-31",
+        "2015-01-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2018-06-30",
+      "locations": [
+        "Japan East",
+        "East US 2",
+        "West Europe",
+        "South Africa North",
+        "Southeast Asia",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Central US",
+        "West US",
+        "Australia Central",
+        "Australia East",
+        "Korea Central",
+        "East US",
+        "West US 2",
+        "Brazil South",
+        "UK South",
+        "West Central US",
+        "North Europe",
+        "Canada Central",
+        "Australia Southeast",
+        "Central India",
+        "France Central"
+      ],
+      "properties": null,
+      "resourceType": "automationAccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-30",
+        "2018-01-15",
+        "2017-05-15-preview",
+        "2015-10-31",
+        "2015-01-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "Japan East",
+        "East US 2",
+        "West Europe",
+        "South Africa North",
+        "Southeast Asia",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "West US",
+        "Central US",
+        "Australia Central",
+        "Australia East",
+        "Korea Central",
+        "East US",
+        "West US 2",
+        "Brazil South",
+        "UK South",
+        "West Central US",
+        "North Europe",
+        "Canada Central",
+        "Australia Southeast",
+        "Central India",
+        "France Central"
+      ],
+      "properties": null,
+      "resourceType": "automationAccounts/runbooks"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-30",
+        "2018-01-15",
+        "2017-05-15-preview",
+        "2015-10-31",
+        "2015-01-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "Japan East",
+        "East US 2",
+        "West Europe",
+        "South Africa North",
+        "West US",
+        "Central US",
+        "Southeast Asia",
+        "South Central US",
+        "North Central US",
+        "Australia Central",
+        "Australia East",
+        "Korea Central",
+        "East US",
+        "West US 2",
+        "Brazil South",
+        "UK South",
+        "West Central US",
+        "Central India",
+        "Australia Southeast",
+        "Canada Central",
+        "North Europe",
+        "East Asia",
+        "France Central"
+      ],
+      "properties": null,
+      "resourceType": "automationAccounts/configurations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-30",
+        "2018-01-15",
+        "2017-05-15-preview",
+        "2015-10-31",
+        "2015-01-01-preview"
+      ],
+      "locations": [
+        "Japan East",
+        "East US 2",
+        "West Europe",
+        "South Africa North",
+        "Southeast Asia",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Central US",
+        "West US",
+        "Australia Central",
+        "Korea Central",
+        "East US",
+        "West US 2",
+        "Brazil South",
+        "UK South",
+        "West Central US",
+        "North Europe",
+        "Canada Central",
+        "Australia Southeast",
+        "Central India",
+        "Australia East",
+        "France Central"
+      ],
+      "properties": null,
+      "resourceType": "automationAccounts/webhooks"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-30",
+        "2018-01-15",
+        "2017-05-15-preview",
+        "2015-10-31",
+        "2015-01-01-preview"
+      ],
+      "locations": [
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-30",
+        "2018-01-15",
+        "2017-05-15-preview"
+      ],
+      "locations": [
+        "Japan East",
+        "East US 2",
+        "West Europe",
+        "South Africa North",
+        "Southeast Asia",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Central US",
+        "West US",
+        "Australia Central",
+        "Australia East",
+        "Korea Central",
+        "East US",
+        "West US 2",
+        "Brazil South",
+        "UK South",
+        "West Central US",
+        "North Europe",
+        "Canada Central",
+        "Australia Southeast",
+        "Central India",
+        "France Central"
+      ],
+      "properties": null,
+      "resourceType": "automationAccounts/softwareUpdateConfigurations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-30",
+        "2018-01-15",
+        "2017-05-15-preview",
+        "2015-10-31",
+        "2015-01-01-preview"
+      ],
+      "locations": [
+        "Japan East",
+        "East US 2",
+        "West Europe",
+        "South Africa North",
+        "Southeast Asia",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Central US",
+        "West US",
+        "Australia Central",
+        "Australia East",
+        "Korea Central",
+        "East US",
+        "West US 2",
+        "Brazil South",
+        "UK South",
+        "West Central US",
+        "North Europe",
+        "Canada Central",
+        "Australia Southeast",
+        "Central India",
+        "France Central"
+      ],
+      "properties": null,
+      "resourceType": "automationAccounts/jobs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-13-preview"
+      ],
+      "locations": [
+        "Japan East",
+        "East US 2",
+        "West Europe",
+        "South Africa North",
+        "Southeast Asia",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Central US",
+        "West US",
+        "Australia Central",
+        "Australia East",
+        "Korea Central",
+        "East US",
+        "West US 2",
+        "Brazil South",
+        "UK South",
+        "West Central US",
+        "North Europe",
+        "Canada Central",
+        "Australia Southeast",
+        "Central India",
+        "France Central"
+      ],
+      "properties": null,
+      "resourceType": "automationAccounts/privateLinkResources"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-13-preview"
+      ],
+      "locations": [
+        "Japan East",
+        "East US 2",
+        "West Europe",
+        "South Africa North",
+        "Southeast Asia",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Central US",
+        "West US",
+        "Australia Central",
+        "Australia East",
+        "Korea Central",
+        "East US",
+        "West US 2",
+        "Brazil South",
+        "UK South",
+        "West Central US",
+        "North Europe",
+        "Canada Central",
+        "Australia Southeast",
+        "Central India",
+        "France Central"
+      ],
+      "properties": null,
+      "resourceType": "automationAccounts/privateEndpointConnections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-13-preview"
+      ],
+      "locations": [
+        "Japan East",
+        "East US 2",
+        "West Europe",
+        "South Africa North",
+        "Southeast Asia",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Central US",
+        "West US",
+        "Australia Central",
+        "Australia East",
+        "Korea Central",
+        "East US",
+        "West US 2",
+        "Brazil South",
+        "UK South",
+        "West Central US",
+        "North Europe",
+        "Canada Central",
+        "Australia Southeast",
+        "Central India",
+        "France Central"
+      ],
+      "properties": null,
+      "resourceType": "automationAccounts/privateEndpointConnectionProxies"
+    }
+  ]
+}

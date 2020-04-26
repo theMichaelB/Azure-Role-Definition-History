@@ -1,0 +1,112 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "3af5a1e8-2459-45cb-8683-bcd6cccbcc13",
+      "roleDefinitionId": "b1309299-720d-4159-9897-6158a61aee41"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AlertsManagement",
+  "namespace": "Microsoft.AlertsManagement",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-05-05-preview",
+        "2019-03-01-preview",
+        "2019-03-01",
+        "2018-11-02-privatepreview",
+        "2018-05-05-preview",
+        "2018-05-05",
+        "2017-11-15-privatepreview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "alerts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-05-05-preview",
+        "2019-03-01-preview",
+        "2019-03-01",
+        "2018-05-05-preview",
+        "2018-05-05",
+        "2017-11-15-privatepreview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "alertsSummary"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-05-05-preview",
+        "2018-05-05-preview",
+        "2018-05-05",
+        "2017-11-15-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "smartGroups"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01",
+        "2019-03-01",
+        "2018-02-01-privatepreview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "smartDetectorAlertRules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-05-05-preview",
+        "2018-11-02-privatepreview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "actionRules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-02-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "alertsList"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-02-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "alertsSummaryList"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-05-preview",
+        "2018-05-05",
+        "2017-11-15-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

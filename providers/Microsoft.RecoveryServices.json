@@ -1,0 +1,836 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "262044b1-e2ce-469f-a196-69ab7ada62d3",
+      "roleDefinitionId": "21CEC436-F7D0-4ADE-8AD8-FEC5668484CC"
+    },
+    {
+      "applicationId": "b8340c3b-9267-498f-b21a-15d5547fd85e",
+      "roleDefinitionId": "8A00C8EA-8F1B-45A7-8F64-F4CC61EEE9B6"
+    },
+    {
+      "applicationId": "3b2fa68d-a091-48c9-95be-88d572e08fb7",
+      "roleDefinitionId": "47d68fae-99c7-4c10-b9db-2316116a061e"
+    },
+    {
+      "applicationId": "9bdab391-7bbe-42e8-8132-e4491dc29cc0",
+      "roleDefinitionId": "0383f7f5-023d-4379-b2c7-9ef786459969"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.RecoveryServices",
+  "namespace": "Microsoft.RecoveryServices",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-01-10",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2020-02-02-preview",
+        "2020-02-02",
+        "2019-06-15",
+        "2019-05-13-preview",
+        "2019-05-13",
+        "2018-12-20-preview",
+        "2018-07-10-preview",
+        "2018-07-10",
+        "2018-01-10",
+        "2017-07-01-preview",
+        "2017-07-01",
+        "2016-12-01",
+        "2016-08-10",
+        "2016-06-01",
+        "2016-05-01",
+        "2015-12-15",
+        "2015-12-10",
+        "2015-11-10",
+        "2015-08-15",
+        "2015-08-10",
+        "2015-06-10",
+        "2015-03-15"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West Central US",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "vaults"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-08-10",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2020-02-02-preview",
+        "2020-02-02",
+        "2019-06-15",
+        "2019-05-13-preview",
+        "2019-05-13",
+        "2018-07-10-preview",
+        "2018-07-10",
+        "2018-01-10",
+        "2017-09-01",
+        "2017-07-01-preview",
+        "2017-07-01",
+        "2016-12-01",
+        "2016-08-10",
+        "2016-06-01",
+        "2015-12-15",
+        "2015-12-10",
+        "2015-11-10",
+        "2015-08-15",
+        "2015-08-10",
+        "2015-06-10",
+        "2015-03-15"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-07-01",
+        "2016-06-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-07-01",
+        "2016-06-01"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/backupStatus"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-01-10",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-01-10"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2016-06-01"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/allocatedStamp"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2016-06-01"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/allocateStamp"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-07-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-07-01"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/backupValidateFeatures"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-07-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-07-01"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/backupPreValidateProtection"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-12-20-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-12-20-preview"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/backupCrrJobs"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-12-20-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-12-20-preview"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/backupCrrJob"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-12-20-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-12-20-preview"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/backupAadProperties"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-12-20-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-12-20-preview"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/backupCrossRegionRestore"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-12-20-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-12-20-preview"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/backupCrrOperationResults"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-12-20-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-12-20-preview"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/backupCrrOperationsStatus"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-07-01-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-07-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "backupProtectedItems"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-07-10",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-07-10"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "North Central US",
+        "South Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US 2",
+        "Central India",
+        "South India",
+        "West India",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "replicationEligibilityResults"
+    }
+  ]
+}

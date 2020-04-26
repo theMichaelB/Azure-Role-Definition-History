@@ -1,0 +1,72 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AzureActiveDirectory",
+  "namespace": "Microsoft.AzureActiveDirectory",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-privatepreview",
+        "2017-01-30",
+        "2016-12-13-preview",
+        "2016-02-10-privatepreview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2017-01-30",
+      "locations": [
+        "Global",
+        "United States",
+        "Europe",
+        "Asia Pacific"
+      ],
+      "properties": null,
+      "resourceType": "b2cDirectories"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-privatepreview"
+      ],
+      "locations": [
+        "Global",
+        "United States",
+        "Europe",
+        "Asia Pacific"
+      ],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-privatepreview",
+        "2017-01-30",
+        "2016-12-13-preview",
+        "2016-02-10-privatepreview"
+      ],
+      "defaultApiVersion": "2017-01-30",
+      "locations": [
+        "Global",
+        "United States",
+        "Europe",
+        "Asia Pacific"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-02-10-privatepreview"
+      ],
+      "locations": [
+        "Global",
+        "United States",
+        "Europe",
+        "Asia Pacific"
+      ],
+      "properties": null,
+      "resourceType": "b2ctenants"
+    }
+  ]
+}

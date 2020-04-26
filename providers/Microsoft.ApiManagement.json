@@ -1,0 +1,157 @@
+{
+  "authorization": {
+    "applicationId": "8602e328-9b72-4f2d-a4ae-1387d013a2b3",
+    "roleDefinitionId": "e263b525-2e60-4418-b655-420bae0b172e"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ApiManagement",
+  "namespace": "Microsoft.ApiManagement",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-12-01-preview",
+        "2019-12-01",
+        "2019-01-01",
+        "2018-06-01-preview",
+        "2018-01-01",
+        "2017-03-01",
+        "2016-10-10",
+        "2016-07-07",
+        "2015-09-15",
+        "2014-02-14"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2019-01-01",
+      "locations": [
+        "Canada East",
+        "Central India",
+        "UAE North",
+        "Australia Central",
+        "Germany West Central",
+        "West Central US",
+        "Norway East",
+        "Switzerland North",
+        "Korea South",
+        "West India",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Brazil South",
+        "East Asia",
+        "South India",
+        "Canada Central",
+        "Australia Southeast",
+        "Japan East",
+        "North Central US",
+        "Southeast Asia",
+        "West US 2",
+        "Central US",
+        "UK South",
+        "Australia East",
+        "Japan West",
+        "West US",
+        "France Central",
+        "South Central US",
+        "East US 2",
+        "East US",
+        "North Europe",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "service"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-09-15",
+        "2014-02-14"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "validateServiceName"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-09-15",
+        "2014-02-14"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkServiceNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-12-01-preview",
+        "2019-12-01",
+        "2019-01-01",
+        "2018-06-01-preview",
+        "2018-01-01",
+        "2017-03-01",
+        "2016-10-10",
+        "2016-07-07",
+        "2015-09-15",
+        "2014-02-14"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-12-01-preview",
+        "2019-12-01",
+        "2019-01-01",
+        "2018-06-01-preview",
+        "2018-01-01",
+        "2017-03-01",
+        "2016-10-10",
+        "2016-07-07",
+        "2015-09-15",
+        "2014-02-14"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "reportFeedback"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-12-01-preview",
+        "2019-12-01",
+        "2019-01-01",
+        "2018-06-01-preview",
+        "2018-01-01",
+        "2017-03-01",
+        "2016-10-10",
+        "2016-07-07",
+        "2015-09-15",
+        "2014-02-14"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkFeedbackRequired"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-12-01-preview",
+        "2019-12-01",
+        "2019-01-01",
+        "2018-06-01-preview",
+        "2018-01-01",
+        "2017-03-01",
+        "2016-10-10",
+        "2016-07-07",
+        "2015-09-15",
+        "2014-02-14"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

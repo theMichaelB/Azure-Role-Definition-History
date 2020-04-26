@@ -1,0 +1,25 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DataProtection",
+  "namespace": "Microsoft.DataProtection",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-alpha"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-alpha"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    }
+  ]
+}

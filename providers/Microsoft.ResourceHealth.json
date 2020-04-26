@@ -1,0 +1,113 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "8bdebf23-c0fe-4187-a378-717ad86f6a53",
+      "roleDefinitionId": "cc026344-c8b1-4561-83ba-59eba84b27cc"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ResourceHealth",
+  "namespace": "Microsoft.ResourceHealth",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-01-rc",
+        "2018-08-01-preview",
+        "2018-07-01-rc",
+        "2018-07-01-preview",
+        "2017-07-01",
+        "2015-01-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "availabilityStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-06-beta",
+        "2018-08-01-rc",
+        "2018-08-01-preview",
+        "2018-07-01-rc",
+        "2018-07-01-preview",
+        "2018-07-01-beta",
+        "2017-07-01-rc",
+        "2017-07-01-preview",
+        "2017-07-01-beta",
+        "2015-01-01-rc",
+        "2015-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "childAvailabilityStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-06-beta",
+        "2018-08-01-rc",
+        "2018-08-01-preview",
+        "2018-07-01-rc",
+        "2018-07-01-preview",
+        "2018-07-01-beta",
+        "2017-07-01-rc",
+        "2017-07-01-preview",
+        "2017-07-01-beta",
+        "2015-01-01-rc",
+        "2015-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "childResources"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-07-01-rc",
+        "2018-07-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "events"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-07-01-rc",
+        "2018-07-01-preview",
+        "2018-07-01-beta",
+        "2018-07-01-alpha"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "metadata"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-01-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-09-01",
+        "2016-06-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "notifications"
+    }
+  ]
+}

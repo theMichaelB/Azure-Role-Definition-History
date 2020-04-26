@@ -1,0 +1,19 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ObjectStore",
+  "namespace": "Microsoft.ObjectStore",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "osNamespaces"
+    }
+  ]
+}

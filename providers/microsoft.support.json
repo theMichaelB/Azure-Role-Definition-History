@@ -1,0 +1,184 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "959678cf-d004-4c22-82a6-d2ce549a58b8",
+      "roleDefinitionId": "81a3dd11-5123-4ec3-9485-772b0a27d1bd"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/microsoft.support",
+  "namespace": "microsoft.support",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-01",
+        "2019-05-01-preview",
+        "2015-07-01-Preview",
+        "2015-03-01"
+      ],
+      "locations": [
+        "North Central US",
+        "South Central US",
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "West US",
+        "East US",
+        "East US 2",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Southeast Asia",
+        "East Asia",
+        "Australia East",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-01",
+        "2019-05-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-01",
+        "2019-05-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "South Central US",
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "West US",
+        "East US",
+        "East US 2",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Southeast Asia",
+        "East Asia",
+        "Australia East",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "services"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-01",
+        "2019-05-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "South Central US",
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "West US",
+        "East US",
+        "East US 2",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Southeast Asia",
+        "East Asia",
+        "Australia East",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "services/problemclassifications"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-01",
+        "2019-05-01-preview",
+        "2015-07-01-Preview",
+        "2015-03-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "North Central US",
+        "South Central US",
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "West US",
+        "East US",
+        "East US 2",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Southeast Asia",
+        "East Asia",
+        "Australia East",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "supporttickets"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-01",
+        "2019-05-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "South Central US",
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "West US",
+        "East US",
+        "East US 2",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Southeast Asia",
+        "East Asia",
+        "Australia East",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "operationresults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-01",
+        "2019-05-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "South Central US",
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "West US",
+        "East US",
+        "East US 2",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Southeast Asia",
+        "East Asia",
+        "Australia East",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "operationsstatus"
+    }
+  ]
+}

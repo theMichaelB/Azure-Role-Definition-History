@@ -1,0 +1,119 @@
+{
+  "authorization": {
+    "applicationId": "408992c7-2af6-4ff1-92e3-65b73d2b5092",
+    "roleDefinitionId": "20FA3191-87CF-4C3D-9510-74CCB594A310"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Search",
+  "namespace": "Microsoft.Search",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-13",
+        "2019-10-01-Preview",
+        "2015-08-19",
+        "2015-02-28",
+        "2014-07-31-Preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "West US",
+        "West US 2",
+        "East US",
+        "East US 2",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "East Asia",
+        "North Central US",
+        "South Central US",
+        "Central US",
+        "Japan West",
+        "Japan East",
+        "Korea Central",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Central India",
+        "West Central US",
+        "Canada Central",
+        "UK South",
+        "France Central",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "searchServices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-02-28",
+        "2014-07-31-Preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkServiceNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-13",
+        "2019-10-01-Preview",
+        "2015-08-19"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-13",
+        "2019-10-01-Preview",
+        "2015-08-19"
+      ],
+      "locations": [
+        "West US",
+        "West US 2",
+        "East US",
+        "East US 2",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "East Asia",
+        "North Central US",
+        "South Central US",
+        "Central US",
+        "Japan West",
+        "Japan East",
+        "Korea Central",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Central India",
+        "West Central US",
+        "Canada Central",
+        "UK South",
+        "France Central",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "resourceHealthMetadata"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-13",
+        "2019-10-01-Preview",
+        "2015-08-19",
+        "2015-02-28"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

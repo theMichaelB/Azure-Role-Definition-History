@@ -1,0 +1,54 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/LiveArena.Broadcast",
+  "namespace": "LiveArena.Broadcast",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-06-15"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "West US",
+        "North Europe",
+        "Japan West",
+        "Japan East",
+        "East Asia",
+        "West Europe",
+        "East US",
+        "Southeast Asia",
+        "Central US"
+      ],
+      "properties": null,
+      "resourceType": "services"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-06-15"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-06-15"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "listCommunicationPreference"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-06-15"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "updateCommunicationPreference"
+    }
+  ]
+}

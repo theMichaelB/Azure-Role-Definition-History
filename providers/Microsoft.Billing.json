@@ -1,0 +1,877 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "80dbdb39-4f33-4799-8b6f-711b5e3e61b6",
+      "roleDefinitionId": "acdc79db-513f-461d-a542-61908d543bdc"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Billing",
+  "namespace": "Microsoft.Billing",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-preview",
+        "2017-04-24-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingPeriods"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview",
+        "2018-03-01-preview",
+        "2017-04-24-preview",
+        "2017-02-27-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "invoices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "enrollmentAccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingRoleDefinitions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingRoleAssignments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "createBillingRoleAssignment"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/createBillingRoleAssignment"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/createBillingRoleAssignment"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoiceSections/createBillingRoleAssignment"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingPermissions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingRoleDefinitions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingRoleAssignments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingPermissions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview",
+        "2018-06-30",
+        "2018-05-31"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/billingRoleDefinitions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/billingRoleAssignments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/billingPermissions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/customers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/customers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/instructions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/customers/billingSubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/customers/products"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/customers/transactions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoiceSections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoiceSections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoiceSections/billingRoleDefinitions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoiceSections/billingRoleAssignments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoiceSections/billingPermissions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/customers/billingPermissions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoiceSections/elevate"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/createInvoiceSectionOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/patchOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoiceSections/patchOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoiceSections/productMoveOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoiceSections/billingSubscriptionMoveOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/BillingProfiles/patchOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-30",
+        "2018-05-31"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "departments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-06-30"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/departments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-06-30"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/enrollmentAccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/paymentMethods"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/availableBalance"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/transactions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/transactions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoiceSections/transactions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoiceSections/transactions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoices/transactions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingSubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingSubscriptions/invoices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/billingSubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoiceSections/billingSubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoiceSections/billingSubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operationStatus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoiceSections/products"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoiceSections/products"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoiceSections/products/updateAutoRenew"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoiceSections/products/updateAutoRenew"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/products"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/products"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview",
+        "2018-06-30",
+        "2018-03-01-preview",
+        "2017-04-24-preview",
+        "2017-02-27-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoiceSections/initiateTransfer"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoiceSections/initiateTransfer"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoiceSections/transfers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoiceSections/transfers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "transfers/acceptTransfer"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "transfers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "transfers/declineTransfer"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "transfers/validateTransfer"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/customers/initiateTransfer"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/customers/transfers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingProperty"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/policies"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/customers/policies"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoices/pricesheet"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/pricesheet"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/pricesheetDownloadOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoiceSections/billingSubscriptions/transfer"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoiceSections/products/transfer"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoiceSections/products/transfer"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoiceSections/productTransfersResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "transfers/operationStatus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/agreements"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/lineOfCredit"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/paymentMethods"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "validateAddress"
+    }
+  ]
+}

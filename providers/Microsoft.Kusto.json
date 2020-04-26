@@ -1,0 +1,609 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "2746ea77-4702-4b45-80ca-3c97e680e8b7",
+      "roleDefinitionId": "dd9d4347-f397-45f2-b538-85f21c90037c"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Kusto",
+  "namespace": "Microsoft.Kusto",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-15",
+        "2019-11-09",
+        "2019-09-07",
+        "2019-05-15",
+        "2019-01-21",
+        "2018-09-07-preview",
+        "2017-09-07-privatepreview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2019-05-15",
+      "locations": [
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "East US 2",
+        "West Central US",
+        "Germany West Central",
+        "West US",
+        "Southeast Asia",
+        "East US",
+        "West US 2",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Japan East",
+        "Canada Central",
+        "UK South",
+        "Australia East",
+        "Brazil South",
+        "Japan West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Korea Central",
+        "France Central",
+        "UK West",
+        "Korea South",
+        "France South",
+        "Australia Southeast",
+        "South Africa North",
+        "South Africa West",
+        "Australia Central",
+        "Switzerland North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "clusters",
+      "zoneMappings": [
+        {
+          "location": "East US 2",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "Central US",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "West Europe",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "France Central",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "Southeast Asia",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "West US 2",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "North Europe",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "East US",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "UK South",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "Japan East",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "Australia East",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "South Africa North",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "South Central US",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "Canada Central",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        }
+      ]
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-15",
+        "2019-11-09",
+        "2019-09-07",
+        "2019-05-15",
+        "2019-01-21",
+        "2018-09-07-preview",
+        "2017-09-07-privatepreview"
+      ],
+      "defaultApiVersion": "2019-05-15",
+      "locations": [
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "East US 2",
+        "West Central US",
+        "Germany West Central",
+        "West US",
+        "Southeast Asia",
+        "East US",
+        "West US 2",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Japan East",
+        "Canada Central",
+        "UK South",
+        "Australia East",
+        "Brazil South",
+        "Japan West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Korea Central",
+        "France Central",
+        "UK West",
+        "Korea South",
+        "France South",
+        "Australia Southeast",
+        "South Africa North",
+        "South Africa West",
+        "Australia Central",
+        "Switzerland North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "clusters/databases"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-15",
+        "2019-11-09",
+        "2019-09-07",
+        "2019-05-15",
+        "2019-01-21",
+        "2018-09-07-preview",
+        "2017-09-07-privatepreview"
+      ],
+      "defaultApiVersion": "2019-05-15",
+      "locations": [
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "East US 2",
+        "West Central US",
+        "Germany West Central",
+        "West US",
+        "Southeast Asia",
+        "East US",
+        "West US 2",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Japan East",
+        "Canada Central",
+        "UK South",
+        "Australia East",
+        "Brazil South",
+        "Japan West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Korea Central",
+        "France Central",
+        "UK West",
+        "Korea South",
+        "France South",
+        "Australia Southeast",
+        "South Africa North",
+        "South Africa West",
+        "Australia Central",
+        "Switzerland North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "clusters/attacheddatabaseconfigurations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-15",
+        "2019-11-09"
+      ],
+      "defaultApiVersion": "2019-11-09",
+      "locations": [
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "East US 2",
+        "West Central US",
+        "Germany West Central",
+        "West US",
+        "Southeast Asia",
+        "East US",
+        "West US 2",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Japan East",
+        "Canada Central",
+        "UK South",
+        "Australia East",
+        "Brazil South",
+        "Japan West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Korea Central",
+        "France Central",
+        "UK West",
+        "Korea South",
+        "France South",
+        "Australia Southeast",
+        "South Africa North",
+        "South Africa West",
+        "Australia Central",
+        "Switzerland North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "clusters/principalassignments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-15",
+        "2019-11-09",
+        "2019-09-07",
+        "2019-05-15",
+        "2019-01-21",
+        "2018-09-07-preview",
+        "2017-09-07-privatepreview"
+      ],
+      "defaultApiVersion": "2019-05-15",
+      "locations": [
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "East US 2",
+        "West Central US",
+        "Germany West Central",
+        "West US",
+        "Southeast Asia",
+        "East US",
+        "West US 2",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Japan East",
+        "Canada Central",
+        "UK South",
+        "Australia East",
+        "Brazil South",
+        "Japan West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Korea Central",
+        "France Central",
+        "UK West",
+        "Korea South",
+        "France South",
+        "Australia Southeast",
+        "South Africa North",
+        "South Africa West",
+        "Australia Central",
+        "Switzerland North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "clusters/databases/eventhubconnections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-15",
+        "2019-11-09",
+        "2019-09-07",
+        "2019-05-15",
+        "2019-01-21",
+        "2018-09-07-preview",
+        "2017-09-07-privatepreview"
+      ],
+      "defaultApiVersion": "2019-05-15",
+      "locations": [
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "East US 2",
+        "West Central US",
+        "Germany West Central",
+        "West US",
+        "Southeast Asia",
+        "East US",
+        "West US 2",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Japan East",
+        "Canada Central",
+        "UK South",
+        "Australia East",
+        "Brazil South",
+        "Japan West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Korea Central",
+        "France Central",
+        "UK West",
+        "Korea South",
+        "France South",
+        "Australia Southeast",
+        "South Africa North",
+        "South Africa West",
+        "Australia Central",
+        "Switzerland North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "clusters/databases/dataconnections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-15",
+        "2019-11-09"
+      ],
+      "defaultApiVersion": "2019-11-09",
+      "locations": [
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "East US 2",
+        "West Central US",
+        "Germany West Central",
+        "West US",
+        "Southeast Asia",
+        "East US",
+        "West US 2",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Japan East",
+        "Canada Central",
+        "UK South",
+        "Australia East",
+        "Brazil South",
+        "Japan West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Korea Central",
+        "France Central",
+        "UK West",
+        "Korea South",
+        "France South",
+        "Australia Southeast",
+        "South Africa North",
+        "South Africa West",
+        "Australia Central",
+        "Switzerland North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "clusters/databases/principalassignments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-15",
+        "2019-11-09",
+        "2019-09-07",
+        "2019-05-15",
+        "2019-01-21",
+        "2018-09-07-preview",
+        "2017-09-07-privatepreview"
+      ],
+      "defaultApiVersion": "2019-05-15",
+      "locations": [
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "East US 2",
+        "West Central US",
+        "Germany West Central",
+        "West US",
+        "Southeast Asia",
+        "East US",
+        "West US 2",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Japan East",
+        "Canada Central",
+        "UK South",
+        "Australia East",
+        "Brazil South",
+        "Japan West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Korea Central",
+        "France Central",
+        "UK West",
+        "Korea South",
+        "France South",
+        "Australia Southeast",
+        "South Africa North",
+        "South Africa West",
+        "Australia Central",
+        "Switzerland North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-15",
+        "2019-11-09",
+        "2019-09-07",
+        "2019-05-15",
+        "2019-01-21",
+        "2018-09-07-preview",
+        "2017-09-07-privatepreview"
+      ],
+      "defaultApiVersion": "2019-05-15",
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-15",
+        "2019-11-09",
+        "2019-09-07",
+        "2019-05-15",
+        "2019-01-21",
+        "2018-09-07-preview",
+        "2017-09-07-privatepreview"
+      ],
+      "defaultApiVersion": "2019-05-15",
+      "locations": [
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "East US 2",
+        "West Central US",
+        "Germany West Central",
+        "West US",
+        "Southeast Asia",
+        "East US",
+        "West US 2",
+        "South Central US",
+        "North Central US",
+        "East Asia",
+        "Japan East",
+        "Canada Central",
+        "UK South",
+        "Australia East",
+        "Brazil South",
+        "Japan West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Korea Central",
+        "France Central",
+        "UK West",
+        "Korea South",
+        "France South",
+        "Australia Southeast",
+        "South Africa North",
+        "South Africa West",
+        "Australia Central",
+        "Switzerland North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-15",
+        "2019-11-09",
+        "2019-09-07",
+        "2019-05-15",
+        "2019-01-21",
+        "2018-09-07-preview",
+        "2017-09-07-privatepreview"
+      ],
+      "defaultApiVersion": "2019-05-15",
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

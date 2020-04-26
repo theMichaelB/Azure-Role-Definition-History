@@ -1,0 +1,57 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Mailjet.Email",
+  "namespace": "Mailjet.Email",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-10-01",
+        "2017-02-03"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "West US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "services"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-07-01",
+        "2017-10-01",
+        "2017-05-29",
+        "2017-02-03",
+        "2016-11-01",
+        "2016-07-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-10-01",
+        "2017-02-03",
+        "2016-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "listCommunicationPreference"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-10-01",
+        "2017-02-03",
+        "2016-11-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "updateCommunicationPreference"
+    }
+  ]
+}

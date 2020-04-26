@@ -1,0 +1,47 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "64b12d6e-6549-484c-8cc6-6281839ba394",
+      "roleDefinitionId": "1d1d44cf-68a1-4def-a2b6-cd7efc3515af"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Kubernetes",
+  "namespace": "Microsoft.Kubernetes",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview"
+      ],
+      "locations": [
+        "East US 2 EUAP",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2019-09-01-privatepreview"
+      ],
+      "locations": [
+        "West US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

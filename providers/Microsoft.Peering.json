@@ -1,0 +1,143 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Peering",
+  "namespace": "Microsoft.Peering",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview",
+        "2019-09-01-preview",
+        "2019-08-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2020-01-01-preview",
+      "locations": [
+        "Japan East",
+        "Japan West",
+        "Korea Central",
+        "East Asia",
+        "Australia Central",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Southeast Asia",
+        "West India",
+        "South India",
+        "East US",
+        "East US 2",
+        "North Central US",
+        "South Central US",
+        "Canada Central",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "Canada East",
+        "West Europe",
+        "UK South",
+        "UK West",
+        "North Europe",
+        "France Central",
+        "France South",
+        "South Africa North",
+        "South Africa West"
+      ],
+      "properties": null,
+      "resourceType": "peerings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview",
+        "2019-09-01-preview",
+        "2019-08-01-preview"
+      ],
+      "defaultApiVersion": "2020-01-01-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "peeringLocations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview",
+        "2019-09-01-preview",
+        "2019-08-01-preview"
+      ],
+      "defaultApiVersion": "2020-01-01-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "legacyPeerings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview",
+        "2019-09-01-preview",
+        "2019-08-01-preview"
+      ],
+      "defaultApiVersion": "2020-01-01-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "peerAsns"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview"
+      ],
+      "defaultApiVersion": "2020-01-01-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "peeringServiceCountries"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview",
+        "2019-09-01-preview",
+        "2019-08-01-preview"
+      ],
+      "defaultApiVersion": "2020-01-01-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "peeringServiceLocations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview",
+        "2019-09-01-preview",
+        "2019-08-01-preview"
+      ],
+      "defaultApiVersion": "2020-01-01-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "peeringServiceProviders"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview",
+        "2019-09-01-preview",
+        "2019-08-01-preview"
+      ],
+      "defaultApiVersion": "2020-01-01-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkServiceProviderAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview",
+        "2019-09-01-preview",
+        "2019-08-01-preview"
+      ],
+      "defaultApiVersion": "2020-01-01-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

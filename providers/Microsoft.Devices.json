@@ -1,0 +1,274 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "0cd79364-7a90-4354-9984-6e36c841418d",
+      "roleDefinitionId": "C121DF10-FE58-4BC4-97F9-8296879F7BBB"
+    },
+    {
+      "applicationId": "29f411f1-b2cf-4043-8ac8-2185d7316811"
+    },
+    {
+      "applicationId": "89d10474-74af-4874-99a7-c23c2f643083",
+      "roleDefinitionId": "7df22794-26e3-4f94-9d50-a4f0f6e1cb41"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Devices",
+  "namespace": "Microsoft.Devices",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2020-03-01",
+        "2019-11-04",
+        "2019-07-01-preview",
+        "2019-03-22-preview",
+        "2019-03-22",
+        "2018-12-01-preview",
+        "2018-04-01",
+        "2018-01-22",
+        "2017-07-01",
+        "2017-01-19",
+        "2016-02-03",
+        "2015-08-15-preview"
+      ],
+      "defaultApiVersion": "2018-04-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-01-22",
+        "2017-11-15",
+        "2017-08-21-preview"
+      ],
+      "defaultApiVersion": "2018-01-22",
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkProvisioningServiceNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2020-03-01",
+        "2019-11-04",
+        "2019-07-01-preview",
+        "2019-03-22-preview",
+        "2019-03-22",
+        "2018-12-01-preview",
+        "2018-04-01",
+        "2018-01-22",
+        "2017-07-01",
+        "2017-01-19",
+        "2016-02-03",
+        "2015-08-15-preview"
+      ],
+      "defaultApiVersion": "2018-04-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "usages"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2020-03-01",
+        "2019-11-04",
+        "2019-07-01-preview",
+        "2019-03-22-preview",
+        "2019-03-22",
+        "2018-12-01-preview",
+        "2018-04-01",
+        "2018-01-22",
+        "2017-07-01",
+        "2017-01-19",
+        "2016-02-03",
+        "2015-08-15-preview"
+      ],
+      "defaultApiVersion": "2018-04-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2020-03-01",
+        "2020-01-01",
+        "2019-11-04",
+        "2019-09-01",
+        "2019-07-01-preview",
+        "2019-03-22-preview",
+        "2019-03-22",
+        "2018-12-01-preview",
+        "2018-04-01-preview",
+        "2018-04-01",
+        "2018-01-22-preview",
+        "2018-01-22",
+        "2017-11-15",
+        "2017-09-25-preview",
+        "2017-08-21-preview",
+        "2017-07-01",
+        "2017-01-19",
+        "2016-02-03",
+        "2015-08-15-preview"
+      ],
+      "defaultApiVersion": "2018-04-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "operationResults"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2020-03-01",
+        "2020-01-01",
+        "2019-11-04",
+        "2019-07-01-preview",
+        "2019-03-22-preview",
+        "2019-03-22",
+        "2018-12-01-preview",
+        "2018-04-01-preview",
+        "2018-04-01",
+        "2018-01-22",
+        "2017-07-01",
+        "2017-01-19",
+        "2016-02-03",
+        "2015-08-15-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2020-01-01",
+      "locations": [
+        "West US",
+        "North Europe",
+        "East Asia",
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "West US 2",
+        "West Central US",
+        "East US 2",
+        "Central US",
+        "UK South",
+        "UK West",
+        "South India",
+        "Central India",
+        "Canada Central",
+        "Canada East",
+        "Brazil South",
+        "South Central US",
+        "Korea South",
+        "Korea Central",
+        "France Central",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "IotHubs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-07-31",
+        "2018-01-15-preview"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "West US 2",
+        "West Central US",
+        "East US 2",
+        "Central US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "UK South",
+        "UK West",
+        "South India",
+        "Central India",
+        "Canada Central",
+        "Canada East",
+        "Brazil South",
+        "South Central US",
+        "Korea South",
+        "Korea Central",
+        "France Central",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "IotHubs/eventGridFilters"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2018-01-22",
+        "2017-11-15",
+        "2017-08-21-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2020-01-01",
+      "locations": [
+        "East US",
+        "West US",
+        "West Europe",
+        "North Europe",
+        "Southeast Asia",
+        "East Asia",
+        "Australia East",
+        "Australia Southeast",
+        "Japan West",
+        "Japan East",
+        "UK West",
+        "UK South",
+        "East US 2",
+        "Central US",
+        "West US 2",
+        "West Central US",
+        "North Central US",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "ProvisioningServices"
+    }
+  ]
+}

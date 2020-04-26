@@ -1,0 +1,90 @@
+{
+  "authorization": {
+    "applicationId": "9fcb3732-5f52-4135-8c08-9d4bbaf203ea",
+    "managedByRoleDefinitionId": "90B8E153-EBFF-4073-A95F-4DAD56B14C78",
+    "roleDefinitionId": "703B89C7-CE2C-431B-BDD8-FA34E39AF696"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.BatchAI",
+  "namespace": "Microsoft.BatchAI",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-01"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/clusters"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/fileservers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/experiments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/experiments/jobs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-01",
+        "2018-03-01",
+        "2017-09-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West US 2",
+        "West Europe",
+        "East US 2",
+        "North Europe",
+        "Australia East",
+        "West Central US",
+        "Southeast Asia",
+        "South Central US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

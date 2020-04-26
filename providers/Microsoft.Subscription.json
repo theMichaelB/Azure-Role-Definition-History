@@ -1,0 +1,121 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "e3335adb-5ca0-40dc-b8d3-bedc094e523b"
+    },
+    {
+      "applicationId": "5da7367f-09c8-493e-8fd4-638089cddec3"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Subscription",
+  "namespace": "Microsoft.Subscription",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-11-01-preview"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "SubscriptionDefinitions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview",
+        "2018-03-01-preview",
+        "2017-11-01-preview"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "SubscriptionOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2018-11-01-preview",
+        "2018-03-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "Central US"
+      ],
+      "properties": null,
+      "resourceType": "CreateSubscription"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-11-01-preview"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2019-03-01-preview"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "cancel"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2019-03-01-preview"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "rename"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview",
+        "2019-03-01-preview"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "enable"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "subscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [
+        "Central US"
+      ],
+      "properties": null,
+      "resourceType": "operationResults"
+    }
+  ]
+}

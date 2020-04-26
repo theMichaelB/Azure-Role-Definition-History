@@ -1,0 +1,48 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/RavenHq.Db",
+  "namespace": "RavenHq.Db",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-07-18"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "East US",
+        "North Europe",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "databases"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-07-18"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-07-18"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "listCommunicationPreference"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-07-18"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "updateCommunicationPreference"
+    }
+  ]
+}

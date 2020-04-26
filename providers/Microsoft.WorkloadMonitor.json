@@ -1,0 +1,74 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.WorkloadMonitor",
+  "namespace": "Microsoft.WorkloadMonitor",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-31-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-31-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "componentsSummary"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-31-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "monitorInstancesSummary"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-31-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "monitorInstances"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-31-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "components"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-31-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "monitors"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-31-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "notificationSettings"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "4f6778d8-5aef-43dc-a1ff-b073724b9495"
+    },
+    {
+      "applicationId": "3274406e-4e0a-4852-ba4f-d7226630abb7",
+      "roleDefinitionId": "e39edba5-cde8-4529-ba1f-159138220220"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.HealthcareApis",
+  "namespace": "Microsoft.HealthcareApis",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-16",
+        "2018-08-20-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "UK West",
+        "North Central US",
+        "West US 2",
+        "Australia East",
+        "Southeast Asia",
+        "UK South",
+        "East US",
+        "West Europe",
+        "South Central US",
+        "East US 2",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "services"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-16",
+        "2018-08-20-preview"
+      ],
+      "locations": [
+        "UK West",
+        "North Central US",
+        "West US 2",
+        "Australia East",
+        "Southeast Asia",
+        "UK South",
+        "East US",
+        "West Europe",
+        "South Central US",
+        "East US 2",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-16",
+        "2018-08-20-preview"
+      ],
+      "locations": [
+        "UK West",
+        "North Central US",
+        "West US 2",
+        "Australia East",
+        "Southeast Asia",
+        "UK South",
+        "East US",
+        "West Europe",
+        "South Central US",
+        "East US 2",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationresults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-16",
+        "2018-08-20-preview"
+      ],
+      "locations": [
+        "UK West",
+        "North Central US",
+        "West US 2",
+        "Australia East",
+        "Southeast Asia",
+        "UK South",
+        "East US",
+        "West Europe",
+        "South Central US",
+        "East US 2",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-16",
+        "2018-08-20-preview"
+      ],
+      "locations": [
+        "UK West",
+        "North Central US",
+        "West US 2",
+        "Australia East",
+        "Southeast Asia",
+        "UK South",
+        "East US",
+        "West Europe",
+        "South Central US",
+        "East US 2",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

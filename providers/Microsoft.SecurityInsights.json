@@ -1,0 +1,253 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "98785600-1bb7-4fb9-b9fa-19afe2c8a360",
+      "roleDefinitionId": "ef1c46aa-ae81-4091-ab83-f75f28efb7b8"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.SecurityInsights",
+  "namespace": "Microsoft.SecurityInsights",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2019-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "France Central",
+        "UK South",
+        "UK West",
+        "France South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "alertRules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "France Central",
+        "UK South",
+        "UK West",
+        "France South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "alertRuleTemplates"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "France Central",
+        "UK South",
+        "UK West",
+        "France South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "cases"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "France Central",
+        "UK South",
+        "UK West",
+        "France South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "bookmarks"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "France Central",
+        "UK South",
+        "UK West",
+        "France South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "dataConnectors"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "France Central",
+        "UK South",
+        "UK West",
+        "France South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "dataConnectorsCheckRequirements"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "France Central",
+        "UK South",
+        "UK West",
+        "France South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "entities"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "France Central",
+        "UK South",
+        "UK West",
+        "France South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "incidents"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "France Central",
+        "UK South",
+        "UK West",
+        "France South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "officeConsents"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "France Central",
+        "UK South",
+        "UK West",
+        "France South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "settings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "France Central",
+        "UK South",
+        "UK West",
+        "France South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "aggregations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "France Central",
+        "UK South",
+        "UK West",
+        "France South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "entityQueries"
+    }
+  ]
+}

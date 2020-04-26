@@ -1,0 +1,22 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "a77d91dc-971b-4cf7-90c8-f183194249bc",
+      "roleDefinitionId": "915bd376-2da8-411d-9906-895a54086a66"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Quantum",
+  "namespace": "Microsoft.Quantum",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-04-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Operations"
+    }
+  ]
+}

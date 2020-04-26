@@ -1,0 +1,53 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "12fb057d-b751-47cd-857c-f2934bb677b4",
+      "roleDefinitionId": "e4796bef-6b6d-4cbc-ba1e-27f1a308d860"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.NetApp",
+  "namespace": "Microsoft.NetApp",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-01",
+        "2020-02-01",
+        "2019-11-01",
+        "2019-10-01",
+        "2019-08-01",
+        "2019-07-01",
+        "2019-06-01",
+        "2019-05-01",
+        "2017-08-15"
+      ],
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "Central US",
+        "East US",
+        "East US 2",
+        "Germany North",
+        "Germany West Central",
+        "Japan East",
+        "Japan West",
+        "North Europe",
+        "South Central US",
+        "South India",
+        "Southeast Asia",
+        "UK South",
+        "UK West",
+        "West Central US",
+        "West Europe",
+        "West US",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

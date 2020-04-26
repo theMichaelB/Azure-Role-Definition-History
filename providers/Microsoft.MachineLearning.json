@@ -1,0 +1,121 @@
+{
+  "authorization": {
+    "applicationId": "0736f41a-0425-4b46-bdb5-1563eff02385",
+    "roleDefinitionId": "1cc297bc-1829-4524-941f-966373421033"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.MachineLearning",
+  "namespace": "Microsoft.MachineLearning",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-04-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "South Central US",
+        "West Europe",
+        "Southeast Asia",
+        "Japan East",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "Workspaces"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-01-01",
+        "2016-05-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove",
+      "locations": [
+        "South Central US",
+        "West Europe",
+        "Southeast Asia",
+        "Japan East",
+        "East US 2",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "webServices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-01-01",
+        "2016-05-01-preview"
+      ],
+      "locations": [
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-01-01",
+        "2016-05-01-preview"
+      ],
+      "locations": [
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-01-01",
+        "2016-05-01-preview"
+      ],
+      "locations": [
+        "South Central US",
+        "West Europe",
+        "Southeast Asia",
+        "Japan East",
+        "East US 2",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-01-01",
+        "2016-05-01-preview"
+      ],
+      "locations": [
+        "South Central US",
+        "West Europe",
+        "Southeast Asia",
+        "Japan East",
+        "East US 2",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationsStatus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-01-01",
+        "2016-05-01-preview"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "South Central US",
+        "West Europe",
+        "Southeast Asia",
+        "Japan East",
+        "East US 2",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "commitmentPlans"
+    }
+  ]
+}

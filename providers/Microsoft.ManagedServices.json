@@ -1,0 +1,72 @@
+{
+  "authorization": {
+    "applicationId": "66c6d0d1-f2e7-4a18-97a9-ed10f3347016",
+    "roleDefinitionId": "1e86f807-6ec0-40b3-8b5f-686b7e43a0a2"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ManagedServices",
+  "namespace": "Microsoft.ManagedServices",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2019-06-01",
+        "2019-04-01-preview",
+        "2018-06-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "registrationDefinitions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2019-06-01",
+        "2019-04-01-preview",
+        "2018-06-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "registrationAssignments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2019-06-01",
+        "2019-04-01-preview",
+        "2018-06-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2019-06-01",
+        "2019-04-01-preview",
+        "2018-06-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "marketplaceRegistrationDefinitions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2019-06-01",
+        "2019-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operationStatuses"
+    }
+  ]
+}

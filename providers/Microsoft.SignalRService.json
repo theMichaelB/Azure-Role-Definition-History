@@ -1,0 +1,202 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "cdad765c-f191-43ba-b9f5-7aef392f811d",
+      "roleDefinitionId": "346b504e-4aec-45d1-be25-a6e10f3cb4fe"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.SignalRService",
+  "namespace": "Microsoft.SignalRService",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-01",
+        "2018-03-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West US",
+        "Southeast Asia",
+        "West Europe",
+        "West US 2",
+        "East US 2",
+        "North Europe",
+        "Australia East",
+        "Canada East",
+        "Central US",
+        "Japan East",
+        "UK South",
+        "South Central US",
+        "Brazil South",
+        "France Central",
+        "Korea Central"
+      ],
+      "properties": null,
+      "resourceType": "SignalR"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-01",
+        "2018-03-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-01",
+        "2018-03-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West US",
+        "Southeast Asia",
+        "West Europe",
+        "West US 2",
+        "East US 2",
+        "North Europe",
+        "Australia East",
+        "Canada East",
+        "Central US",
+        "Japan East",
+        "UK South",
+        "South Central US",
+        "Brazil South",
+        "France Central",
+        "Korea Central"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-01",
+        "2018-03-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West US",
+        "Southeast Asia",
+        "West Europe",
+        "West US 2",
+        "East US 2",
+        "North Europe",
+        "Australia East",
+        "Canada East",
+        "Central US",
+        "Japan East",
+        "UK South",
+        "South Central US",
+        "Brazil South",
+        "France Central",
+        "Korea Central"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-01",
+        "2018-03-01-preview"
+      ],
+      "locations": [
+        "West US 2",
+        "East US",
+        "East US 2",
+        "West US",
+        "Central US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-01",
+        "2018-03-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West US",
+        "Southeast Asia",
+        "West Europe",
+        "West US 2",
+        "East US 2",
+        "North Europe",
+        "Australia East",
+        "Canada East",
+        "Central US",
+        "Japan East",
+        "UK South",
+        "South Central US",
+        "Brazil South",
+        "France Central",
+        "Korea Central"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-01",
+        "2018-03-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West US",
+        "Southeast Asia",
+        "West Europe",
+        "West US 2",
+        "East US 2",
+        "North Europe",
+        "Australia East",
+        "Canada East",
+        "Central US",
+        "Japan East",
+        "UK South",
+        "South Central US",
+        "Brazil South",
+        "France Central",
+        "Korea Central"
+      ],
+      "properties": null,
+      "resourceType": "locations/usages"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-01",
+        "2018-03-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West US",
+        "Southeast Asia",
+        "West Europe",
+        "West US 2",
+        "East US 2",
+        "North Europe",
+        "Australia East",
+        "Canada East",
+        "Central US",
+        "Japan East",
+        "UK South",
+        "South Central US",
+        "Brazil South",
+        "France Central",
+        "Korea Central"
+      ],
+      "properties": null,
+      "resourceType": "SignalR/eventGridFilters"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "35ffadb3-7fc1-497e-b61b-381d28e744cc",
+      "roleDefinitionId": "fffa409e-a8cc-4cbf-8e1c-6d940b33040e"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AppConfiguration",
+  "namespace": "Microsoft.AppConfiguration",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2019-10-01",
+        "2019-02-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "West Central US",
+        "Central US",
+        "West US",
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe",
+        "UK South",
+        "South Central US",
+        "East US 2",
+        "West US 2",
+        "Brazil South",
+        "Canada Central",
+        "Central India",
+        "East Asia",
+        "France Central",
+        "Japan East",
+        "Korea Central",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "configurationStores"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2019-10-01",
+        "2019-02-01-preview"
+      ],
+      "locations": [
+        "West Central US",
+        "Central US",
+        "West US",
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe",
+        "UK South",
+        "South Central US",
+        "East US 2",
+        "West US 2",
+        "Brazil South",
+        "Canada Central",
+        "Central India",
+        "East Asia",
+        "France Central",
+        "Japan East",
+        "Korea Central",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "configurationStores/eventGridFilters"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2019-10-01",
+        "2019-02-01-preview"
+      ],
+      "locations": [
+        "West Central US",
+        "Central US",
+        "West US",
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe",
+        "UK South",
+        "South Central US",
+        "East US 2",
+        "West US 2",
+        "Brazil South",
+        "Canada Central",
+        "Central India",
+        "East Asia",
+        "France Central",
+        "Japan East",
+        "Korea Central",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2019-10-01",
+        "2019-02-01-preview"
+      ],
+      "locations": [
+        "West Central US",
+        "Central US",
+        "West US",
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe",
+        "UK South",
+        "South Central US",
+        "East US 2",
+        "West US 2",
+        "Brazil South",
+        "Canada Central",
+        "Central India",
+        "East Asia",
+        "France Central",
+        "Japan East",
+        "Korea Central",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2019-10-01",
+        "2019-02-01-preview"
+      ],
+      "locations": [
+        "West Central US",
+        "Central US",
+        "West US",
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe",
+        "UK South",
+        "South Central US",
+        "East US 2",
+        "West US 2",
+        "Brazil South",
+        "Canada Central",
+        "Central India",
+        "East Asia",
+        "France Central",
+        "Japan East",
+        "Korea Central",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationsStatus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2019-10-01",
+        "2019-02-01-preview"
+      ],
+      "locations": [
+        "West Central US",
+        "Central US",
+        "West US",
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe",
+        "UK South",
+        "South Central US",
+        "East US 2",
+        "West US 2",
+        "Brazil South",
+        "Canada Central",
+        "Central India",
+        "East Asia",
+        "France Central",
+        "Japan East",
+        "Korea Central",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

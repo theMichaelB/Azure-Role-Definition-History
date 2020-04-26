@@ -1,0 +1,131 @@
+{
+  "authorization": {
+    "applicationId": "e9f49c6b-5ce5-44c8-925d-015017e9f7ad",
+    "roleDefinitionId": "17eb9cca-f08a-4499-b2d3-852d175f614f"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DataLakeStore",
+  "namespace": "Microsoft.DataLakeStore",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2016-11-01",
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "Central US",
+        "West Europe",
+        "Australia East"
+      ],
+      "properties": null,
+      "resourceType": "accounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "Central US",
+        "West Europe",
+        "Australia East"
+      ],
+      "properties": null,
+      "resourceType": "accounts/firewallRules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "Central US",
+        "West Europe",
+        "Australia East"
+      ],
+      "properties": null,
+      "resourceType": "accounts/eventGridFilters"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations/operationresults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations/capability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations/usages"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations/deleteVirtualNetworkOrSubnets"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "authorization": {
+    "applicationId": "4ac7d521-0382-477b-b0f8-7e1d95f85ca2",
+    "roleDefinitionId": "490d5987-bcf6-4be6-b6b2-056a78cb693a"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.PowerBIDedicated",
+  "namespace": "Microsoft.PowerBIDedicated",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-10-01",
+        "2017-01-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2017-01-01-preview",
+      "locations": [
+        "Australia Southeast",
+        "Brazil South",
+        "Canada Central",
+        "UAE North",
+        "UAE Central",
+        "France Central",
+        "France South",
+        "Korea Central",
+        "Korea South",
+        "Japan West",
+        "South Africa North",
+        "Canada East",
+        "South Africa West",
+        "UK West",
+        "Central US",
+        "Central India",
+        "Australia East",
+        "East Asia",
+        "East US",
+        "East US 2",
+        "West India",
+        "Japan East",
+        "West Central US",
+        "North Central US",
+        "North Europe",
+        "South Central US",
+        "Southeast Asia",
+        "UK South",
+        "West Europe",
+        "West US",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "capacities"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-01-01-preview"
+      ],
+      "defaultApiVersion": "2017-01-01-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-10-01",
+        "2017-01-01-preview"
+      ],
+      "defaultApiVersion": "2017-01-01-preview",
+      "locations": [
+        "Australia Southeast",
+        "Brazil South",
+        "Canada Central",
+        "UAE North",
+        "UAE Central",
+        "France Central",
+        "France South",
+        "Korea Central",
+        "Korea South",
+        "Japan West",
+        "Canada East",
+        "UK West",
+        "Central US",
+        "Central India",
+        "Australia East",
+        "East Asia",
+        "East US",
+        "East US 2",
+        "West India",
+        "Japan East",
+        "West Central US",
+        "North Central US",
+        "North Europe",
+        "South Africa North",
+        "South Central US",
+        "Southeast Asia",
+        "South Africa West",
+        "UK South",
+        "West Europe",
+        "West US",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-10-01",
+        "2017-01-01-preview"
+      ],
+      "defaultApiVersion": "2017-01-01-preview",
+      "locations": [
+        "Australia Southeast",
+        "Brazil South",
+        "Canada Central",
+        "UAE North",
+        "UAE Central",
+        "France Central",
+        "France South",
+        "Korea Central",
+        "Korea South",
+        "Japan West",
+        "Canada East",
+        "UK West",
+        "Central US",
+        "Central India",
+        "Australia East",
+        "East Asia",
+        "East US",
+        "East US 2",
+        "West India",
+        "Japan East",
+        "West Central US",
+        "North Central US",
+        "North Europe",
+        "South Central US",
+        "Southeast Asia",
+        "UK South",
+        "West Europe",
+        "West US",
+        "South Africa North",
+        "South Africa West",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationresults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-10-01",
+        "2017-01-01-preview"
+      ],
+      "defaultApiVersion": "2017-01-01-preview",
+      "locations": [
+        "Australia Southeast",
+        "Brazil South",
+        "Canada Central",
+        "UAE North",
+        "UAE Central",
+        "France Central",
+        "France South",
+        "Korea Central",
+        "Korea South",
+        "Japan West",
+        "Canada East",
+        "UK West",
+        "Central US",
+        "Central India",
+        "Australia East",
+        "East Asia",
+        "East US",
+        "East US 2",
+        "West India",
+        "Japan East",
+        "West Central US",
+        "North Central US",
+        "North Europe",
+        "South Central US",
+        "Southeast Asia",
+        "UK South",
+        "West Europe",
+        "West US",
+        "West US 2",
+        "South Africa North",
+        "South Africa West"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationstatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-10-01",
+        "2017-01-01-preview"
+      ],
+      "locations": [
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

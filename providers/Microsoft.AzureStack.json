@@ -1,0 +1,67 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AzureStack",
+  "namespace": "Microsoft.AzureStack",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-06-01"
+      ],
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-06-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West Central US",
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "registrations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-06-01",
+        "2016-01-01"
+      ],
+      "locations": [
+        "West Central US",
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "registrations/products"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-06-01"
+      ],
+      "locations": [
+        "West Central US",
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "registrations/customerSubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-06-01"
+      ],
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "cloudManifestFiles"
+    }
+  ]
+}

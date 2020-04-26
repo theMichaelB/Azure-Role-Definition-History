@@ -1,0 +1,153 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "e3bfd6ac-eace-4438-9dc1-eed439e738de",
+      "roleDefinitionId": "e88f4159-1d71-4b12-8ef0-38c039cb051e"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Migrate",
+  "namespace": "Microsoft.Migrate",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-02-02",
+        "2017-11-11-preview",
+        "2017-09-25-privatepreview"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "West Central US",
+        "East US",
+        "West Europe",
+        "North Europe",
+        "Southeast Asia",
+        "East Asia"
+      ],
+      "properties": null,
+      "resourceType": "projects"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01",
+        "2018-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "Central US",
+        "East Asia",
+        "Southeast Asia",
+        "North Europe",
+        "West Europe",
+        "West US 2",
+        "Australia Southeast",
+        "UK South",
+        "UK West",
+        "Canada Central",
+        "Central India",
+        "South India",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Korea South",
+        "Korea Central",
+        "France Central"
+      ],
+      "properties": null,
+      "resourceType": "migrateprojects"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2018-06-30-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "Central US",
+        "West Europe",
+        "UK South",
+        "UK West",
+        "North Europe",
+        "West US 2",
+        "Southeast Asia",
+        "East Asia",
+        "Central India",
+        "South India",
+        "Canada Central",
+        "Australia Southeast",
+        "Japan West",
+        "Japan East",
+        "Brazil South",
+        "Korea Central",
+        "Korea South",
+        "France Central"
+      ],
+      "properties": null,
+      "resourceType": "assessmentProjects"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-02-02",
+        "2017-11-11-preview",
+        "2017-09-25-privatepreview"
+      ],
+      "locations": [
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-02-02",
+        "2017-11-11-preview",
+        "2017-09-25-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-02-02",
+        "2017-11-11-preview",
+        "2017-09-25-privatepreview"
+      ],
+      "locations": [
+        "West Central US",
+        "East US",
+        "West Europe",
+        "North Europe",
+        "Southeast Asia",
+        "East Asia"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-02-02",
+        "2017-11-11-preview",
+        "2017-09-25-privatepreview"
+      ],
+      "locations": [
+        "West Central US",
+        "East US",
+        "West Europe",
+        "North Europe",
+        "Southeast Asia",
+        "East Asia"
+      ],
+      "properties": null,
+      "resourceType": "locations/assessmentOptions"
+    }
+  ]
+}

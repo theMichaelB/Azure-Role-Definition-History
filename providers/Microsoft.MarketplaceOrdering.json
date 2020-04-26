@@ -1,0 +1,40 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.MarketplaceOrdering",
+  "namespace": "Microsoft.MarketplaceOrdering",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01"
+      ],
+      "locations": [
+        "South Central US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "agreements"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01"
+      ],
+      "locations": [
+        "South Central US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "offertypes"
+    }
+  ]
+}

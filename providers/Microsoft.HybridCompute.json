@@ -1,0 +1,38 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.HybridCompute",
+  "namespace": "Microsoft.HybridCompute",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-11-preview",
+        "2019-12-12",
+        "2019-08-02-preview",
+        "2019-03-18-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2019-12-12",
+      "locations": [
+        "West US 2",
+        "West Europe",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "machines"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-11-preview",
+        "2019-12-12",
+        "2019-08-02-preview",
+        "2019-03-18-preview"
+      ],
+      "defaultApiVersion": "2019-12-12",
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

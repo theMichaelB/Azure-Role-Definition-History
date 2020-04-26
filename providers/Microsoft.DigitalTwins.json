@@ -1,0 +1,37 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "0b07f429-9f4b-4714-9392-cc5e8e80c8b0"
+    },
+    {
+      "applicationId": "c115998b-3d59-49b4-b55b-042a9ba1dbfe",
+      "roleDefinitionId": "07af60d1-cd6d-4ad4-9b56-ece6c78a3fe1"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DigitalTwins",
+  "namespace": "Microsoft.DigitalTwins",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "defaultApiVersion": "2020-03-01-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "locations": [
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

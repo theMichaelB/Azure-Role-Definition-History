@@ -1,0 +1,20 @@
+{
+  "authorizations": [],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Falcon",
+  "namespace": "Microsoft.Falcon",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-20-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "namespaces"
+    }
+  ]
+}

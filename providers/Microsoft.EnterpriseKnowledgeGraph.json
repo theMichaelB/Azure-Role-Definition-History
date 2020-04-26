@@ -1,0 +1,80 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.EnterpriseKnowledgeGraph",
+  "namespace": "Microsoft.EnterpriseKnowledgeGraph",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-12-03"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "East US",
+        "East US 2",
+        "West US 2",
+        "West US",
+        "North Europe",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "services"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-12-03"
+      ],
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "East US",
+        "East US 2",
+        "West US 2",
+        "West US",
+        "North Europe",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-12-03"
+      ],
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "East US",
+        "East US 2",
+        "West US 2",
+        "West US",
+        "North Europe",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-12-03"
+      ],
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "East US",
+        "East US 2",
+        "West US 2",
+        "West US",
+        "North Europe",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationResults"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/84codes.CloudAMQP",
+  "namespace": "84codes.CloudAMQP",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-08-01"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "East US 2",
+        "Central US",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "servers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-08-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-08-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "listCommunicationPreference"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-08-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "updateCommunicationPreference"
+    }
+  ]
+}

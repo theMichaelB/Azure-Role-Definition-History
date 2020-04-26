@@ -1,0 +1,164 @@
+{
+  "authorization": {
+    "applicationId": "80369ed6-5f11-4dd9-bef3-692475845e77"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Relay",
+  "namespace": "Microsoft.Relay",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-01-01-preview",
+        "2017-04-01",
+        "2016-07-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US 2",
+        "West US",
+        "North Central US",
+        "South Central US",
+        "West Central US",
+        "East Asia",
+        "Southeast Asia",
+        "Brazil South",
+        "Japan East",
+        "Japan West",
+        "North Europe",
+        "West Europe",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK West",
+        "UK South",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "namespaces"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-04-01",
+        "2016-07-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/authorizationrules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/privateEndpointConnections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-04-01",
+        "2016-07-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/hybridconnections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-04-01",
+        "2016-07-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/hybridconnections/authorizationrules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-04-01",
+        "2016-07-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/wcfrelays"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-04-01",
+        "2016-07-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/wcfrelays/authorizationrules"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2016-07-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2016-07-01"
+      ],
+      "defaultApiVersion": "2017-04-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

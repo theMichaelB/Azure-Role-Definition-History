@@ -1,0 +1,117 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ADHybridHealthService",
+  "namespace": "Microsoft.ADHybridHealthService",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2014-01-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "services"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2014-01-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "addsservices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2014-01-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "configuration"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2014-01-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2014-01-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "agents"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2014-01-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "aadsupportcases"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2014-01-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "reports"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2014-01-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "servicehealthmetrics"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2014-01-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "logs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2014-01-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "anonymousapiusers"
+    }
+  ]
+}

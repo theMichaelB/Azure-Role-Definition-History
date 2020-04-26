@@ -1,0 +1,146 @@
+{
+  "authorization": {
+    "applicationId": "f3723d34-6ff5-4ceb-a148-d99dcd2511fc",
+    "roleDefinitionId": "71213c26-43ed-41d8-9905-3c12971517a3"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.BotService",
+  "namespace": "Microsoft.BotService",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-12-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-07-12",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-07-12",
+        "2017-12-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2017-12-01",
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "botServices"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-12-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-07-12",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-07-12",
+        "2017-12-01"
+      ],
+      "defaultApiVersion": "2017-12-01",
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "botServices/channels"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-12-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-07-12",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-07-12",
+        "2017-12-01"
+      ],
+      "defaultApiVersion": "2017-12-01",
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "botServices/connections"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-12-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-07-12",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-07-12",
+        "2017-12-01"
+      ],
+      "defaultApiVersion": "2017-12-01",
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "listAuthServiceProviders"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-12-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-07-12",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-07-12",
+        "2017-12-01"
+      ],
+      "defaultApiVersion": "2017-12-01",
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-12-01",
+          "profileVersion": "2017-03-09-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-07-12",
+        "2017-12-01"
+      ],
+      "defaultApiVersion": "2017-12-01",
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

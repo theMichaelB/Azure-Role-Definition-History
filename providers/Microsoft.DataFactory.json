@@ -1,0 +1,283 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "0947a342-ab4a-43be-93b3-b8243fc161e5",
+      "roleDefinitionId": "f0a6aa2a-e9d8-4bae-bcc2-36b405e8a5da"
+    },
+    {
+      "applicationId": "5d13f7d7-0567-429c-9880-320e9555e5fc",
+      "roleDefinitionId": "956a8f20-9168-4c71-8e27-3c0460ac39a4"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DataFactory",
+  "namespace": "Microsoft.DataFactory",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-10-01",
+        "2015-09-01",
+        "2015-08-01",
+        "2015-07-01-preview",
+        "2015-05-01-preview",
+        "2015-01-01-preview",
+        "2014-04-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US",
+        "North Europe",
+        "East US",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "dataFactories"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-01",
+        "2017-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2018-06-01",
+      "locations": [
+        "East US",
+        "East US 2",
+        "Central US",
+        "South Central US",
+        "Japan East",
+        "Canada Central",
+        "Australia East",
+        "Central India",
+        "France Central",
+        "Korea Central",
+        "Brazil South",
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "West Central US",
+        "West US",
+        "West US 2",
+        "Southeast Asia",
+        "East Asia",
+        "North Central US",
+        "South Africa North",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "factories"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-01",
+        "2017-09-01-preview"
+      ],
+      "defaultApiVersion": "2018-06-01",
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US 2",
+        "West US",
+        "Central US",
+        "South Central US",
+        "Japan East",
+        "Central India",
+        "Brazil South",
+        "France Central",
+        "Korea Central",
+        "Australia East",
+        "Canada Central",
+        "West Central US",
+        "North Europe",
+        "UK South",
+        "West Europe",
+        "Southeast Asia",
+        "East Asia",
+        "North Central US",
+        "South Africa North",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "factories/integrationRuntimes"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2014-04-01"
+      ],
+      "locations": [
+        "North Europe",
+        "East US",
+        "West US",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "dataFactories/diagnosticSettings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2014-04-01"
+      ],
+      "locations": [
+        "North Europe",
+        "East US",
+        "West US",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "dataFactories/metricDefinitions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-05-01-preview",
+        "2015-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkDataFactoryNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-10-01",
+        "2015-09-01",
+        "2015-08-01",
+        "2015-07-01-preview",
+        "2015-05-01-preview",
+        "2015-01-01-preview"
+      ],
+      "locations": [
+        "West US",
+        "North Europe",
+        "East US",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "checkAzureDataFactoryNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-10-01",
+        "2015-09-01",
+        "2015-08-01",
+        "2015-07-01-preview",
+        "2015-05-01-preview",
+        "2015-01-01-preview"
+      ],
+      "locations": [
+        "West US",
+        "North Europe",
+        "East US",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "dataFactorySchema"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-01",
+        "2017-09-01-preview",
+        "2017-03-01-preview",
+        "2015-10-01",
+        "2015-09-01",
+        "2015-08-01",
+        "2015-07-01-preview",
+        "2015-05-01-preview",
+        "2015-01-01-preview"
+      ],
+      "locations": [
+        "West US",
+        "North Europe",
+        "East US",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-01",
+        "2017-09-01-preview"
+      ],
+      "defaultApiVersion": "2018-06-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-01",
+        "2017-09-01-preview"
+      ],
+      "defaultApiVersion": "2018-06-01",
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US 2",
+        "West US",
+        "Central US",
+        "South Central US",
+        "Japan East",
+        "Australia East",
+        "Canada Central",
+        "Central India",
+        "Brazil South",
+        "France Central",
+        "Korea Central",
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "West Central US",
+        "Southeast Asia",
+        "East Asia",
+        "North Central US",
+        "South Africa North",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "locations/configureFactoryRepo"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-01"
+      ],
+      "defaultApiVersion": "2018-06-01",
+      "locations": [
+        "East US",
+        "East US 2",
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "West Central US",
+        "West US",
+        "Central US",
+        "South Central US",
+        "Japan East",
+        "Australia East",
+        "Canada Central",
+        "Central India",
+        "Brazil South",
+        "France Central",
+        "Korea Central",
+        "West US 2",
+        "Southeast Asia",
+        "East Asia",
+        "North Central US",
+        "South Africa North",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "locations/getFeatureValue"
+    }
+  ]
+}

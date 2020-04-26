@@ -1,0 +1,160 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Portal",
+  "namespace": "Microsoft.Portal",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview",
+        "2018-10-01-preview",
+        "2015-08-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "Central US",
+        "East Asia",
+        "Southeast Asia",
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "North Central US",
+        "South Central US",
+        "West Central US",
+        "North Europe",
+        "West Europe",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Australia Southeast",
+        "Australia East",
+        "West India",
+        "South India",
+        "Central India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "South Africa North"
+      ],
+      "properties": null,
+      "resourceType": "dashboards"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-08-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East Asia",
+        "Southeast Asia",
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "North Central US",
+        "South Central US",
+        "West Central US",
+        "North Europe",
+        "West Europe",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Australia Southeast",
+        "Australia East",
+        "West India",
+        "South India",
+        "Central India",
+        "Canada Central",
+        "Canada East"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-01",
+        "2017-12-01-preview",
+        "2017-08-01-preview",
+        "2017-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-01",
+        "2017-12-01-preview",
+        "2017-08-01-preview",
+        "2017-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "consoles"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-01",
+        "2017-12-01-preview",
+        "2017-08-01-preview",
+        "2017-01-01-preview"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "Central India",
+        "North Europe",
+        "West Europe",
+        "South Central US",
+        "Southeast Asia",
+        "East US 2",
+        "Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/consoles"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-01",
+        "2017-12-01-preview",
+        "2017-08-01-preview",
+        "2017-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "userSettings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-01",
+        "2017-12-01-preview",
+        "2017-08-01-preview",
+        "2017-01-01-preview"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "Central India",
+        "North Europe",
+        "West Europe",
+        "South Central US",
+        "Southeast Asia",
+        "East US 2",
+        "Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/userSettings"
+    }
+  ]
+}

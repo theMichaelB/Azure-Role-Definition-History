@@ -1,0 +1,92 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Sendgrid.Email",
+  "namespace": "Sendgrid.Email",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-01-01"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "Central US",
+        "East Asia",
+        "East US",
+        "East US 2",
+        "France Central",
+        "France South",
+        "Japan East",
+        "Japan West",
+        "Korea Central",
+        "Korea South",
+        "North Central US",
+        "North Europe",
+        "South Africa North",
+        "South Africa West",
+        "South Central US",
+        "South India",
+        "Southeast Asia",
+        "UAE Central",
+        "UAE North",
+        "UK South",
+        "UK West",
+        "West Central US",
+        "West Europe",
+        "West India",
+        "West US",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "accounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-01-01"
+      ],
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "Central US",
+        "East Asia",
+        "East US",
+        "East US 2",
+        "France Central",
+        "France South",
+        "Japan East",
+        "Japan West",
+        "Korea Central",
+        "Korea South",
+        "North Central US",
+        "North Europe",
+        "South Africa North",
+        "South Africa West",
+        "South Central US",
+        "South India",
+        "Southeast Asia",
+        "UAE Central",
+        "UAE North",
+        "UK South",
+        "UK West",
+        "West Central US",
+        "West Europe",
+        "West India",
+        "West US",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

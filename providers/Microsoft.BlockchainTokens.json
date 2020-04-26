@@ -1,0 +1,18 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.BlockchainTokens",
+  "namespace": "Microsoft.BlockchainTokens",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-07-19-preview"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "Operations"
+    }
+  ]
+}

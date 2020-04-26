@@ -1,0 +1,51 @@
+{
+  "authorization": {
+    "applicationId": "5e5abe2b-83cd-4786-826a-a05653ebb103",
+    "roleDefinitionId": "766c4d9b-ef83-4f73-8352-1450a506a69b"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ClassicInfrastructureMigrate",
+  "namespace": "Microsoft.ClassicInfrastructureMigrate",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-15"
+      ],
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "East US",
+        "East US 2",
+        "West US",
+        "North Central US",
+        "South Central US",
+        "Central US",
+        "North Europe",
+        "West Europe",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Australia East",
+        "Australia Southeast",
+        "Central India",
+        "West India",
+        "South India",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "West Central US",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "France South",
+        "Australia Central",
+        "Australia Central 2"
+      ],
+      "properties": null,
+      "resourceType": "classicInfrastructureResources"
+    }
+  ]
+}

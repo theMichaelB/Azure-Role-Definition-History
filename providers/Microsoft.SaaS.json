@@ -1,0 +1,83 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "f738ef14-47dc-4564-b53b-45069484ccc7",
+      "roleDefinitionId": "b131dd2d-387a-4cae-bb9b-3d021f80d1e6"
+    },
+    {
+      "applicationId": "20e940b3-4c77-4b0b-9a53-9e16a1b010a7"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.SaaS",
+  "namespace": "Microsoft.SaaS",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove",
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "applications"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "checknameavailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "checkModernEligibility"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "saasresources"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

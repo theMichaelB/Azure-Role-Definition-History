@@ -1,0 +1,80 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "9edfcdd9-0bc5-4bd4-b287-c3afc716aac7"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.IoTCentral",
+  "namespace": "Microsoft.IoTCentral",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01",
+        "2017-07-01-privatepreview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2018-09-01",
+      "locations": [
+        "West Europe",
+        "West US",
+        "East US 2",
+        "North Europe",
+        "East US",
+        "Central US",
+        "West Central US",
+        "Australia",
+        "Asia Pacific",
+        "Europe",
+        "Japan",
+        "UK",
+        "United States"
+      ],
+      "properties": null,
+      "resourceType": "IoTApps"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01",
+        "2017-07-01-privatepreview"
+      ],
+      "defaultApiVersion": "2018-09-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01"
+      ],
+      "defaultApiVersion": "2018-09-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkSubdomainAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01",
+        "2017-07-01-privatepreview"
+      ],
+      "defaultApiVersion": "2018-09-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01"
+      ],
+      "defaultApiVersion": "2018-09-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "appTemplates"
+    }
+  ]
+}

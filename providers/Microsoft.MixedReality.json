@@ -1,0 +1,93 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "c7ddd9b4-5172-4e28-bd29-1e0792947d18",
+      "roleDefinitionId": "b67ee066-e058-4ddb-92bc-83cdd74bc38a"
+    },
+    {
+      "applicationId": "a15bc1de-f777-408f-9d2b-a27ed19c72ba"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.MixedReality",
+  "namespace": "Microsoft.MixedReality",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-01",
+        "2020-04-06-preview",
+        "2019-12-02-preview",
+        "2019-02-28-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-01",
+        "2020-04-06-preview",
+        "2019-12-02-preview",
+        "2019-02-28-preview"
+      ],
+      "locations": [
+        "Australia East",
+        "East US",
+        "East US 2",
+        "North Europe",
+        "South Central US",
+        "Southeast Asia",
+        "UK South",
+        "West Europe",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-01",
+        "2020-04-06-preview",
+        "2019-12-02-preview",
+        "2019-02-28-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-01",
+        "2019-12-02-preview",
+        "2019-02-28-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "spatialAnchorsAccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-06-preview",
+        "2019-12-02-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "East US",
+        "East US 2",
+        "Southeast Asia",
+        "West Europe",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "remoteRenderingAccounts"
+    }
+  ]
+}
