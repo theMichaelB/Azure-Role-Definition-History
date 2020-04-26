@@ -1,33 +1,35 @@
 #!/bin/bash
 
-git checkout master
-az role definition list > roles.json
+#git checkout master
+az provider list > provider.json
 
 subscriptionId=$(az account show | jq -r .id)
 nullId="00000000-0000-0000-0000-000000000000"
 
-sed "s/$subscriptionId/$nullId/g" roles.json > cleanedroles.json
+sed "s/$subscriptionId/$nullId/g" provider.json > cleanedprovider.json
 
-rm -rf roles/* 
+rm -rf providers/* 
 
-cleanedroles=$(cat cleanedroles.json)
-for row in $(echo "${cleanedroles}" | jq -r '.[] | select(.roleType=="BuiltInRole") | @base64'); do
+mkdir -p providers
+cleanedprovider=$(cat cleanedprovider.json)
+for row in $(echo "${cleanedprovider}" | jq -r '.[]| @base64'); do
     _jq() {
      echo ${row} | base64 -d | jq -r ${1}
     }
-   roleName="$(_jq '.roleName').json"
-   roleName=${roleName// /_}
-   echo $row | base64 -d | jq -r '.' > "roles/${roleName}"
-   
-done
+   namespace="$(_jq '.namespace').json"
+   namespace=${namespace// /_}
+   echo $row | base64 -d | jq -r '.' > "providers/${namespace}"
+done   
+
+
 # largely stolen from - https://github.com/eine/actions/blob/3f0701c2f20780984590bd955839a38b75c96668/.github/workflows/push.yml
 if ! git diff --no-ext-diff --quiet --exit-code; then
 
     git config --global user.email "action@azured.io"
     git config --global user.name "Github Action"
     
-    echo "Staging roles/*"
-    git add -A -v -- roles/*
+    echo "Staging providers/*"
+    git add -A -v -- providers/*
     git ls-files --deleted -z | xargs -0 git rm 
     echo "Committing changes"
     commitDate=$(date "+%Y-%B-%d")
