@@ -30,6 +30,7 @@ jobs:
         inlineScript: |
           chmod +x $GITHUB_WORKSPACE/parseRoles.sh
           $GITHUB_WORKSPACE/parseRoles.sh
-
+          chmod +x $GITHUB_WORKSPACE/parseProvider.sh
+          $GITHUB_WORKSPACE/parseProvider.sh
 
         
