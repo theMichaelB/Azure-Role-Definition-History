@@ -1,0 +1,211 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "443155a6-77f3-45e3-882b-22b3a8d431fb",
+      "roleDefinitionId": "7389DE79-3180-4F07-B2BA-C5BA1F01B03A"
+    },
+    {
+      "applicationId": "abba844e-bc0e-44b0-947a-dc74e5d09022",
+      "roleDefinitionId": "63BC473E-7767-42A5-A3BF-08EB71200E04"
+    },
+    {
+      "applicationId": "d87dcbc6-a371-462e-88e3-28ad15ec4e64",
+      "roleDefinitionId": "861776c5-e0df-4f95-be4f-ac1eec193323"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AAD",
+  "namespace": "Microsoft.AAD",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-06-01",
+        "2017-01-01"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "West US",
+        "Central US",
+        "East US",
+        "South Central US",
+        "West Europe",
+        "North Europe",
+        "East Asia",
+        "Southeast Asia",
+        "East US 2",
+        "Australia East",
+        "Australia Southeast",
+        "West Central US",
+        "North Central US",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "Korea Central",
+        "France Central",
+        "UK South",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "DomainServices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-06-01"
+      ],
+      "locations": [
+        "West US",
+        "Central US",
+        "East US",
+        "South Central US",
+        "West Europe",
+        "North Europe",
+        "East Asia",
+        "Southeast Asia",
+        "East US 2",
+        "Australia East",
+        "Australia Southeast",
+        "West Central US",
+        "North Central US",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "Korea Central",
+        "France Central",
+        "UK South",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "DomainServices/oucontainer"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-06-01",
+        "2017-01-01"
+      ],
+      "locations": [
+        "West US",
+        "Central US",
+        "East US",
+        "South Central US",
+        "West Europe",
+        "North Europe",
+        "East Asia",
+        "Southeast Asia",
+        "East US 2",
+        "Australia East",
+        "Australia Southeast",
+        "West Central US",
+        "North Central US",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "Korea Central",
+        "France Central",
+        "UK South",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-06-01",
+        "2017-01-01"
+      ],
+      "locations": [
+        "West US",
+        "Central US",
+        "East US",
+        "South Central US",
+        "West Europe",
+        "North Europe",
+        "East Asia",
+        "Southeast Asia",
+        "East US 2",
+        "Australia East",
+        "Australia Southeast",
+        "West Central US",
+        "North Central US",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "Korea Central",
+        "France Central",
+        "UK South",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationresults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-06-01",
+        "2017-01-01"
+      ],
+      "locations": [
+        "West US",
+        "Central US",
+        "East US",
+        "South Central US",
+        "West Europe",
+        "North Europe",
+        "East Asia",
+        "Southeast Asia",
+        "East US 2",
+        "Australia East",
+        "Australia Southeast",
+        "West Central US",
+        "North Central US",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "Korea Central",
+        "France Central",
+        "UK South",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

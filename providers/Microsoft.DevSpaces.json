@@ -1,0 +1,164 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DevSpaces",
+  "namespace": "Microsoft.DevSpaces",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "Canada East",
+        "West Europe",
+        "Canada Central",
+        "Central US",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "East US 2",
+        "North Europe",
+        "Australia East",
+        "UK South",
+        "South Central US",
+        "East Asia",
+        "Japan East",
+        "Australia SouthEast"
+      ],
+      "properties": null,
+      "resourceType": "controllers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [
+        "East US",
+        "Canada East",
+        "West Europe",
+        "Canada Central",
+        "Central US",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "East US 2",
+        "North Europe",
+        "Australia East",
+        "UK South",
+        "South Central US",
+        "East Asia",
+        "Japan East",
+        "Australia SouthEast"
+      ],
+      "properties": null,
+      "resourceType": "controllers/listConnectionDetails"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [
+        "East US",
+        "Canada East",
+        "West Europe",
+        "Canada Central",
+        "Central US",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "East US 2",
+        "North Europe",
+        "Australia East",
+        "UK South",
+        "South Central US",
+        "East Asia",
+        "Japan East",
+        "Australia SouthEast"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [
+        "East US",
+        "Canada East",
+        "West Europe",
+        "Canada Central",
+        "Central US",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "East US 2",
+        "North Europe",
+        "Australia East",
+        "UK South",
+        "South Central US",
+        "East Asia",
+        "Japan East",
+        "Australia SouthEast"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [
+        "East US",
+        "Canada East",
+        "West Europe",
+        "Canada Central",
+        "Central US",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "East US 2",
+        "North Europe",
+        "Australia East",
+        "UK South",
+        "South Central US",
+        "East Asia",
+        "Japan East",
+        "Australia SouthEast"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationresults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [
+        "East US",
+        "Canada East",
+        "West Europe",
+        "Canada Central",
+        "Central US",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "East US 2",
+        "North Europe",
+        "Australia East",
+        "UK South",
+        "South Central US",
+        "East Asia",
+        "Japan East",
+        "Australia SouthEast"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkContainerHostMapping"
+    }
+  ]
+}

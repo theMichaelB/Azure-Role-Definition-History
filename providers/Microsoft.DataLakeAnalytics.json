@@ -1,0 +1,150 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DataLakeAnalytics",
+  "namespace": "Microsoft.DataLakeAnalytics",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2016-11-01",
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "Central US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "accounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "Central US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "accounts/dataLakeStoreAccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "Central US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "accounts/storageAccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "Central US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "accounts/storageAccounts/containers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "Central US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "accounts/storageAccounts/containers/listSasTokens"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations/operationresults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations/capability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations/usages"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2016-11-01",
+        "2015-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

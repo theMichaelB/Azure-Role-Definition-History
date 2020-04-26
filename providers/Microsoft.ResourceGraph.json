@@ -1,0 +1,91 @@
+{
+  "authorization": {
+    "applicationId": "509e4652-da8d-478d-a730-e9d4a1996ca4"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ResourceGraph",
+  "namespace": "Microsoft.ResourceGraph",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01",
+        "2018-09-01-preview"
+      ],
+      "locations": [
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "resources"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
+      "locations": [
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "resourcesHistory"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
+      "locations": [
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "resourceChanges"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
+      "locations": [
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "resourceChangeDetails"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01",
+        "2018-09-01-preview"
+      ],
+      "locations": [
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01",
+        "2018-09-01-preview"
+      ],
+      "locations": [
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "subscriptionsStatus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "queries"
+    }
+  ]
+}

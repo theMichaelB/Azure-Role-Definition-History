@@ -1,0 +1,75 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "e935b4a5-8968-416d-8414-caed51c782a9",
+      "roleDefinitionId": "9c6ffa40-421e-4dc0-9739-76b0699a11de"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.GuestConfiguration",
+  "namespace": "Microsoft.GuestConfiguration",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-20",
+        "2018-06-30-preview",
+        "2018-01-20-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "guestConfigurationAssignments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-30-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "East US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "software"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-30-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "East US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "softwareUpdates"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-30-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "East US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "softwareUpdateProfile"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-20",
+        "2018-06-30-preview",
+        "2018-01-20-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

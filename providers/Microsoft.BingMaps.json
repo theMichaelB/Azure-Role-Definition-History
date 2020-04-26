@@ -1,0 +1,50 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.BingMaps",
+  "namespace": "Microsoft.BingMaps",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-08-18",
+        "2015-07-02"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "mapApis"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-08-18",
+        "2015-07-02"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-08-18",
+        "2015-07-02"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "listCommunicationPreference"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-08-18",
+        "2015-07-02"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "updateCommunicationPreference"
+    }
+  ]
+}

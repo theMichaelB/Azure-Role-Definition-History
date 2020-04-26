@@ -1,0 +1,42 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "9e09aefc-b2e5-4d19-9f74-3e3e8b11a57b",
+      "managedByRoleDefinitionId": "ede175bc-31e5-4074-ba98-e62b895797aa",
+      "roleDefinitionId": "a53b114a-452b-4d20-bcd6-c51c3c8c5878"
+    },
+    {
+      "applicationId": "1ac05c7e-12d2-4605-bf9d-549d7041c6b3",
+      "roleDefinitionId": "48e77487-c9fa-4abe-8484-71ebdebdbbc2"
+    },
+    {
+      "applicationId": "ec52d13d-2e85-410e-a89a-8c79fb6a32ac",
+      "roleDefinitionId": "c3a447c3-a63a-4905-a125-c6856f9d0e17"
+    },
+    {
+      "applicationId": "5ebe1e69-13dd-4953-84fa-a74ed591db2e",
+      "roleDefinitionId": "e8ebe3e8-569b-4ad3-bea1-5b274fe0c49f"
+    },
+    {
+      "applicationId": "2e458d69-0892-4655-b713-4f7b182315dd",
+      "roleDefinitionId": "45EA3B16-D4DD-48CA-BF0D-BBE644C0C0AF"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Synapse",
+  "namespace": "Microsoft.Synapse",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-preview"
+      ],
+      "locations": [
+        "West US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

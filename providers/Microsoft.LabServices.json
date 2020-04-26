@@ -1,0 +1,127 @@
+{
+  "authorization": {
+    "applicationId": "1a14be2a-e903-4cec-99cf-b2e209259a0f",
+    "managedByRoleDefinitionId": "8f2de81a-b9aa-49d8-b24c-11814d3ab525",
+    "roleDefinitionId": "8f2de81a-b9aa-49d8-b24c-11814d3ab525"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.LabServices",
+  "namespace": "Microsoft.LabServices",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview",
+        "2018-10-15",
+        "2017-12-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West Central US",
+        "Japan East",
+        "West US",
+        "Australia Southeast",
+        "Canada Central",
+        "Central India",
+        "Central US",
+        "East Asia",
+        "Korea Central",
+        "North Europe",
+        "South Central US",
+        "UK West",
+        "West India",
+        "Australia East",
+        "Brazil South",
+        "Canada East",
+        "East US",
+        "East US 2",
+        "France Central",
+        "Japan West",
+        "Korea South",
+        "North Central US",
+        "South India",
+        "Southeast Asia",
+        "UK South",
+        "West Europe",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "labaccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview",
+        "2018-10-15",
+        "2017-12-01-preview"
+      ],
+      "locations": [
+        "West Central US",
+        "Japan East",
+        "West US",
+        "Australia Southeast",
+        "Canada Central",
+        "Central India",
+        "Central US",
+        "East Asia",
+        "Korea Central",
+        "North Europe",
+        "South Central US",
+        "UK West",
+        "West India",
+        "Australia East",
+        "Brazil South",
+        "Canada East",
+        "East US",
+        "East US 2",
+        "Japan West",
+        "Korea South",
+        "North Central US",
+        "South India",
+        "Southeast Asia",
+        "UK South",
+        "West Europe",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "locations/operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview",
+        "2018-10-15",
+        "2017-12-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview",
+        "2019-01-01-beta",
+        "2019-01-01-alpha",
+        "2018-10-15",
+        "2017-12-01-preview",
+        "2017-12-01-beta",
+        "2017-12-01-alpha"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "users"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview",
+        "2018-10-15",
+        "2017-12-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    }
+  ]
+}

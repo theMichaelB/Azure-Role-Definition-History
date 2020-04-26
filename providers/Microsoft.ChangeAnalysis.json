@@ -1,0 +1,22 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "2cfc91a4-7baa-4a8f-a6c9-5f3d279060b8",
+      "roleDefinitionId": "f5a6bd90-af71-455c-9030-c486e8c42c95"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ChangeAnalysis",
+  "namespace": "Microsoft.ChangeAnalysis",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

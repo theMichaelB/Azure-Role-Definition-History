@@ -1,0 +1,35 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.WindowsIoT",
+  "namespace": "Microsoft.WindowsIoT",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01",
+        "2018-02-16-preview"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "West US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "DeviceServices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01",
+        "2018-02-16-preview"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

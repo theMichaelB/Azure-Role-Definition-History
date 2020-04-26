@@ -1,0 +1,26 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "1412d89f-b8a8-4111-b4fd-e82905cbd85d",
+      "roleDefinitionId": "90ffa33f-4875-44d8-b86f-d41c3aa6050e"
+    },
+    {
+      "applicationId": "1322e676-dee7-41ee-a874-ac923822781c",
+      "roleDefinitionId": "e91a9804-9f4d-4501-bf85-03bd4ea78451"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AzureStackHCI",
+  "namespace": "Microsoft.AzureStackHCI",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

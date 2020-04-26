@@ -1,0 +1,96 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "f1dd0a37-89c6-4e07-bcd1-ffd3d43d8875",
+      "managedByAuthorization": {
+        "allowManagedByInheritance": true
+      },
+      "managedByRoleDefinitionId": "9e3af657-a8ff-583c-a75c-2fe7c4bcb635",
+      "roleDefinitionId": "640c5ac9-6f32-4891-94f4-d20f7aa9a7e6"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.RedHatOpenShift",
+  "namespace": "Microsoft.RedHatOpenShift",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-30",
+        "2019-12-31-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-30"
+      ],
+      "locations": [
+        "Australia East",
+        "East US",
+        "East US 2",
+        "North Europe",
+        "South Central US",
+        "Southeast Asia",
+        "UK South",
+        "West Europe",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationresults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-30"
+      ],
+      "locations": [
+        "Australia East",
+        "East US",
+        "East US 2",
+        "North Europe",
+        "South Central US",
+        "Southeast Asia",
+        "UK South",
+        "West Europe",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationsstatus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-30"
+      ],
+      "capabilities": "SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2020-04-30",
+      "locations": [
+        "Australia East",
+        "East US",
+        "East US 2",
+        "North Europe",
+        "South Central US",
+        "Southeast Asia",
+        "UK South",
+        "West Europe",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "OpenShiftClusters"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-30",
+        "2019-12-31-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

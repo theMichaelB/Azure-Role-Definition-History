@@ -1,0 +1,141 @@
+{
+  "authorization": {
+    "applicationId": "d2a0a418-0aac-4541-82b2-b3142c89da77",
+    "roleDefinitionId": "aa249101-6816-4966-aafa-08175d795f14"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.OperationsManagement",
+  "namespace": "Microsoft.OperationsManagement",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-11-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Australia Southeast",
+        "West Central US",
+        "Japan East",
+        "UK South",
+        "Central India",
+        "Canada Central",
+        "West US 2",
+        "Australia East",
+        "Australia Central",
+        "France Central",
+        "Korea Central",
+        "North Europe",
+        "Central Us",
+        "East Us 2",
+        "East Asia",
+        "West Us",
+        "South Central Us",
+        "North Central US",
+        "UK West",
+        "South Africa North",
+        "Brazil South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "solutions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-11-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Australia Southeast",
+        "West Central US",
+        "Japan East",
+        "UK South",
+        "Central India",
+        "Canada Central",
+        "West US 2",
+        "Australia East",
+        "Australia Central",
+        "France Central",
+        "Korea Central",
+        "North Europe",
+        "Central Us",
+        "East Us 2",
+        "East Asia",
+        "West Us",
+        "South Central Us",
+        "North Central US",
+        "UK West",
+        "South Africa North",
+        "Brazil South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "managementconfigurations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-11-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "managementassociations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-08-21-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Australia Southeast",
+        "West Central US",
+        "Japan East",
+        "UK South",
+        "Central India",
+        "Canada Central",
+        "West US 2",
+        "Australia East",
+        "Australia Central",
+        "France Central",
+        "Korea Central",
+        "North Europe",
+        "Central Us",
+        "East Us 2",
+        "East Asia",
+        "West Us",
+        "South Central Us",
+        "North Central US",
+        "UK West",
+        "South Africa North",
+        "Brazil South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "views"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

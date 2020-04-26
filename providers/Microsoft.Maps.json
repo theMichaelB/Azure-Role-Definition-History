@@ -1,0 +1,65 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "608f6f31-fed0-4f7b-809f-90f6c9b3de78",
+      "roleDefinitionId": "3431F0E6-63BC-482D-A96E-0AB819610A5F"
+    },
+    {
+      "applicationId": "ba1ea022-5807-41d5-bbeb-292c7e1cf5f6",
+      "roleDefinitionId": "48195074-b752-4868-be0f-7c324a224aa1"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Maps",
+  "namespace": "Microsoft.Maps",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-01-preview",
+        "2018-05-01",
+        "2017-01-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "accounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2020-02-01-preview",
+      "locations": [
+        "United States"
+      ],
+      "properties": null,
+      "resourceType": "accounts/privateAtlases"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-01-preview",
+        "2018-05-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "accounts/eventGridFilters"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-01-preview",
+        "2018-05-01",
+        "2017-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

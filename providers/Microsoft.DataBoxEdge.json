@@ -1,0 +1,63 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "2368d027-f996-4edb-bf48-928f98f2ab8c"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DataBoxEdge",
+  "namespace": "Microsoft.DataBoxEdge",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2019-08-01",
+        "2019-07-01",
+        "2019-03-01",
+        "2018-07-01",
+        "2017-09-01"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "East US",
+        "West Europe",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "DataBoxEdgeDevices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2019-08-01",
+        "2019-07-01",
+        "2019-03-01",
+        "2018-07-01",
+        "2017-09-01"
+      ],
+      "locations": [
+        "East US",
+        "West Europe",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "DataBoxEdgeDevices/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2019-08-01",
+        "2019-07-01",
+        "2019-03-01",
+        "2018-07-01",
+        "2017-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

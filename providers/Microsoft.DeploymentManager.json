@@ -1,0 +1,356 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "5b306cba-9c71-49db-96c3-d17ca2379c4d"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DeploymentManager",
+  "namespace": "Microsoft.DeploymentManager",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-09-01-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2018-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2018-09-01-preview",
+      "locations": [
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "North Central US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Australia Central",
+        "Australia Central 2",
+        "Brazil South",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "France South",
+        "South Africa North",
+        "South Africa West"
+      ],
+      "properties": null,
+      "resourceType": "artifactSources"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-09-01-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2018-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2018-09-01-preview",
+      "locations": [
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "North Central US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Australia Central",
+        "Australia Central 2",
+        "Brazil South",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "France South",
+        "South Africa North",
+        "South Africa West"
+      ],
+      "properties": null,
+      "resourceType": "serviceTopologies"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-09-01-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2018-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2018-09-01-preview",
+      "locations": [
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "North Central US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Australia Central",
+        "Australia Central 2",
+        "Brazil South",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "France South",
+        "South Africa North",
+        "South Africa West"
+      ],
+      "properties": null,
+      "resourceType": "serviceTopologies/services"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-09-01-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2018-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2018-09-01-preview",
+      "locations": [
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "North Central US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Australia Central",
+        "Australia Central 2",
+        "Brazil South",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "France South",
+        "South Africa North",
+        "South Africa West"
+      ],
+      "properties": null,
+      "resourceType": "serviceTopologies/services/serviceUnits"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-09-01-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2018-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2018-09-01-preview",
+      "locations": [
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "North Central US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Australia Central",
+        "Australia Central 2",
+        "Brazil South",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "France South",
+        "South Africa North",
+        "South Africa West"
+      ],
+      "properties": null,
+      "resourceType": "steps"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-09-01-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2018-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2018-09-01-preview",
+      "locations": [
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "North Central US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Australia Central",
+        "Australia Central 2",
+        "Brazil South",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "France South",
+        "South Africa North",
+        "South Africa West"
+      ],
+      "properties": null,
+      "resourceType": "rollouts"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-09-01-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2018-09-01-preview"
+      ],
+      "defaultApiVersion": "2018-09-01-preview",
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "operationResults"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-09-01-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-11-01-preview",
+        "2018-09-01-preview"
+      ],
+      "defaultApiVersion": "2018-09-01-preview",
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

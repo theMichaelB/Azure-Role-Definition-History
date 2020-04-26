@@ -1,0 +1,523 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "cfa8b339-82a2-471a-a3c9-0fc0be7a4093",
+      "roleDefinitionId": "1cf9858a-28a2-4228-abba-94e606305b95"
+    },
+    {
+      "applicationId": "589d5083-6f11-4d30-a62a-a4b316a14abf"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.KeyVault",
+  "namespace": "Microsoft.KeyVault",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2019-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2018-02-14-preview",
+        "2018-02-14",
+        "2016-10-01",
+        "2015-06-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2019-09-01",
+      "locations": [
+        "North Central US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "South Central US",
+        "West US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "West Central US",
+        "West US 2",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "UAE North",
+        "South Africa North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "vaults"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2019-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2018-02-14-preview",
+        "2018-02-14",
+        "2016-10-01",
+        "2015-06-01"
+      ],
+      "defaultApiVersion": "2019-09-01",
+      "locations": [
+        "North Central US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "South Central US",
+        "West US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "West Central US",
+        "West US 2",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "UAE North",
+        "South Africa North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "vaults/secrets"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2019-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2018-02-14-preview",
+        "2018-02-14",
+        "2016-10-01",
+        "2015-06-01"
+      ],
+      "defaultApiVersion": "2019-09-01",
+      "locations": [
+        "North Central US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "South Central US",
+        "West US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "West Central US",
+        "West US 2",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "UAE North",
+        "South Africa North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "vaults/accessPolicies"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2019-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2018-02-14-preview",
+        "2018-02-14",
+        "2016-10-01",
+        "2015-06-01",
+        "2014-12-19-preview"
+      ],
+      "defaultApiVersion": "2019-09-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2018-02-14-preview",
+        "2018-02-14",
+        "2016-10-01",
+        "2015-06-01"
+      ],
+      "defaultApiVersion": "2019-09-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2018-02-14-preview",
+        "2018-02-14",
+        "2016-10-01"
+      ],
+      "defaultApiVersion": "2019-09-01",
+      "locations": [
+        "North Central US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "South Central US",
+        "West US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "West Central US",
+        "West US 2",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "UAE North",
+        "South Africa North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "deletedVaults"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2018-02-14-preview",
+        "2018-02-14",
+        "2016-10-01"
+      ],
+      "defaultApiVersion": "2019-09-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2018-02-14-preview",
+        "2018-02-14",
+        "2016-10-01"
+      ],
+      "defaultApiVersion": "2019-09-01",
+      "locations": [
+        "North Central US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "South Central US",
+        "West US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "West Central US",
+        "West US 2",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "UAE North",
+        "South Africa North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/deletedVaults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2018-02-14-preview",
+        "2018-02-14",
+        "2016-10-01"
+      ],
+      "defaultApiVersion": "2019-09-01",
+      "locations": [
+        "East US",
+        "North Central US",
+        "West Europe",
+        "North Europe",
+        "East Asia",
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "South Central US",
+        "West Central US",
+        "West US 2",
+        "West US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Australia Central",
+        "Brazil South",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "UAE North",
+        "South Africa North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/deleteVirtualNetworkOrSubnets"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-10-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2018-02-14-preview",
+        "2018-02-14",
+        "2016-10-01"
+      ],
+      "defaultApiVersion": "2019-09-01",
+      "locations": [
+        "North Central US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "South Central US",
+        "West US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "West Central US",
+        "West US 2",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "UAE North",
+        "South Africa North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2018-02-14-preview",
+        "2018-02-14"
+      ],
+      "defaultApiVersion": "2019-09-01",
+      "locations": [
+        "North Central US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "South Central US",
+        "West US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "West Central US",
+        "West US 2",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Australia Central",
+        "UAE North",
+        "South Africa North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "vaults/eventGridFilters"
+    }
+  ]
+}

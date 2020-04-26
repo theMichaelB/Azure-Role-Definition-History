@@ -1,0 +1,22 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "e5408ad0-c4e2-43aa-b6f2-3b4951286d99",
+      "roleDefinitionId": "5e4888b3-2747-4e5b-9897-ec0865b91bcf"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.CostManagementExports",
+  "namespace": "Microsoft.CostManagementExports",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Operations"
+    }
+  ]
+}

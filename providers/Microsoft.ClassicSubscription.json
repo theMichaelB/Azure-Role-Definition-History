@@ -1,0 +1,18 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ClassicSubscription",
+  "namespace": "Microsoft.ClassicSubscription",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-09-01",
+        "2017-06-01"
+      ],
+      "defaultApiVersion": "2017-06-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

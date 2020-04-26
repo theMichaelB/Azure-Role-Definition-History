@@ -1,0 +1,199 @@
+{
+  "authorizations": [
+    {
+      "allowedThirdPartyExtensions": [
+        {
+          "name": "CloudSimpleExtension"
+        }
+      ],
+      "applicationId": "d96199e7-4674-4bbf-a1c6-ddf93682f5ee",
+      "roleDefinitionId": "533012ca-a3e7-44e4-93b4-3143f8b9409d"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.VMwareCloudSimple",
+  "namespace": "Microsoft.VMwareCloudSimple",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "South Central US",
+        "Switzerland North",
+        "Switzerland West",
+        "West Europe",
+        "East US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "virtualMachines"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "South Central US",
+        "Switzerland North",
+        "Switzerland West",
+        "West Europe",
+        "East US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "dedicatedCloudNodes"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "South Central US",
+        "Switzerland North",
+        "Switzerland West",
+        "West Europe",
+        "East US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "dedicatedCloudServices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [
+        "South Central US",
+        "Switzerland North",
+        "Switzerland West",
+        "West Europe",
+        "East US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "locations/usages"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [
+        "South Central US",
+        "Switzerland North",
+        "Switzerland West",
+        "West Europe",
+        "East US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "locations/availabilities"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [
+        "South Central US",
+        "Switzerland North",
+        "Switzerland West",
+        "West Europe",
+        "East US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "locations/privateClouds"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [
+        "South Central US",
+        "Switzerland North",
+        "Switzerland West",
+        "West Europe",
+        "East US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "locations/privateClouds/virtualNetworks"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [
+        "South Central US",
+        "Switzerland North",
+        "Switzerland West",
+        "West Europe",
+        "East US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "locations/privateClouds/virtualMachineTemplates"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [
+        "South Central US",
+        "Switzerland North",
+        "Switzerland West",
+        "West Europe",
+        "East US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "locations/privateClouds/resourcePools"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [
+        "South Central US",
+        "Switzerland North",
+        "Switzerland West",
+        "West Europe",
+        "East US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationresults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

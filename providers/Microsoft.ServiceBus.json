@@ -1,0 +1,400 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "80a10ef9-8168-493d-abf9-3297c4ef6e3c",
+      "roleDefinitionId": "2b7763f7-bbe2-4e19-befe-28c79f1cf7f7"
+    },
+    {
+      "applicationId": "eb070ea5-bd17-41f1-ad68-5851f6e71774"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ServiceBus",
+  "namespace": "Microsoft.ServiceBus",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-01-01-preview",
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2017-04-01",
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US 2",
+        "West US",
+        "North Central US",
+        "South Central US",
+        "West Central US",
+        "East Asia",
+        "Southeast Asia",
+        "Brazil South",
+        "Japan East",
+        "Japan West",
+        "North Europe",
+        "West Europe",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK West",
+        "UK South",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "namespaces"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/authorizationrules"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-01-01-preview",
+        "2017-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/networkrulesets"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/queues"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/queues/authorizationrules"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/topics"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/topics/authorizationrules"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/topics/subscriptions"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/topics/subscriptions/rules"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2015-08-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNamespaceAvailability"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "sku"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "premiumMessagingRegions"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US 2",
+        "West US",
+        "North Central US",
+        "South Central US",
+        "West Central US",
+        "East Asia",
+        "Southeast Asia",
+        "Brazil South",
+        "Japan East",
+        "Japan West",
+        "North Europe",
+        "West Europe",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK West",
+        "UK South",
+        "Korea Central",
+        "Korea South",
+        "Australia Central",
+        "Australia Central 2",
+        "Germany West Central"
+      ],
+      "properties": null,
+      "resourceType": "namespaces/eventgridfilters"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/disasterrecoveryconfigs"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2015-08-01",
+        "2014-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/disasterrecoveryconfigs/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-01-01-preview",
+        "2017-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-01-01-preview",
+        "2017-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations/deleteVirtualNetworkOrSubnets"
+    }
+  ]
+}

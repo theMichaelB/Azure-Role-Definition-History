@@ -1,0 +1,918 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "8edd93e1-2103-40b4-bd70-6e34e586362d",
+      "roleDefinitionId": "855AF4C4-82F6-414C-B1A2-628025628B9A"
+    },
+    {
+      "applicationId": "fc780465-2017-40d4-a0c5-307022471b92"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Security",
+  "namespace": "Microsoft.Security",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "securityStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "tasks"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview",
+        "2019-01-01"
+      ],
+      "locations": [
+        "Central US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "regulatoryComplianceStandards"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview",
+        "2019-01-01"
+      ],
+      "locations": [
+        "Central US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "regulatoryComplianceStandards/regulatoryComplianceControls"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview",
+        "2019-01-01"
+      ],
+      "locations": [
+        "Central US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "regulatoryComplianceStandards/regulatoryComplianceControls/regulatoryComplianceAssessments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "alerts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "autoDismissAlertsRules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "East US",
+        "East US 2",
+        "West US",
+        "North Central US",
+        "South Central US",
+        "Central US",
+        "North Europe",
+        "West Europe",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Australia East",
+        "Australia Southeast",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East"
+      ],
+      "properties": null,
+      "resourceType": "dataCollectionAgents"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-01",
+        "2017-08-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "pricings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01",
+        "2017-08-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "AutoProvisioningSettings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-08-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "Central US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "Compliances"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-08-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "securityContacts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01",
+        "2017-08-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "workspaceSettings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-08-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "Central US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "complianceResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "policies"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "assessments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "assessmentMetadata"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2019-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "subAssessments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "securitySolutions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/securitySolutions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "discoveredSecuritySolutions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/discoveredSecuritySolutions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "allowedConnections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/allowedConnections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "topologies"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/topologies"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "securitySolutionsReferenceData"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/securitySolutionsReferenceData"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "UK South",
+        "UK West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central",
+        "West Central US",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "jitNetworkAccessPolicies"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "UK South",
+        "UK West",
+        "France Central",
+        "France South",
+        "Switzerland North",
+        "Germany West Central",
+        "West Central US",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "locations/jitNetworkAccessPolicies"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "securityStatusesSummaries"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US",
+        "West Central US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "applicationWhitelistings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "West Central US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/applicationWhitelistings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/alerts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/tasks"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "externalSecuritySolutions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2015-06-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "West Europe",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/externalSecuritySolutions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-08-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "Central US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "InformationProtectionPolicies"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01",
+        "2017-08-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "Australia Central",
+        "Australia Central 2",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "Central US",
+        "East Asia",
+        "East US 2",
+        "East US",
+        "Japan East",
+        "Japan West",
+        "Korea Central",
+        "Korea South",
+        "North Central US",
+        "North Europe",
+        "South Central US",
+        "South India",
+        "Southeast Asia",
+        "UK South",
+        "UK West",
+        "West Central US",
+        "West Europe",
+        "West India",
+        "West US 2",
+        "West US",
+        "France Central",
+        "UAE North",
+        "Germany West Central",
+        "Switzerland North"
+      ],
+      "properties": null,
+      "resourceType": "advancedThreatProtectionSettings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-01",
+        "2017-08-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "North Europe",
+        "West Europe",
+        "UK South",
+        "UK West",
+        "France Central",
+        "France South",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "deviceSecurityGroups"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-01",
+        "2017-08-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "North Central US",
+        "South Central US",
+        "Japan West",
+        "Japan East",
+        "Brazil South",
+        "Australia East",
+        "Australia Southeast",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "Korea Central",
+        "Korea South",
+        "Australia Central",
+        "Australia Central 2",
+        "UAE Central",
+        "UAE North",
+        "South Africa North",
+        "South Africa West",
+        "North Europe",
+        "West Europe",
+        "UK South",
+        "UK West",
+        "France Central",
+        "France South",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "iotSecuritySolutions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-01",
+        "2017-08-01-preview"
+      ],
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "North Central US",
+        "South Central US",
+        "Japan West",
+        "Japan East",
+        "Brazil South",
+        "Australia East",
+        "Australia Southeast",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West Central US",
+        "West US 2",
+        "Korea Central",
+        "Korea South",
+        "Australia Central",
+        "Australia Central 2",
+        "UAE Central",
+        "UAE North",
+        "South Africa North",
+        "South Africa West",
+        "North Europe",
+        "West Europe",
+        "UK South",
+        "UK West",
+        "France Central",
+        "France South"
+      ],
+      "properties": null,
+      "resourceType": "iotSecuritySolutions/analyticsModels"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-01",
+        "2017-08-01-preview"
+      ],
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "North Central US",
+        "South Central US",
+        "Japan West",
+        "Japan East",
+        "Brazil South",
+        "Australia East",
+        "Australia Southeast",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West Central US",
+        "West US 2",
+        "Korea Central",
+        "Korea South",
+        "Australia Central",
+        "Australia Central 2",
+        "UAE Central",
+        "UAE North",
+        "South Africa North",
+        "South Africa West",
+        "North Europe",
+        "West Europe",
+        "UK South",
+        "UK West",
+        "France Central",
+        "France South"
+      ],
+      "properties": null,
+      "resourceType": "iotSecuritySolutions/analyticsModels/aggregatedAlerts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-01",
+        "2017-08-01-preview"
+      ],
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "North Central US",
+        "South Central US",
+        "Japan West",
+        "Japan East",
+        "Brazil South",
+        "Australia East",
+        "Australia Southeast",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West Central US",
+        "West US 2",
+        "Korea Central",
+        "Korea South",
+        "Australia Central",
+        "Australia Central 2",
+        "UAE Central",
+        "UAE North",
+        "South Africa North",
+        "South Africa West",
+        "North Europe",
+        "West Europe",
+        "UK South",
+        "UK West",
+        "France Central",
+        "France South"
+      ],
+      "properties": null,
+      "resourceType": "iotSecuritySolutions/analyticsModels/aggregatedRecommendations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01",
+        "2017-08-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "settings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "France Central",
+        "France South",
+        "Switzerland North",
+        "Germany West Central"
+      ],
+      "properties": null,
+      "resourceType": "serverVulnerabilityAssessments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2015-06-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "France Central",
+        "France South",
+        "Switzerland North",
+        "Germany West Central"
+      ],
+      "properties": null,
+      "resourceType": "adaptiveNetworkHardenings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "Central US",
+        "East US",
+        "East US 2",
+        "North Central US",
+        "South Central US",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "Canada Central",
+        "Canada East",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "Australia Central",
+        "Australia Central 2",
+        "Australia East",
+        "Australia Southeast",
+        "Central India",
+        "South India",
+        "West India",
+        "Japan East",
+        "Japan West",
+        "Korea Central",
+        "Korea South",
+        "South Africa North",
+        "South Africa West",
+        "UAE Central",
+        "UAE North",
+        "North Europe",
+        "West Europe",
+        "France Central",
+        "France South",
+        "UK South",
+        "UK West"
+      ],
+      "properties": null,
+      "resourceType": "automations"
+    }
+  ]
+}

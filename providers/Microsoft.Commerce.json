@@ -1,0 +1,38 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Commerce",
+  "namespace": "Microsoft.Commerce",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview",
+        "2015-03-31"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "UsageAggregates"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-08-31-preview",
+        "2015-06-01-preview",
+        "2015-05-15"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "RateCard"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview",
+        "2015-03-31"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

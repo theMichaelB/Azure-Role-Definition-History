@@ -1,0 +1,76 @@
+{
+  "authorization": {
+    "applicationId": "bf8eb16c-7ba7-4b47-86be-ac5e4b2007a5",
+    "roleDefinitionId": "FACF09C9-A5D0-4D34-8B1F-B623AC29C6F7"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.CustomProviders",
+  "namespace": "Microsoft.CustomProviders",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "East US",
+        "West US 2",
+        "West Europe",
+        "North Europe",
+        "Canada Central",
+        "Canada East"
+      ],
+      "properties": null,
+      "resourceType": "resourceProviders"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "associations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "East US",
+        "West US 2",
+        "West Europe",
+        "North Europe",
+        "Canada Central",
+        "Canada East"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationStatuses"
+    }
+  ]
+}

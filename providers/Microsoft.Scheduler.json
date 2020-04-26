@@ -1,0 +1,122 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Scheduler",
+  "namespace": "Microsoft.Scheduler",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-03-01",
+        "2016-01-01",
+        "2014-08-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "North Central US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "West US",
+        "East US",
+        "Japan West",
+        "Japan East",
+        "Brazil South",
+        "Central US",
+        "East US 2",
+        "Australia East",
+        "Australia Southeast",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "West Central US",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South"
+      ],
+      "properties": null,
+      "resourceType": "jobcollections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-03-01",
+        "2016-01-01",
+        "2014-08-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "West US",
+        "East US",
+        "Japan West",
+        "Japan East",
+        "Brazil South",
+        "Central US",
+        "East US 2",
+        "Australia East",
+        "Australia Southeast",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "West Central US",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-03-01",
+        "2016-01-01",
+        "2014-08-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "West US",
+        "East US",
+        "Japan West",
+        "Japan East",
+        "Brazil South",
+        "Central US",
+        "East US 2",
+        "Australia East",
+        "Australia Southeast",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "West Central US",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South"
+      ],
+      "properties": null,
+      "resourceType": "operationResults"
+    }
+  ]
+}

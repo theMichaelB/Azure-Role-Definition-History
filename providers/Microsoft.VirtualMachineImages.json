@@ -1,0 +1,33 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "cf32a0cc-373c-47c9-9156-0db11f6a6dfc",
+      "managedByRoleDefinitionId": "9e3af657-a8ff-583c-a75c-2fe7c4bcb635",
+      "roleDefinitionId": "0ee55a0b-f45f-4392-92ec-e8bf1b4b5da5"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.VirtualMachineImages",
+  "namespace": "Microsoft.VirtualMachineImages",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-05-01-preview",
+        "2019-02-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "East US 2",
+        "West Central US",
+        "West US",
+        "West US 2",
+        "South Central US",
+        "North Europe",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

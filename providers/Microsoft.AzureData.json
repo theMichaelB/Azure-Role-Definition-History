@@ -1,0 +1,112 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AzureData",
+  "namespace": "Microsoft.AzureData",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-05-10-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2019-05-10-preview",
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "Canada Central",
+        "France Central",
+        "Japan East",
+        "Japan West",
+        "Korea Central",
+        "Korea South",
+        "North Central US",
+        "North Europe",
+        "South Africa North",
+        "South Central US",
+        "Southeast Asia",
+        "South India",
+        "UK South",
+        "UK West",
+        "West US",
+        "East US",
+        "Central US",
+        "East Asia",
+        "West Europe",
+        "West Central US",
+        "West US 2",
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "sqlServerRegistrations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-05-10-preview"
+      ],
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "Canada Central",
+        "France Central",
+        "Japan East",
+        "Japan West",
+        "Korea Central",
+        "Korea South",
+        "North Central US",
+        "North Europe",
+        "South Africa North",
+        "South Central US",
+        "Southeast Asia",
+        "South India",
+        "UK South",
+        "UK West",
+        "West US",
+        "East US",
+        "Central US",
+        "East Asia",
+        "West Europe",
+        "West Central US",
+        "West US 2",
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-05-10-preview"
+      ],
+      "defaultApiVersion": "2019-05-10-preview",
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "Canada Central",
+        "France Central",
+        "Japan East",
+        "Japan West",
+        "Korea Central",
+        "Korea South",
+        "North Central US",
+        "North Europe",
+        "South Africa North",
+        "South Central US",
+        "Southeast Asia",
+        "South India",
+        "UK South",
+        "UK West",
+        "West US",
+        "East US",
+        "Central US",
+        "East Asia",
+        "West Europe",
+        "West Central US",
+        "West US 2",
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "sqlServerRegistrations/sqlServers"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "authorization": {
+    "applicationId": "c39c9bac-9d1f-4dfb-aa29-27f6365e5cb7",
+    "roleDefinitionId": "8a63b04c-3731-409b-9765-f1175c047872"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Advisor",
+  "namespace": "Microsoft.Advisor",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2017-04-19",
+        "2017-03-31",
+        "2016-07-12-preview",
+        "2016-05-09-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "suppressions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2017-04-19",
+        "2017-03-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "configurations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2017-04-19",
+        "2017-03-31",
+        "2016-07-12-preview",
+        "2016-05-09-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "recommendations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2017-04-19",
+        "2017-03-31",
+        "2016-07-12-preview",
+        "2016-05-09-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "generateRecommendations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01",
+        "2017-04-19",
+        "2017-03-31",
+        "2016-07-12-preview",
+        "2016-05-09-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

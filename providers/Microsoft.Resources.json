@@ -1,0 +1,1009 @@
+{
+  "authorization": {
+    "applicationId": "3b990c8b-9607-4c2a-8b04-1d41985facca"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Resources",
+  "namespace": "Microsoft.Resources",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2020-01-01",
+        "2019-09-01",
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "tenants"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2018-05-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operationresults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01",
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "notifyResourceJobs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "tags"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkPolicyCompliance"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2018-05-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "providers"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkresourcename"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2018-05-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "resources"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-10-01",
+        "2019-09-01",
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "subscriptions"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2018-05-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "subscriptions/resources"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2018-05-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "subscriptions/providers"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2018-05-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "subscriptions/operationresults"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2018-05-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East Asia",
+        "Southeast Asia",
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "North Central US",
+        "South Central US",
+        "West Central US",
+        "North Europe",
+        "West Europe",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Australia Southeast",
+        "Australia East",
+        "West India",
+        "South India",
+        "Central India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "resourceGroups"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2018-05-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East Asia",
+        "Southeast Asia",
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "North Central US",
+        "South Central US",
+        "West Central US",
+        "North Europe",
+        "West Europe",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Australia Southeast",
+        "Australia East",
+        "West India",
+        "South India",
+        "Central India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "subscriptions/resourceGroups"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2018-05-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "subscriptions/resourcegroups/resources"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "subscriptions/locations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2018-05-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "subscriptions/tagnames"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2018-05-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "subscriptions/tagNames/tagValues"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2018-05-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "deployments"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2018-05-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-09-01",
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "deployments/operations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-06-01",
+          "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2018-05-01",
+          "profileVersion": "2019-03-01-hybrid"
+        }
+      ],
+      "apiVersions": [
+        "2019-05-01",
+        "2019-04-01",
+        "2019-03-01",
+        "2018-11-01",
+        "2018-09-01",
+        "2018-08-01",
+        "2018-07-01",
+        "2018-05-01",
+        "2018-02-01",
+        "2018-01-01",
+        "2017-08-01",
+        "2017-06-01",
+        "2017-05-10",
+        "2017-05-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01",
+        "2014-04-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "links"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2015-01-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2015-01-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "Australia East",
+        "Brazil South",
+        "Canada Central",
+        "UK South",
+        "Central India",
+        "South India",
+        "Japan East",
+        "Korea Central",
+        "West Central US",
+        "West Europe",
+        "North Europe",
+        "West US 2",
+        "West US",
+        "East US",
+        "East US 2",
+        "Central US",
+        "South Central US",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "deploymentScripts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "Australia East",
+        "Brazil South",
+        "Canada Central",
+        "UK South",
+        "Central India",
+        "South India",
+        "Japan East",
+        "Korea Central",
+        "West Central US",
+        "West Europe",
+        "North Europe",
+        "West US 2",
+        "West US",
+        "East US",
+        "East US 2",
+        "Central US",
+        "South Central US",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "deploymentScripts/logs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "Australia East",
+        "Brazil South",
+        "Canada Central",
+        "UK South",
+        "Central India",
+        "South India",
+        "Japan East",
+        "Korea Central",
+        "West Central US",
+        "West Europe",
+        "North Europe",
+        "West US 2",
+        "West US",
+        "East US",
+        "East US 2",
+        "Central US",
+        "South Central US",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/deploymentScriptOperationResults"
+    }
+  ]
+}

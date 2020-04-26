@@ -1,0 +1,236 @@
+{
+  "authorization": {
+    "applicationId": "ea2f600a-4980-45b7-89bf-d34da487bda1",
+    "roleDefinitionId": "54d7f2e3-5040-48a7-ae90-eebf629cfa0b"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DomainRegistration",
+  "namespace": "Microsoft.DomainRegistration",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-08-01",
+        "2018-02-01",
+        "2015-04-01",
+        "2015-02-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "domains"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-08-01",
+        "2018-02-01",
+        "2015-04-01",
+        "2015-02-01"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "domains/domainOwnershipIdentifiers"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-08-01",
+        "2018-02-01",
+        "2015-04-01",
+        "2015-02-01"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "topLevelDomains"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-08-01",
+        "2018-02-01",
+        "2015-04-01",
+        "2015-02-01"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "checkDomainAvailability"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-08-01",
+        "2018-02-01",
+        "2015-04-01",
+        "2015-02-01"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "listDomainRecommendations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-08-01",
+        "2018-02-01",
+        "2015-04-01",
+        "2015-02-01"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "validateDomainRegistrationInformation"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-08-01",
+        "2018-02-01",
+        "2015-04-01",
+        "2015-02-01"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "generateSsoRequest"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-08-01",
+        "2018-02-01",
+        "2015-04-01",
+        "2015-02-01"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

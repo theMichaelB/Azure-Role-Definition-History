@@ -1,0 +1,33 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "37ae09d4-a310-41e1-803d-8e85cec4bf23",
+      "roleDefinitionId": "37ae09d4-a310-41e1-803d-8e85cec4bf23"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Hydra",
+  "namespace": "Microsoft.Hydra",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-01-privatepreview"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-01-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

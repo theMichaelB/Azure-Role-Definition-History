@@ -1,0 +1,57 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "0eb690b7-d23e-4fb0-b43e-cd161ac80cc3",
+      "roleDefinitionId": "48397dc8-3910-486a-8165-ab2df987447f"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.HardwareSecurityModules",
+  "namespace": "Microsoft.HardwareSecurityModules",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-31-preview",
+        "2018-10-31"
+      ],
+      "defaultApiVersion": "2018-10-31",
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-10-31-preview",
+        "2018-10-31"
+      ],
+      "defaultApiVersion": "2018-10-31",
+      "locations": [
+        "East US",
+        "East US 2",
+        "South Central US",
+        "West US",
+        "East Asia",
+        "Southeast Asia",
+        "North Europe",
+        "West Europe",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "Australia East",
+        "Australia Southeast",
+        "West US 2",
+        "South India",
+        "Central India",
+        "Japan East",
+        "Japan West",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "ac9dc5fe-b644-4832-9d03-d9f1ab70c5f7",
+      "roleDefinitionId": "dd032bd9-65cc-4171-b688-c612566422ae"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.VMware",
+  "namespace": "Microsoft.VMware",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-12-20-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-12-20-privatepreview"
+      ],
+      "locations": [
+        "East US",
+        "West US",
+        "East US 2 EUAP",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "Locations/OperationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-12-20-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Operations"
+    }
+  ]
+}

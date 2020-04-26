@@ -1,0 +1,92 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "1d78a85d-813d-46f0-b496-dd72f50a3ec0",
+      "roleDefinitionId": "63d2b225-4c34-4641-8768-21a1f7c68ce8"
+    },
+    {
+      "applicationId": "8cae6e77-e04e-42ce-b5cb-50d82bce26b1",
+      "roleDefinitionId": "4a2d3d6b-a6ea-45e2-9882-c9ba3e726ed7"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.PolicyInsights",
+  "namespace": "Microsoft.PolicyInsights",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2018-07-01-preview",
+        "2018-04-04",
+        "2017-12-12-preview",
+        "2017-10-17-preview",
+        "2017-08-09-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "policyEvents"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2018-07-01-preview",
+        "2018-04-04",
+        "2017-12-12-preview",
+        "2017-10-17-preview",
+        "2017-08-09-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "policyStates"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2018-07-01-preview",
+        "2018-04-04",
+        "2017-12-12-preview",
+        "2017-10-17-preview",
+        "2017-08-09-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2018-07-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "asyncOperationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-07-01",
+        "2018-07-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "remediations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-07-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "policyTrackedResources"
+    }
+  ]
+}

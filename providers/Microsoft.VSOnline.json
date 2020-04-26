@@ -1,0 +1,59 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "9bd5ab7f-4031-4045-ace9-6bebbad202f6",
+      "roleDefinitionId": "b879ac78-f1e6-448d-ab4c-5908cd5967c1"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.VSOnline",
+  "namespace": "Microsoft.VSOnline",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-07-01-preview",
+        "2019-07-01-beta",
+        "2019-07-01-alpha"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West Europe",
+        "East US",
+        "West Us 2",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "accounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-07-01-preview",
+        "2019-07-01-beta",
+        "2019-07-01-alpha"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West Europe",
+        "East US",
+        "West Us 2",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "plans"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-07-01-privatepreview",
+        "2019-07-01-preview",
+        "2019-07-01-beta",
+        "2019-07-01-alpha"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "3184af01-7a88-49e0-8b55-8ecdce0aa950"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.CostManagement",
+  "namespace": "Microsoft.CostManagement",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "Connectors"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-03-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "CloudConnectors"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-03-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "ExternalBillingAccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-05-01-preview",
+        "2019-04-01-preview",
+        "2019-03-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "ExternalBillingAccounts/Dimensions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-05-01-preview",
+        "2019-04-01-preview",
+        "2019-03-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "ExternalBillingAccounts/Query"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-05-01-preview",
+        "2019-04-01-preview",
+        "2019-03-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "ExternalSubscriptions/Dimensions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-05-01-preview",
+        "2019-04-01-preview",
+        "2019-03-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "ExternalSubscriptions/Query"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-03-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "ExternalSubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-05-01-preview",
+        "2019-04-01-preview",
+        "2019-03-01-preview",
+        "2018-12-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Forecast"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-05-01-preview",
+        "2019-04-01-preview",
+        "2019-03-01-preview",
+        "2018-12-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "ExternalSubscriptions/Forecast"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-05-01-preview",
+        "2019-04-01-preview",
+        "2019-03-01-preview",
+        "2018-12-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "ExternalBillingAccounts/Forecast"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Settings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-01-01",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-08-01-preview",
+        "2017-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-03-01-preview",
+        "2017-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "register"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-05-01-preview",
+        "2019-04-01-preview",
+        "2019-03-01-preview",
+        "2019-01-01",
+        "2018-12-01-preview",
+        "2018-10-01-preview",
+        "2018-08-31",
+        "2018-08-01-preview",
+        "2018-05-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Query"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-05-01-preview",
+        "2019-04-01-preview",
+        "2019-03-01-preview",
+        "2019-01-01",
+        "2018-12-01-preview",
+        "2018-10-01-preview",
+        "2018-08-31",
+        "2018-08-01-preview",
+        "2018-05-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Dimensions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-04-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Budgets"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2018-08-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "ExternalSubscriptions/Alerts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2018-08-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "ExternalBillingAccounts/Alerts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2018-08-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Alerts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-03-01-preview",
+        "2019-02-03-alpha",
+        "2019-02-02-alpha",
+        "2019-02-01-alpha"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "showbackRules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-09-01",
+        "2019-01-01-preview",
+        "2019-01-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Exports"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-12-01-preview",
+        "2018-08-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Reports"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Reportconfigs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-31"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "BillingAccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-31"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Departments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-31"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "EnrollmentAccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-04-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Views"
+    }
+  ]
+}

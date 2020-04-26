@@ -1,0 +1,141 @@
+{
+  "authorization": {
+    "applicationId": "f2c304cf-8e7e-4c3f-8164-16299ad9d272",
+    "roleDefinitionId": "c1cf3708-588a-4647-be7f-f400bbe214cf"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Management",
+  "namespace": "Microsoft.Management",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-11-01-preview",
+        "2017-08-31-preview",
+        "2017-06-30-preview",
+        "2017-05-31-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "resources"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-01",
+        "2019-11-01",
+        "2018-03-01-preview",
+        "2018-03-01-beta",
+        "2018-01-01-preview",
+        "2017-11-01-preview",
+        "2017-08-31-preview",
+        "2017-06-30-preview",
+        "2017-05-31-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "managementGroups"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-01",
+        "2019-11-01",
+        "2018-03-01-preview",
+        "2018-03-01-beta",
+        "2018-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "getEntities"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-01",
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "managementGroups/settings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-01",
+        "2019-11-01",
+        "2018-03-01-preview",
+        "2018-03-01-beta",
+        "2018-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-01",
+        "2019-11-01",
+        "2018-03-01-preview",
+        "2018-03-01-beta",
+        "2018-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-01",
+        "2019-11-01",
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operationResults/asyncOperation"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-01",
+        "2019-11-01",
+        "2018-03-01-preview",
+        "2018-03-01-beta",
+        "2018-01-01-preview",
+        "2017-11-01-preview",
+        "2017-08-31-preview",
+        "2017-06-30-preview",
+        "2017-05-31-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-01",
+        "2019-11-01",
+        "2018-03-01-preview",
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "tenantBackfillStatus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-01",
+        "2019-11-01",
+        "2018-03-01-preview",
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "startTenantBackfill"
+    }
+  ]
+}

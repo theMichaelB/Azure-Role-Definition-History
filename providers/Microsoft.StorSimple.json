@@ -1,0 +1,51 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.StorSimple",
+  "namespace": "Microsoft.StorSimple",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-06-01",
+        "2017-05-15",
+        "2017-01-01",
+        "2016-10-01",
+        "2016-06-01",
+        "2015-03-15",
+        "2014-09-01"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Brazil South",
+        "East Asia",
+        "Southeast Asia",
+        "West Central US",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "managers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2016-10-01",
+        "2016-06-01",
+        "2015-03-15",
+        "2014-09-01"
+      ],
+      "locations": [
+        "West Central US",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

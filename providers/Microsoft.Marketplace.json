@@ -1,0 +1,182 @@
+{
+  "authorization": {
+    "applicationId": "a0e1e353-1a3e-42cf-a8ea-3a9746eec58c"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Marketplace",
+  "namespace": "Microsoft.Marketplace",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "register"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "privategalleryitems"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "products"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "offers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "offerTypes"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "offerTypes/publishers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "offerTypes/publishers/offers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "offerTypes/publishers/offers/plans"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "offerTypes/publishers/offers/plans/configs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "offerTypes/publishers/offers/plans/configs/importImage"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "offerTypes/publishers/offers/plans/agreements"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "listAvailableOffers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-30-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "publishers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-30-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "publishers/offers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-30-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "publishers/offers/amendments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-01-beta",
+        "2018-03-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "privateStoreClient"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "privateStores"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "privateStores/offers"
+    }
+  ]
+}

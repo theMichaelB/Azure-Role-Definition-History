@@ -1,0 +1,1350 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "6bccf540-eb86-4037-af03-7fa058c2db75",
+      "roleDefinitionId": "89dcede2-9219-403a-9723-d3c6473f9472"
+    },
+    {
+      "applicationId": "11c174dc-1945-4a9a-a36b-c79a0f246b9b",
+      "roleDefinitionId": "dd9d4347-f397-45f2-b538-85f21c90037b"
+    },
+    {
+      "applicationId": "035f9e1d-4f00-4419-bf50-bf2d87eb4878",
+      "roleDefinitionId": "323795fe-ba3d-4f5a-ad42-afb4e1ea9485"
+    },
+    {
+      "applicationId": "f5c26e74-f226-4ae8-85f0-b4af0080ac9e",
+      "roleDefinitionId": "529d7ae6-e892-4d43-809d-8547aeb90643"
+    },
+    {
+      "applicationId": "b503eb83-1222-4dcc-b116-b98ed5216e05",
+      "roleDefinitionId": "68699c37-c689-44d4-9248-494b782d46ae"
+    },
+    {
+      "applicationId": "ca7f3f0b-7d91-482c-8e09-c5d840d0eac5",
+      "roleDefinitionId": "5d5a2e56-9835-44aa-93db-d2f19e155438"
+    },
+    {
+      "applicationId": "3af5a1e8-2459-45cb-8683-bcd6cccbcc13",
+      "roleDefinitionId": "b1309299-720d-4159-9897-6158a61aee41"
+    },
+    {
+      "applicationId": "6a0a243c-0886-468a-a4c2-eff52c7445da",
+      "roleDefinitionId": "d2eda64b-c5e6-4930-8642-2d80ecd7c2e2"
+    },
+    {
+      "applicationId": "707be275-6b9d-4ee7-88f9-c0c2bd646e0f",
+      "roleDefinitionId": "fa027d90-6ba0-4c33-9a54-59edaf2327e7"
+    },
+    {
+      "applicationId": "461e8683-5575-4561-ac7f-899cc907d62a",
+      "roleDefinitionId": "68699c37-c689-44d4-9248-494b782d46ae"
+    },
+    {
+      "applicationId": "562db366-1b96-45d2-aa4a-f2148cef2240",
+      "roleDefinitionId": "4109c8be-c1c8-4be0-af52-9d3c76c140ab"
+    },
+    {
+      "applicationId": "e933bd07-d2ee-4f1d-933c-3752b819567b",
+      "roleDefinitionId": "abbcfd44-e662-419a-9b5a-478f8e2f57c9"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/microsoft.insights",
+  "namespace": "microsoft.insights",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-01-preview",
+        "2015-05-01",
+        "2014-12-01-preview",
+        "2014-08-01",
+        "2014-04-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "UK South",
+        "Canada Central",
+        "Central India",
+        "Japan East",
+        "Australia East",
+        "Korea Central",
+        "France Central",
+        "Central US",
+        "East US 2",
+        "East Asia",
+        "West US",
+        "South Africa North",
+        "North Central US",
+        "Brazil South",
+        "Switzerland North",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "components"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-04-20"
+      ],
+      "locations": [
+        "East US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "UK South",
+        "Central India",
+        "Canada Central",
+        "Japan East",
+        "Australia East",
+        "Korea Central",
+        "France Central",
+        "East US 2",
+        "East Asia",
+        "West US",
+        "Central US",
+        "South Africa North",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "components/query"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-04-20",
+        "2014-04-01"
+      ],
+      "locations": [
+        "East US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "UK South",
+        "Central India",
+        "Canada Central",
+        "Japan East",
+        "Australia East",
+        "Korea Central",
+        "France Central",
+        "East US 2",
+        "East Asia",
+        "West US",
+        "Central US",
+        "South Africa North",
+        "North Central US",
+        "Brazil South",
+        "Switzerland North",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "components/metrics"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-04-20"
+      ],
+      "locations": [
+        "East US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "UK South",
+        "Central India",
+        "Canada Central",
+        "Japan East",
+        "Australia East",
+        "Korea Central",
+        "France Central",
+        "East US 2",
+        "East Asia",
+        "West US",
+        "Central US",
+        "South Africa North",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "components/events"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-01-preview",
+        "2015-05-01",
+        "2014-08-01",
+        "2014-04-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "UK South",
+        "Central India",
+        "Canada Central",
+        "Japan East",
+        "Australia East",
+        "Korea Central",
+        "France Central",
+        "Central US",
+        "East US 2",
+        "East Asia",
+        "West US",
+        "South Africa North",
+        "North Central US",
+        "Brazil South",
+        "Switzerland North",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "webtests"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-04-16",
+        "2017-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West Central US",
+        "East US",
+        "West Europe",
+        "Central India",
+        "Canada Central",
+        "Australia Southeast",
+        "Japan East",
+        "Southeast Asia",
+        "UK South",
+        "South Central US",
+        "North Europe",
+        "West US 2",
+        "Australia Central",
+        "Australia East",
+        "Korea Central",
+        "France Central",
+        "Central US",
+        "East US 2",
+        "East Asia",
+        "West US",
+        "North Central US",
+        "South Africa North",
+        "Brazil South",
+        "UK West",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "scheduledqueryrules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-10-01"
+      ],
+      "locations": [
+        "East US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "components/pricingPlans"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-10-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-10-01"
+      ],
+      "locations": [
+        "East US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "migrateToNewPricingModel"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-10-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-10-01"
+      ],
+      "locations": [
+        "East US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "rollbackToLegacyPricingModel"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-10-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-10-01"
+      ],
+      "locations": [
+        "East US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "listMigrationdate"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-03-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2016-03-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "logprofiles"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "migratealertrules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01",
+        "2017-09-01-preview"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "metricalerts"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-03-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2016-03-01",
+        "2015-04-01",
+        "2014-04-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "North Central US",
+        "South Central US",
+        "East US 2",
+        "Central US",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "UK South",
+        "UK West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Canada Central",
+        "West Central US",
+        "West US 2",
+        "Korea South",
+        "Korea Central",
+        "Australia Central",
+        "Australia Central 2",
+        "France Central",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "alertrules"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2015-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2015-04-01",
+        "2014-04-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "South Central US",
+        "East US 2",
+        "Central US",
+        "Australia Southeast",
+        "Brazil South",
+        "UK South",
+        "UK West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Canada Central",
+        "West Central US",
+        "West US 2",
+        "Korea South",
+        "Korea Central",
+        "Australia Central",
+        "Australia Central 2",
+        "France Central",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "North Central US",
+        "Australia East",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "autoscalesettings"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2015-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-03-01-preview",
+        "2016-09-01-preview",
+        "2015-04-01",
+        "2014-11-01",
+        "2014-04-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "eventtypes"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-04-01",
+        "2014-04-01"
+      ],
+      "locations": [
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-04-01",
+        "2014-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations/operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-27-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "vmInsightsOnboardingStatuses"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2015-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2015-04-01",
+        "2014-06-01",
+        "2014-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-09-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-05-01-preview",
+        "2016-09-01",
+        "2015-07-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "North Central US",
+        "South Central US",
+        "East US 2",
+        "Central US",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "UK South",
+        "UK West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Canada Central",
+        "West Central US",
+        "West US 2",
+        "Korea South",
+        "Korea Central",
+        "Australia Central",
+        "Australia Central 2",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "diagnosticSettings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-05-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "North Central US",
+        "South Central US",
+        "East US 2",
+        "Central US",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "UK South",
+        "UK West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Canada Central",
+        "West Central US",
+        "West US 2",
+        "Korea South",
+        "Korea Central",
+        "Australia Central",
+        "Australia Central 2",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "diagnosticSettingsCategories"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-02-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-02-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "North Central US",
+        "South Central US",
+        "East US 2",
+        "Central US",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "UK South",
+        "UK West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Canada Central",
+        "West Central US",
+        "West US 2",
+        "Korea South",
+        "Korea Central",
+        "Australia Central",
+        "Australia Central 2",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "extendedDiagnosticSettings"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-01-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2018-01-01",
+        "2017-12-01-preview",
+        "2017-09-01-preview",
+        "2017-05-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "East US",
+        "West US",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "North Central US",
+        "South Central US",
+        "East US 2",
+        "Canada East",
+        "Canada Central",
+        "Central US",
+        "Australia East",
+        "Australia Southeast",
+        "Australia Central",
+        "Australia Central 2",
+        "Brazil South",
+        "South India",
+        "Central India",
+        "West India",
+        "North Europe",
+        "West US 2",
+        "West Central US",
+        "Korea South",
+        "Korea Central",
+        "UK South",
+        "UK West",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "metricDefinitions"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2015-07-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2015-07-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "North Central US",
+        "South Central US",
+        "East US 2",
+        "Central US",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "UK South",
+        "UK West",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada East",
+        "Canada Central",
+        "West Central US",
+        "West US 2",
+        "Korea South",
+        "Korea Central",
+        "Australia Central",
+        "Australia Central 2",
+        "France Central"
+      ],
+      "properties": null,
+      "resourceType": "logDefinitions"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2015-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2015-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "eventCategories"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-01-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-07-01",
+        "2018-01-01",
+        "2017-12-01-preview",
+        "2017-09-01-preview",
+        "2017-05-01-preview",
+        "2016-09-01",
+        "2016-06-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "East US",
+        "West US",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "North Central US",
+        "South Central US",
+        "East US 2",
+        "Canada East",
+        "Canada Central",
+        "Central US",
+        "Australia East",
+        "Australia Southeast",
+        "Australia Central",
+        "Australia Central 2",
+        "Brazil South",
+        "South India",
+        "Central India",
+        "West India",
+        "North Europe",
+        "West US 2",
+        "West Central US",
+        "Korea South",
+        "Korea Central",
+        "UK South",
+        "UK West",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "metrics"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "metricbatch"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-01-01",
+        "2017-12-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "East US",
+        "West US",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "North Central US",
+        "South Central US",
+        "East US 2",
+        "Canada East",
+        "Canada Central",
+        "Central US",
+        "Australia East",
+        "Australia Southeast",
+        "Australia Central",
+        "Australia Central 2",
+        "Brazil South",
+        "South India",
+        "Central India",
+        "West India",
+        "North Europe",
+        "West US 2",
+        "West Central US",
+        "Korea South",
+        "Korea Central",
+        "UK South",
+        "UK West",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "metricNamespaces"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-06-01",
+        "2019-03-01",
+        "2018-09-01",
+        "2018-03-01",
+        "2017-04-01",
+        "2017-03-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "actiongroups"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-04-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-04-01",
+        "2017-03-01-preview"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "activityLogAlerts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01",
+        "2017-11-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "East US",
+        "West US",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "North Central US",
+        "South Central US",
+        "East US 2",
+        "Canada East",
+        "Canada Central",
+        "Central US",
+        "Australia East",
+        "Australia Southeast",
+        "Australia Central",
+        "Australia Central 2",
+        "Brazil South",
+        "South India",
+        "Central India",
+        "West India",
+        "North Europe",
+        "West US 2",
+        "West Central US",
+        "Korea South",
+        "Korea Central",
+        "UK South",
+        "UK West",
+        "France Central",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "baseline"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-03-01",
+        "2018-09-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "East US",
+        "West US",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "North Central US",
+        "South Central US",
+        "East US 2",
+        "Canada East",
+        "Canada Central",
+        "Central US",
+        "Australia East",
+        "Australia Southeast",
+        "Australia Central",
+        "Australia Central 2",
+        "Brazil South",
+        "South India",
+        "Central India",
+        "West India",
+        "North Europe",
+        "West US 2",
+        "West Central US",
+        "Korea South",
+        "Korea Central",
+        "UK South",
+        "UK West",
+        "France Central",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "metricbaselines"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01",
+        "2017-11-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "calculatebaseline"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-12",
+        "2018-06-17-preview",
+        "2018-06-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West Europe",
+        "South Central US",
+        "East US",
+        "North Europe",
+        "Southeast Asia",
+        "West US 2",
+        "Japan East",
+        "Australia East",
+        "Korea Central",
+        "France Central",
+        "Central US",
+        "East US 2",
+        "East Asia",
+        "West US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "South Africa North",
+        "North Central US",
+        "Brazil South",
+        "Switzerland North",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "workbooks"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-17-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West Europe",
+        "South Central US",
+        "East US",
+        "North Europe",
+        "Southeast Asia",
+        "West US 2",
+        "Japan East",
+        "Australia East",
+        "Korea Central",
+        "France Central",
+        "Central US",
+        "East US 2",
+        "East Asia",
+        "West US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "South Africa North",
+        "North Central US",
+        "Brazil South",
+        "Switzerland North",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "workbooktemplates"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-12",
+        "2018-06-17-preview",
+        "2018-06-15-preview",
+        "2018-06-01-preview",
+        "2016-06-15-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "South Central US",
+        "East US",
+        "North Europe",
+        "Southeast Asia",
+        "West US 2",
+        "UK South",
+        "Canada Central",
+        "Central India",
+        "Japan East",
+        "Australia East",
+        "Korea Central",
+        "France Central",
+        "Central US",
+        "East US 2",
+        "East Asia",
+        "West US",
+        "South Africa North",
+        "North Central US",
+        "Brazil South",
+        "Switzerland North",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "myWorkbooks"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-01-preview",
+        "2018-03-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US",
+        "Central US",
+        "North Central US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "West Central US",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "France South",
+        "Australia Central",
+        "South Africa North"
+      ],
+      "properties": null,
+      "resourceType": "logs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-17-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "East US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "UK South",
+        "Central India",
+        "Canada Central",
+        "Japan East",
+        "Australia East",
+        "Korea Central",
+        "France Central",
+        "East US 2",
+        "East Asia",
+        "West US",
+        "Central US",
+        "South Africa North",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "transactions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-17-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "East US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "UK South",
+        "Central India",
+        "Canada Central",
+        "Japan East",
+        "Australia East",
+        "Korea Central",
+        "France Central",
+        "East US 2",
+        "East Asia",
+        "West US",
+        "Central US",
+        "South Africa North",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "topology"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-17-preview"
+      ],
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "privateLinkScopes/privateEndpointConnections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-17-preview"
+      ],
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "privateLinkScopes/privateEndpointConnectionProxies"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-17-preview"
+      ],
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "privateLinkScopes/scopedResources"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West Central US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "UK South",
+        "Canada Central",
+        "Central India",
+        "Japan East",
+        "Australia East",
+        "Korea Central",
+        "France Central",
+        "Central US",
+        "East US 2",
+        "East Asia",
+        "West US",
+        "South Africa North",
+        "North Central US",
+        "Brazil South",
+        "Switzerland North",
+        "Norway East",
+        "Norway West",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "components/linkedstorageaccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-17-preview"
+      ],
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "privateLinkScopeOperationStatuses"
+    }
+  ]
+}

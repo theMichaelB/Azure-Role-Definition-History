@@ -1,0 +1,422 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "c5b17a4f-cc6f-4649-9480-684280a2af3a",
+      "roleDefinitionId": "4a2e6ae9-2713-4cc9-a3b3-312899d687c3"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Consumption",
+  "namespace": "Microsoft.Consumption",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2019-01-01",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-06-30",
+        "2018-05-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Forecasts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2019-01-01",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-06-30"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "AggregatedCost"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2019-01-01",
+        "2018-10-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "tenants"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2019-01-01-preview",
+        "2019-01-01",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-06-30",
+        "2018-03-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "ReservationRecommendations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2019-01-01-preview",
+        "2019-01-01",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-06-30",
+        "2018-03-31",
+        "2018-01-31",
+        "2017-11-30",
+        "2017-06-30-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "ReservationSummaries"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2019-01-01",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-06-30",
+        "2018-05-31",
+        "2018-03-31",
+        "2018-01-31",
+        "2017-11-30",
+        "2017-06-30-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "ReservationTransactions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2019-01-01",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-06-30",
+        "2018-05-31",
+        "2018-03-31",
+        "2018-01-31",
+        "2017-11-30",
+        "2017-06-30-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Balances"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2019-01-01",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-06-30",
+        "2018-05-31",
+        "2018-03-31",
+        "2018-01-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Marketplaces"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview",
+        "2019-10-01",
+        "2019-05-01",
+        "2019-01-01",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-06-30",
+        "2018-05-31",
+        "2018-03-31",
+        "2018-01-31",
+        "2017-11-30",
+        "2017-06-30-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Pricesheets"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2019-01-01-preview",
+        "2019-01-01",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-06-30",
+        "2018-03-31",
+        "2018-01-31",
+        "2017-11-30",
+        "2017-06-30-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "ReservationDetails"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2019-04-01-preview",
+        "2019-03-01-preview",
+        "2019-01-01-preview",
+        "2019-01-01",
+        "2018-12-01-preview",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-06-30",
+        "2018-03-31",
+        "2018-01-31",
+        "2017-12-30-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Budgets"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-05-01",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-06-30",
+        "2018-05-31",
+        "2018-03-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "CostTags"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-05-01",
+        "2019-04-01-preview",
+        "2019-03-01-preview",
+        "2019-01-01",
+        "2018-12-01-preview",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-08-01-preview",
+        "2018-06-30",
+        "2018-05-31",
+        "2018-03-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Tags"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2019-01-01",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-06-30",
+        "2018-03-31",
+        "2018-01-31",
+        "2017-12-30-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Terms"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-05-01-preview",
+        "2019-05-01",
+        "2019-04-01-preview",
+        "2019-01-01",
+        "2018-12-01-preview",
+        "2018-11-01-preview",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-06-30",
+        "2018-05-31",
+        "2018-03-31",
+        "2018-01-31",
+        "2017-11-30",
+        "2017-06-30-preview",
+        "2017-04-24-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "UsageDetails"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01-preview",
+        "2019-05-01",
+        "2019-01-01",
+        "2018-11-01-preview",
+        "2018-10-01",
+        "2018-08-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Charges"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2018-11-01-preview",
+        "2018-10-01",
+        "2018-08-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "credits"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2018-11-01-preview",
+        "2018-10-01",
+        "2018-08-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "events"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2018-11-01-preview",
+        "2018-10-01",
+        "2018-08-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "lots"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2018-10-01",
+        "2018-08-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "products"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-05-01-preview",
+        "2019-05-01",
+        "2019-04-01-preview",
+        "2019-01-01",
+        "2018-11-01-preview",
+        "2018-10-01",
+        "2018-08-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "OperationStatus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2019-10-01",
+        "2019-05-01-preview",
+        "2019-05-01",
+        "2019-04-01-preview",
+        "2019-01-01",
+        "2018-11-01-preview",
+        "2018-10-01",
+        "2018-08-31"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "OperationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2019-01-01",
+        "2018-11-01-preview",
+        "2018-10-01",
+        "2018-08-31",
+        "2018-06-30",
+        "2018-05-31",
+        "2018-03-31",
+        "2018-01-31",
+        "2017-11-30",
+        "2017-06-30-preview",
+        "2017-04-24-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Operations"
+    }
+  ]
+}

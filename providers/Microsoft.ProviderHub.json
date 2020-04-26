@@ -1,0 +1,45 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ProviderHub",
+  "namespace": "Microsoft.ProviderHub",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-02-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "providerRegistrations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-02-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "providerRegistrations/resourceTypeRegistrations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-02-01-preview"
+      ],
+      "capabilities": "None",
+      "locations": [],
+      "properties": null,
+      "resourceType": "rollouts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-02-01-preview",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "availableAccounts"
+    }
+  ]
+}

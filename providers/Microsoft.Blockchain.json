@@ -1,0 +1,143 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "78827f38-7b69-4d5e-a627-d6fdd9c759a0",
+      "roleDefinitionId": "9c68eaf3-8315-4e5c-b857-641b16b21f8f"
+    },
+    {
+      "applicationId": "049d4938-2ef2-4274-aa8f-630fc9bc33d1",
+      "roleDefinitionId": "c6dd0893-0495-488a-ac21-ee5f1ba89769"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Blockchain",
+  "namespace": "Microsoft.Blockchain",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-preview"
+      ],
+      "capabilities": "None",
+      "defaultApiVersion": "2019-06-01-preview",
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "watchers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-01-preview"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "East US",
+        "Southeast Asia",
+        "West Europe",
+        "North Europe",
+        "West US 2",
+        "Japan East"
+      ],
+      "properties": null,
+      "resourceType": "blockchainMembers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-preview"
+      ],
+      "defaultApiVersion": "2019-06-01-preview",
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/watcherOperationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "Southeast Asia",
+        "West Europe",
+        "North Europe",
+        "West US 2",
+        "Japan East",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "Southeast Asia",
+        "West Europe",
+        "North Europe",
+        "West US 2",
+        "Japan East"
+      ],
+      "properties": null,
+      "resourceType": "locations/blockchainMemberOperationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "Southeast Asia",
+        "West Europe",
+        "North Europe",
+        "West US 2",
+        "Japan East"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "Southeast Asia",
+        "West Europe",
+        "North Europe",
+        "West US 2",
+        "Japan East"
+      ],
+      "properties": null,
+      "resourceType": "locations/listConsortiums"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-06-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "Southeast Asia",
+        "West Europe",
+        "North Europe",
+        "West US 2",
+        "Japan East",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

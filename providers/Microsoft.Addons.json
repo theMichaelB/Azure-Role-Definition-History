@@ -1,0 +1,56 @@
+{
+  "authorization": {
+    "applicationId": "24d3987b-be4a-48e0-a3e7-11c186f39e41",
+    "roleDefinitionId": "8004BAAB-A4CB-4981-8571-F7E44D039D93"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Addons",
+  "namespace": "Microsoft.Addons",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01",
+        "2017-05-15"
+      ],
+      "locations": [
+        "West Central US",
+        "South Central US",
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "supportProviders"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01",
+        "2017-05-15"
+      ],
+      "locations": [
+        "West Central US",
+        "South Central US",
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01",
+        "2017-05-15"
+      ],
+      "locations": [
+        "West Central US",
+        "South Central US",
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "operationResults"
+    }
+  ]
+}

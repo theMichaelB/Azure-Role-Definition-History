@@ -1,0 +1,107 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "f71766dc-90d9-4b7d-bd9d-4499c4331c3f",
+      "roleDefinitionId": "cb180127-cf6d-4672-9e75-e29a487f9658"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Blueprint",
+  "namespace": "Microsoft.Blueprint",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview",
+        "2018-11-01-alpha",
+        "2017-11-11-preview",
+        "2017-11-11-alpha"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "blueprints"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview",
+        "2018-11-01-alpha",
+        "2017-11-11-preview",
+        "2017-11-11-alpha"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "blueprints/artifacts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview",
+        "2018-11-01-alpha",
+        "2017-11-11-preview",
+        "2017-11-11-alpha"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "blueprints/versions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview",
+        "2018-11-01-alpha",
+        "2017-11-11-preview",
+        "2017-11-11-alpha"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "blueprints/versions/artifacts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview",
+        "2018-11-01-alpha",
+        "2017-11-11-preview",
+        "2017-11-11-alpha"
+      ],
+      "capabilities": "SystemAssignedResourceIdentity, SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "blueprintAssignments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-11-11-preview",
+        "2017-11-11-alpha"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "blueprintAssignments/operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview",
+        "2018-11-01-alpha"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "blueprintAssignments/assignmentOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview",
+        "2018-11-01-alpha",
+        "2017-11-11-preview",
+        "2017-11-11-alpha"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

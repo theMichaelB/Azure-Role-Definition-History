@@ -1,0 +1,303 @@
+{
+  "authorization": {
+    "applicationId": "799f1985-1517-4fe1-af2b-ba3d87d4996b",
+    "roleDefinitionId": "0146496b-e06f-439a-83be-49fac884edf5"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DataShare",
+  "namespace": "Microsoft.DataShare",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "East US",
+        "UK South",
+        "Australia East",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "accounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "East US",
+        "UK South",
+        "Australia East",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "accounts/shares"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "East US",
+        "UK South",
+        "Australia East",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "accounts/shares/datasets"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "East US",
+        "UK South",
+        "Australia East",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "accounts/shares/synchronizationSettings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "East US",
+        "UK South",
+        "Australia East",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "accounts/shares/invitations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "East US",
+        "UK South",
+        "Australia East",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "accounts/sharesubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "East US",
+        "UK South",
+        "Australia East",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "accounts/shares/providersharesubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "East US",
+        "UK South",
+        "Australia East",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "accounts/sharesubscriptions/datasetmappings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "East US",
+        "UK South",
+        "Australia East",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "accounts/sharesubscriptions/triggers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "East US",
+        "UK South",
+        "Australia East",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "accounts/sharesubscriptions/consumerSourceDataSets"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-alpha"
+      ],
+      "locations": [
+        "East US 2",
+        "East US",
+        "Australia East",
+        "Southeast Asia",
+        "West US 2",
+        "North Europe",
+        "UK South",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "listinvitations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-11-01-preview"
+      ],
+      "locations": [
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01"
+      ],
+      "locations": [
+        "East US 2",
+        "North Europe",
+        "East US",
+        "UK South",
+        "Australia East",
+        "West Europe",
+        "Southeast Asia",
+        "West Central US",
+        "West US 2",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2018-11-01-alpha"
+      ],
+      "locations": [
+        "East US 2",
+        "East US",
+        "Australia East",
+        "West US 2",
+        "North Europe",
+        "UK South",
+        "West Europe",
+        "Southeast Asia",
+        "West Central US",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/rejectInvitation"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2018-11-01-alpha"
+      ],
+      "locations": [
+        "East US 2",
+        "East US",
+        "Australia East",
+        "West US 2",
+        "North Europe",
+        "UK South",
+        "West Europe",
+        "Southeast Asia",
+        "West Central US",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/consumerInvitations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01",
+        "2018-11-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

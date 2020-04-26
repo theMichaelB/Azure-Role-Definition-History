@@ -1,0 +1,205 @@
+{
+  "authorization": {
+    "applicationId": "4ac7d521-0382-477b-b0f8-7e1d95f85ca2",
+    "roleDefinitionId": "490d5987-bcf6-4be6-b6b2-056a78cb693a"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AnalysisServices",
+  "namespace": "Microsoft.AnalysisServices",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-08-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-08-01-beta",
+        "2017-08-01",
+        "2017-07-14",
+        "2016-05-16"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2017-08-01",
+      "locations": [
+        "West US",
+        "North Europe",
+        "South Central US",
+        "West Europe",
+        "West Central US",
+        "Southeast Asia",
+        "East US 2",
+        "North Central US",
+        "Brazil South",
+        "Canada Central",
+        "Australia Southeast",
+        "Japan East",
+        "UK South",
+        "West India",
+        "West US 2",
+        "Central US",
+        "East US",
+        "Australia East"
+      ],
+      "properties": null,
+      "resourceType": "servers"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-08-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-08-01-beta",
+        "2017-08-01",
+        "2017-07-14",
+        "2016-05-16"
+      ],
+      "defaultApiVersion": "2017-08-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-08-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-08-01-beta",
+        "2017-08-01",
+        "2017-07-14",
+        "2016-05-16"
+      ],
+      "defaultApiVersion": "2017-08-01",
+      "locations": [
+        "West US",
+        "North Europe",
+        "South Central US",
+        "West Europe",
+        "West Central US",
+        "Southeast Asia",
+        "East US 2",
+        "North Central US",
+        "Brazil South",
+        "Canada Central",
+        "Australia Southeast",
+        "Japan East",
+        "UK South",
+        "West India",
+        "West US 2",
+        "Central US",
+        "East US",
+        "Australia East"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-08-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-08-01-beta",
+        "2017-08-01",
+        "2017-07-14",
+        "2016-05-16"
+      ],
+      "defaultApiVersion": "2017-08-01",
+      "locations": [
+        "West US",
+        "North Europe",
+        "South Central US",
+        "West Europe",
+        "West Central US",
+        "Southeast Asia",
+        "East US 2",
+        "North Central US",
+        "Brazil South",
+        "Canada Central",
+        "Australia Southeast",
+        "Japan East",
+        "UK South",
+        "West India",
+        "West US 2",
+        "Central US",
+        "East US",
+        "Australia East"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationresults"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-08-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-08-01-beta",
+        "2017-08-01",
+        "2017-07-14",
+        "2016-05-16"
+      ],
+      "defaultApiVersion": "2017-08-01",
+      "locations": [
+        "West US",
+        "North Europe",
+        "South Central US",
+        "West Europe",
+        "West Central US",
+        "Southeast Asia",
+        "East US 2",
+        "North Central US",
+        "Brazil South",
+        "Canada Central",
+        "Australia Southeast",
+        "Japan East",
+        "UK South",
+        "West India",
+        "West US 2",
+        "Central US",
+        "East US",
+        "Australia East"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationstatuses"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2017-08-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2017-08-01-beta",
+        "2017-08-01",
+        "2017-07-14",
+        "2016-05-16"
+      ],
+      "locations": [
+        "East US 2",
+        "West Central US",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

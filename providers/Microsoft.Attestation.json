@@ -1,0 +1,36 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "c61423b7-1d1f-430d-b444-0eee53298103",
+      "roleDefinitionId": "7299b0b1-11da-4858-8943-7db197005959"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Attestation",
+  "namespace": "Microsoft.Attestation",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US 2",
+        "Central US",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "attestationProviders"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

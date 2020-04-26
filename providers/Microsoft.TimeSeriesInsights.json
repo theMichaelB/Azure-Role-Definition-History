@@ -1,0 +1,141 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "120d688d-1518-4cf7-bd38-182f158850b6",
+      "roleDefinitionId": "5a43abdf-bb87-42c4-9e56-1c24bf364150"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.TimeSeriesInsights",
+  "namespace": "Microsoft.TimeSeriesInsights",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-15-preview",
+        "2017-11-15",
+        "2017-02-28-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "East US 2",
+        "North Europe",
+        "West Europe",
+        "West US",
+        "West US 2",
+        "Central US",
+        "Southeast Asia",
+        "Australia East",
+        "Australia Southeast",
+        "East Asia",
+        "UK West",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "environments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-15-preview",
+        "2017-11-15",
+        "2017-02-28-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "East US 2",
+        "North Europe",
+        "West Europe",
+        "West US",
+        "West US 2",
+        "Central US",
+        "Southeast Asia",
+        "Australia East",
+        "Australia Southeast",
+        "East Asia",
+        "UK West",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "environments/eventsources"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-15-preview",
+        "2017-11-15",
+        "2017-02-28-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "East US 2",
+        "North Europe",
+        "West Europe",
+        "West US",
+        "West US 2",
+        "Central US",
+        "Southeast Asia",
+        "Australia East",
+        "Australia Southeast",
+        "East Asia",
+        "UK West",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "environments/referenceDataSets"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-15-preview",
+        "2017-11-15",
+        "2017-02-28-preview"
+      ],
+      "locations": [
+        "East US",
+        "East US 2",
+        "North Europe",
+        "West Europe",
+        "West US",
+        "West US 2",
+        "Central US",
+        "Southeast Asia",
+        "Australia East",
+        "Australia Southeast",
+        "East Asia",
+        "UK West",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "environments/accessPolicies"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-08-15-preview",
+        "2017-11-15",
+        "2017-02-28-preview"
+      ],
+      "locations": [
+        "East US",
+        "East US 2",
+        "North Europe",
+        "West Europe",
+        "West US",
+        "West US 2",
+        "Central US",
+        "Southeast Asia",
+        "Australia East",
+        "Australia Southeast",
+        "East Asia",
+        "UK West",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "authorization": {
+    "applicationId": "f3c21649-0979-4721-ac85-b0216b2cf413",
+    "roleDefinitionId": "933fba7e-2ed3-4da8-973d-8bd8298a9b40"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.CertificateRegistration",
+  "namespace": "Microsoft.CertificateRegistration",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-08-01",
+        "2018-02-01",
+        "2015-08-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "certificateOrders"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-08-01",
+        "2018-02-01",
+        "2015-08-01"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "certificateOrders/certificates"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-08-01",
+        "2018-02-01",
+        "2015-08-01"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "validateCertificateRegistrationInformation"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2018-02-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2019-08-01",
+        "2018-02-01",
+        "2015-08-01"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

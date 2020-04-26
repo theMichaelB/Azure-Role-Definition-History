@@ -1,0 +1,30 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "50e95039-b200-4007-bc97-8d5790743a63",
+      "roleDefinitionId": "CAD30215-AD1C-43BF-BE90-7BFA8B493E62"
+    },
+    {
+      "applicationId": "9cdead84-a844-4324-93f2-b2e6bb768d07"
+    },
+    {
+      "applicationId": "a85cf173-4192-42f8-81fa-777a763e6e2c"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DesktopVirtualization",
+  "namespace": "Microsoft.DesktopVirtualization",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-12-10-preview",
+        "2019-09-24-preview",
+        "2019-01-23-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

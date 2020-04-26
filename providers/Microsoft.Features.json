@@ -1,0 +1,55 @@
+{
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Features",
+  "namespace": "Microsoft.Features",
+  "registrationState": "Registered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-12-01",
+        "2014-08-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "features"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-12-01",
+        "2014-08-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "providers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "featureProviders"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "subscriptionFeatureRegistrations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-12-01",
+        "2014-08-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}
