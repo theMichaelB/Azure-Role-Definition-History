@@ -1,7 +1,13 @@
 {
-  "authorization": {
-    "applicationId": "80369ed6-5f11-4dd9-bef3-692475845e77"
-  },
+  "authorizations": [
+    {
+      "applicationId": "91bb937c-29c2-4275-982f-9465f0caf03d",
+      "roleDefinitionId": "6ea9e989-a5f4-4187-8d11-c8db3dd04da1"
+    },
+    {
+      "applicationId": "80369ed6-5f11-4dd9-bef3-692475845e77"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Relay",
   "namespace": "Microsoft.Relay",
   "registrationState": "NotRegistered",
