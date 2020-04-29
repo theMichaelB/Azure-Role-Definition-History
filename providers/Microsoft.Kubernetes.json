@@ -25,10 +25,20 @@
       ],
       "locations": [
         "East US 2 EUAP",
-        "West Europe"
+        "West Europe",
+        "East US"
       ],
       "properties": null,
       "resourceType": "locations/operationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "registeredSubscriptions"
     },
     {
       "aliases": null,
