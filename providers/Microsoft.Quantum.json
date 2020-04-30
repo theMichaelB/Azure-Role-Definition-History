@@ -17,6 +17,29 @@
       "locations": [],
       "properties": null,
       "resourceType": "Operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-04-preview"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "Locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-04-preview"
+      ],
+      "locations": [
+        "West US",
+        "East US 2 EUAP"
+      ],
+      "properties": null,
+      "resourceType": "Locations/OperationStatuses"
     }
   ]
 }

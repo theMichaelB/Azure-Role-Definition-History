@@ -3,6 +3,10 @@
     {
       "applicationId": "e3bfd6ac-eace-4438-9dc1-eed439e738de",
       "roleDefinitionId": "e88f4159-1d71-4b12-8ef0-38c039cb051e"
+    },
+    {
+      "applicationId": "51df634f-ddb4-4901-8a2d-52f6393a796b",
+      "roleDefinitionId": "d7568dc2-2265-41f7-9c0f-1e9c7862ca62"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Migrate",
