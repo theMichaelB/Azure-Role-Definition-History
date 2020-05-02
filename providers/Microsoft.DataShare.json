@@ -219,6 +219,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2019-11-01",
         "2018-11-01-preview"
       ],
       "locations": [

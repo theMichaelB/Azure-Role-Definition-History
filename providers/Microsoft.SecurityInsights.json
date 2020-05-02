@@ -248,6 +248,25 @@
       ],
       "properties": null,
       "resourceType": "entityQueries"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "West Europe",
+        "North Europe",
+        "France Central",
+        "UK South",
+        "UK West",
+        "France South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "threatIntelligence"
     }
   ]
 }
