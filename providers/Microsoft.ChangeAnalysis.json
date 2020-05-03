@@ -12,6 +12,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-04-01-preview",
         "2019-04-01-preview"
       ],
       "locations": [],

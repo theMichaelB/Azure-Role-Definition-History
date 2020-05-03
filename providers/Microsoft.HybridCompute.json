@@ -16,7 +16,8 @@
       "locations": [
         "West US 2",
         "West Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "East US"
       ],
       "properties": null,
       "resourceType": "machines"
