@@ -118,6 +118,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-02-01-privatepreview",
+        "2020-02-01-preview",
         "2019-11-01-privatepreview",
         "2019-11-01-preview",
         "2019-06-01-preview",
@@ -138,6 +140,11 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-02-01-privatepreview",
+        "2020-02-01-preview",
+        "2019-11-01-privatepreview",
+        "2019-11-01-preview",
+        "2019-06-01-preview",
         "2019-03-01-privatepreview",
         "2019-03-01-preview",
         "2019-03-01",
@@ -189,6 +196,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-02-01-privatepreview",
+        "2020-02-01-preview",
         "2019-11-01-privatepreview",
         "2019-11-01-preview",
         "2019-06-01-preview",
@@ -243,6 +252,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-02-01-privatepreview",
+        "2020-02-01-preview",
         "2019-11-01-privatepreview",
         "2019-11-01-preview",
         "2019-06-01-preview",
@@ -297,6 +308,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-02-01-privatepreview",
+        "2020-02-01-preview",
         "2019-11-01-privatepreview",
         "2019-11-01-preview",
         "2019-06-01-preview",
@@ -351,6 +364,11 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-02-01-privatepreview",
+        "2020-02-01-preview",
+        "2019-11-01-privatepreview",
+        "2019-11-01-preview",
+        "2019-06-01-preview",
         "2019-03-01-privatepreview",
         "2019-03-01-preview",
         "2019-03-01",
