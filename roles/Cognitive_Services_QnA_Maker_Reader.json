@@ -2,23 +2,27 @@
   "assignableScopes": [
     "/"
   ],
-  "description": null,
+  "description": "Let’s you read and test a KB only.",
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/466ccd10-b268-4a11-b098-b4849f024126",
   "name": "466ccd10-b268-4a11-b098-b4849f024126",
   "permissions": [
     {
-      "actions": [],
+      "actions": [
+        "Microsoft.CognitiveServices/*/read"
+      ],
       "dataActions": [
-        "Microsoft.CognitiveServices/accounts/QnAMaker/knowledgebases/download/read",
         "Microsoft.CognitiveServices/accounts/QnAMaker/knowledgebases/read",
+        "Microsoft.CognitiveServices/accounts/QnAMaker/knowledgebases/download/read",
+        "Microsoft.CognitiveServices/accounts/QnAMaker/knowledgebases/generateanswer/action",
         "Microsoft.CognitiveServices/accounts/QnAMaker/alterations/read",
-        "Microsoft.CognitiveServices/accounts/QnAMaker/knowledgebases/generateanswer/action"
+        "Microsoft.CognitiveServices/accounts/QnAMaker/endpointkeys/read",
+        "Microsoft.CognitiveServices/accounts/QnAMaker/endpointsettings/read"
       ],
       "notActions": [],
       "notDataActions": []
     }
   ],
-  "roleName": "QnA Maker Reader",
+  "roleName": "Cognitive Services QnA Maker Reader",
   "roleType": "BuiltInRole",
   "type": "Microsoft.Authorization/roleDefinitions"
 }
