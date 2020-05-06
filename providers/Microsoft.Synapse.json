@@ -31,9 +31,140 @@
       "apiVersions": [
         "2019-06-01-preview"
       ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "locations": [
         "West US 2",
-        "South Central US"
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "West Central US",
+        "South Central US",
+        "East US 2",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "workspaces"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US 2",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "West Central US",
+        "South Central US",
+        "East US 2",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/bigDataPools"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US 2",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "West Central US",
+        "South Central US",
+        "East US 2",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/sqlPools"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-preview"
+      ],
+      "locations": [
+        "West US 2",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "West Central US",
+        "South Central US",
+        "East US 2",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/operationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-preview"
+      ],
+      "locations": [
+        "West US 2",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "West Central US",
+        "South Central US",
+        "East US 2",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-preview"
+      ],
+      "locations": [
+        "West US 2",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "West Central US",
+        "South Central US",
+        "East US 2",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-preview"
+      ],
+      "locations": [
+        "West US 2",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "West Central US",
+        "South Central US",
+        "East US 2",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "operations"

@@ -833,6 +833,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-01-01",
         "2015-06-01-preview"
       ],
       "capabilities": "SupportsExtension",

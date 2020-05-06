@@ -502,7 +502,6 @@
       "apiVersions": [
         "2019-06-01-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "defaultApiVersion": "2019-06-01-preview",
       "locations": [
         "East US",
