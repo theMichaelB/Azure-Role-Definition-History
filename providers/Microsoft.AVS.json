@@ -1,0 +1,74 @@
+{
+  "authorizations": [
+    {
+      "allowedThirdPartyExtensions": [
+        {
+          "name": "VMCP"
+        }
+      ]
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AVS",
+  "namespace": "Microsoft.AVS",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-09-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-09-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-09-preview"
+      ],
+      "locations": [
+        "East US",
+        "West US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkQuotaAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-09-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "privateClouds"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-09-preview"
+      ],
+      "locations": [
+        "East US",
+        "West US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "privateClouds/clusters"
+    }
+  ]
+}
