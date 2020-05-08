@@ -284,6 +284,26 @@
       "aliases": null,
       "apiProfiles": [
         {
+          "apiVersion": "2020-04-01-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2020-04-01-preview"
+      ],
+      "defaultApiVersion": "2020-04-01-preview",
+      "locations": [
+        "West Europe",
+        "West US",
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationsStatus"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
           "apiVersion": "2018-03-01",
           "profileVersion": "2018-06-01-profile"
         }

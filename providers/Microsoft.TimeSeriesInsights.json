@@ -115,24 +115,26 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2018-08-15-preview",
-        "2017-11-15",
         "2017-02-28-preview"
       ],
       "locations": [
         "East US 2",
         "West US",
         "East US",
+        "East US 2 EUAP",
         "North Europe",
         "West Europe",
-        "West US 2",
-        "Central US",
         "Southeast Asia",
         "Australia East",
         "Australia Southeast",
         "East Asia",
         "UK West",
-        "UK South"
+        "UK South",
+        "West US 2",
+        "Central US",
+        "South Central Us",
+        "West Central US",
+        "North Central US"
       ],
       "properties": null,
       "resourceType": "operations"

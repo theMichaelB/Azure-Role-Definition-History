@@ -4975,7 +4975,7 @@
         "2019-03-01",
         "2018-08-01"
       ],
-      "defaultApiVersion": "2019-05-01",
+      "defaultApiVersion": "2020-01-01",
       "locations": [
         "global"
       ],
@@ -4991,7 +4991,7 @@
         "2019-04-01",
         "2018-08-01"
       ],
-      "defaultApiVersion": "2019-05-01",
+      "defaultApiVersion": "2020-01-01",
       "locations": [
         "global",
         "Central US",
@@ -5023,7 +5023,7 @@
         "2018-08-01"
       ],
       "capabilities": "None",
-      "defaultApiVersion": "2019-05-01",
+      "defaultApiVersion": "2020-01-01",
       "locations": [
         "global",
         "Central US",
