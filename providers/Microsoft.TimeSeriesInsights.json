@@ -18,6 +18,7 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
+        "South Central Us",
         "East US 2",
         "West US",
         "East US",
@@ -44,6 +45,7 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
+        "South Central Us",
         "East US 2",
         "West US",
         "East US",
@@ -70,6 +72,7 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
+        "South Central Us",
         "East US 2",
         "West US",
         "East US",
@@ -95,6 +98,7 @@
         "2017-02-28-preview"
       ],
       "locations": [
+        "South Central Us",
         "East US 2",
         "West US",
         "East US",
@@ -118,6 +122,7 @@
         "2017-02-28-preview"
       ],
       "locations": [
+        "South Central Us",
         "East US 2",
         "West US",
         "East US",
@@ -132,7 +137,6 @@
         "UK South",
         "West US 2",
         "Central US",
-        "South Central Us",
         "West Central US",
         "North Central US"
       ],

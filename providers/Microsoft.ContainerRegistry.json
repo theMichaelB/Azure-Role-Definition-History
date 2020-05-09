@@ -380,6 +380,122 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2019-12-01-preview"
+      ],
+      "capabilities": "SystemAssignedResourceIdentity",
+      "locations": [
+        "West US",
+        "East US",
+        "South Central US",
+        "West Europe",
+        "Switzerland North",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "Australia East",
+        "Australia Southeast",
+        "Central India",
+        "East Asia",
+        "Japan East",
+        "Japan West",
+        "Southeast Asia",
+        "South India",
+        "Brazil South",
+        "Canada East",
+        "Canada Central",
+        "Central US",
+        "East US 2",
+        "North Central US",
+        "West Central US",
+        "West US 2",
+        "Korea Central",
+        "France Central",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "registries/exportPipelines"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-12-01-preview"
+      ],
+      "capabilities": "SystemAssignedResourceIdentity",
+      "locations": [
+        "West US",
+        "East US",
+        "South Central US",
+        "West Europe",
+        "Switzerland North",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "Australia East",
+        "Australia Southeast",
+        "Central India",
+        "East Asia",
+        "Japan East",
+        "Japan West",
+        "Southeast Asia",
+        "South India",
+        "Brazil South",
+        "Canada East",
+        "Canada Central",
+        "Central US",
+        "East US 2",
+        "North Central US",
+        "West Central US",
+        "West US 2",
+        "Korea Central",
+        "France Central",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "registries/importPipelines"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-12-01-preview"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "South Central US",
+        "West Europe",
+        "Switzerland North",
+        "North Europe",
+        "UK South",
+        "UK West",
+        "Australia East",
+        "Australia Southeast",
+        "Central India",
+        "East Asia",
+        "Japan East",
+        "Japan West",
+        "Southeast Asia",
+        "South India",
+        "Brazil South",
+        "Canada East",
+        "Canada Central",
+        "Central US",
+        "East US 2",
+        "North Central US",
+        "West Central US",
+        "West US 2",
+        "Korea Central",
+        "France Central",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "registries/pipelineRuns"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2019-06-01-preview",
         "2019-04-01",
         "2018-09-01"
@@ -573,6 +689,36 @@
       ],
       "properties": null,
       "resourceType": "registries/taskRuns/listDetails"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2019-06-01-preview",
+      "locations": [
+        "East US",
+        "West US 2",
+        "South Central US",
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "registries/agentPools"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West US 2",
+        "South Central US",
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "registries/agentPools/listQueueStatus"
     },
     {
       "aliases": null,
