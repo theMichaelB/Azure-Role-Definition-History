@@ -8,7 +8,9 @@
   "permissions": [
     {
       "actions": [
-        "Microsoft.CognitiveServices/*/read"
+        "Microsoft.CognitiveServices/*/read",
+        "Microsoft.Authorization/roleAssignments/read",
+        "Microsoft.Authorization/roleDefinitions/read"
       ],
       "dataActions": [
         "Microsoft.CognitiveServices/accounts/QnAMaker/knowledgebases/read",
@@ -23,7 +25,20 @@
         "Microsoft.CognitiveServices/accounts/QnAMaker/endpointkeys/refreshkeys/action",
         "Microsoft.CognitiveServices/accounts/QnAMaker/endpointsettings/read",
         "Microsoft.CognitiveServices/accounts/QnAMaker/endpointsettings/write",
-        "Microsoft.CognitiveServices/accounts/QnAMaker/operations/read"
+        "Microsoft.CognitiveServices/accounts/QnAMaker/operations/read",
+        "Microsoft.CognitiveServices/accounts/QnAMaker.v2/knowledgebases/read",
+        "Microsoft.CognitiveServices/accounts/QnAMaker.v2/knowledgebases/download/read",
+        "Microsoft.CognitiveServices/accounts/QnAMaker.v2/knowledgebases/create/write",
+        "Microsoft.CognitiveServices/accounts/QnAMaker.v2/knowledgebases/write",
+        "Microsoft.CognitiveServices/accounts/QnAMaker.v2/knowledgebases/generateanswer/action",
+        "Microsoft.CognitiveServices/accounts/QnAMaker.v2/knowledgebases/train/action",
+        "Microsoft.CognitiveServices/accounts/QnAMaker.v2/alterations/read",
+        "Microsoft.CognitiveServices/accounts/QnAMaker.v2/alterations/write",
+        "Microsoft.CognitiveServices/accounts/QnAMaker.v2/endpointkeys/read",
+        "Microsoft.CognitiveServices/accounts/QnAMaker.v2/endpointkeys/refreshkeys/action",
+        "Microsoft.CognitiveServices/accounts/QnAMaker.v2/endpointsettings/read",
+        "Microsoft.CognitiveServices/accounts/QnAMaker.v2/endpointsettings/write",
+        "Microsoft.CognitiveServices/accounts/QnAMaker.v2/operations/read"
       ],
       "notActions": [],
       "notDataActions": []
