@@ -189,7 +189,9 @@
         "Australia Central",
         "South Africa North",
         "UAE North",
-        "Switzerland North"
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "natGateways"
@@ -5306,6 +5308,20 @@
       ],
       "properties": null,
       "resourceType": "virtualRouters"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-01",
+        "2020-03-01",
+        "2019-12-01",
+        "2019-11-01"
+      ],
+      "locations": [
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/commitInternalAzureNetworkManagerConfiguration"
     }
   ]
 }

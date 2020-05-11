@@ -1,0 +1,30 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "c699bf69-fb1d-4eaf-999b-99e6b2ae4d85",
+      "roleDefinitionId": "90155430-a360-410f-af5d-89dc284d85c6"
+    },
+    {
+      "applicationId": "03db181c-e9d3-4868-9097-f0b728327182",
+      "roleDefinitionId": "DE2ADB97-42D8-49C8-8FCF-DBB53EF936AC"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.KubernetesConfiguration",
+  "namespace": "Microsoft.KubernetesConfiguration",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "sourceControlConfigurations"
+    }
+  ]
+}
