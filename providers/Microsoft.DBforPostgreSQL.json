@@ -1,8 +1,17 @@
 {
-  "authorization": {
-    "applicationId": "76cd24bf-a9fc-4344-b1dc-908275de6d6d",
-    "roleDefinitionId": "c13b7b9c-2ed1-4901-b8a8-16f35468da29"
-  },
+  "authorizations": [
+    {
+      "applicationId": "76cd24bf-a9fc-4344-b1dc-908275de6d6d",
+      "roleDefinitionId": "c13b7b9c-2ed1-4901-b8a8-16f35468da29"
+    },
+    {
+      "applicationId": "93efed00-6552-4119-833a-422b297199f9",
+      "roleDefinitionId": "a864a0a2-ab66-47a6-97a8-223dc1379f87"
+    },
+    {
+      "applicationId": "123cd850-d9df-40bd-94d5-c9f07b7fa203"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DBforPostgreSQL",
   "namespace": "Microsoft.DBforPostgreSQL",
   "registrationState": "NotRegistered",
@@ -145,7 +154,8 @@
       "locations": [
         "West US 2",
         "North Central US",
-        "East US"
+        "East US",
+        "East US 2"
       ],
       "properties": null,
       "resourceType": "singleServers"

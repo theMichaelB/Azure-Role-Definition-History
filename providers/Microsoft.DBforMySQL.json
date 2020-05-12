@@ -1,8 +1,13 @@
 {
-  "authorization": {
-    "applicationId": "76cd24bf-a9fc-4344-b1dc-908275de6d6d",
-    "roleDefinitionId": "c13b7b9c-2ed1-4901-b8a8-16f35468da29"
-  },
+  "authorizations": [
+    {
+      "applicationId": "76cd24bf-a9fc-4344-b1dc-908275de6d6d",
+      "roleDefinitionId": "c13b7b9c-2ed1-4901-b8a8-16f35468da29"
+    },
+    {
+      "applicationId": "123cd850-d9df-40bd-94d5-c9f07b7fa203"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DBforMySQL",
   "namespace": "Microsoft.DBforMySQL",
   "registrationState": "NotRegistered",
