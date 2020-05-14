@@ -134,18 +134,7 @@
       "apiVersions": [
         "2019-06-01-preview"
       ],
-      "locations": [
-        "West US 2",
-        "East US",
-        "North Europe",
-        "West Europe",
-        "Southeast Asia",
-        "Australia East",
-        "West Central US",
-        "South Central US",
-        "East US 2",
-        "UK South"
-      ],
+      "locations": [],
       "properties": null,
       "resourceType": "checkNameAvailability"
     },
