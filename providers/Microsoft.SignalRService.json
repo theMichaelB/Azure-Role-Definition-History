@@ -17,6 +17,7 @@
         "2018-03-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2018-10-01",
       "locations": [
         "East US",
         "West US",
@@ -45,6 +46,7 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
+      "defaultApiVersion": "2018-10-01",
       "locations": [],
       "properties": null,
       "resourceType": "locations"
@@ -56,6 +58,7 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
+      "defaultApiVersion": "2018-10-01",
       "locations": [
         "East US",
         "West US",
@@ -84,6 +87,7 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
+      "defaultApiVersion": "2018-10-01",
       "locations": [
         "East US",
         "West US",
@@ -112,6 +116,7 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
+      "defaultApiVersion": "2018-10-01",
       "locations": [
         "West US 2",
         "East US",
@@ -129,6 +134,7 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
+      "defaultApiVersion": "2018-10-01",
       "locations": [
         "East US",
         "West US",
@@ -157,6 +163,7 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
+      "defaultApiVersion": "2018-10-01",
       "locations": [
         "East US",
         "West US",
@@ -185,6 +192,7 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
+      "defaultApiVersion": "2018-10-01",
       "locations": [
         "East US",
         "West US",
