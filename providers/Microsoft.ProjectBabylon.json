@@ -3,10 +3,6 @@
     {
       "applicationId": "73c2949e-da2d-457a-9607-fcc665198967",
       "roleDefinitionId": "1BC09725-0C9B-4F57-A3D0-FCCF4EB40120"
-    },
-    {
-      "applicationId": "213f5f78-fb30-46c7-9e98-91c720a1c026",
-      "roleDefinitionId": "D55E2225-A6AB-481C-A5BE-1B7687C293FA"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ProjectBabylon",

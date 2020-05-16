@@ -1,8 +1,4 @@
 {
-  "authorization": {
-    "applicationId": "66f1e791-7bfb-4e18-aed8-1720056421c7",
-    "roleDefinitionId": "15f6e7b0-eec0-4f18-a552-c97e000cbc61"
-  },
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.StreamAnalytics",
   "namespace": "Microsoft.StreamAnalytics",
   "registrationState": "NotRegistered",
@@ -131,8 +127,7 @@
         "2015-08-01-preview",
         "2015-06-01",
         "2015-05-01",
-        "2015-04-01",
-        "2014-04-01"
+        "2015-04-01"
       ],
       "locations": [
         "West Europe",
