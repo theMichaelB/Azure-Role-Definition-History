@@ -48,7 +48,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices"
@@ -91,7 +95,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/assets"
@@ -134,7 +142,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/contentKeyPolicies"
@@ -177,7 +189,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/streamingLocators"
@@ -220,7 +236,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/streamingPolicies"
@@ -261,7 +281,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/eventGridFilters"
@@ -304,7 +328,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/transforms"
@@ -347,7 +375,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/transforms/jobs"
@@ -392,7 +424,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/streamingEndpoints"
@@ -437,7 +473,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/liveEvents"
@@ -481,7 +521,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/liveEvents/liveOutputs"
@@ -525,7 +569,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/streamingEndpointOperations"
@@ -569,7 +617,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/liveEventOperations"
@@ -613,7 +665,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/liveOutputOperations"
@@ -654,7 +710,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/assets/assetFilters"
@@ -695,7 +755,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "mediaservices/accountFilters"
@@ -776,7 +840,11 @@
         "France Central",
         "France South",
         "South Africa North",
-        "South Africa West"
+        "South Africa West",
+        "Germany West Central",
+        "Germany North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"

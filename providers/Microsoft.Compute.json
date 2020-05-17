@@ -1712,7 +1712,9 @@
         "Korea Central",
         "France Central",
         "Central US",
-        "Australia Central"
+        "Australia Central",
+        "East US 2 EUAP",
+        "Central US EUAP"
       ],
       "properties": null,
       "resourceType": "locations/artifactPublishers"

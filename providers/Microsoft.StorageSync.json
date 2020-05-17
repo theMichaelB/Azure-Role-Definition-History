@@ -1,7 +1,8 @@
 {
   "authorizations": [
     {
-      "applicationId": "9469b9f5-6722-4481-a2b2-14ed560b706f"
+      "applicationId": "9469b9f5-6722-4481-a2b2-14ed560b706f",
+      "roleDefinitionId": "4cd49d82-1f4d-43fc-af0c-1c1203668e5a"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.StorageSync",
@@ -312,6 +313,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-03-01",
         "2019-10-01",
         "2019-06-01",
         "2019-03-01",
