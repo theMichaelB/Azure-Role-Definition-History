@@ -27,7 +27,7 @@
         "East US"
       ],
       "properties": null,
-      "resourceType": "Locations"
+      "resourceType": "locations"
     },
     {
       "aliases": null,
@@ -37,10 +37,11 @@
       "locations": [
         "East US",
         "North Europe",
-        "East Asia"
+        "East Asia",
+        "East US 2 EUAP"
       ],
       "properties": null,
-      "resourceType": "Locations/OperationStatuses"
+      "resourceType": "locations/operationstatuses"
     }
   ]
 }

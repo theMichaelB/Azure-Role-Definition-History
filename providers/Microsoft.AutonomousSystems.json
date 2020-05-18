@@ -1,0 +1,51 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "a967240f-810b-4f79-85e5-25870cc69cbb",
+      "managedByRoleDefinitionId": "6ee14824-e3a8-4536-ad65-346e3406f3c4",
+      "roleDefinitionId": "47b23f55-5e18-4fc7-a69a-f9b79a9811ea"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AutonomousSystems",
+  "namespace": "Microsoft.AutonomousSystems",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2020-05-01-preview",
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "workspaces"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-01-preview"
+      ],
+      "defaultApiVersion": "2020-05-01-preview",
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/validateCreateRequest"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-01-preview"
+      ],
+      "defaultApiVersion": "2020-05-01-preview",
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/operationresults"
+    }
+  ]
+}
