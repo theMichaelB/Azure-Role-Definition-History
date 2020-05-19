@@ -73,6 +73,16 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2019-10-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "ReservationRecommendationDetails"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2019-10-01",
         "2019-05-01",
         "2019-01-01-preview",
