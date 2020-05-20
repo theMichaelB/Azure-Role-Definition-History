@@ -67,7 +67,13 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "locations": [
-        "East US 2"
+        "Australia East",
+        "East US",
+        "East US 2",
+        "North Europe",
+        "West Europe",
+        "South Central US",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "spatialAnchorsAccounts"

@@ -161,36 +161,18 @@
       "apiVersions": [
         "2017-10-01"
       ],
-      "locations": [
-        "West Central US",
-        "Australia Southeast",
-        "West Europe",
-        "East US",
-        "Southeast Asia",
-        "Japan East",
-        "UK South",
-        "Central India",
-        "Canada Central",
-        "West US 2",
-        "Australia Central",
-        "Australia East",
-        "France Central",
-        "Korea Central",
-        "North Europe",
-        "Central US",
-        "East Asia",
-        "East US 2",
-        "South Central US",
-        "North Central US",
-        "West US",
-        "UK West",
-        "South Africa North",
-        "Brazil South",
-        "Switzerland West",
-        "Switzerland North"
-      ],
+      "locations": [],
       "properties": null,
       "resourceType": "workspaces/query"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-10-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "workspaces/metadata"
     },
     {
       "aliases": null,
@@ -329,6 +311,43 @@
       ],
       "properties": null,
       "resourceType": "linkTargets"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "defaultApiVersion": "2020-03-01-preview",
+      "locations": [
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Australia Southeast",
+        "West Central US",
+        "Japan East",
+        "UK South",
+        "Central India",
+        "Canada Central",
+        "West US 2",
+        "Australia Central",
+        "Australia East",
+        "France Central",
+        "Korea Central",
+        "North Europe",
+        "Central US",
+        "East Asia",
+        "East US 2",
+        "South Central US",
+        "North Central US",
+        "West US",
+        "UK West",
+        "South Africa North",
+        "Brazil South",
+        "Switzerland North",
+        "Switzerland West"
+      ],
+      "properties": null,
+      "resourceType": "deletedWorkspaces"
     },
     {
       "aliases": null,
