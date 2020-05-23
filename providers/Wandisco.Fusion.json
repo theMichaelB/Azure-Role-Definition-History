@@ -1,0 +1,63 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "37b36496-3f4f-443a-a406-5e0a0535f6a3",
+      "roleDefinitionId": "b10cdc1f-fd21-4fe9-bae7-7e2e25a91a21"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Wandisco.Fusion",
+  "namespace": "Wandisco.Fusion",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-09-01-preview"
+      ],
+      "locations": [
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "Locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01",
+        "2019-09-01-preview"
+      ],
+      "locations": [
+        "East Asia",
+        "East US",
+        "East US 2 EUAP",
+        "North Europe",
+        "Southeast Asia",
+        "West Europe",
+        "West Central US",
+        "West US",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "Locations/operationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "registeredSubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}
