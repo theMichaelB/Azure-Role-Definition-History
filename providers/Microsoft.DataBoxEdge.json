@@ -11,6 +11,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01-preview",
         "2020-01-01",
         "2019-08-01",
         "2019-07-01",
@@ -30,6 +31,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01-preview",
         "2020-01-01",
         "2019-08-01",
         "2019-07-01",
@@ -48,6 +50,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01-preview",
         "2020-01-01",
         "2019-08-01",
         "2019-07-01",
@@ -58,6 +61,15 @@
       "locations": [],
       "properties": null,
       "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "availableSkus"
     }
   ]
 }
