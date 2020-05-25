@@ -90,6 +90,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2018-07-01",
         "2015-01-01"
       ],
       "locations": [],
