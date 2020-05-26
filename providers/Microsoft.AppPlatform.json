@@ -32,6 +32,22 @@
       "apiVersions": [
         "2019-05-01-preview"
       ],
+      "capabilities": "SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2019-05-01-preview",
+      "locations": [
+        "West Europe",
+        "East US",
+        "West US 2",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "Spring/apps"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-05-01-preview"
+      ],
       "locations": [
         "West Europe",
         "East US",
