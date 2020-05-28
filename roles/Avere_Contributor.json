@@ -11,6 +11,7 @@
         "Microsoft.Authorization/*/read",
         "Microsoft.Compute/*/read",
         "Microsoft.Compute/availabilitySets/*",
+        "Microsoft.Compute/proximityPlacementGroups/*",
         "Microsoft.Compute/virtualMachines/*",
         "Microsoft.Compute/disks/*",
         "Microsoft.Network/*/read",
