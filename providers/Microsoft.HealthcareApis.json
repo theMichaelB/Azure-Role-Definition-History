@@ -6,6 +6,10 @@
     {
       "applicationId": "3274406e-4e0a-4852-ba4f-d7226630abb7",
       "roleDefinitionId": "e39edba5-cde8-4529-ba1f-159138220220"
+    },
+    {
+      "applicationId": "7e23c164-0bbc-4020-be55-aa5cf7f1ae28",
+      "roleDefinitionId": "C69C1F48-8535-41E7-9667-539790B1C663"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.HealthcareApis",

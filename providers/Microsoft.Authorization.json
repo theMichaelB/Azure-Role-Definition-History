@@ -338,6 +338,25 @@
       "locations": [],
       "properties": null,
       "resourceType": "roleAssignmentsUsageMetrics"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "privateLinkAssociations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "resourceManagementPrivateLinks"
     }
   ]
 }

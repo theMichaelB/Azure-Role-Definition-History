@@ -12,6 +12,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-03-01",
         "2019-10-01",
         "2019-06-01",
         "2019-03-01",
@@ -63,6 +64,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-03-01",
         "2019-10-01",
         "2019-06-01",
         "2019-03-01",
@@ -113,6 +115,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-03-01",
         "2019-10-01",
         "2019-06-01",
         "2019-03-01",
@@ -163,6 +166,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-03-01",
         "2019-10-01",
         "2019-06-01",
         "2019-03-01",
@@ -213,6 +217,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-03-01",
         "2019-10-01",
         "2019-06-01",
         "2019-03-01",
@@ -263,6 +268,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-03-01",
         "2019-10-01",
         "2019-06-01",
         "2019-03-01",
@@ -332,6 +338,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-03-01",
         "2019-10-01",
         "2019-06-01",
         "2019-03-01",
@@ -347,6 +354,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-03-01",
         "2019-10-01",
         "2019-06-01",
         "2019-03-01",
@@ -395,6 +403,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-03-01",
         "2019-10-01",
         "2019-06-01",
         "2019-03-01",
@@ -439,6 +448,90 @@
       ],
       "properties": null,
       "resourceType": "locations/workflows"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01"
+      ],
+      "defaultApiVersion": "2020-03-01",
+      "locations": [
+        "West Central US",
+        "West US",
+        "West Europe",
+        "North Europe",
+        "Southeast Asia",
+        "East Asia",
+        "Australia East",
+        "Australia Southeast",
+        "East US",
+        "Canada Central",
+        "Canada East",
+        "Central US",
+        "East US 2",
+        "UK South",
+        "UK West",
+        "Central India",
+        "South India",
+        "North Central US",
+        "South Central US",
+        "Brazil South",
+        "Japan East",
+        "Japan West",
+        "West US 2",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "France South",
+        "South Africa North",
+        "South Africa West",
+        "UAE North",
+        "UAE Central"
+      ],
+      "properties": null,
+      "resourceType": "locations/operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01"
+      ],
+      "defaultApiVersion": "2020-03-01",
+      "locations": [
+        "West Central US",
+        "West US",
+        "West Europe",
+        "North Europe",
+        "Southeast Asia",
+        "East Asia",
+        "Australia East",
+        "Australia Southeast",
+        "East US",
+        "Canada Central",
+        "Canada East",
+        "Central US",
+        "East US 2",
+        "UK South",
+        "UK West",
+        "Central India",
+        "South India",
+        "North Central US",
+        "South Central US",
+        "Brazil South",
+        "Japan East",
+        "Japan West",
+        "West US 2",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "France South",
+        "South Africa North",
+        "South Africa West",
+        "UAE North",
+        "UAE Central"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationResults"
     }
   ]
 }

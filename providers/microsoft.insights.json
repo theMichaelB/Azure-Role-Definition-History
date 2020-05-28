@@ -95,29 +95,18 @@
       "apiVersions": [
         "2018-04-20"
       ],
-      "locations": [
-        "East US",
-        "South Central US",
-        "North Europe",
-        "West Europe",
-        "Southeast Asia",
-        "West US 2",
-        "UK South",
-        "Central India",
-        "Canada Central",
-        "Japan East",
-        "Australia East",
-        "Korea Central",
-        "France Central",
-        "East US 2",
-        "East Asia",
-        "West US",
-        "Central US",
-        "South Africa North",
-        "North Central US"
-      ],
+      "locations": [],
       "properties": null,
       "resourceType": "components/query"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-04-20"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "components/metadata"
     },
     {
       "aliases": null,
@@ -216,6 +205,35 @@
       ],
       "properties": null,
       "resourceType": "webtests"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-10-preview"
+      ],
+      "locations": [
+        "East US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "UK South",
+        "Central India",
+        "Canada Central",
+        "Japan East",
+        "Australia East",
+        "Korea Central",
+        "France Central",
+        "East US 2",
+        "East Asia",
+        "West US",
+        "Central US",
+        "South Africa North",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "webtests/getTestResultFile"
     },
     {
       "aliases": null,

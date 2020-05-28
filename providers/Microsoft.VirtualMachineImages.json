@@ -13,6 +13,93 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-02-14",
+        "2019-05-01-preview",
+        "2019-02-01-preview",
+        "2018-02-01-preview"
+      ],
+      "capabilities": "None",
+      "defaultApiVersion": "2020-02-14",
+      "locations": [
+        "East US",
+        "East US 2",
+        "West Central US",
+        "West US",
+        "West US 2",
+        "South Central US",
+        "North Europe",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "imageTemplates"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-14",
+        "2019-05-01-preview",
+        "2019-02-01-preview",
+        "2018-02-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "East US 2",
+        "West Central US",
+        "West US",
+        "West US 2",
+        "South Central US",
+        "North Europe",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "imageTemplates/runOutputs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-14",
+        "2019-05-01-preview",
+        "2019-02-01-preview",
+        "2018-02-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "East US 2",
+        "West Central US",
+        "West US",
+        "West US 2",
+        "North Europe",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-14",
+        "2019-05-01-preview",
+        "2019-02-01-preview",
+        "2018-02-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "East US 2",
+        "West Central US",
+        "West US",
+        "West US 2",
+        "South Central US",
+        "North Europe",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-14",
         "2019-05-01-preview",
         "2019-02-01-preview"
       ],

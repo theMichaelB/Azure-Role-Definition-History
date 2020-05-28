@@ -120,9 +120,12 @@
         "East US",
         "North Central US",
         "Canada Central",
+        "Australia East",
         "UK South",
+        "West Europe",
         "Southeast Asia",
-        "West US 2"
+        "West US 2",
+        "North Europe"
       ],
       "properties": null,
       "resourceType": "serversv2"
@@ -138,9 +141,12 @@
         "East US",
         "North Central US",
         "Canada Central",
+        "Australia East",
         "UK South",
+        "West Europe",
         "Southeast Asia",
-        "West US 2"
+        "West US 2",
+        "North Europe"
       ],
       "properties": null,
       "resourceType": "serverGroups"
