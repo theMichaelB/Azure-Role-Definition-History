@@ -209,6 +209,7 @@
         }
       ],
       "apiVersions": [
+        "2020-04-01-preview",
         "2019-07-01",
         "2018-03-01",
         "2017-10-01",
@@ -347,6 +348,64 @@
       "locations": [],
       "properties": null,
       "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-07-01",
+        "2018-03-01",
+        "2017-10-01",
+        "2017-02-01",
+        "2016-04-01",
+        "2015-08-01",
+        "2015-03-01",
+        "2014-04-01-preview",
+        "2014-04-01"
+      ],
+      "locations": [
+        "North Central US",
+        "South Central US",
+        "Central US",
+        "West Europe",
+        "North Europe",
+        "West US",
+        "East US",
+        "East US 2",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Southeast Asia",
+        "East Asia",
+        "Australia East",
+        "Australia Southeast",
+        "Central India",
+        "West India",
+        "South India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "West US 2",
+        "West Central US",
+        "Korea Central",
+        "Korea South",
+        "France South",
+        "France Central",
+        "Australia Central",
+        "Australia Central 2",
+        "South Africa North",
+        "South Africa West",
+        "UAE Central",
+        "UAE North",
+        "Switzerland North",
+        "Switzerland West",
+        "Germany North",
+        "Germany West Central",
+        "Norway East",
+        "Norway West"
+      ],
+      "properties": null,
+      "resourceType": "Redis/EventGridFilters"
     }
   ]
 }
