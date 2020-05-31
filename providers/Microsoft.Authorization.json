@@ -357,6 +357,15 @@
       "locations": [],
       "properties": null,
       "resourceType": "resourceManagementPrivateLinks"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operationStatus"
     }
   ]
 }
