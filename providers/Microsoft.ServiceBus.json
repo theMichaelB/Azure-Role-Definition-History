@@ -325,9 +325,13 @@
         "UK South",
         "Korea Central",
         "Korea South",
+        "France Central",
+        "South Africa North",
+        "UAE North",
         "Australia Central",
-        "Australia Central 2",
-        "Germany West Central"
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "namespaces/eventgridfilters"
