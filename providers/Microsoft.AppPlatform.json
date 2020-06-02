@@ -6,6 +6,9 @@
     {
       "applicationId": "b61cc489-e138-4a69-8bf3-c2c5855c8784",
       "roleDefinitionId": "462ddd96-910a-44f5-adfa-644d99942778"
+    },
+    {
+      "applicationId": "e8de9221-a19c-4c81-b814-fd37c6caf9d2"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AppPlatform",
