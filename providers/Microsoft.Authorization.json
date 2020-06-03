@@ -1,4 +1,9 @@
 {
+  "authorizations": [
+    {
+      "applicationId": "de926fbf-e23b-41f9-ae15-c943a9cfa630"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization",
   "namespace": "Microsoft.Authorization",
   "registrationState": "Registered",
