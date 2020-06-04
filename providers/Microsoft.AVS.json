@@ -41,6 +41,19 @@
         "West Europe"
       ],
       "properties": null,
+      "resourceType": "locations/checkTrialAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-09-preview"
+      ],
+      "locations": [
+        "East US",
+        "West US",
+        "West Europe"
+      ],
+      "properties": null,
       "resourceType": "locations/checkQuotaAvailability"
     },
     {

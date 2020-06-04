@@ -1,0 +1,91 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "1b912ec3-a9dd-4c4d-a53e-76aa7adb28d7",
+      "roleDefinitionId": "c4cfa0e8-3cb5-4ced-9c3c-efaad3348120"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/microsoft.aadiam",
+  "namespace": "microsoft.aadiam",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview",
+        "2020-03-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2020-03-01",
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "privateLinkForAzureAD"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-04-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-08-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-03-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2017-04-01",
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "tenants"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-04-01",
+        "2017-03-01",
+        "2016-09-01",
+        "2016-08-01",
+        "2016-07-01",
+        "2016-06-01",
+        "2016-03-01",
+        "2016-02-01",
+        "2015-11-01",
+        "2015-01-01"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-04-01-preview",
+        "2017-04-01"
+      ],
+      "defaultApiVersion": "2017-04-01-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "diagnosticSettings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-04-01-preview",
+        "2017-04-01"
+      ],
+      "defaultApiVersion": "2017-04-01-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "diagnosticSettingsCategories"
+    }
+  ]
+}

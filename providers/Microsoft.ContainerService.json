@@ -1,12 +1,18 @@
 {
-  "authorization": {
-    "applicationId": "7319c514-987d-4e9b-ac3d-d38c4f427f4c",
-    "managedByAuthorization": {
-      "allowManagedByInheritance": true
+  "authorizations": [
+    {
+      "applicationId": "7319c514-987d-4e9b-ac3d-d38c4f427f4c",
+      "managedByAuthorization": {
+        "allowManagedByInheritance": true
+      },
+      "managedByRoleDefinitionId": "9e3af657-a8ff-583c-a75c-2fe7c4bcb635",
+      "roleDefinitionId": "1b4a0c7f-2217-416f-acfa-cf73452fdc1c"
     },
-    "managedByRoleDefinitionId": "9e3af657-a8ff-583c-a75c-2fe7c4bcb635",
-    "roleDefinitionId": "1b4a0c7f-2217-416f-acfa-cf73452fdc1c"
-  },
+    {
+      "applicationId": "6dae42f8-4368-4678-94ff-3960e28e3630",
+      "roleDefinitionId": "831388fc-33b1-4dd1-b64c-40fdcaf96654"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ContainerService",
   "namespace": "Microsoft.ContainerService",
   "registrationState": "Registered",
