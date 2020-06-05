@@ -16,8 +16,8 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2018-10-01",
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2020-05-01",
       "locations": [
         "East US",
         "West US",
