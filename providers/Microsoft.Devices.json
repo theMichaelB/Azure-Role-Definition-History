@@ -277,6 +277,42 @@
       ],
       "properties": null,
       "resourceType": "ProvisioningServices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01"
+      ],
+      "locations": [
+        "West US",
+        "North Europe",
+        "East Asia",
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "West US 2",
+        "West Central US",
+        "East US 2",
+        "Central US",
+        "UK South",
+        "UK West",
+        "South India",
+        "Central India",
+        "Canada Central",
+        "Canada East",
+        "Brazil South",
+        "South Central US",
+        "Korea South",
+        "Korea Central",
+        "France Central",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "IotHubs/securitySettings"
     }
   ]
 }

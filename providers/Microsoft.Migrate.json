@@ -35,6 +35,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-06-01",
         "2018-09-01-preview"
       ],
