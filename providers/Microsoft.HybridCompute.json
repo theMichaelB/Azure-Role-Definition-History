@@ -27,6 +27,69 @@
       "apiVersions": [
         "2020-03-11-preview",
         "2019-12-12",
+        "2019-08-02-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2019-12-12",
+      "locations": [
+        "West Europe",
+        "West US 2",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "machines/extensions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-11-preview",
+        "2019-12-12",
+        "2019-08-02-preview"
+      ],
+      "defaultApiVersion": "2019-12-12",
+      "locations": [
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-11-preview",
+        "2019-12-12",
+        "2019-08-02-preview"
+      ],
+      "defaultApiVersion": "2019-12-12",
+      "locations": [
+        "West Europe",
+        "West US 2",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationStatus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-11-preview",
+        "2019-12-12",
+        "2019-08-02-preview"
+      ],
+      "defaultApiVersion": "2019-12-12",
+      "locations": [
+        "West Europe",
+        "West US 2",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-11-preview",
+        "2019-12-12",
         "2019-08-02-preview",
         "2019-03-18-preview"
       ],

@@ -47,6 +47,10 @@
     {
       "applicationId": "e933bd07-d2ee-4f1d-933c-3752b819567b",
       "roleDefinitionId": "abbcfd44-e662-419a-9b5a-478f8e2f57c9"
+    },
+    {
+      "applicationId": "f6b60513-f290-450e-a2f3-9930de61c5e7",
+      "roleDefinitionId": "4ef11659-08ac-48af-98a7-25fb6b1e1bc4"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/microsoft.insights",

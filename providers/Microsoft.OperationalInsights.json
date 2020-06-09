@@ -51,7 +51,10 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central",
+        "Australia Central 2",
+        "UAE Central"
       ],
       "properties": null,
       "resourceType": "workspaces"
@@ -112,7 +115,10 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central",
+        "Australia Central 2",
+        "UAE Central"
       ],
       "properties": null,
       "resourceType": "locations/operationStatuses"
@@ -151,7 +157,10 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central",
+        "Australia Central 2",
+        "UAE Central"
       ],
       "properties": null,
       "resourceType": "workspaces/scopedPrivateLinkProxies"
@@ -207,7 +216,10 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central",
+        "Australia Central 2",
+        "UAE Central"
       ],
       "properties": null,
       "resourceType": "workspaces/dataSources"
@@ -245,7 +257,10 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central",
+        "Australia Central 2",
+        "UAE Central"
       ],
       "properties": null,
       "resourceType": "workspaces/linkedStorageAccounts"
@@ -295,7 +310,10 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central",
+        "Australia Central 2",
+        "UAE Central"
       ],
       "properties": null,
       "resourceType": "workspaces/linkedServices"
@@ -344,7 +362,10 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central",
+        "Australia Central 2",
+        "UAE Central"
       ],
       "properties": null,
       "resourceType": "deletedWorkspaces"
