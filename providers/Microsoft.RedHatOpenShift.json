@@ -30,16 +30,23 @@
       ],
       "locations": [
         "Australia East",
+        "Brazil South",
+        "Canada Central",
+        "Canada East",
         "East US",
         "East US 2",
         "Japan East",
         "Japan West",
+        "North Central US",
         "North Europe",
         "South Central US",
         "Southeast Asia",
+        "Switzerland North",
         "UK South",
+        "UK West",
         "West Europe",
-        "West US 2"
+        "West US 2",
+        "West US"
       ],
       "properties": null,
       "resourceType": "locations/operationresults"
@@ -51,16 +58,23 @@
       ],
       "locations": [
         "Australia East",
+        "Brazil South",
+        "Canada Central",
+        "Canada East",
         "East US",
         "East US 2",
         "Japan East",
         "Japan West",
+        "North Central US",
         "North Europe",
         "South Central US",
         "Southeast Asia",
+        "Switzerland North",
         "UK South",
+        "UK West",
         "West Europe",
-        "West US 2"
+        "West US 2",
+        "West US"
       ],
       "properties": null,
       "resourceType": "locations/operationsstatus"
@@ -74,16 +88,23 @@
       "defaultApiVersion": "2020-04-30",
       "locations": [
         "Australia East",
+        "Brazil South",
+        "Canada Central",
+        "Canada East",
         "East US",
         "East US 2",
         "Japan East",
         "Japan West",
+        "North Central US",
         "North Europe",
         "South Central US",
         "Southeast Asia",
+        "Switzerland North",
         "UK South",
+        "UK West",
         "West Europe",
-        "West US 2"
+        "West US 2",
+        "West US"
       ],
       "properties": null,
       "resourceType": "OpenShiftClusters"
