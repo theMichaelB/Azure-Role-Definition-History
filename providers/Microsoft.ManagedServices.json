@@ -10,6 +10,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-02-01-preview",
         "2019-09-01",
         "2019-06-01",
         "2019-04-01-preview",
@@ -23,6 +24,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-02-01-preview",
         "2019-09-01",
         "2019-06-01",
         "2019-04-01-preview",
@@ -36,6 +38,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-02-01-preview",
         "2019-09-01",
         "2019-06-01",
         "2019-04-01-preview",
@@ -48,6 +51,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-02-01-preview",
         "2019-09-01",
         "2019-06-01",
         "2019-04-01-preview",
@@ -60,6 +64,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-02-01-preview",
         "2019-09-01",
         "2019-06-01",
         "2019-04-01-preview"

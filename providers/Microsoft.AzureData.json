@@ -1,4 +1,12 @@
 {
+  "authorizations": [
+    {
+      "applicationId": "bb55177b-a7d9-4939-a257-8ab53a3b2bc6"
+    },
+    {
+      "applicationId": "a12e8ccb-0fcd-46f8-b6a1-b9df7a9d7231"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AzureData",
   "namespace": "Microsoft.AzureData",
   "registrationState": "NotRegistered",

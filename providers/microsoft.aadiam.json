@@ -17,9 +17,7 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "defaultApiVersion": "2020-03-01",
-      "locations": [
-        "West US"
-      ],
+      "locations": [],
       "properties": null,
       "resourceType": "privateLinkForAzureAD"
     },
