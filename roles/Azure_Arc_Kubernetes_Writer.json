@@ -1,0 +1,37 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "Lets you update everything in cluster/namespace, except (cluster)roles and (cluster)role bindings.",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/5b999177-9696-4545-85c7-50de3797e5a1",
+  "name": "5b999177-9696-4545-85c7-50de3797e5a1",
+  "permissions": [
+    {
+      "actions": [
+        "Microsoft.Authorization/*/read",
+        "Microsoft.Insights/alertRules/*",
+        "Microsoft.Resources/deployments/write",
+        "Microsoft.Resources/subscriptions/operationresults/read",
+        "Microsoft.Resources/subscriptions/read",
+        "Microsoft.Resources/subscriptions/resourceGroups/read",
+        "Microsoft.Support/*"
+      ],
+      "dataActions": [
+        "Microsoft.Kubernetes/connectedClusters/*/read",
+        "Microsoft.Kubernetes/connectedClusters/*/write"
+      ],
+      "notActions": [],
+      "notDataActions": [
+        "Microsoft.Kubernetes/connectedClusters/rbac.authorization.k8s.io/*/read",
+        "Microsoft.Kubernetes/connectedClusters/rbac.authorization.k8s.io/*/write",
+        "Microsoft.Kubernetes/connectedClusters/namespaces/write",
+        "Microsoft.Kubernetes/connectedClusters/resourcequotas/write",
+        "Microsoft.Kubernetes/connectedClusters/certificates.k8s.io/certificatesigningrequests/write",
+        "Microsoft.Kubernetes/connectedClusters/policy/podsecuritypolicies/write"
+      ]
+    }
+  ],
+  "roleName": "Azure Arc Kubernetes Writer",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}
