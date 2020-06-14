@@ -34,7 +34,8 @@
       "locations": [
         "West Europe",
         "West US 2",
-        "Southeast Asia"
+        "Southeast Asia",
+        "East US"
       ],
       "properties": null,
       "resourceType": "machines/extensions"
@@ -64,7 +65,8 @@
       "locations": [
         "West Europe",
         "West US 2",
-        "Southeast Asia"
+        "Southeast Asia",
+        "East US"
       ],
       "properties": null,
       "resourceType": "locations/operationStatus"
@@ -80,7 +82,8 @@
       "locations": [
         "West Europe",
         "West US 2",
-        "Southeast Asia"
+        "Southeast Asia",
+        "East US"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"

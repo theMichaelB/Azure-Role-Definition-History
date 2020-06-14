@@ -58,15 +58,13 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-01-01-preview",
         "2019-11-01-preview",
         "2019-09-01-privatepreview"
       ],
-      "locations": [
-        "West US",
-        "East US"
-      ],
+      "locations": [],
       "properties": null,
-      "resourceType": "operations"
+      "resourceType": "Operations"
     }
   ]
 }

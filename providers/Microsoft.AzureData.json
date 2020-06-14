@@ -1,10 +1,12 @@
 {
   "authorizations": [
     {
-      "applicationId": "bb55177b-a7d9-4939-a257-8ab53a3b2bc6"
+      "applicationId": "bb55177b-a7d9-4939-a257-8ab53a3b2bc6",
+      "roleDefinitionId": "f83de625-af9e-4458-ac9c-e5d62b05fd06"
     },
     {
-      "applicationId": "a12e8ccb-0fcd-46f8-b6a1-b9df7a9d7231"
+      "applicationId": "a12e8ccb-0fcd-46f8-b6a1-b9df7a9d7231",
+      "roleDefinitionId": "f83de625-af9e-4458-ac9c-e5d62b05fd06"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AzureData",
