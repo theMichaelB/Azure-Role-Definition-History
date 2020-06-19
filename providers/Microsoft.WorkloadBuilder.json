@@ -1,4 +1,10 @@
 {
+  "authorizations": [
+    {
+      "applicationId": "63c2c773-89fe-4164-a02f-b8c7fc1772ae",
+      "roleDefinitionId": "322358fa-ea51-4f6c-b9d6-3be64015f074"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.WorkloadBuilder",
   "namespace": "Microsoft.WorkloadBuilder",
   "registrationState": "NotRegistered",
