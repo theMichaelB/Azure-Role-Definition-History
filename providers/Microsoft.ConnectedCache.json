@@ -1,0 +1,20 @@
+{
+  "authorizations": [],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ConnectedCache",
+  "namespace": "Microsoft.ConnectedCache",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-12-04-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "CacheNodes"
+    }
+  ]
+}

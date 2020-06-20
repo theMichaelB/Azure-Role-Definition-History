@@ -23,6 +23,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview",
         "2018-03-01-preview",
@@ -112,6 +113,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -130,6 +132,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -139,6 +142,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview",
         "2018-06-30",
@@ -151,6 +155,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -161,6 +166,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -179,6 +185,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -188,6 +195,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -198,6 +206,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -207,6 +216,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -216,6 +226,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -226,6 +237,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -253,6 +265,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -263,6 +276,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -281,6 +295,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -290,6 +305,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -353,6 +369,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -363,6 +380,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -422,6 +440,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -432,6 +451,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -442,6 +462,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -452,6 +473,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -499,6 +521,16 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/invoices/transactions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -509,6 +541,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -518,6 +551,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -537,6 +571,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -546,6 +581,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -556,6 +592,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -575,6 +612,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -602,6 +640,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -612,6 +651,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -622,6 +662,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview",
         "2018-06-30",
@@ -730,6 +771,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -740,6 +782,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -750,6 +793,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -833,6 +877,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
@@ -863,6 +908,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
       ],
