@@ -420,12 +420,66 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/departments/billingRoleDefinitions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/departments/billingRoleAssignments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/departments/billingPermissions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2019-10-01-preview",
         "2018-06-30"
       ],
       "locations": [],
       "properties": null,
       "resourceType": "billingAccounts/enrollmentAccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/enrollmentAccounts/billingRoleDefinitions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/enrollmentAccounts/billingRoleAssignments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/enrollmentAccounts/billingPermissions"
     },
     {
       "aliases": null,

@@ -39,7 +39,10 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "UAE Central",
+        "Australia Central 2",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "solutions"
