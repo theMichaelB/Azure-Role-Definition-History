@@ -39,7 +39,7 @@
         "2019-06-01",
         "2018-09-01-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "capabilities": "None",
       "locations": [
         "Central US",
         "East Asia",
@@ -70,7 +70,7 @@
         "2019-05-01",
         "2018-06-30-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "capabilities": "None",
       "locations": [
         "Central US",
         "West Europe",
