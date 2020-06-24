@@ -13,7 +13,8 @@
         "Microsoft.Marketplace/privateStores/delete",
         "Microsoft.Marketplace/privateStores/offers/write",
         "Microsoft.Marketplace/privateStores/offers/action",
-        "Microsoft.Marketplace/privateStores/offers/delete"
+        "Microsoft.Marketplace/privateStores/offers/delete",
+        "Microsoft.Authorization/*/read"
       ],
       "dataActions": [],
       "notActions": [],
