@@ -28,6 +28,41 @@
       "apiVersions": [
         "2018-09-01-preview"
       ],
+      "locations": [
+        "East US 2",
+        "Central US",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "defaultProviders"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
+      "locations": [
+        "East US 2",
+        "Central US",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "locations/defaultProvider"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-09-01-preview"
+      ],
       "locations": [],
       "properties": null,
       "resourceType": "operations"

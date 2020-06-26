@@ -27,6 +27,34 @@
       "apiVersions": [
         "2020-03-01-preview"
       ],
+      "locations": [
+        "West Central US",
+        "West US 2",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "capabilities": "None",
+      "defaultApiVersion": "2020-03-01-preview",
+      "locations": [
+        "West Central US",
+        "West US 2",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "digitalTwinsInstances"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
       "defaultApiVersion": "2020-03-01-preview",
       "locations": [
         "West Central US",
@@ -35,6 +63,20 @@
       ],
       "properties": null,
       "resourceType": "digitalTwinsInstances/operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "defaultApiVersion": "2020-03-01-preview",
+      "locations": [
+        "West Central US",
+        "West US 2",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "digitalTwinsInstances/endpoints"
     },
     {
       "aliases": null,

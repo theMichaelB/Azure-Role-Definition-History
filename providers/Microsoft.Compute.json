@@ -276,6 +276,10 @@
         {
           "location": "Canada Central",
           "zones": []
+        },
+        {
+          "location": "Germany West Central",
+          "zones": []
         }
       ]
     },
@@ -518,6 +522,10 @@
         },
         {
           "location": "Canada Central",
+          "zones": []
+        },
+        {
+          "location": "Germany West Central",
           "zones": []
         }
       ]
@@ -2068,6 +2076,10 @@
         {
           "location": "Canada Central",
           "zones": []
+        },
+        {
+          "location": "Germany West Central",
+          "zones": []
         }
       ]
     },
@@ -2571,6 +2583,10 @@
         {
           "location": "Canada Central",
           "zones": []
+        },
+        {
+          "location": "Germany West Central",
+          "zones": []
         }
       ]
     },
@@ -2717,6 +2733,10 @@
         },
         {
           "location": "Canada Central",
+          "zones": []
+        },
+        {
+          "location": "Germany West Central",
           "zones": []
         }
       ]
