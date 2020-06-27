@@ -21,6 +21,7 @@
         }
       ],
       "apiVersions": [
+        "2020-04-01-preview",
         "2020-03-01-preview",
         "2019-04-01-preview",
         "2018-12-01-preview",
@@ -359,7 +360,6 @@
       "apiVersions": [
         "2020-05-01"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [],
       "properties": null,
       "resourceType": "resourceManagementPrivateLinks"
