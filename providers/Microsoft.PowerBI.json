@@ -1,4 +1,10 @@
 {
+  "authorizations": [
+    {
+      "applicationId": "00000009-0000-0000-c000-000000000000",
+      "roleDefinitionId": "d2079c0c-4a98-48b1-b511-eae3fc2003ab"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.PowerBI",
   "namespace": "Microsoft.PowerBI",
   "registrationState": "NotRegistered",
@@ -61,6 +67,18 @@
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-01",
+        "2016-01-29"
+      ],
+      "locations": [
+        "East US 2 EUAP"
+      ],
+      "properties": null,
+      "resourceType": "operations"
     }
   ]
 }
