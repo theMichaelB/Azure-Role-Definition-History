@@ -8,6 +8,7 @@
   "permissions": [
     {
       "actions": [
+        "Microsoft.AzureStack/edgeSubscriptions/read",
         "Microsoft.AzureStack/registrations/products/*/action",
         "Microsoft.AzureStack/registrations/products/read",
         "Microsoft.AzureStack/registrations/read"
