@@ -256,6 +256,7 @@
         "2017-09-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2018-04-16",
       "locations": [
         "West Central US",
         "East US",
