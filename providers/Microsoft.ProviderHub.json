@@ -26,6 +26,15 @@
       "apiVersions": [
         "2019-02-01-preview"
       ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "providerRegistrations/defaultRollouts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-02-01-preview"
+      ],
       "capabilities": "None",
       "locations": [],
       "properties": null,
