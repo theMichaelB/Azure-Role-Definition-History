@@ -10,6 +10,7 @@
       "actions": [],
       "dataActions": [
         "Microsoft.DigitalTwins/digitaltwins/read",
+        "Microsoft.DigitalTwins/digitaltwins/relationships/read",
         "Microsoft.DigitalTwins/eventroutes/read",
         "Microsoft.DigitalTwins/models/read",
         "Microsoft.DigitalTwins/query/action"
