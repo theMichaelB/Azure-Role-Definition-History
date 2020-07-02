@@ -30,7 +30,7 @@
       "apiVersions": [
         "2017-10-01-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "capabilities": "None",
       "defaultApiVersion": "2017-10-01-preview",
       "locations": [
         "North Europe",
