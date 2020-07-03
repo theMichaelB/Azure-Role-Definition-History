@@ -71,6 +71,18 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-06-01"
+      ],
+      "defaultApiVersion": "2020-06-01",
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "privateLinkServicesForPowerBI/operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2020-06-01",
         "2016-01-29"
       ],

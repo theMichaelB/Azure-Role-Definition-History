@@ -42,7 +42,17 @@
         "France Central",
         "France South",
         "Australia Central",
-        "Australia Central 2"
+        "Australia Central 2",
+        "Germany North",
+        "Germany West Central",
+        "Norway East",
+        "Norway West",
+        "South Africa North",
+        "South Africa West",
+        "Switzerland North",
+        "Switzerland West",
+        "UAE Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "classicInfrastructureResources"
