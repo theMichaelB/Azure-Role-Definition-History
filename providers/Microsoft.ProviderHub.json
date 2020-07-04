@@ -15,6 +15,15 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2019-10-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2019-02-01-preview"
       ],
       "locations": [],

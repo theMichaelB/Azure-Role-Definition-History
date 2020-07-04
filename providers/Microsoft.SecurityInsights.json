@@ -42,6 +42,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-01-01",
         "2019-01-01-preview"
       ],
       "capabilities": "SupportsExtension",
@@ -80,6 +81,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-01-01",
         "2019-01-01-preview"
       ],
       "capabilities": "SupportsExtension",
@@ -157,6 +159,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-01-01",
         "2019-01-01-preview"
       ],
       "capabilities": "SupportsExtension",
