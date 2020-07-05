@@ -1,0 +1,53 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "9bd5ab7f-4031-4045-ace9-6bebbad202f6"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Codespaces",
+  "namespace": "Microsoft.Codespaces",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-16-beta",
+        "2020-06-16-alpha",
+        "2020-06-16"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "West Europe",
+        "East US",
+        "West Us 2",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "plans"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-16-privatepreview",
+        "2020-06-16-beta",
+        "2020-06-16-alpha",
+        "2020-06-16"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-16-privatepreview",
+        "2020-06-16-beta",
+        "2020-06-16-alpha",
+        "2020-06-16"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "registeredSubscriptions"
+    }
+  ]
+}

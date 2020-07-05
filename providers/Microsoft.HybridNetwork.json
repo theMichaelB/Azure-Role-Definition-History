@@ -1,5 +1,10 @@
 {
-  "authorizations": [],
+  "authorizations": [
+    {
+      "applicationId": "b8ed041c-aa91-418e-8f47-20c70abc2de1",
+      "roleDefinitionId": "b193432e-9b7e-4885-b2c0-052afdceace3"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.HybridNetwork",
   "namespace": "Microsoft.HybridNetwork",
   "registrationState": "NotRegistered",
@@ -12,30 +17,6 @@
       "locations": [],
       "properties": null,
       "resourceType": "Operations"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-01-01-preview"
-      ],
-      "locations": [
-        "East US"
-      ],
-      "properties": null,
-      "resourceType": "Locations"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-01-01-preview"
-      ],
-      "locations": [
-        "East US",
-        "North Europe",
-        "East US 2 EUAP"
-      ],
-      "properties": null,
-      "resourceType": "Locations/OperationStatuses"
     }
   ]
 }
