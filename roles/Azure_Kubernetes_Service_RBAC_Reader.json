@@ -22,6 +22,8 @@
       ],
       "notActions": [],
       "notDataActions": [
+        "Microsoft.ContainerService/managedClusters/rbac.authorization.k8s.io/*/read",
+        "Microsoft.ContainerService/managedClusters/rbac.authorization.k8s.io/*/write",
         "Microsoft.ContainerService/managedClusters/secrets/*"
       ]
     }

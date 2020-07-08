@@ -12,7 +12,6 @@
       ],
       "dataActions": [
         "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/read",
-        "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/experimentadmin/action",
         "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/experiment/action",
         "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/emergencystop/action",
         "Microsoft.Experimentation/experimentWorkspaces/read",
