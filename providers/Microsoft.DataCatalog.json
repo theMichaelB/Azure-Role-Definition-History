@@ -29,7 +29,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2018-12-01-preview",
         "2016-03-30",
         "2015-07-01-preview"
       ],
@@ -42,7 +41,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2018-12-01-preview",
         "2016-03-30",
         "2015-07-01-preview"
       ],
@@ -79,19 +77,6 @@
       ],
       "properties": null,
       "resourceType": "locations/jobs"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2018-12-01-preview"
-      ],
-      "locations": [
-        "East US",
-        "West Europe",
-        "North Europe"
-      ],
-      "properties": null,
-      "resourceType": "locations/operationResults"
     }
   ]
 }

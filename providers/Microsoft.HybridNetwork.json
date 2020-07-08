@@ -17,6 +17,28 @@
       "locations": [],
       "properties": null,
       "resourceType": "Operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview"
+      ],
+      "locations": [
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview"
+      ],
+      "locations": [
+        "East US 2 EUAP"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationstatuses"
     }
   ]
 }

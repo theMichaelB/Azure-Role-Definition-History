@@ -230,6 +230,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-01-01-preview",
         "2017-08-01-preview"
       ],
       "locations": [
