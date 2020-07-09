@@ -2256,6 +2256,51 @@
     },
     {
       "aliases": null,
+      "apiVersions": [
+        "2020-05-01"
+      ],
+      "capabilities": "None",
+      "defaultApiVersion": "2020-05-01",
+      "locations": [
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "West Europe",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US",
+        "North Europe",
+        "East Asia",
+        "Brazil South",
+        "West US 2",
+        "West Central US",
+        "UK West",
+        "UK South",
+        "Japan East",
+        "Japan West",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "South India",
+        "Australia East",
+        "Australia Southeast",
+        "Korea Central",
+        "Korea South",
+        "West India",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "diskAccesses"
+    },
+    {
+      "aliases": null,
       "apiProfiles": [
         {
           "apiVersion": "2016-03-30",

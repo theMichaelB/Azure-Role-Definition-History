@@ -1,7 +1,12 @@
 {
   "authorizations": [
     {
-      "applicationId": "9bd5ab7f-4031-4045-ace9-6bebbad202f6"
+      "applicationId": "9bd5ab7f-4031-4045-ace9-6bebbad202f6",
+      "roleDefinitionId": "59cd8abb-1e79-437f-9a05-4bca235c4c35"
+    },
+    {
+      "applicationId": "48ef7923-268f-473d-bcf1-07f0997961f4",
+      "roleDefinitionId": "59cd8abb-1e79-437f-9a05-4bca235c4c35"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Codespaces",
