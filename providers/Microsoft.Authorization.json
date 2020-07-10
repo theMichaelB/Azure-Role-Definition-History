@@ -257,6 +257,16 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "policyExemptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2018-06-01-preview"
       ],
       "locations": [],

@@ -73,7 +73,8 @@
         "North Europe",
         "West Europe",
         "South Central US",
-        "UK South"
+        "UK South",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "spatialAnchorsAccounts"

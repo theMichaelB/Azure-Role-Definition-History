@@ -20,11 +20,12 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-01-01",
         "2017-06-01",
         "2017-01-01"
       ],
       "capabilities": "None",
-      "defaultApiVersion": "2017-06-01",
+      "defaultApiVersion": "2020-01-01",
       "locations": [
         "West US",
         "Central US",
@@ -60,9 +61,10 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-01-01",
         "2017-06-01"
       ],
-      "defaultApiVersion": "2017-06-01",
+      "defaultApiVersion": "2020-01-01",
       "locations": [
         "West US",
         "Central US",
@@ -98,10 +100,11 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-01-01",
         "2017-06-01",
         "2017-01-01"
       ],
-      "defaultApiVersion": "2017-06-01",
+      "defaultApiVersion": "2020-01-01",
       "locations": [
         "West US",
         "Central US",
@@ -137,10 +140,11 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-01-01",
         "2017-06-01",
         "2017-01-01"
       ],
-      "defaultApiVersion": "2017-06-01",
+      "defaultApiVersion": "2020-01-01",
       "locations": [
         "West US",
         "Central US",
@@ -176,10 +180,11 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-01-01",
         "2017-06-01",
         "2017-01-01"
       ],
-      "defaultApiVersion": "2017-06-01",
+      "defaultApiVersion": "2020-01-01",
       "locations": [
         "West US",
         "Central US",
