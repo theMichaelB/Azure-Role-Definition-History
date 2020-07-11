@@ -370,7 +370,10 @@
       "apiVersions": [
         "2020-05-01"
       ],
-      "locations": [],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "global"
+      ],
       "properties": null,
       "resourceType": "resourceManagementPrivateLinks"
     },

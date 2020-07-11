@@ -4504,8 +4504,8 @@
         "2019-07-01",
         "2019-06-01"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2019-06-01",
+      "capabilities": "None",
+      "defaultApiVersion": "2020-04-01",
       "locations": [
         "UAE North",
         "Australia Central 2",
@@ -4563,7 +4563,7 @@
         "2019-09-01",
         "2019-08-01"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "capabilities": "None",
       "defaultApiVersion": "2019-08-01",
       "locations": [
         "UAE North",
@@ -5375,7 +5375,7 @@
         "2019-08-01",
         "2019-07-01"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "capabilities": "None",
       "defaultApiVersion": "2019-07-01",
       "locations": [
         "UAE North",
