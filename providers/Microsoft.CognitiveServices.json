@@ -228,6 +228,108 @@
       "locations": [],
       "properties": null,
       "resourceType": "checkDomainAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-04-18"
+      ],
+      "locations": [
+        "Global",
+        "Australia East",
+        "Brazil South",
+        "West US",
+        "West US 2",
+        "West Europe",
+        "North Europe",
+        "Southeast Asia",
+        "East Asia",
+        "West Central US",
+        "South Central US",
+        "East US",
+        "East US 2",
+        "Canada Central",
+        "Japan East",
+        "Central India",
+        "UK South",
+        "Japan West",
+        "Korea Central",
+        "France Central",
+        "North Central US",
+        "Central US",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "accounts/privateLinkResources"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-04-18"
+      ],
+      "locations": [
+        "Global",
+        "Australia East",
+        "Brazil South",
+        "West US",
+        "West US 2",
+        "West Europe",
+        "North Europe",
+        "Southeast Asia",
+        "East Asia",
+        "West Central US",
+        "South Central US",
+        "East US",
+        "East US 2",
+        "Canada Central",
+        "Japan East",
+        "Central India",
+        "UK South",
+        "Japan West",
+        "Korea Central",
+        "France Central",
+        "North Central US",
+        "Central US",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "accounts/privateEndpointConnections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-04-18"
+      ],
+      "locations": [
+        "Global",
+        "Australia East",
+        "Brazil South",
+        "West US",
+        "West US 2",
+        "West Europe",
+        "North Europe",
+        "Southeast Asia",
+        "East Asia",
+        "West Central US",
+        "South Central US",
+        "East US",
+        "East US 2",
+        "Canada Central",
+        "Japan East",
+        "Central India",
+        "UK South",
+        "Japan West",
+        "Korea Central",
+        "France Central",
+        "North Central US",
+        "Central US",
+        "South Africa North",
+        "UAE North"
+      ],
+      "properties": null,
+      "resourceType": "accounts/privateEndpointConnectionProxies"
     }
   ]
 }
