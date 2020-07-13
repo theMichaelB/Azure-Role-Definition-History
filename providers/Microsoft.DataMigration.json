@@ -37,6 +37,7 @@
       "capabilities": "None",
       "defaultApiVersion": "2018-07-15-preview",
       "locations": [
+        "West Central US",
         "Brazil South",
         "West Europe",
         "Australia East",
@@ -83,6 +84,7 @@
       "capabilities": "None",
       "defaultApiVersion": "2018-07-15-preview",
       "locations": [
+        "West Central US",
         "Brazil South",
         "West Europe",
         "Australia East",

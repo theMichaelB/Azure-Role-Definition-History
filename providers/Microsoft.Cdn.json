@@ -675,6 +675,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-04-15",
         "2019-06-15-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -688,6 +689,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-04-15",
         "2019-06-15-preview"
       ],
       "defaultApiVersion": "2019-06-15-preview",
