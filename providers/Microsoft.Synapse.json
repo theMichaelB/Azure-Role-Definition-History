@@ -42,7 +42,8 @@
         "West Central US",
         "South Central US",
         "East US 2",
-        "UK South"
+        "UK South",
+        "West US"
       ],
       "properties": null,
       "resourceType": "workspaces"
@@ -63,7 +64,8 @@
         "West Central US",
         "South Central US",
         "East US 2",
-        "UK South"
+        "UK South",
+        "West US"
       ],
       "properties": null,
       "resourceType": "workspaces/bigDataPools"
@@ -84,7 +86,8 @@
         "West Central US",
         "South Central US",
         "East US 2",
-        "UK South"
+        "UK South",
+        "West US"
       ],
       "properties": null,
       "resourceType": "workspaces/sqlPools"
@@ -104,7 +107,8 @@
         "West Central US",
         "South Central US",
         "East US 2",
-        "UK South"
+        "UK South",
+        "West US"
       ],
       "properties": null,
       "resourceType": "workspaces/operationStatuses"
@@ -124,7 +128,8 @@
         "West Central US",
         "South Central US",
         "East US 2",
-        "UK South"
+        "UK South",
+        "West US"
       ],
       "properties": null,
       "resourceType": "workspaces/operationResults"
@@ -153,7 +158,8 @@
         "West Central US",
         "South Central US",
         "East US 2",
-        "UK South"
+        "UK South",
+        "West US"
       ],
       "properties": null,
       "resourceType": "operations"
