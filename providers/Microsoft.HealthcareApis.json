@@ -6,6 +6,10 @@
     {
       "applicationId": "3274406e-4e0a-4852-ba4f-d7226630abb7",
       "roleDefinitionId": "e39edba5-cde8-4529-ba1f-159138220220"
+    },
+    {
+      "applicationId": "894b1496-c6e0-4001-b69c-81b327564ca4",
+      "roleDefinitionId": "c69c1f48-8535-41e7-9667-539790b1c663"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.HealthcareApis",
@@ -43,7 +47,15 @@
       "locations": [
         "West US 2",
         "UK South",
-        "East US 2"
+        "East US 2",
+        "UK West",
+        "North Central US",
+        "Australia East",
+        "Southeast Asia",
+        "East US",
+        "West Europe",
+        "South Central US",
+        "North Europe"
       ],
       "properties": null,
       "resourceType": "services/iomtconnectors"
@@ -56,7 +68,15 @@
       "locations": [
         "West US 2",
         "UK South",
-        "East US 2"
+        "East US 2",
+        "UK West",
+        "North Central US",
+        "Australia East",
+        "Southeast Asia",
+        "East US",
+        "West Europe",
+        "South Central US",
+        "North Europe"
       ],
       "properties": null,
       "resourceType": "services/iomtconnectors/connections"
@@ -69,7 +89,15 @@
       "locations": [
         "West US 2",
         "UK South",
-        "East US 2"
+        "East US 2",
+        "UK West",
+        "North Central US",
+        "Australia East",
+        "Southeast Asia",
+        "East US",
+        "West Europe",
+        "South Central US",
+        "North Europe"
       ],
       "properties": null,
       "resourceType": "services/iomtconnectors/mappings"
@@ -99,6 +127,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01-preview",
         "2019-09-16",
         "2018-08-20-preview"
       ],
