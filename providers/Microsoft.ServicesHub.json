@@ -1,0 +1,17 @@
+{
+  "authorizations": [],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ServicesHub",
+  "namespace": "Microsoft.ServicesHub",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-15-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

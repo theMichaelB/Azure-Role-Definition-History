@@ -89,6 +89,15 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "connectors"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2019-01-01-preview",
         "2019-01-01"
       ],
@@ -450,6 +459,29 @@
       ],
       "properties": null,
       "resourceType": "locations/securitySolutionsReferenceData"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2015-06-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "Central US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "UK South",
+        "UK West",
+        "France Central",
+        "France South",
+        "Switzerland North",
+        "Germany West Central",
+        "West Central US",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "jitPolicies"
     },
     {
       "aliases": null,
