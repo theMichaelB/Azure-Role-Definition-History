@@ -1,7 +1,8 @@
 {
   "authorizations": [
     {
-      "applicationId": "a0551534-cfc9-4e1f-9a7a-65093b32bb38"
+      "applicationId": "a0551534-cfc9-4e1f-9a7a-65093b32bb38",
+      "roleDefinitionId": "114bcfb6-5524-4d80-948a-d8a9937bc3e5"
     },
     {
       "applicationId": "01fc33a7-78ba-4d2f-a4b7-768e336e890e"

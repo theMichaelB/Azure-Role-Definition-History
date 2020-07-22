@@ -1,0 +1,22 @@
+{
+  "authorization": {
+    "applicationId": "2cc451ba-a8ec-496f-bdff-591f5ae2876c",
+    "roleDefinitionId": "fdf757e9-19df-4152-a1ae-5e719161cd12"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DataCollaboration",
+  "namespace": "Microsoft.DataCollaboration",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-04-preview"
+      ],
+      "locations": [
+        "Australia East"
+      ],
+      "properties": null,
+      "resourceType": "listinvitations"
+    }
+  ]
+}
