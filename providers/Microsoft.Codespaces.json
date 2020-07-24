@@ -16,6 +16,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-10-beta",
+        "2020-07-10-alpha",
         "2020-06-16-beta",
         "2020-06-16-alpha",
         "2020-06-16"
@@ -33,6 +35,9 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-10-privatepreview",
+        "2020-07-10-beta",
+        "2020-07-10-alpha",
         "2020-06-16-privatepreview",
         "2020-06-16-beta",
         "2020-06-16-alpha",
@@ -45,6 +50,9 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-10-privatepreview",
+        "2020-07-10-beta",
+        "2020-07-10-alpha",
         "2020-06-16-privatepreview",
         "2020-06-16-beta",
         "2020-06-16-alpha",

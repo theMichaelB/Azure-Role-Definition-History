@@ -18,6 +18,19 @@
       "apiVersions": [
         "2020-03-01-preview"
       ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "clusters"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
       "locations": [],
       "properties": null,
       "resourceType": "operations"
