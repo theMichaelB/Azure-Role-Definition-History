@@ -17,6 +17,39 @@
       ],
       "properties": null,
       "resourceType": "listinvitations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-04-preview"
+      ],
+      "locations": [
+        "Australia East"
+      ],
+      "properties": null,
+      "resourceType": "locations/consumerInvitations/reject"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-04-preview"
+      ],
+      "locations": [
+        "Australia East"
+      ],
+      "properties": null,
+      "resourceType": "locations/consumerInvitations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-04-preview"
+      ],
+      "locations": [
+        "Australia East"
+      ],
+      "properties": null,
+      "resourceType": "operations"
     }
   ]
 }
