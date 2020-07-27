@@ -3,6 +3,10 @@
     {
       "applicationId": "9bd5ab7f-4031-4045-ace9-6bebbad202f6",
       "roleDefinitionId": "b879ac78-f1e6-448d-ab4c-5908cd5967c1"
+    },
+    {
+      "applicationId": "48ef7923-268f-473d-bcf1-07f0997961f4",
+      "roleDefinitionId": "b879ac78-f1e6-448d-ab4c-5908cd5967c1"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.VSOnline",
