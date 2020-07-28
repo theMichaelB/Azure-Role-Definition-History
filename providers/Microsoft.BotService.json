@@ -129,6 +129,10 @@
         {
           "apiVersion": "2017-12-01",
           "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2018-07-12",
+          "profileVersion": "2018-06-01-profile"
         }
       ],
       "apiVersions": [
