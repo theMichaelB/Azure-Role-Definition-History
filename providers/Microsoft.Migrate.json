@@ -98,6 +98,9 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2019-10-01",
+        "2019-05-01",
+        "2018-06-30-preview",
         "2018-02-02",
         "2017-11-11-preview",
         "2017-09-25-privatepreview"

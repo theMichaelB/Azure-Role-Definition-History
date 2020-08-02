@@ -18,7 +18,8 @@
       "locations": [
         "East US 2",
         "Central US",
-        "UK South"
+        "UK South",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "attestationProviders"
@@ -31,7 +32,8 @@
       "locations": [
         "East US 2",
         "Central US",
-        "UK South"
+        "UK South",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "defaultProviders"
@@ -53,7 +55,8 @@
       "locations": [
         "East US 2",
         "Central US",
-        "UK South"
+        "UK South",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "locations/defaultProvider"

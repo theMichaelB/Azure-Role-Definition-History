@@ -75,7 +75,9 @@
         "North Central US",
         "Central US",
         "South Africa North",
-        "UAE North"
+        "UAE North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -145,7 +147,9 @@
         "North Central US",
         "Central US",
         "South Africa North",
-        "UAE North"
+        "UAE North",
+        "Switzerland West",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "locations"

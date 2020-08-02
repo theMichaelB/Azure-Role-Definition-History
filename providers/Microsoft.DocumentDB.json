@@ -25,6 +25,7 @@
         }
       ],
       "apiVersions": [
+        "2020-06-01-preview",
         "2020-04-01",
         "2020-03-01",
         "2019-12-12",
@@ -84,6 +85,7 @@
         }
       ],
       "apiVersions": [
+        "2020-06-01-preview",
         "2020-04-01",
         "2020-03-01",
         "2019-12-12",
@@ -142,6 +144,7 @@
         }
       ],
       "apiVersions": [
+        "2020-06-01-preview",
         "2020-04-01",
         "2020-03-01",
         "2019-12-12",
@@ -200,6 +203,7 @@
         }
       ],
       "apiVersions": [
+        "2020-06-01-preview",
         "2020-04-01",
         "2020-03-01",
         "2019-12-12",
@@ -258,6 +262,7 @@
         }
       ],
       "apiVersions": [
+        "2020-06-01-preview",
         "2020-04-01",
         "2020-03-01",
         "2019-12-12",
@@ -316,6 +321,7 @@
         }
       ],
       "apiVersions": [
+        "2020-06-01-preview",
         "2020-04-01",
         "2020-03-01",
         "2019-12-12",
@@ -368,6 +374,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-06-01-preview",
         "2020-04-01",
         "2020-03-01",
         "2019-12-12",
@@ -420,6 +427,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-06-01-preview",
         "2020-04-01",
         "2020-03-01",
         "2019-12-12",
@@ -468,6 +476,92 @@
       ],
       "properties": null,
       "resourceType": "locations/deleteVirtualNetworkOrSubnets"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-01-preview"
+      ],
+      "locations": [
+        "Australia Central",
+        "Australia East",
+        "Australia Southeast",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "Central US",
+        "East Asia",
+        "East US",
+        "East US 2",
+        "France Central",
+        "Germany West Central",
+        "Japan East",
+        "Japan West",
+        "North Central US",
+        "North Europe",
+        "Norway East",
+        "South Africa North",
+        "South Central US",
+        "South India",
+        "Southeast Asia",
+        "Switzerland North",
+        "West Central US",
+        "West Europe",
+        "West India",
+        "West US",
+        "West US 2",
+        "UAE North",
+        "UK West",
+        "UK South",
+        "Brazil South",
+        "Korea South",
+        "Korea Central"
+      ],
+      "properties": null,
+      "resourceType": "locations/restorableDatabaseAccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-01-preview"
+      ],
+      "locations": [
+        "Australia Central",
+        "Australia East",
+        "Australia Southeast",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "Central US",
+        "East Asia",
+        "East US",
+        "East US 2",
+        "France Central",
+        "Germany West Central",
+        "Japan East",
+        "Japan West",
+        "North Central US",
+        "North Europe",
+        "Norway East",
+        "South Africa North",
+        "South Central US",
+        "South India",
+        "Southeast Asia",
+        "Switzerland North",
+        "West Central US",
+        "West Europe",
+        "West India",
+        "West US",
+        "West US 2",
+        "UAE North",
+        "UK West",
+        "UK South",
+        "Brazil South",
+        "Korea South",
+        "Korea Central"
+      ],
+      "properties": null,
+      "resourceType": "restorableDatabaseAccounts"
     }
   ]
 }

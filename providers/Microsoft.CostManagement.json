@@ -284,6 +284,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-06-01",
+        "2020-05-01-preview",
         "2019-11-01",
         "2019-10-01",
         "2019-09-01",
@@ -354,6 +356,16 @@
       "locations": [],
       "properties": null,
       "resourceType": "Views"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Insights"
     }
   ]
 }
