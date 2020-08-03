@@ -111,6 +111,15 @@
       "apiVersions": [
         "2019-10-01-preview"
       ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "aliases"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
       "locations": [
         "Central US"
       ],
