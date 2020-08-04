@@ -34,7 +34,9 @@
         "West Europe",
         "South Central US",
         "East US 2",
-        "North Europe"
+        "North Europe",
+        "West Central US",
+        "Japan East"
       ],
       "properties": null,
       "resourceType": "services"
@@ -55,7 +57,9 @@
         "East US",
         "West Europe",
         "South Central US",
-        "North Europe"
+        "North Europe",
+        "West Central US",
+        "Japan East"
       ],
       "properties": null,
       "resourceType": "services/iomtconnectors"
@@ -76,7 +80,9 @@
         "East US",
         "West Europe",
         "South Central US",
-        "North Europe"
+        "North Europe",
+        "West Central US",
+        "Japan East"
       ],
       "properties": null,
       "resourceType": "services/iomtconnectors/connections"
@@ -97,7 +103,9 @@
         "East US",
         "West Europe",
         "South Central US",
-        "North Europe"
+        "North Europe",
+        "West Central US",
+        "Japan East"
       ],
       "properties": null,
       "resourceType": "services/iomtconnectors/mappings"
@@ -119,7 +127,9 @@
         "West Europe",
         "South Central US",
         "East US 2",
-        "North Europe"
+        "North Europe",
+        "West Central US",
+        "Japan East"
       ],
       "properties": null,
       "resourceType": "locations"
@@ -142,7 +152,9 @@
         "West Europe",
         "South Central US",
         "East US 2",
-        "North Europe"
+        "North Europe",
+        "West Central US",
+        "Japan East"
       ],
       "properties": null,
       "resourceType": "locations/operationresults"
@@ -164,7 +176,9 @@
         "West Europe",
         "South Central US",
         "East US 2",
-        "North Europe"
+        "North Europe",
+        "West Central US",
+        "Japan East"
       ],
       "properties": null,
       "resourceType": "checkNameAvailability"
@@ -187,7 +201,9 @@
         "West Europe",
         "South Central US",
         "East US 2",
-        "North Europe"
+        "North Europe",
+        "West Central US",
+        "Japan East"
       ],
       "properties": null,
       "resourceType": "operations"
