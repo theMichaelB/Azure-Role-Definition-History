@@ -965,6 +965,15 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/validateDetachPaymentMethodEligibility"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
