@@ -158,7 +158,7 @@
       "apiVersions": [
         "2020-02-14-privatepreview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
         "West US 2",
         "North Central US",
@@ -166,33 +166,7 @@
         "East US 2"
       ],
       "properties": null,
-      "resourceType": "flexibleServers",
-      "zoneMappings": [
-        {
-          "location": "East US 2",
-          "zones": [
-            "1",
-            "2",
-            "3"
-          ]
-        },
-        {
-          "location": "West US 2",
-          "zones": [
-            "1",
-            "2",
-            "3"
-          ]
-        },
-        {
-          "location": "East US",
-          "zones": [
-            "1",
-            "2",
-            "3"
-          ]
-        }
-      ]
+      "resourceType": "singleServers"
     },
     {
       "aliases": null,

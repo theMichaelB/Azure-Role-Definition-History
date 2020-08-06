@@ -1,0 +1,48 @@
+{
+  "authorizations": [],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DeviceUpdate",
+  "namespace": "Microsoft.DeviceUpdate",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "locations": [
+        "West US 2",
+        "East US",
+        "East US 2 EUAP"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationstatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    }
+  ]
+}
