@@ -1,0 +1,89 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "9ae330ab-d710-466b-851c-c828e7340846"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Automanage",
+  "namespace": "Microsoft.Automanage",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-30-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "Central US",
+        "East US 2",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US 2",
+        "West Central US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "configurationProfileAssignments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-30-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2020-06-30-preview",
+      "locations": [
+        "Central US",
+        "East US 2",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US 2",
+        "West Central US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "accounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-30-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2020-06-30-preview",
+      "locations": [
+        "Central US",
+        "East US 2",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US 2",
+        "West Central US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "configurationProfilePreferences"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-30-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East US 2",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US 2",
+        "West Central US",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

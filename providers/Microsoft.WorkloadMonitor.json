@@ -1,11 +1,19 @@
 {
+  "authorizations": [
+    {
+      "applicationId": "ddc728e9-153d-4032-ab80-80e57af7a56f",
+      "managedByRoleDefinitionId": "553f60de-cc15-412f-9fdf-8f5152e7e0f5",
+      "roleDefinitionId": "553f60de-cc15-412f-9fdf-8f5152e7e0f5"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.WorkloadMonitor",
   "namespace": "Microsoft.WorkloadMonitor",
-  "registrationState": "Registered",
+  "registrationState": "NotRegistered",
   "resourceTypes": [
     {
       "aliases": null,
       "apiVersions": [
+        "2020-01-13-preview",
         "2018-08-31-preview"
       ],
       "locations": [],
@@ -53,6 +61,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-01-13-preview",
         "2018-08-31-preview"
       ],
       "capabilities": "SupportsExtension",

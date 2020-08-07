@@ -25,7 +25,9 @@
         "West Europe",
         "East US",
         "West US 2",
-        "Southeast Asia"
+        "Southeast Asia",
+        "Central US",
+        "East US 2"
       ],
       "properties": null,
       "resourceType": "Spring"
@@ -41,7 +43,9 @@
         "West Europe",
         "East US",
         "West US 2",
-        "Southeast Asia"
+        "Southeast Asia",
+        "Central US",
+        "East US 2"
       ],
       "properties": null,
       "resourceType": "Spring/apps"
@@ -55,7 +59,9 @@
         "West Europe",
         "East US",
         "West US 2",
-        "Southeast Asia"
+        "Southeast Asia",
+        "Central US",
+        "East US 2"
       ],
       "properties": null,
       "resourceType": "Spring/apps/deployments"
@@ -69,7 +75,9 @@
         "West Europe",
         "East US",
         "West US 2",
-        "Southeast Asia"
+        "Southeast Asia",
+        "Central US",
+        "East US 2"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -101,7 +109,9 @@
         "West Europe",
         "East US",
         "West US 2",
-        "Southeast Asia"
+        "Southeast Asia",
+        "Central US",
+        "East US 2"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -115,7 +125,9 @@
         "West Europe",
         "East US",
         "West US 2",
-        "Southeast Asia"
+        "Southeast Asia",
+        "Central US",
+        "East US 2"
       ],
       "properties": null,
       "resourceType": "locations/operationStatus"
