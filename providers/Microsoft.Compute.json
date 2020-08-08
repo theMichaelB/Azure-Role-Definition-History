@@ -1939,6 +1939,7 @@
         }
       ],
       "apiVersions": [
+        "2020-06-30",
         "2020-05-01",
         "2019-11-01",
         "2019-07-01",
@@ -1950,7 +1951,7 @@
         "2016-04-30-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2018-06-01",
+      "defaultApiVersion": "2020-06-30",
       "locations": [
         "Southeast Asia",
         "East US 2",
@@ -2108,6 +2109,7 @@
         }
       ],
       "apiVersions": [
+        "2020-06-30",
         "2020-05-01",
         "2019-11-01",
         "2019-07-01",
@@ -2119,7 +2121,7 @@
         "2016-04-30-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2018-06-01",
+      "defaultApiVersion": "2020-06-30",
       "locations": [
         "Southeast Asia",
         "East US 2",
@@ -2171,6 +2173,7 @@
         }
       ],
       "apiVersions": [
+        "2020-06-30",
         "2020-05-01",
         "2019-11-01",
         "2019-07-01",
@@ -2222,12 +2225,13 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-06-30",
         "2020-05-01",
         "2019-11-01",
         "2019-07-01"
       ],
       "capabilities": "SystemAssignedResourceIdentity",
-      "defaultApiVersion": "2019-07-01",
+      "defaultApiVersion": "2020-06-30",
       "locations": [
         "Southeast Asia",
         "East US 2",
@@ -2269,10 +2273,11 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-06-30",
         "2020-05-01"
       ],
       "capabilities": "None",
-      "defaultApiVersion": "2020-05-01",
+      "defaultApiVersion": "2020-06-30",
       "locations": [
         "Southeast Asia",
         "East US 2",

@@ -36,7 +36,9 @@
         "Canada East",
         "UK West",
         "UK South",
-        "Germany West Central"
+        "Germany West Central",
+        "Australia Central",
+        "Australia Central 2"
       ],
       "properties": null,
       "resourceType": "namespaces"
@@ -74,7 +76,9 @@
         "Canada East",
         "UK West",
         "UK South",
-        "Germany West Central"
+        "Germany West Central",
+        "Australia Central",
+        "Australia Central 2"
       ],
       "properties": null,
       "resourceType": "namespaces/notificationHubs"
@@ -111,7 +115,9 @@
         "Canada East",
         "UK West",
         "UK South",
-        "Germany West Central"
+        "Germany West Central",
+        "Australia Central",
+        "Australia Central 2"
       ],
       "properties": null,
       "resourceType": "checkNamespaceAvailability"
@@ -148,7 +154,9 @@
         "Canada East",
         "UK West",
         "UK South",
-        "Germany West Central"
+        "Germany West Central",
+        "Australia Central",
+        "Australia Central 2"
       ],
       "properties": null,
       "resourceType": "checkNameAvailability"
@@ -185,7 +193,9 @@
         "Canada East",
         "UK West",
         "UK South",
-        "Germany West Central"
+        "Germany West Central",
+        "Australia Central",
+        "Australia Central 2"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -222,7 +232,9 @@
         "Canada East",
         "UK West",
         "UK South",
-        "Germany West Central"
+        "Germany West Central",
+        "Australia Central",
+        "Australia Central 2"
       ],
       "properties": null,
       "resourceType": "operationResults"
