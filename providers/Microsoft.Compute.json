@@ -284,6 +284,10 @@
         {
           "location": "Germany West Central",
           "zones": []
+        },
+        {
+          "location": "Brazil South",
+          "zones": []
         }
       ]
     },
@@ -534,6 +538,10 @@
         },
         {
           "location": "Germany West Central",
+          "zones": []
+        },
+        {
+          "location": "Brazil South",
           "zones": []
         }
       ]
@@ -2093,6 +2101,10 @@
         {
           "location": "Germany West Central",
           "zones": []
+        },
+        {
+          "location": "Brazil South",
+          "zones": []
         }
       ]
     },
@@ -2583,6 +2595,10 @@
         {
           "location": "Germany West Central",
           "zones": []
+        },
+        {
+          "location": "Brazil South",
+          "zones": []
         }
       ]
     },
@@ -2737,6 +2753,10 @@
         },
         {
           "location": "Germany West Central",
+          "zones": []
+        },
+        {
+          "location": "Brazil South",
           "zones": []
         }
       ]

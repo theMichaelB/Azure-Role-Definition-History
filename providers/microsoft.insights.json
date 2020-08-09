@@ -89,12 +89,7 @@
         "North Central US",
         "Brazil South",
         "Switzerland North",
-        "Australia Southeast",
-        "Australia Central 2",
-        "Germany West Central",
-        "Switzerland West",
-        "UAE Central",
-        "UK West"
+        "Australia Southeast"
       ],
       "properties": null,
       "resourceType": "components"
@@ -210,12 +205,7 @@
         "North Central US",
         "Brazil South",
         "Switzerland North",
-        "Australia Southeast",
-        "Australia Central 2",
-        "Germany West Central",
-        "Switzerland West",
-        "UAE Central",
-        "UK West"
+        "Australia Southeast"
       ],
       "properties": null,
       "resourceType": "webtests"
@@ -283,7 +273,10 @@
         "Brazil South",
         "UK West",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "UAE Central",
+        "Germany West Central",
+        "Australia Central 2"
       ],
       "properties": null,
       "resourceType": "scheduledqueryrules"
