@@ -10,7 +10,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-07-01-preview",
         "2020-04-01",
         "2018-10-01",
         "2018-06-01-preview",
@@ -59,7 +58,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-07-01-preview",
         "2020-04-01",
         "2018-10-01",
         "2018-06-01-preview",
@@ -108,7 +106,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-07-01-preview",
         "2020-04-01",
         "2018-10-01",
         "2018-06-01-preview",
@@ -157,7 +154,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-07-01-preview",
         "2020-04-01",
         "2018-10-01",
         "2018-06-01-preview",
@@ -202,48 +198,6 @@
       ],
       "properties": null,
       "resourceType": "applyUpdates"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-07-01-preview"
-      ],
-      "locations": [
-        "Central US",
-        "East US",
-        "East US 2",
-        "West US",
-        "West US 2",
-        "West Central US",
-        "North Central US",
-        "South Central US",
-        "North Europe",
-        "West Europe",
-        "East Asia",
-        "Southeast Asia",
-        "Japan East",
-        "Japan West",
-        "Australia East",
-        "Australia Southeast",
-        "Australia Central",
-        "Australia Central 2",
-        "South Africa North",
-        "South Africa West",
-        "Brazil South",
-        "South India",
-        "Central India",
-        "West India",
-        "Canada Central",
-        "Canada East",
-        "UK South",
-        "UK West",
-        "Korea Central",
-        "Korea South",
-        "France Central",
-        "France South"
-      ],
-      "properties": null,
-      "resourceType": "publicMaintenanceConfigurations"
     }
   ]
 }

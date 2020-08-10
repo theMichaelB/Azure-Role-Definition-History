@@ -3,10 +3,6 @@
     {
       "applicationId": "64b12d6e-6549-484c-8cc6-6281839ba394",
       "roleDefinitionId": "1d1d44cf-68a1-4def-a2b6-cd7efc3515af"
-    },
-    {
-      "applicationId": "359431ad-ece5-496b-8768-be4bbfd82f36",
-      "roleDefinitionId": "1b5c71b7-9814-4b40-b62a-23018af874d8"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Kubernetes",
