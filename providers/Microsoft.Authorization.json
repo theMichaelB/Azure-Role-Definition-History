@@ -358,6 +358,26 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2018-05-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "accessReviewScheduleDefinitions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-05-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "accessReviewScheduleSettings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2020-05-01"
       ],
       "capabilities": "SupportsExtension",

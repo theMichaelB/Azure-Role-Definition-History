@@ -22,7 +22,8 @@
         "West Europe",
         "Southeast Asia",
         "West US 2",
-        "South Central US"
+        "South Central US",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "accounts"
@@ -41,7 +42,8 @@
         "West Europe",
         "Southeast Asia",
         "West US 2",
-        "South Central US"
+        "South Central US",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "accounts/shares"
@@ -60,7 +62,8 @@
         "West Europe",
         "Southeast Asia",
         "West US 2",
-        "South Central US"
+        "South Central US",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "accounts/shares/datasets"
@@ -79,7 +82,8 @@
         "West Europe",
         "Southeast Asia",
         "West US 2",
-        "South Central US"
+        "South Central US",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "accounts/shares/synchronizationSettings"
@@ -98,7 +102,8 @@
         "West Europe",
         "Southeast Asia",
         "West US 2",
-        "South Central US"
+        "South Central US",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "accounts/shares/invitations"
@@ -117,7 +122,8 @@
         "West Europe",
         "Southeast Asia",
         "West US 2",
-        "South Central US"
+        "South Central US",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "accounts/sharesubscriptions"
@@ -136,7 +142,8 @@
         "West Europe",
         "Southeast Asia",
         "West US 2",
-        "South Central US"
+        "South Central US",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "accounts/shares/providersharesubscriptions"
@@ -155,7 +162,8 @@
         "West Europe",
         "Southeast Asia",
         "West US 2",
-        "South Central US"
+        "South Central US",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "accounts/sharesubscriptions/datasetmappings"
@@ -174,7 +182,8 @@
         "West Europe",
         "Southeast Asia",
         "West US 2",
-        "South Central US"
+        "South Central US",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "accounts/sharesubscriptions/triggers"
@@ -193,7 +202,8 @@
         "West Europe",
         "Southeast Asia",
         "West US 2",
-        "South Central US"
+        "South Central US",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "accounts/sharesubscriptions/consumerSourceDataSets"
@@ -211,6 +221,7 @@
         "West US 2",
         "North Europe",
         "UK South",
+        "Canada Central",
         "West Central US"
       ],
       "properties": null,
@@ -243,7 +254,8 @@
         "Southeast Asia",
         "West Central US",
         "West US 2",
-        "South Central US"
+        "South Central US",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -264,7 +276,8 @@
         "West Europe",
         "Southeast Asia",
         "West Central US",
-        "South Central US"
+        "South Central US",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "locations/rejectInvitation"
@@ -285,7 +298,8 @@
         "West Europe",
         "Southeast Asia",
         "West Central US",
-        "South Central US"
+        "South Central US",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "locations/consumerInvitations"
