@@ -1166,7 +1166,9 @@
         "UK South",
         "UK West",
         "Norway East",
-        "Norway West"
+        "Norway West",
+        "Germany West Central",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "automations"

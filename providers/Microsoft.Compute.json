@@ -1936,6 +1936,53 @@
     },
     {
       "aliases": null,
+      "apiVersions": [
+        "2019-12-01",
+        "2019-07-01",
+        "2019-03-01",
+        "2018-06-01"
+      ],
+      "defaultApiVersion": "2018-06-01",
+      "locations": [
+        "West Central US",
+        "South Central US",
+        "East US 2",
+        "Southeast Asia",
+        "West Europe",
+        "West US",
+        "East US",
+        "Canada Central",
+        "North Europe",
+        "North Central US",
+        "Brazil South",
+        "UK West",
+        "West India",
+        "East Asia",
+        "Australia East",
+        "Japan East",
+        "Korea South",
+        "West US 2",
+        "Canada East",
+        "UK South",
+        "Central India",
+        "South India",
+        "Australia Southeast",
+        "Japan West",
+        "Korea Central",
+        "France Central",
+        "Central US",
+        "Australia Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/galleries"
+    },
+    {
+      "aliases": null,
       "apiProfiles": [
         {
           "apiVersion": "2017-03-30",
