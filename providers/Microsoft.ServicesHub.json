@@ -9,6 +9,42 @@
       "apiVersions": [
         "2019-08-15-preview"
       ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "connectors"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-15-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-15-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "supportOfferingEntitlement"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-08-15-preview"
+      ],
       "locations": [],
       "properties": null,
       "resourceType": "operations"

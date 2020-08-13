@@ -58,7 +58,9 @@
         "Brazil South",
         "Korea South",
         "Korea Central",
-        "France Central"
+        "France Central",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "migrateprojects"
@@ -90,7 +92,9 @@
         "Brazil South",
         "Korea Central",
         "Korea South",
-        "France Central"
+        "France Central",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "assessmentProjects"

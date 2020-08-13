@@ -1,5 +1,10 @@
 {
-  "authorizations": [],
+  "authorizations": [
+    {
+      "applicationId": "6ee392c4-d339-4083-b04d-6b7947c6cf78",
+      "roleDefinitionId": "a7c9caf5-ee6d-4cdd-94e0-917c34a027ec"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DeviceUpdate",
   "namespace": "Microsoft.DeviceUpdate",
   "registrationState": "NotRegistered",
@@ -19,9 +24,9 @@
         "2020-03-01-preview"
       ],
       "locations": [
+        "East US 2 EUAP",
         "West US 2",
-        "East US",
-        "East US 2 EUAP"
+        "West US"
       ],
       "properties": null,
       "resourceType": "locations/operationstatuses"
