@@ -218,7 +218,9 @@
         "Korea Central",
         "France Central",
         "South Africa North",
-        "UAE North"
+        "UAE North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/privateEndpointConnections"
@@ -256,7 +258,9 @@
         "Korea Central",
         "France Central",
         "South Africa North",
-        "UAE North"
+        "UAE North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/privateEndpointConnectionProxies"
@@ -294,7 +298,9 @@
         "Korea Central",
         "France Central",
         "South Africa North",
-        "UAE North"
+        "UAE North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/privateEndpointConnectionProxies/validate"
@@ -332,7 +338,9 @@
         "Korea Central",
         "France Central",
         "South Africa North",
-        "UAE North"
+        "UAE North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/privateLinkResources"
@@ -372,7 +380,9 @@
         "East Asia",
         "Japan West",
         "South India",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/importImage"
@@ -488,7 +498,9 @@
         "Korea Central",
         "France Central",
         "South Africa North",
-        "UAE North"
+        "UAE North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/pipelineRuns"
@@ -1261,7 +1273,9 @@
         "East Asia",
         "Japan West",
         "South India",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/replications"
@@ -1302,7 +1316,9 @@
         "East Asia",
         "Japan West",
         "South India",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/webhooks"
@@ -1342,7 +1358,9 @@
         "East Asia",
         "Japan West",
         "South India",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/webhooks/ping"
@@ -1382,7 +1400,9 @@
         "East Asia",
         "Japan West",
         "South India",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/webhooks/getCallbackConfig"
@@ -1422,7 +1442,9 @@
         "East Asia",
         "Japan West",
         "South India",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/webhooks/listEvents"
@@ -1539,7 +1561,9 @@
         "East Asia",
         "Japan West",
         "South India",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -1578,7 +1602,9 @@
         "East Asia",
         "Japan West",
         "South India",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "locations/deleteVirtualNetworkOrSubnets"
@@ -1633,7 +1659,9 @@
         "North Central US",
         "West Central US",
         "West US 2",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/listCredentials"
@@ -1674,7 +1702,9 @@
         "North Central US",
         "West Central US",
         "West US 2",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/regenerateCredential"
@@ -1714,7 +1744,9 @@
         "East Asia",
         "Japan West",
         "South India",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/listUsages"
@@ -1843,7 +1875,9 @@
         "East Asia",
         "Japan West",
         "South India",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "registries/eventGridFilters"
@@ -1886,7 +1920,9 @@
         "France Central",
         "South Africa North",
         "UAE North",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "checkNameAvailability"
@@ -1928,7 +1964,9 @@
         "France Central",
         "South Africa North",
         "UAE North",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -1970,7 +2008,9 @@
         "France Central",
         "South Africa North",
         "UAE North",
-        "Switzerland North"
+        "Switzerland North",
+        "UAE Central",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "locations"
