@@ -163,13 +163,22 @@
         "West US 2",
         "North Central US",
         "East US",
-        "East US 2"
+        "East US 2",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "flexibleServers",
       "zoneMappings": [
         {
           "location": "East US 2",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "West Europe",
           "zones": [
             "1",
             "2",

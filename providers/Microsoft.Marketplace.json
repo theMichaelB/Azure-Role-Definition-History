@@ -50,6 +50,15 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2018-08-01-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "macc"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2018-03-01-beta"
       ],
       "locations": [],

@@ -12,6 +12,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview",
         "2020-05-01",
         "2018-10-01",
         "2018-03-01-preview"
@@ -42,11 +43,12 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview",
         "2020-05-01",
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "defaultApiVersion": "2018-10-01",
+      "defaultApiVersion": "2020-05-01",
       "locations": [],
       "properties": null,
       "resourceType": "locations"
@@ -54,11 +56,12 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview",
         "2020-05-01",
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "defaultApiVersion": "2018-10-01",
+      "defaultApiVersion": "2020-05-01",
       "locations": [
         "East US",
         "West US",
@@ -83,11 +86,12 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview",
         "2020-05-01",
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "defaultApiVersion": "2018-10-01",
+      "defaultApiVersion": "2020-05-01",
       "locations": [
         "East US",
         "West US",
@@ -112,11 +116,12 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview",
         "2020-05-01",
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "defaultApiVersion": "2018-10-01",
+      "defaultApiVersion": "2020-05-01",
       "locations": [
         "West US 2",
         "East US",
@@ -130,11 +135,12 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview",
         "2020-05-01",
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "defaultApiVersion": "2018-10-01",
+      "defaultApiVersion": "2020-05-01",
       "locations": [
         "East US",
         "West US",
@@ -159,11 +165,12 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview",
         "2020-05-01",
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "defaultApiVersion": "2018-10-01",
+      "defaultApiVersion": "2020-05-01",
       "locations": [
         "East US",
         "West US",
@@ -188,11 +195,12 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview",
         "2020-05-01",
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "defaultApiVersion": "2018-10-01",
+      "defaultApiVersion": "2020-05-01",
       "locations": [
         "East US",
         "West US",

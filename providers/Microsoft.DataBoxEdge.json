@@ -2,10 +2,6 @@
   "authorizations": [
     {
       "applicationId": "2368d027-f996-4edb-bf48-928f98f2ab8c"
-    },
-    {
-      "applicationId": "b8ed041c-aa91-418e-8f47-20c70abc2de1",
-      "roleDefinitionId": "f9b194f9-6969-48fc-b432-a189d291bcf0"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DataBoxEdge",
