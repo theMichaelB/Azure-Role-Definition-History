@@ -60,6 +60,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-02-02-preview",
         "2018-05-01-preview",
         "2015-05-01",
         "2014-12-01-preview",
@@ -1298,6 +1299,50 @@
       ],
       "properties": null,
       "resourceType": "topology"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-02-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "generateLiveToken"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2019-11-01-preview",
+      "locations": [
+        "East US",
+        "Central US",
+        "West Europe",
+        "West US 2",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "dataCollectionRules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "defaultApiVersion": "2019-11-01-preview",
+      "locations": [
+        "East US",
+        "Central US",
+        "West Europe",
+        "West US 2",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "dataCollectionRuleAssociations"
     },
     {
       "aliases": null,

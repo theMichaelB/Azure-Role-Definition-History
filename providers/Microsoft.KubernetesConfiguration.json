@@ -7,6 +7,10 @@
     {
       "applicationId": "03db181c-e9d3-4868-9097-f0b728327182",
       "roleDefinitionId": "DE2ADB97-42D8-49C8-8FCF-DBB53EF936AC"
+    },
+    {
+      "applicationId": "a0f92522-89de-4c5e-9a75-0044ccf66efd",
+      "roleDefinitionId": "b3429810-7d5c-420e-8605-cf280f3099f2"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.KubernetesConfiguration",
@@ -18,7 +22,7 @@
       "apiVersions": [
         "2019-11-01-preview"
       ],
-      "capabilities": "SupportsExtension",
+      "capabilities": "SystemAssignedResourceIdentity, SupportsExtension",
       "defaultApiVersion": "2019-11-01-preview",
       "locations": [
         "East US",
