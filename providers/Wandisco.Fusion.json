@@ -12,7 +12,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2019-10-01",
         "2019-09-01-preview"
       ],
       "locations": [
@@ -24,7 +23,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2019-10-01",
         "2019-09-01-preview"
       ],
       "locations": [

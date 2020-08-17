@@ -27,6 +27,28 @@
         "Australia East"
       ],
       "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-04-preview"
+      ],
+      "locations": [
+        "Australia East"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-05-04-preview"
+      ],
+      "locations": [
+        "Australia East"
+      ],
+      "properties": null,
       "resourceType": "locations/consumerInvitations/reject"
     },
     {
