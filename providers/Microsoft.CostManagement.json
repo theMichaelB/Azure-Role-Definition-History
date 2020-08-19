@@ -36,15 +36,6 @@
       ],
       "locations": [],
       "properties": null,
-      "resourceType": "CheckConnectorEligibility"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2019-03-01-preview"
-      ],
-      "locations": [],
-      "properties": null,
       "resourceType": "ExternalBillingAccounts"
     },
     {
