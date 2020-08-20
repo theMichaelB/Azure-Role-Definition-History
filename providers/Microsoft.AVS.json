@@ -5,7 +5,9 @@
         {
           "name": "VMCP"
         }
-      ]
+      ],
+      "applicationId": "608f9929-9737-432e-860f-4e1c1821052f",
+      "roleDefinitionId": "a12e1b40-7eca-4c51-be1d-d8bc564dcfdd"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AVS",
