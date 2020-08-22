@@ -18,15 +18,21 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01",
         "2019-05-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2019-05-01-preview",
       "locations": [
         "West Europe",
         "East US",
         "West US 2",
         "Southeast Asia",
         "Central US",
+        "Australia East",
+        "UK South",
+        "North Europe",
+        "South Central US",
         "East US 2"
       ],
       "properties": null,
@@ -35,6 +41,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01",
         "2019-05-01-preview"
       ],
       "capabilities": "SystemAssignedResourceIdentity",
@@ -45,6 +52,10 @@
         "West US 2",
         "Southeast Asia",
         "Central US",
+        "Australia East",
+        "UK South",
+        "North Europe",
+        "South Central US",
         "East US 2"
       ],
       "properties": null,
@@ -53,14 +64,20 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01",
         "2019-05-01-preview"
       ],
+      "defaultApiVersion": "2019-05-01-preview",
       "locations": [
         "West Europe",
         "East US",
         "West US 2",
         "Southeast Asia",
         "Central US",
+        "Australia East",
+        "UK South",
+        "North Europe",
+        "South Central US",
         "East US 2"
       ],
       "properties": null,
@@ -69,14 +86,20 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01",
         "2019-05-01-preview"
       ],
+      "defaultApiVersion": "2019-05-01-preview",
       "locations": [
         "West Europe",
         "East US",
         "West US 2",
         "Southeast Asia",
         "Central US",
+        "Australia East",
+        "UK South",
+        "North Europe",
+        "South Central US",
         "East US 2"
       ],
       "properties": null,
@@ -87,6 +110,7 @@
       "apiVersions": [
         "2019-05-01-preview"
       ],
+      "defaultApiVersion": "2019-05-01-preview",
       "locations": [],
       "properties": null,
       "resourceType": "operations"
@@ -94,8 +118,10 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01",
         "2019-05-01-preview"
       ],
+      "defaultApiVersion": "2019-05-01-preview",
       "locations": [],
       "properties": null,
       "resourceType": "locations"
@@ -103,14 +129,20 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01",
         "2019-05-01-preview"
       ],
+      "defaultApiVersion": "2019-05-01-preview",
       "locations": [
         "West Europe",
         "East US",
         "West US 2",
         "Southeast Asia",
         "Central US",
+        "Australia East",
+        "UK South",
+        "North Europe",
+        "South Central US",
         "East US 2"
       ],
       "properties": null,
@@ -119,14 +151,20 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01",
         "2019-05-01-preview"
       ],
+      "defaultApiVersion": "2019-05-01-preview",
       "locations": [
         "West Europe",
         "East US",
         "West US 2",
         "Southeast Asia",
         "Central US",
+        "Australia East",
+        "UK South",
+        "North Europe",
+        "South Central US",
         "East US 2"
       ],
       "properties": null,

@@ -34,7 +34,8 @@
         "Korea Central",
         "West India",
         "Brazil South",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "applications"
@@ -64,7 +65,8 @@
         "Korea Central",
         "West India",
         "Brazil South",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "networks"
@@ -94,7 +96,8 @@
         "Korea Central",
         "West India",
         "Brazil South",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "volumes"
@@ -124,7 +127,8 @@
         "Korea Central",
         "West India",
         "Brazil South",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "secrets"
@@ -154,7 +158,8 @@
         "Korea Central",
         "West India",
         "Brazil South",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "gateways"
@@ -193,7 +198,8 @@
         "Korea Central",
         "West India",
         "Brazil South",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/applicationOperations"
@@ -222,7 +228,8 @@
         "Korea Central",
         "West India",
         "Brazil South",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/networkOperations"
@@ -251,7 +258,8 @@
         "Korea Central",
         "West India",
         "Brazil South",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/volumeOperations"
@@ -280,7 +288,8 @@
         "Korea Central",
         "West India",
         "Brazil South",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/gatewayOperations"
@@ -309,7 +318,8 @@
         "Korea Central",
         "West India",
         "Brazil South",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/secretOperations"

@@ -18,7 +18,7 @@
         "2018-03-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
-      "defaultApiVersion": "2020-05-01",
+      "defaultApiVersion": "2020-07-01-preview",
       "locations": [
         "East US",
         "West US",
@@ -48,7 +48,7 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "defaultApiVersion": "2020-05-01",
+      "defaultApiVersion": "2020-07-01-preview",
       "locations": [],
       "properties": null,
       "resourceType": "locations"
@@ -61,7 +61,7 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "defaultApiVersion": "2020-05-01",
+      "defaultApiVersion": "2020-07-01-preview",
       "locations": [
         "East US",
         "West US",
@@ -91,7 +91,7 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "defaultApiVersion": "2020-05-01",
+      "defaultApiVersion": "2020-07-01-preview",
       "locations": [
         "East US",
         "West US",
@@ -121,7 +121,7 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "defaultApiVersion": "2020-05-01",
+      "defaultApiVersion": "2020-07-01-preview",
       "locations": [
         "West US 2",
         "East US",
@@ -140,7 +140,7 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "defaultApiVersion": "2020-05-01",
+      "defaultApiVersion": "2020-07-01-preview",
       "locations": [
         "East US",
         "West US",
@@ -170,7 +170,7 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "defaultApiVersion": "2020-05-01",
+      "defaultApiVersion": "2020-07-01-preview",
       "locations": [
         "East US",
         "West US",
@@ -200,7 +200,7 @@
         "2018-10-01",
         "2018-03-01-preview"
       ],
-      "defaultApiVersion": "2020-05-01",
+      "defaultApiVersion": "2020-07-01-preview",
       "locations": [
         "East US",
         "West US",
