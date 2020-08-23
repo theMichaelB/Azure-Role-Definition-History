@@ -1312,6 +1312,7 @@
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "defaultApiVersion": "2019-11-01-preview",
       "locations": [
+        "Australia Southeast",
         "East US",
         "Central US",
         "West Europe",
@@ -1329,6 +1330,7 @@
       "capabilities": "SupportsExtension",
       "defaultApiVersion": "2019-11-01-preview",
       "locations": [
+        "Australia Southeast",
         "East US",
         "Central US",
         "West Europe",
