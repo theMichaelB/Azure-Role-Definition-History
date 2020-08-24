@@ -12,6 +12,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview",
         "2020-06-01",
         "2019-11-01-preview",
         "2019-10-01",
@@ -46,6 +47,37 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview"
+      ],
+      "locations": [
+        "West Central US",
+        "Central US",
+        "West US",
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe",
+        "UK South",
+        "South Central US",
+        "East US 2",
+        "West US 2",
+        "Brazil South",
+        "Canada Central",
+        "Central India",
+        "East Asia",
+        "France Central",
+        "Japan East",
+        "Korea Central",
+        "North Central US"
+      ],
+      "properties": null,
+      "resourceType": "configurationStores/keyValues"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-01-preview",
         "2020-06-01",
         "2019-11-01-preview",
         "2019-10-01",
@@ -79,6 +111,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview",
         "2020-06-01",
         "2019-11-01-preview",
         "2019-10-01",
@@ -112,6 +145,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview",
         "2020-06-01",
         "2019-11-01-preview",
         "2019-10-01",
@@ -145,6 +179,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview",
         "2020-06-01",
         "2019-11-01-preview",
         "2019-10-01",
@@ -178,6 +213,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview",
         "2020-06-01",
         "2019-11-01-preview",
         "2019-10-01",

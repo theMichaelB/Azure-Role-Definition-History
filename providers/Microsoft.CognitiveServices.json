@@ -40,7 +40,9 @@
         "North Central US",
         "Central US",
         "South Africa North",
-        "UAE North"
+        "UAE North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "accounts"
@@ -112,7 +114,9 @@
         "North Central US",
         "Central US",
         "South Africa North",
-        "UAE North"
+        "UAE North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -148,8 +152,8 @@
         "Central US",
         "South Africa North",
         "UAE North",
-        "Switzerland West",
-        "Switzerland North"
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "locations"
@@ -184,7 +188,9 @@
         "North Central US",
         "Central US",
         "South Africa North",
-        "UAE North"
+        "UAE North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "locations/deleteVirtualNetworkOrSubnets"
@@ -219,7 +225,9 @@
         "North Central US",
         "Central US",
         "South Africa North",
-        "UAE North"
+        "UAE North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "locations/checkSkuAvailability"
@@ -262,7 +270,9 @@
         "North Central US",
         "Central US",
         "South Africa North",
-        "UAE North"
+        "UAE North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "accounts/privateLinkResources"
@@ -296,7 +306,9 @@
         "North Central US",
         "Central US",
         "South Africa North",
-        "UAE North"
+        "UAE North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "accounts/privateEndpointConnections"
@@ -330,7 +342,9 @@
         "North Central US",
         "Central US",
         "South Africa North",
-        "UAE North"
+        "UAE North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "accounts/privateEndpointConnectionProxies"

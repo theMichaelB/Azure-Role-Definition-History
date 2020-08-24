@@ -1,8 +1,4 @@
 {
-  "authorization": {
-    "applicationId": "e64bd61e-5424-451f-b666-e02ee2878437",
-    "roleDefinitionId": "51598b27-f396-476b-b212-90d7da526159"
-  },
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.PowerPlatform",
   "namespace": "Microsoft.PowerPlatform",
   "registrationState": "NotRegistered",
