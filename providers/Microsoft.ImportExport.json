@@ -16,11 +16,12 @@
         }
       ],
       "apiVersions": [
+        "2020-08-01",
         "2016-11-01",
         "2016-07-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
-      "defaultApiVersion": "2016-11-01",
+      "defaultApiVersion": "2020-08-01",
       "locations": [
         "Australia East",
         "Australia Southeast",
@@ -61,10 +62,11 @@
         }
       ],
       "apiVersions": [
+        "2020-08-01",
         "2016-11-01",
         "2016-07-01-preview"
       ],
-      "defaultApiVersion": "2016-11-01",
+      "defaultApiVersion": "2020-08-01",
       "locations": [
         "Australia East",
         "Australia Southeast",
@@ -105,10 +107,11 @@
         }
       ],
       "apiVersions": [
+        "2020-08-01",
         "2016-11-01",
         "2016-07-01-preview"
       ],
-      "defaultApiVersion": "2016-11-01",
+      "defaultApiVersion": "2020-08-01",
       "locations": [
         "Australia East",
         "Australia Southeast",
@@ -149,10 +152,11 @@
         }
       ],
       "apiVersions": [
+        "2020-08-01",
         "2016-11-01",
         "2016-07-01-preview"
       ],
-      "defaultApiVersion": "2016-11-01",
+      "defaultApiVersion": "2020-08-01",
       "locations": [
         "Australia East",
         "Australia Southeast",

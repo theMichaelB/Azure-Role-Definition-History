@@ -26,7 +26,12 @@
       "locations": [
         "East US 2 EUAP",
         "West US 2",
-        "West US"
+        "West US",
+        "West Europe",
+        "Southeast Asia",
+        "East US",
+        "North Europe",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "locations/operationstatuses"
