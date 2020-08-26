@@ -24,7 +24,6 @@
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "defaultApiVersion": "2019-01-01",
       "locations": [
-        "Canada East",
         "Central India",
         "UAE North",
         "Australia Central",
@@ -41,6 +40,7 @@
         "East Asia",
         "South India",
         "Canada Central",
+        "Canada East",
         "Australia Southeast",
         "Japan East",
         "North Central US",
