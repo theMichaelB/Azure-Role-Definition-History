@@ -70,7 +70,7 @@
         "2015-05-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2018-06-01",
+      "defaultApiVersion": "2020-06-01",
       "locations": [
         "East US",
         "East US 2",
@@ -142,7 +142,7 @@
         "2015-05-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
-      "defaultApiVersion": "2018-06-01",
+      "defaultApiVersion": "2020-06-01",
       "locations": [
         "East US",
         "East US 2",
@@ -324,7 +324,7 @@
         "2015-05-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2018-06-01",
+      "defaultApiVersion": "2020-06-01",
       "locations": [
         "East US",
         "East US 2",
@@ -397,7 +397,7 @@
         "2015-05-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
-      "defaultApiVersion": "2018-06-01",
+      "defaultApiVersion": "2020-06-01",
       "locations": [
         "East US",
         "East US 2",
@@ -651,7 +651,7 @@
         "2015-06-15",
         "2015-05-01-preview"
       ],
-      "defaultApiVersion": "2018-06-01",
+      "defaultApiVersion": "2020-06-01",
       "locations": [
         "East US",
         "East US 2",
@@ -1215,7 +1215,7 @@
         "2017-03-30",
         "2016-08-30"
       ],
-      "defaultApiVersion": "2018-06-01",
+      "defaultApiVersion": "2020-06-01",
       "locations": [
         "East US",
         "East US 2",
@@ -1393,7 +1393,7 @@
         "2017-03-30"
       ],
       "capabilities": "None",
-      "defaultApiVersion": "2018-06-01",
+      "defaultApiVersion": "2020-06-01",
       "locations": [
         "Southeast Asia",
         "East US 2",
@@ -1495,7 +1495,7 @@
         "2018-04-01"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2018-06-01",
+      "defaultApiVersion": "2020-06-01",
       "locations": [
         "East US",
         "East US 2",
@@ -1541,7 +1541,7 @@
         "2019-12-01"
       ],
       "capabilities": "None",
-      "defaultApiVersion": "2019-12-01",
+      "defaultApiVersion": "2020-06-01",
       "locations": [
         "East US",
         "East US 2",
@@ -1746,6 +1746,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-09-30",
         "2019-12-01",
         "2019-07-01",
         "2019-03-01",
@@ -1793,6 +1794,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-09-30",
         "2019-12-01",
         "2019-07-01",
         "2019-03-01",
@@ -1841,6 +1843,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-09-30",
         "2019-12-01",
         "2019-07-01",
         "2019-03-01",
@@ -1889,6 +1892,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-09-30",
         "2019-12-01",
         "2019-07-01",
         "2019-03-01",
@@ -1937,6 +1941,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-09-30",
         "2019-12-01",
         "2019-07-01",
         "2019-03-01",
@@ -2401,7 +2406,7 @@
         "2016-04-30-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2018-06-01",
+      "defaultApiVersion": "2020-06-01",
       "locations": [
         "Southeast Asia",
         "East US 2",
@@ -2500,7 +2505,7 @@
         "2018-10-01"
       ],
       "capabilities": "None",
-      "defaultApiVersion": "2018-10-01",
+      "defaultApiVersion": "2020-06-01",
       "locations": [
         "Central US",
         "East US 2",
@@ -2659,7 +2664,7 @@
         "2018-10-01"
       ],
       "capabilities": "None",
-      "defaultApiVersion": "2018-10-01",
+      "defaultApiVersion": "2020-06-01",
       "locations": [
         "Central US",
         "East US 2",
