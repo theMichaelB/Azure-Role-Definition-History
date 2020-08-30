@@ -439,38 +439,6 @@
       ],
       "properties": null,
       "resourceType": "locations/updatequotas"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-05-15-preview",
-        "2020-05-01-preview",
-        "2020-04-01-preview"
-      ],
-      "capabilities": "SystemAssignedResourceIdentity",
-      "locations": [
-        "North Central US",
-        "Canada Central",
-        "UK South",
-        "West US",
-        "Central US",
-        "East Asia",
-        "Japan East",
-        "East US",
-        "North Europe",
-        "Korea Central",
-        "Brazil South",
-        "France Central",
-        "Australia East",
-        "East US 2",
-        "West US 2",
-        "West Central US",
-        "Southeast Asia",
-        "West Europe",
-        "South Central US"
-      ],
-      "properties": null,
-      "resourceType": "workspaces/linkedServices"
     }
   ]
 }
