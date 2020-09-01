@@ -6,6 +6,22 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2020-05-01-preview",
+      "locations": [
+        "Global",
+        "United States",
+        "Europe",
+        "Asia Pacific"
+      ],
+      "properties": null,
+      "resourceType": "guestUsages"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2020-05-01-preview",
         "2019-01-01-privatepreview",
         "2017-01-30",
