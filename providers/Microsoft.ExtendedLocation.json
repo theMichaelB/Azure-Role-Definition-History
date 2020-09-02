@@ -1,0 +1,31 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "bc313c14-388c-4e7d-a58e-70017303ee3b",
+      "roleDefinitionId": "a775b938-2819-4dd0-8067-01f6e3b06392"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ExtendedLocation",
+  "namespace": "Microsoft.ExtendedLocation",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-15-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-15-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}
