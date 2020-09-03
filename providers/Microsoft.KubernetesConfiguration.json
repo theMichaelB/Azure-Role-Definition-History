@@ -22,7 +22,7 @@
       "apiVersions": [
         "2019-11-01-preview"
       ],
-      "capabilities": "SystemAssignedResourceIdentity, SupportsExtension",
+      "capabilities": "SupportsExtension",
       "defaultApiVersion": "2019-11-01-preview",
       "locations": [
         "East US",

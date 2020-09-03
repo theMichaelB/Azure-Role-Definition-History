@@ -970,6 +970,24 @@
       ],
       "locations": [],
       "properties": null,
+      "resourceType": "billingAccounts/reservations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/reservations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
       "resourceType": "billingAccounts/billingProfiles/validateDetachPaymentMethodEligibility"
     },
     {

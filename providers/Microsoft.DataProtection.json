@@ -8,6 +8,21 @@
       "apiVersions": [
         "2020-01-01-alpha"
       ],
+      "capabilities": "SystemAssignedResourceIdentity",
+      "locations": [
+        "South Central US",
+        "East US",
+        "East US 2",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "BackupVaults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-alpha"
+      ],
       "locations": [],
       "properties": null,
       "resourceType": "operations"
@@ -20,6 +35,48 @@
       "locations": [],
       "properties": null,
       "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-alpha"
+      ],
+      "locations": [
+        "South Central US",
+        "East US",
+        "East US 2",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-alpha"
+      ],
+      "locations": [
+        "South Central US",
+        "East US",
+        "East US 2",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationStatus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-alpha"
+      ],
+      "locations": [
+        "South Central US",
+        "East US",
+        "East US 2",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
     }
   ]
 }

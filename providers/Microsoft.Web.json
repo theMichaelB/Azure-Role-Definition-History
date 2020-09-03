@@ -1793,7 +1793,11 @@
         },
         {
           "location": "Australia East",
-          "zones": []
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
         },
         {
           "location": "South Africa North",
@@ -1805,7 +1809,11 @@
         },
         {
           "location": "Canada Central",
-          "zones": []
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
         }
       ]
     },
