@@ -141,9 +141,7 @@
     },
     {
       "aliases": null,
-      "apiVersions": [
-        "2018-04-01"
-      ],
+      "apiVersions": [],
       "locations": [
         "West US",
         "East US 2",
@@ -158,6 +156,7 @@
         "Korea Central",
         "South Africa North",
         "South Africa West",
+        "Switzerland North",
         "West US 2",
         "Central US",
         "UK West",
@@ -221,7 +220,8 @@
         "South Africa West",
         "UAE North",
         "Brazil South",
-        "France Central"
+        "France Central",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "locations"
