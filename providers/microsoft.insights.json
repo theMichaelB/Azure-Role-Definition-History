@@ -759,6 +759,7 @@
         "Australia Central",
         "Australia Central 2",
         "Brazil South",
+        "Brazil Southeast",
         "South India",
         "Central India",
         "West India",
@@ -877,6 +878,7 @@
         "Australia Central",
         "Australia Central 2",
         "Brazil South",
+        "Brazil Southeast",
         "South India",
         "Central India",
         "West India",
@@ -932,6 +934,7 @@
         "Australia Central",
         "Australia Central 2",
         "Brazil South",
+        "Brazil Southeast",
         "South India",
         "Central India",
         "West India",
@@ -1303,6 +1306,16 @@
       ],
       "properties": null,
       "resourceType": "topology"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-02-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "generateLiveToken"
     },
     {
       "aliases": null,

@@ -30,7 +30,10 @@
       "locations": [
         "West Central US",
         "West US 2",
-        "North Europe"
+        "North Europe",
+        "Australia East",
+        "West Europe",
+        "East US"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -45,7 +48,10 @@
       "locations": [
         "West Central US",
         "West US 2",
-        "North Europe"
+        "North Europe",
+        "Australia East",
+        "West Europe",
+        "East US"
       ],
       "properties": null,
       "resourceType": "digitalTwinsInstances"
@@ -59,7 +65,10 @@
       "locations": [
         "West Central US",
         "West US 2",
-        "North Europe"
+        "North Europe",
+        "Australia East",
+        "West Europe",
+        "East US"
       ],
       "properties": null,
       "resourceType": "digitalTwinsInstances/operationResults"
@@ -73,7 +82,10 @@
       "locations": [
         "West Central US",
         "West US 2",
-        "North Europe"
+        "North Europe",
+        "Australia East",
+        "West Europe",
+        "East US"
       ],
       "properties": null,
       "resourceType": "digitalTwinsInstances/endpoints"

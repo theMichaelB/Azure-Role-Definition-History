@@ -1,8 +1,14 @@
 {
-  "authorization": {
-    "applicationId": "f3723d34-6ff5-4ceb-a148-d99dcd2511fc",
-    "roleDefinitionId": "71213c26-43ed-41d8-9905-3c12971517a3"
-  },
+  "authorizations": [
+    {
+      "applicationId": "f3723d34-6ff5-4ceb-a148-d99dcd2511fc",
+      "roleDefinitionId": "71213c26-43ed-41d8-9905-3c12971517a3"
+    },
+    {
+      "applicationId": "27a762be-14e7-4f92-899c-151877d6d497",
+      "roleDefinitionId": "aab320d1-5b9b-4748-982e-be803163df77"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.BotService",
   "namespace": "Microsoft.BotService",
   "registrationState": "NotRegistered",
