@@ -21,6 +21,7 @@
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "defaultApiVersion": "2020-07-30-preview",
       "locations": [
+        "West Central US",
         "West US 2",
         "West Europe",
         "Southeast Asia",
@@ -40,6 +41,7 @@
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "defaultApiVersion": "2020-07-30-preview",
       "locations": [
+        "West Central US",
         "West Europe",
         "West US 2",
         "Southeast Asia",
@@ -73,6 +75,7 @@
       ],
       "defaultApiVersion": "2020-07-30-preview",
       "locations": [
+        "West Central US",
         "West Europe",
         "West US 2",
         "Southeast Asia",
@@ -91,6 +94,7 @@
       ],
       "defaultApiVersion": "2020-07-30-preview",
       "locations": [
+        "West Central US",
         "West Europe",
         "West US 2",
         "Southeast Asia",

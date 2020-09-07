@@ -13,7 +13,8 @@
         "2020-05-04-preview"
       ],
       "locations": [
-        "Australia East"
+        "Australia East",
+        "East US"
       ],
       "properties": null,
       "resourceType": "listinvitations"
@@ -35,7 +36,8 @@
         "2020-05-04-preview"
       ],
       "locations": [
-        "Australia East"
+        "Australia East",
+        "East US"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -46,7 +48,8 @@
         "2020-05-04-preview"
       ],
       "locations": [
-        "Australia East"
+        "Australia East",
+        "East US"
       ],
       "properties": null,
       "resourceType": "locations/consumerInvitations/reject"
@@ -57,7 +60,8 @@
         "2020-05-04-preview"
       ],
       "locations": [
-        "Australia East"
+        "Australia East",
+        "East US"
       ],
       "properties": null,
       "resourceType": "locations/consumerInvitations"

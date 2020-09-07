@@ -114,6 +114,28 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-privatepreview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "flexibleServers",
+      "zoneMappings": [
+        {
+          "location": "East US 2",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        }
+      ]
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2017-12-01-preview",
         "2017-12-01"
       ],

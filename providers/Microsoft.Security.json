@@ -775,6 +775,32 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-08-06-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "iotDefenderSettings"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-06-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "North Europe",
+        "West Europe",
+        "UK South",
+        "UK West",
+        "France Central",
+        "France South"
+      ],
+      "properties": null,
+      "resourceType": "iotSensors"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2019-08-01",
         "2017-08-01-preview"
       ],
