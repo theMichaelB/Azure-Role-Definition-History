@@ -1,5 +1,9 @@
 {
-  "authorizations": [],
+  "authorizations": [
+    {
+      "applicationId": "9ed4cd8c-9a98-405f-966b-38ab1b0c24a3"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ServicesHub",
   "namespace": "Microsoft.ServicesHub",
   "registrationState": "NotRegistered",
