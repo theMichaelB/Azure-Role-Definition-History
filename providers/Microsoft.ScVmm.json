@@ -1,0 +1,39 @@
+{
+  "authorizations": [],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ScVmm",
+  "namespace": "Microsoft.ScVmm",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-05-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-05-preview"
+      ],
+      "locations": [
+        "East US",
+        "West US 2",
+        "East US 2 EUAP"
+      ],
+      "properties": null,
+      "resourceType": "Locations/OperationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-05-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Operations"
+    }
+  ]
+}

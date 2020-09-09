@@ -14,94 +14,6 @@
   "resourceTypes": [
     {
       "aliases": null,
-      "apiVersions": [
-        "2019-06-01"
-      ],
-      "defaultApiVersion": "2019-06-01",
-      "locations": [
-        "East US",
-        "East US 2",
-        "West US",
-        "West Europe",
-        "East Asia",
-        "Southeast Asia",
-        "Japan East",
-        "Japan West",
-        "North Central US",
-        "South Central US",
-        "Central US",
-        "North Europe",
-        "Brazil South",
-        "Australia East",
-        "Australia Southeast",
-        "South India",
-        "Central India",
-        "West India",
-        "Canada East",
-        "Canada Central",
-        "West US 2",
-        "West Central US",
-        "UK South",
-        "UK West",
-        "Korea Central",
-        "Korea South",
-        "France Central",
-        "Australia Central",
-        "South Africa North",
-        "UAE North",
-        "Switzerland North",
-        "Germany West Central",
-        "Norway East"
-      ],
-      "properties": null,
-      "resourceType": "deletedAccounts"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2019-06-01"
-      ],
-      "defaultApiVersion": "2019-06-01",
-      "locations": [
-        "East US",
-        "East US 2",
-        "West US",
-        "West Europe",
-        "East Asia",
-        "Southeast Asia",
-        "Japan East",
-        "Japan West",
-        "North Central US",
-        "South Central US",
-        "Central US",
-        "North Europe",
-        "Brazil South",
-        "Australia East",
-        "Australia Southeast",
-        "South India",
-        "Central India",
-        "West India",
-        "Canada East",
-        "Canada Central",
-        "West US 2",
-        "West Central US",
-        "UK South",
-        "UK West",
-        "Korea Central",
-        "Korea South",
-        "France Central",
-        "Australia Central",
-        "South Africa North",
-        "UAE North",
-        "Switzerland North",
-        "Germany West Central",
-        "Norway East"
-      ],
-      "properties": null,
-      "resourceType": "locations/deletedAccounts"
-    },
-    {
-      "aliases": null,
       "apiProfiles": [
         {
           "apiVersion": "2017-10-01",
@@ -832,7 +744,6 @@
         }
       ],
       "apiVersions": [
-        "2020-08-01-preview",
         "2019-06-01",
         "2019-04-01",
         "2018-11-01",

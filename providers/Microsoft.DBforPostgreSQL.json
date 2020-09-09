@@ -161,7 +161,6 @@
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "locations": [
         "West US 2",
-        "North Central US",
         "East US",
         "East US 2",
         "West Europe"
@@ -578,6 +577,26 @@
       ],
       "properties": null,
       "resourceType": "locations/administratorAzureAsyncOperation"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-29-privatepreview"
+      ],
+      "locations": [
+        "East US 2",
+        "East US",
+        "North Central US",
+        "Canada Central",
+        "Australia East",
+        "UK South",
+        "West Europe",
+        "Southeast Asia",
+        "West US 2",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkVirtualNetworkSubnetUsage"
     },
     {
       "aliases": null,
