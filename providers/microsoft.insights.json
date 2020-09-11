@@ -1107,7 +1107,7 @@
         "2018-06-17-preview",
         "2018-06-01-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "locations": [
         "West Europe",
         "South Central US",
@@ -1177,7 +1177,7 @@
         "2018-06-01-preview",
         "2016-06-15-preview"
       ],
-      "capabilities": "SupportsExtension",
+      "capabilities": "SystemAssignedResourceIdentity, SupportsExtension",
       "locations": [
         "West Europe",
         "South Central US",

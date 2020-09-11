@@ -15,16 +15,10 @@
       ],
       "capabilities": "SupportsExtension",
       "locations": [
-        "Central US",
-        "East US 2",
         "East US",
-        "North Central US",
-        "South Central US",
         "West US 2",
         "West Central US",
-        "West US",
-        "West Europe",
-        "North Europe"
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "configurationProfileAssignments"
