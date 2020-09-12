@@ -1,0 +1,37 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "Microsoft.ScVmm service role.",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/4fe6d683-8411-4247-8525-b6b5b8a80669",
+  "name": "4fe6d683-8411-4247-8525-b6b5b8a80669",
+  "permissions": [
+    {
+      "actions": [
+        "microsoft.scvmm/vmmservers/Read",
+        "microsoft.scvmm/vmmservers/Write",
+        "microsoft.scvmm/vmmservers/Delete",
+        "microsoft.scvmm/clouds/Read",
+        "microsoft.scvmm/clouds/Write",
+        "microsoft.scvmm/clouds/Delete",
+        "microsoft.scvmm/virtualmachines/Read",
+        "microsoft.scvmm/virtualmachines/Write",
+        "microsoft.scvmm/virtualmachines/Delete",
+        "microsoft.scvmm/virtualmachinetemplates/Read",
+        "microsoft.scvmm/virtualmachinetemplates/Write",
+        "microsoft.scvmm/virtualmachinetemplates/Delete",
+        "microsoft.scvmm/virtualnetworks/Read",
+        "microsoft.scvmm/virtualnetworks/Write",
+        "microsoft.scvmm/virtualnetworks/Delete",
+        "microsoft.scvmm/clouds/deploy/action",
+        "microsoft.scvmm/virtualnetworks/join/action"
+      ],
+      "dataActions": [],
+      "notActions": [],
+      "notDataActions": []
+    }
+  ],
+  "roleName": "Microsoft.ScVmm service role",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}
