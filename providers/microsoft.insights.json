@@ -94,7 +94,12 @@
         "North Central US",
         "Brazil South",
         "Switzerland North",
-        "Australia Southeast"
+        "Australia Southeast",
+        "Australia Central 2",
+        "Germany West Central",
+        "Switzerland West",
+        "UAE Central",
+        "UK West"
       ],
       "properties": null,
       "resourceType": "components"
@@ -210,7 +215,12 @@
         "North Central US",
         "Brazil South",
         "Switzerland North",
-        "Australia Southeast"
+        "Australia Southeast",
+        "Australia Central 2",
+        "Germany West Central",
+        "Switzerland West",
+        "UAE Central",
+        "UK West"
       ],
       "properties": null,
       "resourceType": "webtests"
@@ -1352,6 +1362,18 @@
       ],
       "properties": null,
       "resourceType": "dataCollectionRuleAssociations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-17-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "privateLinkScopes"
     },
     {
       "aliases": null,
