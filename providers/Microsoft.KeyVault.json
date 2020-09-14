@@ -519,6 +519,22 @@
       ],
       "properties": null,
       "resourceType": "vaults/eventGridFilters"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2020-04-01-preview",
+      "locations": [
+        "East US 2",
+        "South Central US",
+        "North Europe",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "managedHSMs"
     }
   ]
 }
