@@ -1,0 +1,25 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "Provides contribute access to AgFood Platform Service",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/8508508a-4469-4e45-963b-2518ee0bb728",
+  "name": "8508508a-4469-4e45-963b-2518ee0bb728",
+  "permissions": [
+    {
+      "actions": [],
+      "dataActions": [
+        "Microsoft.AgFoodPlatform/*/action",
+        "Microsoft.AgFoodPlatform/*/read",
+        "Microsoft.AgFoodPlatform/*/write"
+      ],
+      "notActions": [],
+      "notDataActions": [
+        "Microsoft.AgFoodPlatform/growers/create/action"
+      ]
+    }
+  ],
+  "roleName": "AgFood Platform Service Contributor",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}
