@@ -20,7 +20,8 @@
         "Central US",
         "UK South",
         "East US",
-        "Canada Central"
+        "Canada Central",
+        "Canada East"
       ],
       "properties": null,
       "resourceType": "attestationProviders"

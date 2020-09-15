@@ -14,19 +14,6 @@
       "apiVersions": [
         "2020-05-12-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2020-05-12-preview",
-      "locations": [
-        "East US"
-      ],
-      "properties": null,
-      "resourceType": "farmBeats"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-05-12-preview"
-      ],
       "defaultApiVersion": "2020-05-12-preview",
       "locations": [
         "East US"

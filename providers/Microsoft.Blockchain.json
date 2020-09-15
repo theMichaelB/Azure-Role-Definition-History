@@ -7,6 +7,9 @@
     {
       "applicationId": "049d4938-2ef2-4274-aa8f-630fc9bc33d1",
       "roleDefinitionId": "c6dd0893-0495-488a-ac21-ee5f1ba89769"
+    },
+    {
+      "applicationId": "911e905a-a50e-4c94-9f7c-48bb12f549ed"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Blockchain",
