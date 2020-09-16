@@ -41,8 +41,8 @@
         "2019-08-09-preview"
       ],
       "locations": [
-        "East US",
         "East US 2",
+        "East US",
         "West US",
         "West Europe",
         "Australia East"
@@ -57,8 +57,8 @@
         "2019-08-09-preview"
       ],
       "locations": [
-        "East US",
         "East US 2",
+        "East US",
         "West US",
         "West Europe",
         "Australia East"
@@ -74,8 +74,8 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
-        "East US",
         "East US 2",
+        "East US",
         "West US",
         "West Europe",
         "Australia East"
@@ -90,8 +90,8 @@
         "2019-08-09-preview"
       ],
       "locations": [
-        "East US",
         "East US 2",
+        "East US",
         "West US",
         "West Europe",
         "Australia East"
@@ -105,8 +105,8 @@
         "2020-03-20"
       ],
       "locations": [
-        "East US",
         "East US 2",
+        "East US",
         "West US",
         "West Europe",
         "Australia East"
@@ -120,8 +120,8 @@
         "2020-03-20"
       ],
       "locations": [
-        "East US",
         "East US 2",
+        "East US",
         "West US",
         "West Europe",
         "Australia East"

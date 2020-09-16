@@ -35,6 +35,10 @@
     {
       "applicationId": "6d057c82-a784-47ae-8d12-ca7b38cf06b4",
       "roleDefinitionId": "c27dd31e-c1e5-4ab0-93e1-a12ba34f182e"
+    },
+    {
+      "applicationId": "b4ca0290-4e73-4e31-ade0-c82ecfaabf6a",
+      "roleDefinitionId": "18363e25-ff21-4159-ae8d-7dfecb5bd001"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Network",

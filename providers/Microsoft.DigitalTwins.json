@@ -43,7 +43,7 @@
       "apiVersions": [
         "2020-03-01-preview"
       ],
-      "capabilities": "None",
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "defaultApiVersion": "2020-03-01-preview",
       "locations": [
         "West Central US",
