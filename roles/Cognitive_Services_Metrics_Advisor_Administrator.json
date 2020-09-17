@@ -7,7 +7,9 @@
   "name": "cb43c632-a144-4ec5-977c-e80c4affc34a",
   "permissions": [
     {
-      "actions": [],
+      "actions": [
+        "Microsoft.CognitiveServices/*/read"
+      ],
       "dataActions": [
         "Microsoft.CognitiveServices/accounts/MetricsAdvisor/*"
       ],

@@ -1,0 +1,21 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "Lets you manage managed HSM pools, but not access to them.",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/18500a29-7fe2-46b2-a342-b16a415e101d",
+  "name": "18500a29-7fe2-46b2-a342-b16a415e101d",
+  "permissions": [
+    {
+      "actions": [
+        "Microsoft.KeyVault/managedHSMs/*"
+      ],
+      "dataActions": [],
+      "notActions": [],
+      "notDataActions": []
+    }
+  ],
+  "roleName": "Managed HSM contributor",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}
