@@ -100,6 +100,20 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "capabilities": "SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2019-10-01-preview",
+      "locations": [
+        "East US 2",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "moveCollections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2019-10-01",
         "2019-05-01",
         "2018-06-30-preview",

@@ -98,7 +98,6 @@
         "Australia Central 2",
         "Germany West Central",
         "Switzerland West",
-        "UAE Central",
         "UK West"
       ],
       "properties": null,
@@ -218,9 +217,7 @@
         "Australia Southeast",
         "Australia Central 2",
         "Germany West Central",
-        "Switzerland West",
-        "UAE Central",
-        "UK West"
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "webtests"
@@ -1340,7 +1337,11 @@
         "Central US",
         "West Europe",
         "West US 2",
-        "Southeast Asia"
+        "Southeast Asia",
+        "East US 2",
+        "UK South",
+        "North Europe",
+        "West US"
       ],
       "properties": null,
       "resourceType": "dataCollectionRules"
@@ -1358,7 +1359,11 @@
         "Central US",
         "West Europe",
         "West US 2",
-        "Southeast Asia"
+        "Southeast Asia",
+        "East US 2",
+        "UK South",
+        "North Europe",
+        "West US"
       ],
       "properties": null,
       "resourceType": "dataCollectionRuleAssociations"
