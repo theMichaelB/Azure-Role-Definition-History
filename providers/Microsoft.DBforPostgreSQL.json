@@ -156,20 +156,34 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-02-14-privatepreview"
+        "2020-02-14-privatepreview",
+        "2020-02-14-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "locations": [
         "West US 2",
         "East US",
         "East US 2",
-        "West Europe"
+        "West Europe",
+        "North Europe",
+        "Japan East",
+        "Southeast Asia",
+        "UK South",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "flexibleServers",
       "zoneMappings": [
         {
           "location": "East US 2",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "Central US",
           "zones": [
             "1",
             "2",
@@ -185,7 +199,23 @@
           ]
         },
         {
+          "location": "Southeast Asia",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
           "location": "West US 2",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "North Europe",
           "zones": [
             "1",
             "2",
@@ -199,8 +229,64 @@
             "2",
             "3"
           ]
+        },
+        {
+          "location": "UK South",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "Japan East",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
         }
       ]
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-14-privatepreview",
+        "2020-02-14-preview"
+      ],
+      "locations": [
+        "East US 2",
+        "East US",
+        "West Europe",
+        "West US 2",
+        "North Europe",
+        "Japan East",
+        "Southeast Asia",
+        "UK South",
+        "Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/capabilities"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-02-14-privatepreview",
+        "2020-02-14-preview"
+      ],
+      "locations": [
+        "East US 2",
+        "East US",
+        "West Europe",
+        "West US 2",
+        "North Europe",
+        "Japan East",
+        "Southeast Asia",
+        "UK South",
+        "Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
     },
     {
       "aliases": null,
@@ -580,9 +666,7 @@
     },
     {
       "aliases": null,
-      "apiVersions": [
-        "2018-03-29-privatepreview"
-      ],
+      "apiVersions": [],
       "locations": [
         "East US 2",
         "East US",
@@ -593,7 +677,9 @@
         "West Europe",
         "Southeast Asia",
         "West US 2",
-        "North Europe"
+        "North Europe",
+        "Japan East",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "locations/checkVirtualNetworkSubnetUsage"
