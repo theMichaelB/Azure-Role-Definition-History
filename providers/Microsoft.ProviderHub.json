@@ -6,6 +6,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-06-01-preview",
         "2019-02-01-preview"
       ],
       "locations": [],
@@ -15,7 +16,9 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2019-10-01"
+        "2020-06-01-preview",
+        "2019-10-01",
+        "2019-02-01-preview"
       ],
       "locations": [],
       "properties": null,
@@ -34,6 +37,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-06-01-preview",
         "2019-02-01-preview"
       ],
       "locations": [],
@@ -43,6 +47,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-06-01-preview",
         "2019-02-01-preview"
       ],
       "capabilities": "None",
@@ -53,6 +58,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-06-01-preview",
         "2019-02-01-preview",
         "2018-11-01-preview"
       ],

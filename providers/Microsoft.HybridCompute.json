@@ -26,7 +26,12 @@
         "West US 2",
         "West Europe",
         "Southeast Asia",
-        "East US"
+        "East US",
+        "Australia East",
+        "South Central US",
+        "East US 2",
+        "North Europe",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "machines"
@@ -47,7 +52,12 @@
         "West Europe",
         "West US 2",
         "Southeast Asia",
-        "East US"
+        "East US",
+        "Australia East",
+        "South Central US",
+        "East US 2",
+        "North Europe",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "machines/extensions"
@@ -83,7 +93,12 @@
         "West Europe",
         "West US 2",
         "Southeast Asia",
-        "East US"
+        "East US",
+        "Australia East",
+        "South Central US",
+        "East US 2",
+        "North Europe",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "locations/operationStatus"
@@ -103,7 +118,12 @@
         "West Europe",
         "West US 2",
         "Southeast Asia",
-        "East US"
+        "East US",
+        "Australia East",
+        "South Central US",
+        "East US 2",
+        "North Europe",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
