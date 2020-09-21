@@ -114,17 +114,54 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-07-01-privatepreview"
+        "2020-07-01-privatepreview",
+        "2020-07-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "locations": [
-        "East US 2"
+        "East US 2",
+        "West US 2",
+        "Brazil South",
+        "Southeast Asia",
+        "North Europe"
       ],
       "properties": null,
       "resourceType": "flexibleServers",
       "zoneMappings": [
         {
           "location": "East US 2",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "Southeast Asia",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "West US 2",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "North Europe",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "Brazil South",
           "zones": [
             "1",
             "2",
@@ -230,6 +267,24 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-privatepreview",
+        "2020-07-01-preview"
+      ],
+      "locations": [
+        "East US 2",
+        "West US 2",
+        "Brazil South",
+        "Southeast Asia",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/capabilities"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-01-privatepreview",
+        "2020-07-01-preview",
         "2017-12-01-preview",
         "2017-12-01"
       ],
@@ -273,6 +328,22 @@
       ],
       "properties": null,
       "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-01-privatepreview",
+        "2020-07-01-preview"
+      ],
+      "locations": [
+        "East US 2",
+        "West US 2",
+        "Brazil South",
+        "Southeast Asia",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkVirtualNetworkSubnetUsage"
     },
     {
       "aliases": null,
