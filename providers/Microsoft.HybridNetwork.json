@@ -25,7 +25,7 @@
       ],
       "locations": [],
       "properties": null,
-      "resourceType": "locations"
+      "resourceType": "Locations"
     },
     {
       "aliases": null,
@@ -38,7 +38,7 @@
         "West Central US"
       ],
       "properties": null,
-      "resourceType": "locations/operationstatuses"
+      "resourceType": "Locations/OperationStatuses"
     }
   ]
 }

@@ -44,7 +44,8 @@
         "East US 2",
         "UK South",
         "West US",
-        "Australia Southeast"
+        "Australia Southeast",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "workspaces"
@@ -67,7 +68,8 @@
         "East US 2",
         "UK South",
         "West US",
-        "Australia Southeast"
+        "Australia Southeast",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "workspaces/bigDataPools"
@@ -90,7 +92,8 @@
         "East US 2",
         "UK South",
         "West US",
-        "Australia Southeast"
+        "Australia Southeast",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "workspaces/sqlPools"
@@ -112,7 +115,8 @@
         "East US 2",
         "UK South",
         "West US",
-        "Australia Southeast"
+        "Australia Southeast",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "workspaces/operationStatuses"
@@ -134,7 +138,8 @@
         "East US 2",
         "UK South",
         "West US",
-        "Australia Southeast"
+        "Australia Southeast",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "workspaces/operationResults"
@@ -165,7 +170,8 @@
         "East US 2",
         "UK South",
         "West US",
-        "Australia Southeast"
+        "Australia Southeast",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -188,7 +194,8 @@
         "East US 2",
         "UK South",
         "West US",
-        "Australia Southeast"
+        "Australia Southeast",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "privateLinkHubs"
@@ -219,7 +226,8 @@
         "East US 2",
         "UK South",
         "West US",
-        "Australia Southeast"
+        "Australia Southeast",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -241,7 +249,8 @@
         "East US 2",
         "UK South",
         "West US",
-        "Australia Southeast"
+        "Australia Southeast",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "locations/operationStatuses"

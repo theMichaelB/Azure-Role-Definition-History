@@ -1,0 +1,72 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "632ec9eb-fad7-4cbd-993a-e72973ba2acc",
+      "roleDefinitionId": "6c5c31b0-3a00-47ea-9555-f233670ba313"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Communication",
+  "namespace": "Microsoft.Communication",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-20-rc",
+        "2020-08-20-preview",
+        "2020-08-20-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-20-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "CommunicationServices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-20-rc",
+        "2020-08-20-preview",
+        "2020-08-20-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-20-preview"
+      ],
+      "defaultApiVersion": "2020-08-20-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "registeredSubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-20-rc",
+        "2020-08-20-preview",
+        "2020-08-20-beta"
+      ],
+      "locations": [
+        "West US 2",
+        "North Europe",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "Locations/OperationStatuses"
+    }
+  ]
+}

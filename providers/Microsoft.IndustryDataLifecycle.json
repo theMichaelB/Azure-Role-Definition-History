@@ -1,7 +1,8 @@
 {
   "authorizations": [
     {
-      "applicationId": "3072002f-3e97-4979-91f2-09fe40da755d"
+      "applicationId": "3072002f-3e97-4979-91f2-09fe40da755d",
+      "roleDefinitionId": "23694dec-6164-410e-b12d-691a3c92ae59"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.IndustryDataLifecycle",
@@ -134,9 +135,12 @@
       "apiVersions": [
         "2020-01-12-preview"
       ],
-      "locations": [],
+      "locations": [
+        "West Central US",
+        "East US 2"
+      ],
       "properties": null,
-      "resourceType": "dataPackages"
+      "resourceType": "locations/dataPackages"
     },
     {
       "aliases": null,
