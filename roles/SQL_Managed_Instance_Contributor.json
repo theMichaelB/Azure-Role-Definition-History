@@ -25,7 +25,10 @@
         "Microsoft.Insights/metricDefinitions/read"
       ],
       "dataActions": [],
-      "notActions": [],
+      "notActions": [
+        "Microsoft.Sql/managedInstances/azureADOnlyAuthentications/delete",
+        "Microsoft.Sql/managedInstances/azureADOnlyAuthentications/write"
+      ],
       "notDataActions": []
     }
   ],

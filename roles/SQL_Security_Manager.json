@@ -52,8 +52,9 @@
         "Microsoft.Sql/servers/securityAlertPolicies/*",
         "Microsoft.Sql/servers/vulnerabilityAssessments/*",
         "Microsoft.Support/*",
-        "Microsoft.Sql/servers/administrators/read",
-        "Microsoft.Sql/servers/azureADOnlyAuthentications/*"
+        "Microsoft.Sql/servers/azureADOnlyAuthentications/*",
+        "Microsoft.Sql/managedInstances/read",
+        "Microsoft.Sql/managedInstances/azureADOnlyAuthentications/*"
       ],
       "dataActions": [],
       "notActions": [],
