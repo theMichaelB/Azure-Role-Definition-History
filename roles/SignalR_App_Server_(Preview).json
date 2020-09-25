@@ -9,7 +9,8 @@
     {
       "actions": [],
       "dataActions": [
-        "Microsoft.SignalRService/SignalR/service/accessKey/action"
+        "Microsoft.SignalRService/SignalR/service/accessKey/action",
+        "Microsoft.SignalRService/SignalR/serverConnection/action"
       ],
       "notActions": [],
       "notDataActions": []
