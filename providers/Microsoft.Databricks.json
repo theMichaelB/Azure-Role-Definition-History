@@ -51,6 +51,7 @@
         "South Africa West",
         "South Africa North",
         "Brazil South",
+        "Switzerland North",
         "France Central",
         "UAE North"
       ],
@@ -93,7 +94,8 @@
         "South Africa West",
         "UAE North",
         "Brazil South",
-        "France Central"
+        "France Central",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "workspaces/virtualNetworkPeerings"
@@ -134,14 +136,17 @@
         "South Africa West",
         "UAE North",
         "Brazil South",
-        "France Central"
+        "France Central",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "workspaces/dbWorkspaces"
     },
     {
       "aliases": null,
-      "apiVersions": [],
+      "apiVersions": [
+        "2018-04-01"
+      ],
       "locations": [
         "West US",
         "East US 2",
@@ -261,6 +266,7 @@
         "South Africa West",
         "South Africa North",
         "Brazil South",
+        "Switzerland North",
         "France Central",
         "UAE North"
       ],
@@ -302,6 +308,7 @@
         "South Africa West",
         "South Africa North",
         "Brazil South",
+        "Switzerland North",
         "France Central",
         "UAE North"
       ],
