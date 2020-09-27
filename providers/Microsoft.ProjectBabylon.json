@@ -2,6 +2,7 @@
   "authorizations": [
     {
       "applicationId": "73c2949e-da2d-457a-9607-fcc665198967",
+      "managedByRoleDefinitionId": "9e3af657-a8ff-583c-a75c-2fe7c4bcb635",
       "roleDefinitionId": "1BC09725-0C9B-4F57-A3D0-FCCF4EB40120"
     }
   ],
