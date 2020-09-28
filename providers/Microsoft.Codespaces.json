@@ -22,7 +22,7 @@
         "2020-06-16-alpha",
         "2020-06-16"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "capabilities": "SystemAssignedResourceIdentity",
       "locations": [
         "West Europe",
         "East US",

@@ -40,7 +40,7 @@
         "2019-07-01-beta",
         "2019-07-01-alpha"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "capabilities": "SystemAssignedResourceIdentity",
       "locations": [
         "West Europe",
         "East US",

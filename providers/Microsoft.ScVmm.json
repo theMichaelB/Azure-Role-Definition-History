@@ -1,5 +1,10 @@
 {
-  "authorizations": [],
+  "authorizations": [
+    {
+      "applicationId": "319f651f-7ddb-4fc6-9857-7aef9250bd05",
+      "roleDefinitionId": "4fe6d683-8411-4247-8525-b6b5b8a80669"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ScVmm",
   "namespace": "Microsoft.ScVmm",
   "registrationState": "NotRegistered",
@@ -21,7 +26,8 @@
       "locations": [
         "East US",
         "West US 2",
-        "East US 2 EUAP"
+        "East US 2 EUAP",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "Locations/OperationStatuses"

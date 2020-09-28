@@ -51,7 +51,8 @@
         "South Africa North",
         "South Africa West",
         "UAE Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "workflows"
@@ -99,7 +100,8 @@
         "South Africa North",
         "South Africa West",
         "UAE Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "locations/workflows"
@@ -164,7 +166,8 @@
         "South Africa North",
         "South Africa West",
         "UAE Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -209,7 +212,8 @@
         "South Africa North",
         "South Africa West",
         "UAE Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "integrationAccounts"

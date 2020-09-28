@@ -52,6 +52,77 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-03-01-preview",
+        "2020-03-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "Central US",
+        "West Europe",
+        "East US 2",
+        "North Europe",
+        "Japan East",
+        "West US",
+        "Southeast Asia",
+        "South Central US",
+        "East Asia",
+        "Japan West",
+        "North Central US",
+        "East US",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Central India",
+        "West Central US",
+        "UK South",
+        "UK West",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "Korea Central",
+        "France Central"
+      ],
+      "properties": null,
+      "resourceType": "clusters"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview",
+        "2020-03-01"
+      ],
+      "locations": [
+        "Central US",
+        "West Europe",
+        "East US 2",
+        "North Europe",
+        "Japan East",
+        "West US",
+        "Southeast Asia",
+        "South Central US",
+        "East Asia",
+        "Japan West",
+        "North Central US",
+        "East US",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Central India",
+        "West Central US",
+        "UK South",
+        "UK West",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "Korea Central",
+        "France Central"
+      ],
+      "properties": null,
+      "resourceType": "clusters/privateEndpoints"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2019-06-01",
         "2018-11-01",
         "2017-04-01-preview",

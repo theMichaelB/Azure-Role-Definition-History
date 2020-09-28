@@ -31,7 +31,7 @@
       "apiVersions": [
         "2019-06-01-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "capabilities": "SystemAssignedResourceIdentity",
       "locations": [
         "West US 2",
         "East US",
@@ -45,7 +45,10 @@
         "UK South",
         "West US",
         "Australia Southeast",
-        "East Asia"
+        "East Asia",
+        "Brazil South",
+        "Central US",
+        "Central India"
       ],
       "properties": null,
       "resourceType": "workspaces"
@@ -55,7 +58,7 @@
       "apiVersions": [
         "2019-06-01-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "capabilities": "None",
       "locations": [
         "West US 2",
         "East US",
@@ -69,7 +72,10 @@
         "UK South",
         "West US",
         "Australia Southeast",
-        "East Asia"
+        "East Asia",
+        "Brazil South",
+        "Central US",
+        "Central India"
       ],
       "properties": null,
       "resourceType": "workspaces/bigDataPools"
@@ -79,7 +85,7 @@
       "apiVersions": [
         "2019-06-01-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "capabilities": "None",
       "locations": [
         "West US 2",
         "East US",
@@ -93,7 +99,10 @@
         "UK South",
         "West US",
         "Australia Southeast",
-        "East Asia"
+        "East Asia",
+        "Brazil South",
+        "Central US",
+        "Central India"
       ],
       "properties": null,
       "resourceType": "workspaces/sqlPools"
@@ -116,7 +125,10 @@
         "UK South",
         "West US",
         "Australia Southeast",
-        "East Asia"
+        "East Asia",
+        "Brazil South",
+        "Central US",
+        "Central India"
       ],
       "properties": null,
       "resourceType": "workspaces/operationStatuses"
@@ -139,7 +151,10 @@
         "UK South",
         "West US",
         "Australia Southeast",
-        "East Asia"
+        "East Asia",
+        "Brazil South",
+        "Central US",
+        "Central India"
       ],
       "properties": null,
       "resourceType": "workspaces/operationResults"
@@ -171,7 +186,10 @@
         "UK South",
         "West US",
         "Australia Southeast",
-        "East Asia"
+        "East Asia",
+        "Brazil South",
+        "Central US",
+        "Central India"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -181,7 +199,7 @@
       "apiVersions": [
         "2019-06-01-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "capabilities": "None",
       "locations": [
         "West US 2",
         "East US",
@@ -195,7 +213,10 @@
         "UK South",
         "West US",
         "Australia Southeast",
-        "East Asia"
+        "East Asia",
+        "Brazil South",
+        "Central US",
+        "Central India"
       ],
       "properties": null,
       "resourceType": "privateLinkHubs"
@@ -227,7 +248,10 @@
         "UK South",
         "West US",
         "Australia Southeast",
-        "East Asia"
+        "East Asia",
+        "Brazil South",
+        "Central US",
+        "Central India"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -250,7 +274,10 @@
         "UK South",
         "West US",
         "Australia Southeast",
-        "East Asia"
+        "East Asia",
+        "Brazil South",
+        "Central US",
+        "Central India"
       ],
       "properties": null,
       "resourceType": "locations/operationStatuses"

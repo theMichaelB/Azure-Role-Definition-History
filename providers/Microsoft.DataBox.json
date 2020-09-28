@@ -24,12 +24,12 @@
         "Southeast Asia",
         "East Asia",
         "South India",
-        "Brazil South",
         "Australia East",
         "Canada Central",
         "Korea Central",
         "Japan East",
-        "South Africa North"
+        "South Africa North",
+        "Brazil South"
       ],
       "properties": null,
       "resourceType": "jobs"
@@ -58,12 +58,12 @@
         "Southeast Asia",
         "East Asia",
         "South India",
-        "Brazil South",
         "Australia East",
         "Canada Central",
         "Korea Central",
         "Japan East",
-        "South Africa North"
+        "South Africa North",
+        "Brazil South"
       ],
       "properties": null,
       "resourceType": "locations/validateAddress"
@@ -81,12 +81,12 @@
         "Southeast Asia",
         "East Asia",
         "South India",
-        "Brazil South",
         "Australia East",
         "Canada Central",
         "Korea Central",
         "Japan East",
-        "South Africa North"
+        "South Africa North",
+        "Brazil South"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -104,12 +104,12 @@
         "Southeast Asia",
         "East Asia",
         "South India",
-        "Brazil South",
         "Australia East",
         "Canada Central",
         "Korea Central",
         "Japan East",
-        "South Africa North"
+        "South Africa North",
+        "Brazil South"
       ],
       "properties": null,
       "resourceType": "locations/operationresults"
@@ -138,12 +138,12 @@
         "Southeast Asia",
         "East Asia",
         "South India",
-        "Brazil South",
         "Australia East",
         "Canada Central",
         "Korea Central",
         "Japan East",
-        "South Africa North"
+        "South Africa North",
+        "Brazil South"
       ],
       "properties": null,
       "resourceType": "locations/availableSkus"
@@ -161,12 +161,12 @@
         "Southeast Asia",
         "East Asia",
         "South India",
-        "Brazil South",
         "Australia East",
         "Canada Central",
         "Korea Central",
         "Japan East",
-        "South Africa North"
+        "South Africa North",
+        "Brazil South"
       ],
       "properties": null,
       "resourceType": "locations/validateInputs"
@@ -184,12 +184,12 @@
         "Southeast Asia",
         "East Asia",
         "South India",
-        "Brazil South",
         "Australia East",
         "Canada Central",
         "Korea Central",
         "Japan East",
-        "South Africa North"
+        "South Africa North",
+        "Brazil South"
       ],
       "properties": null,
       "resourceType": "locations/regionConfiguration"
