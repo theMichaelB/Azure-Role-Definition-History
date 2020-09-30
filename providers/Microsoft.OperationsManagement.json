@@ -42,7 +42,11 @@
         "Switzerland West",
         "UAE Central",
         "Australia Central 2",
-        "Germany West Central"
+        "Germany West Central",
+        "Japan West",
+        "UAE North",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "solutions"
