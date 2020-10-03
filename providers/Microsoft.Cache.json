@@ -512,6 +512,7 @@
       ],
       "defaultApiVersion": "2020-04-01-preview",
       "locations": [
+        "East US",
         "West Europe",
         "West US",
         "East US 2",
