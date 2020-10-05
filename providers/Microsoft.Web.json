@@ -76,7 +76,8 @@
         "Australia Central",
         "Switzerland North",
         "Germany West Central",
-        "Norway East"
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "publishingUsers"
@@ -150,7 +151,8 @@
         "Australia Central",
         "Switzerland North",
         "Germany West Central",
-        "Norway East"
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "ishostnameavailable"
@@ -222,7 +224,8 @@
         "Australia Central",
         "Switzerland North",
         "Germany West Central",
-        "Norway East"
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "validate"
@@ -296,7 +299,8 @@
         "Australia Central",
         "Switzerland North",
         "Germany West Central",
-        "Norway East"
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "isusernameavailable"
@@ -370,7 +374,8 @@
         "Australia Central",
         "Switzerland North",
         "Germany West Central",
-        "Norway East"
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "sourceControls"
@@ -444,7 +449,8 @@
         "Australia Central",
         "Switzerland North",
         "Germany West Central",
-        "Norway East"
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "availableStacks"
@@ -462,8 +468,7 @@
         "Central US",
         "East US 2",
         "West Europe",
-        "East Asia",
-        "West US"
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "staticSites"
@@ -533,7 +538,8 @@
         "Australia Central",
         "Switzerland North",
         "Germany West Central",
-        "Norway East"
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "listSitesAssignedToHostName"
@@ -652,6 +658,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -719,6 +726,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -788,6 +796,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -859,6 +868,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -930,6 +940,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -1001,6 +1012,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -1084,7 +1096,8 @@
         "Australia Central",
         "Switzerland North",
         "Germany West Central",
-        "Norway East"
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -1151,6 +1164,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -1226,6 +1240,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -1307,6 +1322,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -1387,6 +1403,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -1621,6 +1638,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -1698,6 +1716,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -1709,113 +1728,7 @@
         "Central US"
       ],
       "properties": null,
-      "resourceType": "hostingEnvironments",
-      "zoneMappings": [
-        {
-          "location": "East US 2",
-          "zones": [
-            "3",
-            "1",
-            "2"
-          ]
-        },
-        {
-          "location": "Central US",
-          "zones": [
-            "3",
-            "1",
-            "2"
-          ]
-        },
-        {
-          "location": "West Europe",
-          "zones": [
-            "3",
-            "1",
-            "2"
-          ]
-        },
-        {
-          "location": "France Central",
-          "zones": [
-            "3",
-            "1",
-            "2"
-          ]
-        },
-        {
-          "location": "Southeast Asia",
-          "zones": [
-            "3",
-            "1",
-            "2"
-          ]
-        },
-        {
-          "location": "West US 2",
-          "zones": [
-            "3",
-            "1",
-            "2"
-          ]
-        },
-        {
-          "location": "North Europe",
-          "zones": [
-            "3",
-            "1",
-            "2"
-          ]
-        },
-        {
-          "location": "East US",
-          "zones": [
-            "3",
-            "1",
-            "2"
-          ]
-        },
-        {
-          "location": "UK South",
-          "zones": [
-            "3",
-            "1",
-            "2"
-          ]
-        },
-        {
-          "location": "Japan East",
-          "zones": [
-            "3",
-            "1",
-            "2"
-          ]
-        },
-        {
-          "location": "Australia East",
-          "zones": [
-            "3",
-            "1",
-            "2"
-          ]
-        },
-        {
-          "location": "South Africa North",
-          "zones": []
-        },
-        {
-          "location": "South Central US",
-          "zones": []
-        },
-        {
-          "location": "Canada Central",
-          "zones": [
-            "3",
-            "1",
-            "2"
-          ]
-        }
-      ]
+      "resourceType": "hostingEnvironments"
     },
     {
       "aliases": null,
@@ -1880,6 +1793,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -1957,6 +1871,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -2083,7 +1998,8 @@
         "Australia Central",
         "Switzerland North",
         "Germany West Central",
-        "Norway East"
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "deploymentLocations"
@@ -2148,6 +2064,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -2223,6 +2140,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -2328,6 +2246,7 @@
         "Australia Central",
         "Germany West Central",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -2398,7 +2317,9 @@
         "Korea South",
         "South Africa West",
         "South Africa North",
-        "UAE Central"
+        "UAE Central",
+        "Switzerland North",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "connections"
@@ -2457,7 +2378,9 @@
         "Korea South",
         "South Africa West",
         "South Africa North",
-        "UAE Central"
+        "UAE Central",
+        "Switzerland North",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "customApis"
@@ -2540,7 +2463,9 @@
         "Korea South",
         "South Africa West",
         "South Africa North",
-        "UAE Central"
+        "UAE Central",
+        "Switzerland North",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "locations/listWsdlInterfaces"
@@ -2597,7 +2522,9 @@
         "Korea South",
         "South Africa West",
         "South Africa North",
-        "UAE Central"
+        "UAE Central",
+        "Switzerland North",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "locations/extractApiDefinitionFromWsdl"
@@ -2655,7 +2582,9 @@
         "Korea South",
         "South Africa West",
         "South Africa North",
-        "UAE Central"
+        "UAE Central",
+        "Switzerland North",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "locations/managedApis"
@@ -2712,7 +2641,9 @@
         "Korea South",
         "South Africa West",
         "South Africa North",
-        "UAE Central"
+        "UAE Central",
+        "Switzerland North",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "locations/runtimes"
@@ -2770,7 +2701,9 @@
         "Korea South",
         "South Africa West",
         "South Africa North",
-        "UAE Central"
+        "UAE Central",
+        "Switzerland North",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "locations/apiOperations"
@@ -2828,7 +2761,9 @@
         "Korea South",
         "South Africa West",
         "South Africa North",
-        "UAE Central"
+        "UAE Central",
+        "Switzerland North",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "connectionGateways"
@@ -2885,7 +2820,9 @@
         "Korea South",
         "South Africa West",
         "South Africa North",
-        "UAE Central"
+        "UAE Central",
+        "Switzerland North",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "locations/connectionGatewayInstallations"
@@ -2960,7 +2897,8 @@
         "Australia Central",
         "Switzerland North",
         "Germany West Central",
-        "Norway East"
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "checkNameAvailability"
@@ -3035,7 +2973,8 @@
         "Australia Central",
         "Switzerland North",
         "Germany West Central",
-        "Norway East"
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "billingMeters"
@@ -3109,7 +3048,8 @@
         "Australia Central",
         "Switzerland North",
         "Germany West Central",
-        "Norway East"
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "verifyHostingEnvironmentVnet"
@@ -3157,6 +3097,7 @@
         "Germany West Central",
         "Norway West",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -3221,6 +3162,7 @@
         "Germany West Central",
         "Norway West",
         "Norway East",
+        "UAE North",
         "Switzerland North",
         "North Central US",
         "UK West",
@@ -3285,6 +3227,7 @@
         "Norway West",
         "Norway East",
         "Switzerland North",
+        "UAE North",
         "North Central US",
         "UK West",
         "Australia Southeast",
@@ -3352,6 +3295,7 @@
         "Germany West Central",
         "Norway East",
         "Switzerland North",
+        "UAE North",
         "Australia Southeast",
         "Korea South",
         "Canada Central",
@@ -3361,6 +3305,128 @@
       ],
       "properties": null,
       "resourceType": "hostingEnvironments/eventGridFilters"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-01",
+        "2019-08-01",
+        "2018-11-01",
+        "2018-02-01",
+        "2017-08-01",
+        "2016-09-01",
+        "2016-03-01",
+        "2015-08-01",
+        "2015-07-01",
+        "2015-06-01",
+        "2015-05-01",
+        "2015-04-01",
+        "2015-02-01",
+        "2014-11-01",
+        "2014-06-01",
+        "2014-04-01-preview",
+        "2014-04-01"
+      ],
+      "locations": [
+        "South Central US",
+        "South Africa North",
+        "West US",
+        "Australia East",
+        "Brazil South",
+        "Southeast Asia",
+        "Central US",
+        "Japan West",
+        "Central India",
+        "UK South",
+        "Canada East",
+        "Korea Central",
+        "France Central",
+        "North Europe",
+        "West US 2",
+        "East US",
+        "West India",
+        "East US 2",
+        "Australia Central",
+        "Germany West Central",
+        "Norway West",
+        "Norway East",
+        "UAE North",
+        "Switzerland North",
+        "North Central US",
+        "UK West",
+        "Australia Southeast",
+        "Korea South",
+        "Canada Central",
+        "West Europe",
+        "South India",
+        "West Central US",
+        "East Asia",
+        "Japan East",
+        "South Africa West"
+      ],
+      "properties": null,
+      "resourceType": "serverFarms/firstPartyApps"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-01",
+        "2019-08-01",
+        "2018-11-01",
+        "2018-02-01",
+        "2017-08-01",
+        "2016-09-01",
+        "2016-03-01",
+        "2015-08-01",
+        "2015-07-01",
+        "2015-06-01",
+        "2015-05-01",
+        "2015-04-01",
+        "2015-02-01",
+        "2014-11-01",
+        "2014-06-01",
+        "2014-04-01-preview",
+        "2014-04-01"
+      ],
+      "locations": [
+        "South Central US",
+        "South Africa North",
+        "West US",
+        "Australia East",
+        "Brazil South",
+        "Southeast Asia",
+        "Central US",
+        "Japan West",
+        "Central India",
+        "UK South",
+        "Canada East",
+        "Korea Central",
+        "France Central",
+        "North Europe",
+        "West US 2",
+        "East US",
+        "West India",
+        "East US 2",
+        "Australia Central",
+        "Germany West Central",
+        "Norway West",
+        "Norway East",
+        "UAE North",
+        "Switzerland North",
+        "North Central US",
+        "UK West",
+        "Australia Southeast",
+        "Korea South",
+        "Canada Central",
+        "West Europe",
+        "South India",
+        "West Central US",
+        "East Asia",
+        "Japan East",
+        "South Africa West"
+      ],
+      "properties": null,
+      "resourceType": "serverFarms/firstPartyApps/keyVaultSettings"
     }
   ]
 }

@@ -217,7 +217,8 @@
         "Australia Southeast",
         "Australia Central 2",
         "Germany West Central",
-        "Switzerland West"
+        "Switzerland West",
+        "UK West"
       ],
       "properties": null,
       "resourceType": "webtests"
@@ -779,6 +780,7 @@
         "UK West",
         "France Central",
         "South Africa North",
+        "South Africa West",
         "UAE North",
         "Switzerland North",
         "Germany West Central",
@@ -898,6 +900,7 @@
         "UK West",
         "France Central",
         "South Africa North",
+        "South Africa West",
         "UAE North",
         "Switzerland North",
         "Germany West Central",
@@ -954,6 +957,7 @@
         "UK West",
         "France Central",
         "South Africa North",
+        "South Africa West",
         "UAE North",
         "Switzerland North",
         "Germany West Central",
