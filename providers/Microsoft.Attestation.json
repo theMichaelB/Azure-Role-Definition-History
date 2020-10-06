@@ -12,6 +12,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2018-09-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -29,6 +30,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2018-09-01-preview"
       ],
       "locations": [
@@ -36,7 +38,8 @@
         "Central US",
         "UK South",
         "East US",
-        "Canada Central"
+        "Canada Central",
+        "Canada East"
       ],
       "properties": null,
       "resourceType": "defaultProviders"
@@ -44,6 +47,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2018-09-01-preview"
       ],
       "locations": [],
@@ -53,6 +57,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2018-09-01-preview"
       ],
       "locations": [
@@ -60,7 +65,8 @@
         "Central US",
         "UK South",
         "East US",
-        "Canada Central"
+        "Canada Central",
+        "Canada East"
       ],
       "properties": null,
       "resourceType": "locations/defaultProvider"
@@ -68,6 +74,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2018-09-01-preview"
       ],
       "locations": [],
