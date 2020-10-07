@@ -12,6 +12,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-08-15-preview",
         "2020-08-02",
         "2020-07-30-preview",
         "2020-03-11-preview",
@@ -39,6 +40,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-08-15-preview",
         "2020-08-02",
         "2020-07-30-preview",
         "2020-03-11-preview",
@@ -65,6 +67,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-08-15-preview",
         "2020-08-02",
         "2020-07-30-preview",
         "2020-03-11-preview",
@@ -81,6 +84,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-08-15-preview",
         "2020-08-02",
         "2020-07-30-preview",
         "2020-03-11-preview",
@@ -106,6 +110,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-08-15-preview",
         "2020-08-02",
         "2020-07-30-preview",
         "2020-03-11-preview",
@@ -131,6 +136,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-08-15-preview",
         "2020-08-02",
         "2020-07-30-preview",
         "2020-03-11-preview",
