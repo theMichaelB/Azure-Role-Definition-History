@@ -8,11 +8,14 @@
   "permissions": [
     {
       "actions": [
+        "Microsoft.Authorization/*/read",
+        "Microsoft.Resources/subscriptions/resourceGroups/read",
+        "Microsoft.Resources/deployments/*",
         "Microsoft.ServicesHub/connectors/write",
         "Microsoft.ServicesHub/connectors/read",
         "Microsoft.ServicesHub/connectors/delete",
-        "Microsoft.ServicesHub/supportOfferingEntitlement/read",
         "Microsoft.ServicesHub/connectors/checkAssessmentEntitlement/action",
+        "Microsoft.ServicesHub/supportOfferingEntitlement/read",
         "Microsoft.ServicesHub/workspaces/read"
       ],
       "dataActions": [],
