@@ -516,7 +516,8 @@
         "West Europe",
         "West US",
         "East US 2",
-        "West US 2"
+        "West US 2",
+        "South Central US"
       ],
       "properties": null,
       "resourceType": "locations/operationsStatus"
