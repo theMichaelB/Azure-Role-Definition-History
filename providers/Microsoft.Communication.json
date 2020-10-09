@@ -35,6 +35,17 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-08-20-preview"
+      ],
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "CommunicationServices/eventGridFilters"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2020-08-20-rc",
         "2020-08-20-preview",
         "2020-08-20-beta"
