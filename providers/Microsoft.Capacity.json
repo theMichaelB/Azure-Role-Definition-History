@@ -1,8 +1,14 @@
 {
-  "authorization": {
-    "applicationId": "4d0ad6c7-f6c3-46d8-ab0d-1406d5e6c86b",
-    "roleDefinitionId": "FD9C0A9A-4DB9-4F41-8A61-98385DEB6E2D"
-  },
+  "authorizations": [
+    {
+      "applicationId": "4d0ad6c7-f6c3-46d8-ab0d-1406d5e6c86b",
+      "roleDefinitionId": "FD9C0A9A-4DB9-4F41-8A61-98385DEB6E2D"
+    },
+    {
+      "applicationId": "fbc197b7-9e9c-4f98-823f-93cb1cb554e6",
+      "roleDefinitionId": "941F67D2-083A-4B78-AF91-9B3B30B9B150"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Capacity",
   "namespace": "Microsoft.Capacity",
   "registrationState": "Registered",

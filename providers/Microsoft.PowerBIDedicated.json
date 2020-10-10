@@ -10,6 +10,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2018-09-01-preview",
         "2017-10-01",
         "2017-01-01-preview"
       ],
@@ -68,6 +69,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2018-09-01-preview",
         "2017-10-01",
         "2017-01-01-preview"
       ],
@@ -115,6 +117,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2018-09-01-preview",
         "2017-10-01",
         "2017-01-01-preview"
       ],
@@ -162,6 +165,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2018-09-01-preview",
         "2017-10-01",
         "2017-01-01-preview"
       ],
