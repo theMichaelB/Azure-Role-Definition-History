@@ -14,7 +14,9 @@
       ],
       "locations": [
         "East US",
-        "Australia East"
+        "Australia East",
+        "East US 2",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "listinvitations"
@@ -49,7 +51,9 @@
       ],
       "locations": [
         "East US",
-        "Australia East"
+        "Australia East",
+        "East US 2",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "locations/consumerInvitations/reject"
@@ -61,7 +65,9 @@
       ],
       "locations": [
         "East US",
-        "Australia East"
+        "Australia East",
+        "East US 2",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "locations/consumerInvitations"

@@ -101,6 +101,15 @@
     },
     {
       "aliases": null,
+      "apiVersions": [
+        "2018-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "namespaces/privateEndpointConnections"
+    },
+    {
+      "aliases": null,
       "apiProfiles": [
         {
           "apiVersion": "2017-04-01",
