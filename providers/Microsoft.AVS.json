@@ -134,6 +134,22 @@
       ],
       "properties": null,
       "resourceType": "privateClouds/hcxEnterpriseSites"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-17-preview"
+      ],
+      "locations": [
+        "East US 2",
+        "East US",
+        "North Central US",
+        "West US",
+        "West Europe",
+        "Australia East"
+      ],
+      "properties": null,
+      "resourceType": "privateClouds/globalReachConnections"
     }
   ]
 }

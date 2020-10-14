@@ -1,0 +1,44 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "3bc3fbf6-023a-4d86-bd09-bac559ccc9cc",
+      "roleDefinitionId": "38f09e57-663e-42b8-9db9-7d9e5138d5e4"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.OpenLogisticsPlatform",
+  "namespace": "Microsoft.OpenLogisticsPlatform",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-23-preview"
+      ],
+      "locations": [
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "Locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-23-preview"
+      ],
+      "locations": [
+        "East US 2 EUAP"
+      ],
+      "properties": null,
+      "resourceType": "Locations/OperationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-23-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Operations"
+    }
+  ]
+}
