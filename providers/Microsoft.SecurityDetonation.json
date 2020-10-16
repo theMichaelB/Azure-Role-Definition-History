@@ -1,0 +1,64 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "29820072-374d-49b8-945a-3941d7e9b468",
+      "roleDefinitionId": "4ddf1807-30b0-464a-9d16-a8822daf866b"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.SecurityDetonation",
+  "namespace": "Microsoft.SecurityDetonation",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-01-preview",
+        "2019-08-01-preview"
+      ],
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "Australia Central 2",
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "North Central US",
+        "South Central US",
+        "West Central US",
+        "East Asia",
+        "Southeast Asia",
+        "Brazil South",
+        "Japan East",
+        "Japan West",
+        "North Europe",
+        "West Europe",
+        "Central India",
+        "South India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "UK West",
+        "UK South",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "France South",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East",
+        "South Africa West",
+        "UAE Central",
+        "Switzerland West",
+        "Germany North",
+        "Norway West"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

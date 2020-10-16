@@ -17,6 +17,8 @@
       "capabilities": "None",
       "locations": [
         "Central US",
+        "South Central US",
+        "West Europe",
         "West US 2"
       ],
       "properties": null,
@@ -29,6 +31,8 @@
       ],
       "locations": [
         "Central US",
+        "South Central US",
+        "West Europe",
         "West US 2"
       ],
       "properties": null,
@@ -41,6 +45,8 @@
       ],
       "locations": [
         "Central US",
+        "South Central US",
+        "West Europe",
         "West US 2"
       ],
       "properties": null,
@@ -53,6 +59,8 @@
       ],
       "locations": [
         "Central US",
+        "South Central US",
+        "West Europe",
         "West US 2"
       ],
       "properties": null,
@@ -65,6 +73,8 @@
       ],
       "locations": [
         "Central US",
+        "South Central US",
+        "West Europe",
         "West US 2"
       ],
       "properties": null,
@@ -120,6 +130,8 @@
       ],
       "locations": [
         "Central US",
+        "South Central US",
+        "West Europe",
         "Australia Central",
         "Australia East",
         "Australia Southeast",
@@ -137,12 +149,10 @@
         "North Europe",
         "Norway East",
         "South Africa North",
-        "South Central US",
         "South India",
         "Southeast Asia",
         "Switzerland North",
         "West Central US",
-        "West Europe",
         "West India",
         "West US",
         "West US 2",
@@ -163,6 +173,8 @@
       ],
       "locations": [
         "Central US",
+        "South Central US",
+        "West Europe",
         "Australia Central",
         "Australia East",
         "Australia Southeast",
@@ -180,12 +192,10 @@
         "North Europe",
         "Norway East",
         "South Africa North",
-        "South Central US",
         "South India",
         "Southeast Asia",
         "Switzerland North",
         "West Central US",
-        "West Europe",
         "West India",
         "West US",
         "West US 2",
@@ -206,6 +216,8 @@
       ],
       "locations": [
         "Central US",
+        "South Central US",
+        "West Europe",
         "Australia Central",
         "Australia East",
         "Australia Southeast",
@@ -223,12 +235,10 @@
         "North Europe",
         "Norway East",
         "South Africa North",
-        "South Central US",
         "South India",
         "Southeast Asia",
         "Switzerland North",
         "West Central US",
-        "West Europe",
         "West India",
         "West US",
         "West US 2",
