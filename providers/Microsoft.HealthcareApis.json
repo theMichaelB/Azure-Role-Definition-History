@@ -37,7 +37,8 @@
         "East US 2",
         "North Europe",
         "West Central US",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "services"
@@ -60,7 +61,8 @@
         "South Central US",
         "North Europe",
         "West Central US",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "services/iomtconnectors"
@@ -83,7 +85,8 @@
         "South Central US",
         "North Europe",
         "West Central US",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "services/iomtconnectors/connections"
@@ -106,7 +109,8 @@
         "South Central US",
         "North Europe",
         "West Central US",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "services/iomtconnectors/mappings"
@@ -131,7 +135,8 @@
         "East US 2",
         "North Europe",
         "West Central US",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations"
@@ -157,7 +162,8 @@
         "East US 2",
         "North Europe",
         "West Central US",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/operationresults"
@@ -182,7 +188,8 @@
         "East US 2",
         "North Europe",
         "West Central US",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "checkNameAvailability"
@@ -208,7 +215,8 @@
         "East US 2",
         "North Europe",
         "West Central US",
-        "Japan East"
+        "Japan East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "operations"
