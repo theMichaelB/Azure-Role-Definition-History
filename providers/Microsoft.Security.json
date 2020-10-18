@@ -53,7 +53,8 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-01-01-preview"
+        "2020-01-01-preview",
+        "2020-01-01"
       ],
       "locations": [],
       "properties": null,
@@ -62,7 +63,8 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-01-01-preview"
+        "2020-01-01-preview",
+        "2020-01-01"
       ],
       "locations": [],
       "properties": null,
@@ -71,7 +73,8 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-01-01-preview"
+        "2020-01-01-preview",
+        "2020-01-01"
       ],
       "locations": [],
       "properties": null,
@@ -80,7 +83,8 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-01-01-preview"
+        "2020-01-01-preview",
+        "2020-01-01"
       ],
       "locations": [],
       "properties": null,

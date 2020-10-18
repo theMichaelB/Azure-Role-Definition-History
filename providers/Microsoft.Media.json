@@ -63,6 +63,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2018-07-01",
         "2018-06-01-preview",
         "2018-03-30-preview"
@@ -112,6 +113,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2018-07-01",
         "2018-06-01-preview",
         "2018-03-30-preview"
@@ -161,6 +163,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2018-07-01",
         "2018-06-01-preview",
         "2018-03-30-preview"
@@ -210,6 +213,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2018-07-01",
         "2018-06-01-preview",
         "2018-03-30-preview"
@@ -306,6 +310,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2018-07-01",
         "2018-06-01-preview",
         "2018-03-30-preview"
@@ -355,6 +360,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2018-07-01",
         "2018-06-01-preview",
         "2018-03-30-preview"
@@ -404,6 +410,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-05-01-preview",
         "2018-07-01",
         "2018-06-01-preview",
@@ -455,6 +462,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-05-01-preview",
         "2018-07-01",
         "2018-06-01-preview",
@@ -506,6 +514,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-05-01-preview",
         "2018-07-01",
         "2018-06-01-preview",
@@ -556,6 +565,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-05-01-preview",
         "2018-07-01",
         "2018-06-01-preview",
@@ -606,6 +616,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-05-01-preview",
         "2018-07-01",
         "2018-06-01-preview",
@@ -656,6 +667,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-05-01-preview",
         "2018-07-01",
         "2018-06-01-preview",
@@ -706,6 +718,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2018-07-01"
       ],
       "defaultApiVersion": "2018-07-01",
@@ -753,6 +766,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2018-07-01"
       ],
       "defaultApiVersion": "2018-07-01",
@@ -800,6 +814,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2018-07-01",
         "2018-06-01-preview",
         "2018-03-30-preview",
@@ -826,6 +841,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2018-07-01",
         "2018-06-01-preview",
         "2018-03-30-preview"
@@ -838,6 +854,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2018-07-01",
         "2018-06-01-preview",
         "2018-03-30-preview"

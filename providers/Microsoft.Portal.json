@@ -6,6 +6,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-09-01-preview",
         "2019-01-01-preview",
         "2018-10-01-preview",
         "2015-08-01-preview"

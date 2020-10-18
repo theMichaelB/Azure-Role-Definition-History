@@ -123,13 +123,37 @@
         "West US 2",
         "Brazil South",
         "Southeast Asia",
-        "North Europe"
+        "North Europe",
+        "AUSTRALIA EAST",
+        "JAPAN EAST",
+        "KOREA CENTRAL",
+        "UK SOUTH",
+        "WEST EUROPE",
+        "CANADA CENTRAL",
+        "CENTRAL US",
+        "EAST US"
       ],
       "properties": null,
       "resourceType": "flexibleServers",
       "zoneMappings": [
         {
           "location": "East US 2",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "CENTRAL US",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "WEST EUROPE",
           "zones": [
             "1",
             "2",
@@ -154,6 +178,46 @@
         },
         {
           "location": "North Europe",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "EAST US",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "UK SOUTH",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "JAPAN EAST",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "AUSTRALIA EAST",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "CANADA CENTRAL",
           "zones": [
             "1",
             "2",
@@ -275,7 +339,15 @@
         "West US 2",
         "Brazil South",
         "Southeast Asia",
-        "North Europe"
+        "North Europe",
+        "AUSTRALIA EAST",
+        "JAPAN EAST",
+        "KOREA CENTRAL",
+        "UK SOUTH",
+        "WEST EUROPE",
+        "CANADA CENTRAL",
+        "CENTRAL US",
+        "EAST US"
       ],
       "properties": null,
       "resourceType": "locations/capabilities"
@@ -340,7 +412,15 @@
         "West US 2",
         "Brazil South",
         "Southeast Asia",
-        "North Europe"
+        "North Europe",
+        "AUSTRALIA EAST",
+        "JAPAN EAST",
+        "KOREA CENTRAL",
+        "UK SOUTH",
+        "WEST EUROPE",
+        "CANADA CENTRAL",
+        "CENTRAL US",
+        "EAST US"
       ],
       "properties": null,
       "resourceType": "locations/checkVirtualNetworkSubnetUsage"
