@@ -1,0 +1,76 @@
+{
+  "authorization": {
+    "applicationId": "cc5476ec-3074-44d1-8461-711f5d9b0e39",
+    "managedByRoleDefinitionId": "9e3af657-a8ff-583c-a75c-2fe7c4bcb635",
+    "roleDefinitionId": "4a10987e-dbcf-4c3d-8e3d-7ddcd9c771c2"
+  },
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.BareMetalInfrastructure",
+  "namespace": "Microsoft.BareMetalInfrastructure",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-06-preview"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "West US",
+        "West US 2",
+        "East US",
+        "West Europe",
+        "North Europe",
+        "Japan East",
+        "Australia East",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "bareMetalInstances"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-06-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-06-preview"
+      ],
+      "locations": [
+        "West US",
+        "West US 2",
+        "East US",
+        "West Europe",
+        "North Europe",
+        "Japan East",
+        "Australia East",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationsStatus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-06-preview"
+      ],
+      "locations": [
+        "West US",
+        "West US 2",
+        "East US",
+        "West Europe",
+        "North Europe",
+        "Japan East",
+        "Australia East",
+        "Australia Southeast"
+      ],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

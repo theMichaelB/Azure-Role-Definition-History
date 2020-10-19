@@ -957,6 +957,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2019-10-01-preview"
       ],
       "capabilities": "None",
@@ -988,6 +989,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2019-10-01-preview"
       ],
       "locations": [
@@ -1018,6 +1020,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2019-10-01-preview"
       ],
       "locations": [
@@ -1044,6 +1047,96 @@
       ],
       "properties": null,
       "resourceType": "locations/deploymentScriptOperationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "Australia East",
+        "Australia Central",
+        "Australia Central 2",
+        "Australia Southeast",
+        "Brazil South",
+        "Canada Central",
+        "Canada East",
+        "Switzerland North",
+        "Germany West Central",
+        "East US 2",
+        "East US",
+        "Central US",
+        "North Central US",
+        "France Central",
+        "UK South",
+        "UK West",
+        "Central India",
+        "West India",
+        "South India",
+        "Japan East",
+        "Japan West",
+        "Korea Central",
+        "Korea South",
+        "North Europe",
+        "Norway East",
+        "UAE North",
+        "West Central US",
+        "West Europe",
+        "West US 2",
+        "West US",
+        "South Central US",
+        "South Africa North"
+      ],
+      "properties": null,
+      "resourceType": "templateSpecs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-06-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "Australia East",
+        "Australia Central",
+        "Australia Central 2",
+        "Australia Southeast",
+        "Brazil South",
+        "Canada Central",
+        "Canada East",
+        "Switzerland North",
+        "Germany West Central",
+        "East US 2",
+        "East US",
+        "Central US",
+        "North Central US",
+        "France Central",
+        "UK South",
+        "UK West",
+        "Central India",
+        "West India",
+        "South India",
+        "Japan East",
+        "Japan West",
+        "Korea Central",
+        "Korea South",
+        "North Europe",
+        "Norway East",
+        "UAE North",
+        "West Central US",
+        "West Europe",
+        "West US 2",
+        "West US",
+        "South Central US",
+        "South Africa North"
+      ],
+      "properties": null,
+      "resourceType": "templateSpecs/versions"
     }
   ]
 }

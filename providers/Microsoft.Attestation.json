@@ -15,7 +15,7 @@
         "2020-10-01",
         "2018-09-01-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "capabilities": "None",
       "locations": [
         "East US 2",
         "Central US",
