@@ -1,0 +1,19 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "Grants full access to manage all resources in managed Resource Group.",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/f2f79976-90be-4501-89c6-7caf12474683",
+  "name": "f2f79976-90be-4501-89c6-7caf12474683",
+  "permissions": [
+    {
+      "actions": [],
+      "dataActions": [],
+      "notActions": [],
+      "notDataActions": []
+    }
+  ],
+  "roleName": "Azure Data Cloud Lifter Management",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}

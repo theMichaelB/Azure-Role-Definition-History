@@ -1,0 +1,23 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "Allowed to create submissions to Security Detonation Chamber",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/0b555d9b-b4a7-4f43-b330-627f0e5be8f0",
+  "name": "0b555d9b-b4a7-4f43-b330-627f0e5be8f0",
+  "permissions": [
+    {
+      "actions": [],
+      "dataActions": [
+        "Microsoft.SecurityDetonation/chambers/submissions/delete",
+        "Microsoft.SecurityDetonation/chambers/submissions/write",
+        "Microsoft.SecurityDetonation/chambers/submissions/read"
+      ],
+      "notActions": [],
+      "notDataActions": []
+    }
+  ],
+  "roleName": "Security Detonation Chamber Submitter",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}
