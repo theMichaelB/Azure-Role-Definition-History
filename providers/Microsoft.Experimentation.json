@@ -4,6 +4,10 @@
       "applicationId": "e00d2f8a-f6c8-46e4-b379-e66082e28ca8",
       "managedByRoleDefinitionId": "fa096ccd-4e8f-49de-9594-64449b3ac6b3",
       "roleDefinitionId": "d3a360d9-17f9-410e-9465-5c914c8cf570"
+    },
+    {
+      "applicationId": "b998f6f8-79d0-4b6a-8c25-5791dbe49ad0",
+      "roleDefinitionId": "69e94dda-0a4a-440b-b24e-21880bdd5174"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Experimentation",

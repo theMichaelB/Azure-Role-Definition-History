@@ -19,7 +19,8 @@
         "Central US",
         "South Central US",
         "West Europe",
-        "West US 2"
+        "West US 2",
+        "East US"
       ],
       "properties": null,
       "resourceType": "accounts"
@@ -33,7 +34,8 @@
         "Central US",
         "South Central US",
         "West Europe",
-        "West US 2"
+        "West US 2",
+        "East US"
       ],
       "properties": null,
       "resourceType": "accounts/storageContainers"
@@ -47,7 +49,8 @@
         "Central US",
         "South Central US",
         "West Europe",
-        "West US 2"
+        "West US 2",
+        "East US"
       ],
       "properties": null,
       "resourceType": "accounts/accountQuotaPolicies"
@@ -61,7 +64,8 @@
         "Central US",
         "South Central US",
         "West Europe",
-        "West US 2"
+        "West US 2",
+        "East US"
       ],
       "properties": null,
       "resourceType": "accounts/groupPolicies"
@@ -75,7 +79,8 @@
         "Central US",
         "South Central US",
         "West Europe",
-        "West US 2"
+        "West US 2",
+        "East US"
       ],
       "properties": null,
       "resourceType": "accounts/jobs"
@@ -139,7 +144,6 @@
         "Canada East",
         "Central India",
         "East Asia",
-        "East US",
         "East US 2",
         "France Central",
         "Germany West Central",
@@ -161,7 +165,8 @@
         "UK South",
         "Brazil South",
         "Korea South",
-        "Korea Central"
+        "Korea Central",
+        "East US"
       ],
       "properties": null,
       "resourceType": "locations/instanceTypeSeries"
@@ -182,7 +187,6 @@
         "Canada East",
         "Central India",
         "East Asia",
-        "East US",
         "East US 2",
         "France Central",
         "Germany West Central",
@@ -204,7 +208,8 @@
         "UK South",
         "Brazil South",
         "Korea South",
-        "Korea Central"
+        "Korea Central",
+        "East US"
       ],
       "properties": null,
       "resourceType": "locations/instanceTypeSeries/instanceTypes"
@@ -225,7 +230,6 @@
         "Canada East",
         "Central India",
         "East Asia",
-        "East US",
         "East US 2",
         "France Central",
         "Germany West Central",
@@ -247,7 +251,8 @@
         "UK South",
         "Brazil South",
         "Korea South",
-        "Korea Central"
+        "Korea Central",
+        "East US"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"

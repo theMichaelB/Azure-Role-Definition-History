@@ -156,6 +156,26 @@
         "Central US"
       ],
       "properties": null,
+      "resourceType": "hostpools/msixpackages"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-12-10-preview",
+        "2019-09-24-preview",
+        "2019-01-23-preview"
+      ],
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "North Central US",
+        "South Central US",
+        "West Central US",
+        "Central US"
+      ],
+      "properties": null,
       "resourceType": "hostpools/sessionhosts"
     },
     {
