@@ -20,7 +20,7 @@
       "notDataActions": []
     }
   ],
-  "roleName": "Azure Digital Twins Owner (Preview)",
+  "roleName": "Azure Digital Twins Data Owner",
   "roleType": "BuiltInRole",
   "type": "Microsoft.Authorization/roleDefinitions"
 }

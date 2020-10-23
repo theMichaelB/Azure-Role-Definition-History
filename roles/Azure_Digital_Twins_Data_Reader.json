@@ -19,7 +19,7 @@
       "notDataActions": []
     }
   ],
-  "roleName": "Azure Digital Twins Reader (Preview)",
+  "roleName": "Azure Digital Twins Data Reader",
   "roleType": "BuiltInRole",
   "type": "Microsoft.Authorization/roleDefinitions"
 }
