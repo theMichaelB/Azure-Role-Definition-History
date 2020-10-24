@@ -7,6 +7,7 @@
       "aliases": null,
       "apiVersions": [
         "2020-09-01-preview",
+        "2020-09-01-alpha",
         "2019-01-01-preview",
         "2018-10-01-preview",
         "2015-08-01-preview"
@@ -44,6 +45,45 @@
       ],
       "properties": null,
       "resourceType": "dashboards"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-09-01-preview",
+        "2019-01-01-preview"
+      ],
+      "locations": [
+        "Central US",
+        "East Asia",
+        "Southeast Asia",
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 2",
+        "North Central US",
+        "South Central US",
+        "West Central US",
+        "North Europe",
+        "West Europe",
+        "Japan East",
+        "Japan West",
+        "Brazil South",
+        "Australia Southeast",
+        "Australia East",
+        "West India",
+        "South India",
+        "Central India",
+        "Canada Central",
+        "Canada East",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "South Africa North"
+      ],
+      "properties": null,
+      "resourceType": "tenantconfigurations"
     },
     {
       "aliases": null,
