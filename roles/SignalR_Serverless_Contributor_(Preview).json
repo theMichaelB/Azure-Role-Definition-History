@@ -2,14 +2,14 @@
   "assignableScopes": [
     "/"
   ],
-  "description": "Lets your app access service in serverless mode.",
+  "description": "Lets your app access service in serverless mode with AAD auth options.",
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/fd53cd77-2268-407a-8f46-7e7863d0f521",
   "name": "fd53cd77-2268-407a-8f46-7e7863d0f521",
   "permissions": [
     {
       "actions": [],
       "dataActions": [
-        "Microsoft.SignalRService/SignalR/service/clientToken/action"
+        "Microsoft.SignalRService/SignalR/auth/clientToken/action"
       ],
       "notActions": [],
       "notDataActions": []
