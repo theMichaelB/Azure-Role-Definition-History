@@ -16,7 +16,7 @@
       ],
       "locations": [],
       "properties": null,
-      "resourceType": "operations"
+      "resourceType": "Operations"
     },
     {
       "aliases": null,
@@ -30,15 +30,15 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-01-01-preview"
+        "2020-01-01-preview",
+        "2019-10-01"
       ],
       "locations": [
         "East US 2 EUAP",
-        "West Central US",
-        "East US"
+        "West Central US"
       ],
       "properties": null,
-      "resourceType": "locations/OperationStatuses"
+      "resourceType": "Locations/OperationStatuses"
     }
   ]
 }

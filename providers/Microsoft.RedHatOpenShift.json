@@ -30,6 +30,7 @@
       ],
       "locations": [
         "Australia East",
+        "Australia Southeast",
         "Brazil South",
         "Canada Central",
         "Canada East",
@@ -50,6 +51,7 @@
         "South Central US",
         "Southeast Asia",
         "Switzerland North",
+        "Switzerland West",
         "UAE North",
         "UK South",
         "UK West",
@@ -67,6 +69,7 @@
       ],
       "locations": [
         "Australia East",
+        "Australia Southeast",
         "Brazil South",
         "Canada Central",
         "Canada East",
@@ -87,6 +90,7 @@
         "South Central US",
         "Southeast Asia",
         "Switzerland North",
+        "Switzerland West",
         "UAE North",
         "UK South",
         "UK West",
@@ -106,6 +110,7 @@
       "defaultApiVersion": "2020-04-30",
       "locations": [
         "Australia East",
+        "Australia Southeast",
         "Brazil South",
         "Canada Central",
         "Canada East",
@@ -126,6 +131,7 @@
         "South Central US",
         "Southeast Asia",
         "Switzerland North",
+        "Switzerland West",
         "UAE North",
         "UK South",
         "UK West",
