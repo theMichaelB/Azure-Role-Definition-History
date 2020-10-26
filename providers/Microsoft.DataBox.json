@@ -29,7 +29,8 @@
         "Korea Central",
         "Japan East",
         "South Africa North",
-        "Brazil South"
+        "Brazil South",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "jobs"
@@ -63,7 +64,8 @@
         "Korea Central",
         "Japan East",
         "South Africa North",
-        "Brazil South"
+        "Brazil South",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "locations/validateAddress"
@@ -86,7 +88,8 @@
         "Korea Central",
         "Japan East",
         "South Africa North",
-        "Brazil South"
+        "Brazil South",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -109,7 +112,8 @@
         "Korea Central",
         "Japan East",
         "South Africa North",
-        "Brazil South"
+        "Brazil South",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "locations/operationresults"
@@ -143,7 +147,8 @@
         "Korea Central",
         "Japan East",
         "South Africa North",
-        "Brazil South"
+        "Brazil South",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "locations/availableSkus"
@@ -166,7 +171,8 @@
         "Korea Central",
         "Japan East",
         "South Africa North",
-        "Brazil South"
+        "Brazil South",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "locations/validateInputs"
@@ -189,7 +195,8 @@
         "Korea Central",
         "Japan East",
         "South Africa North",
-        "Brazil South"
+        "Brazil South",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "locations/regionConfiguration"

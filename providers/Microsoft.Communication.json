@@ -78,6 +78,17 @@
       ],
       "properties": null,
       "resourceType": "Locations/OperationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-20-preview"
+      ],
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
     }
   ]
 }

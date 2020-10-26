@@ -56,7 +56,9 @@
         "South Africa North",
         "South Africa West",
         "UAE North",
-        "UAE Central"
+        "UAE Central",
+        "Germany West Central",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "storageSyncServices"
@@ -107,7 +109,9 @@
         "South Africa North",
         "South Africa West",
         "UAE North",
-        "UAE Central"
+        "UAE Central",
+        "Germany West Central",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/syncGroups"
@@ -158,7 +162,9 @@
         "South Africa North",
         "South Africa West",
         "UAE North",
-        "UAE Central"
+        "UAE Central",
+        "Germany West Central",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/syncGroups/cloudEndpoints"
@@ -209,7 +215,9 @@
         "South Africa North",
         "South Africa West",
         "UAE North",
-        "UAE Central"
+        "UAE Central",
+        "Germany West Central",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/syncGroups/serverEndpoints"
@@ -260,7 +268,9 @@
         "South Africa North",
         "South Africa West",
         "UAE North",
-        "UAE Central"
+        "UAE Central",
+        "Germany West Central",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/registeredServers"
@@ -311,7 +321,9 @@
         "South Africa North",
         "South Africa West",
         "UAE North",
-        "UAE Central"
+        "UAE Central",
+        "Germany West Central",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/workflows"
@@ -331,7 +343,43 @@
         "2017-06-05-preview"
       ],
       "defaultApiVersion": "2017-06-05-preview",
-      "locations": [],
+      "locations": [
+        "West Central US",
+        "West US",
+        "West Europe",
+        "North Europe",
+        "Southeast Asia",
+        "East Asia",
+        "Australia East",
+        "Australia Southeast",
+        "East US",
+        "Canada Central",
+        "Canada East",
+        "Central US",
+        "East US 2",
+        "UK South",
+        "UK West",
+        "Central India",
+        "South India",
+        "Central US EUAP",
+        "North Central US",
+        "South Central US",
+        "Brazil South",
+        "Japan East",
+        "Japan West",
+        "West US 2",
+        "East US 2 EUAP",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "France South",
+        "South Africa North",
+        "South Africa West",
+        "UAE North",
+        "UAE Central",
+        "Germany West Central",
+        "Germany North"
+      ],
       "properties": null,
       "resourceType": "operations"
     },
@@ -395,7 +443,9 @@
         "South Africa North",
         "South Africa West",
         "UAE North",
-        "UAE Central"
+        "UAE Central",
+        "Germany West Central",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -444,7 +494,9 @@
         "South Africa North",
         "South Africa West",
         "UAE North",
-        "UAE Central"
+        "UAE Central",
+        "Germany West Central",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "locations/workflows"
@@ -486,7 +538,9 @@
         "South Africa North",
         "South Africa West",
         "UAE North",
-        "UAE Central"
+        "UAE Central",
+        "Germany West Central",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "locations/operations"
@@ -528,7 +582,9 @@
         "South Africa North",
         "South Africa West",
         "UAE North",
-        "UAE Central"
+        "UAE Central",
+        "Germany West Central",
+        "Germany North"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
