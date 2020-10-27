@@ -1,0 +1,22 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "5b534afd-fdc0-4b38-a77f-af25442e3149",
+      "roleDefinitionId": "27d9fedd-5b4c-44b5-a9da-724fa33445c8"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Diagnostics",
+  "namespace": "Microsoft.Diagnostics",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-01-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}
