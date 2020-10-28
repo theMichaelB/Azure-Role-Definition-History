@@ -1,0 +1,43 @@
+{
+  "authorizations": [],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AzureArcData",
+  "namespace": "Microsoft.AzureArcData",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-01-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-08-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01"
+      ],
+      "locations": [
+        "East Asia",
+        "East US",
+        "East US 2 EUAP",
+        "North Europe",
+        "Southeast Asia",
+        "West Europe",
+        "West US"
+      ],
+      "properties": null,
+      "resourceType": "Locations/OperationStatuses"
+    }
+  ]
+}

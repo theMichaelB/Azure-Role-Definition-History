@@ -1,0 +1,92 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "c19490b5-c092-426f-b1a2-674b279d4975",
+      "roleDefinitionId": "7963cd60-9634-4abc-9a64-2482a3ef6373"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Bing",
+  "namespace": "Microsoft.Bing",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-10"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-10"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "accounts/skus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-10"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "accounts/usages"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-10"
+      ],
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "registeredSubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-10"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-10"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "West Europe",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-10"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "accounts"
+    }
+  ]
+}

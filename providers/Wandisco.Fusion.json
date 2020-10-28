@@ -14,6 +14,82 @@
       "apiVersions": [
         "2019-09-01-preview"
       ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "East Asia",
+        "North Europe",
+        "Southeast Asia",
+        "West Europe",
+        "West Central US",
+        "West US",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "fusionGroups"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "West Europe",
+        "North Europe",
+        "East Asia",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "fusionGroups/azureZones"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "West Europe",
+        "North Europe",
+        "East Asia",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "fusionGroups/azureZones/plugins"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "West Europe",
+        "North Europe",
+        "East Asia",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "fusionGroups/replicationRules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01-preview"
+      ],
       "locations": [
         "East US"
       ],
@@ -46,7 +122,54 @@
       ],
       "locations": [],
       "properties": null,
+      "resourceType": "fusionGroups/replicationRules/migrations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
       "resourceType": "registeredSubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "West Europe",
+        "North Europe",
+        "East Asia",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "fusionGroups/hiveReplicationRules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "West Europe",
+        "North Europe",
+        "East Asia",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "fusionGroups/managedOnPremZones"
     },
     {
       "aliases": null,
@@ -56,6 +179,63 @@
       "locations": [],
       "properties": null,
       "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "East Asia",
+        "North Europe",
+        "Southeast Asia",
+        "West Europe",
+        "West Central US",
+        "West US",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "migrators"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "West Europe",
+        "North Europe",
+        "East Asia",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "migrators/targets"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West US",
+        "West US 2",
+        "West Central US",
+        "West Europe",
+        "North Europe",
+        "East Asia",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "migrators/liveDataMigrations"
     }
   ]
 }

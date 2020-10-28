@@ -52,7 +52,9 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "workspaces"
@@ -115,7 +117,9 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations/operationStatuses"
@@ -154,7 +158,9 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "workspaces/scopedPrivateLinkProxies"
@@ -211,7 +217,9 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "workspaces/dataSources"
@@ -250,7 +258,9 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "workspaces/linkedStorageAccounts"
@@ -302,7 +312,9 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "workspaces/linkedServices"
@@ -352,7 +364,9 @@
         "South Africa North",
         "Brazil South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "deletedWorkspaces"

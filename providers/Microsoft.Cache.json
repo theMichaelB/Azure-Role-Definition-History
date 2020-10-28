@@ -508,6 +508,7 @@
         }
       ],
       "apiVersions": [
+        "2020-10-01-preview",
         "2020-04-01-preview"
       ],
       "defaultApiVersion": "2020-04-01-preview",
@@ -517,7 +518,11 @@
         "West US",
         "East US 2",
         "West US 2",
-        "South Central US"
+        "South Central US",
+        "UK South",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe"
       ],
       "properties": null,
       "resourceType": "locations/operationsStatus"
@@ -571,6 +576,257 @@
       "locations": [],
       "properties": null,
       "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2020-04-01-preview",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2020-10-01-preview",
+        "2020-04-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2020-04-01-preview",
+      "locations": [
+        "East US",
+        "West Europe",
+        "West US",
+        "East US 2",
+        "West US 2",
+        "South Central US",
+        "UK South",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "redisEnterprise",
+      "zoneMappings": [
+        {
+          "location": "East US 2",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "West Europe",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "Southeast Asia",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "West US 2",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "North Europe",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "East US",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "UK South",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "Australia East",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "South Central US",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        }
+      ]
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview",
+        "2020-04-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West Europe",
+        "West US",
+        "East US 2",
+        "West US 2",
+        "South Central US",
+        "UK South",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "RedisEnterprise/privateEndpointConnectionProxies"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview",
+        "2020-04-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West Europe",
+        "West US",
+        "East US 2",
+        "West US 2",
+        "South Central US",
+        "UK South",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "RedisEnterprise/privateEndpointConnectionProxies/validate"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview",
+        "2020-04-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West Europe",
+        "West US",
+        "East US 2",
+        "West US 2",
+        "South Central US",
+        "UK South",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "RedisEnterprise/privateEndpointConnectionProxies/operationresults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview",
+        "2020-04-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West Europe",
+        "West US",
+        "East US 2",
+        "West US 2",
+        "South Central US",
+        "UK South",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "RedisEnterprise/privateEndpointConnections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview",
+        "2020-04-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West Europe",
+        "West US",
+        "East US 2",
+        "West US 2",
+        "South Central US",
+        "UK South",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "RedisEnterprise/privateEndpointConnections/operationresults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview",
+        "2020-04-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West Europe",
+        "West US",
+        "East US 2",
+        "West US 2",
+        "South Central US",
+        "UK South",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "RedisEnterprise/privateLinkResources"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview",
+        "2020-04-01-preview"
+      ],
+      "defaultApiVersion": "2020-04-01-preview",
+      "locations": [
+        "East US",
+        "West Europe",
+        "West US",
+        "East US 2",
+        "West US 2",
+        "South Central US",
+        "UK South",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkNameAvailability"
     },
     {
       "aliases": null,
