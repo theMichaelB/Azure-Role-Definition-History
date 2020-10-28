@@ -15,7 +15,7 @@
       ],
       "notActions": [],
       "notDataActions": [
-        "Microsoft.AgFoodPlatform/growers/create/action"
+        "Microsoft.AgFoodPlatform/farmers/write"
       ]
     }
   ],

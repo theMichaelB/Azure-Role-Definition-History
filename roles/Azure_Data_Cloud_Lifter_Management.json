@@ -7,7 +7,9 @@
   "name": "f2f79976-90be-4501-89c6-7caf12474683",
   "permissions": [
     {
-      "actions": [],
+      "actions": [
+        "Microsoft.Resources/*"
+      ],
       "dataActions": [],
       "notActions": [],
       "notDataActions": []
