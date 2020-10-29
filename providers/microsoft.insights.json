@@ -98,7 +98,8 @@
         "Australia Central 2",
         "Germany West Central",
         "Switzerland West",
-        "UK West"
+        "UK West",
+        "Australia Central"
       ],
       "properties": null,
       "resourceType": "components"
@@ -218,7 +219,8 @@
         "Australia Central 2",
         "Germany West Central",
         "Switzerland West",
-        "UK West"
+        "UK West",
+        "Australia Central"
       ],
       "properties": null,
       "resourceType": "webtests"
@@ -289,7 +291,9 @@
         "Switzerland West",
         "UAE Central",
         "Germany West Central",
-        "Australia Central 2"
+        "Australia Central 2",
+        "Brazil SouthEast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "scheduledqueryrules"
