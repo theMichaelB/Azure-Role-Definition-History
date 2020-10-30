@@ -375,6 +375,26 @@
       "locations": [],
       "properties": null,
       "resourceType": "Insights"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "GenerateReservationDetailsReport"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "ReservationDetailsOperationResults"
     }
   ]
 }

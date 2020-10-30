@@ -475,6 +475,24 @@
     },
     {
       "aliases": null,
+      "apiVersions": [
+        "2020-06-01",
+        "2019-12-01-preview",
+        "2019-08-01"
+      ],
+      "defaultApiVersion": "2020-06-01",
+      "locations": [
+        "West US 2",
+        "Central US",
+        "East US 2",
+        "West Europe",
+        "East Asia"
+      ],
+      "properties": null,
+      "resourceType": "locations/previewStaticSiteWorkflowFile"
+    },
+    {
+      "aliases": null,
       "apiProfiles": [
         {
           "apiVersion": "2016-03-01",
@@ -2319,7 +2337,8 @@
         "South Africa North",
         "UAE Central",
         "Switzerland North",
-        "Germany North"
+        "Germany North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "connections"
@@ -2380,7 +2399,8 @@
         "South Africa North",
         "UAE Central",
         "Switzerland North",
-        "Germany North"
+        "Germany North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "customApis"
@@ -2465,7 +2485,8 @@
         "South Africa North",
         "UAE Central",
         "Switzerland North",
-        "Germany North"
+        "Germany North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/listWsdlInterfaces"
@@ -2524,7 +2545,8 @@
         "South Africa North",
         "UAE Central",
         "Switzerland North",
-        "Germany North"
+        "Germany North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/extractApiDefinitionFromWsdl"
@@ -2584,7 +2606,8 @@
         "South Africa North",
         "UAE Central",
         "Switzerland North",
-        "Germany North"
+        "Germany North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/managedApis"
@@ -2643,7 +2666,8 @@
         "South Africa North",
         "UAE Central",
         "Switzerland North",
-        "Germany North"
+        "Germany North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/runtimes"
@@ -2703,7 +2727,8 @@
         "South Africa North",
         "UAE Central",
         "Switzerland North",
-        "Germany North"
+        "Germany North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/apiOperations"
@@ -2763,7 +2788,8 @@
         "South Africa North",
         "UAE Central",
         "Switzerland North",
-        "Germany North"
+        "Germany North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "connectionGateways"
@@ -2822,7 +2848,8 @@
         "South Africa North",
         "UAE Central",
         "Switzerland North",
-        "Germany North"
+        "Germany North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/connectionGatewayInstallations"
