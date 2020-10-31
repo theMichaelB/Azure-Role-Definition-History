@@ -859,6 +859,15 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-08-06-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "onPremiseIotSensors"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2019-08-01",
         "2017-08-01-preview"
       ],
