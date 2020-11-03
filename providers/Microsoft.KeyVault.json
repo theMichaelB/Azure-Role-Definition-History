@@ -531,7 +531,12 @@
         "East US 2",
         "South Central US",
         "North Europe",
-        "West Europe"
+        "West Europe",
+        "Canada Central",
+        "Central US",
+        "Switzerland North",
+        "South Africa North",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "managedHSMs"

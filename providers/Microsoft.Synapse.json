@@ -31,7 +31,7 @@
       "apiVersions": [
         "2019-06-01-preview"
       ],
-      "capabilities": "SystemAssignedResourceIdentity",
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "locations": [
         "West US 2",
         "East US",
@@ -48,7 +48,18 @@
         "East Asia",
         "Brazil South",
         "Central US",
-        "Central India"
+        "Central India",
+        "Japan East",
+        "North Central US",
+        "Canada Central",
+        "Canada East",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Japan West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "workspaces"
@@ -58,7 +69,7 @@
       "apiVersions": [
         "2019-06-01-preview"
       ],
-      "capabilities": "None",
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
         "West US 2",
         "East US",
@@ -75,7 +86,18 @@
         "East Asia",
         "Brazil South",
         "Central US",
-        "Central India"
+        "Central India",
+        "Japan East",
+        "North Central US",
+        "Canada Central",
+        "Canada East",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Japan West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "workspaces/bigDataPools"
@@ -85,7 +107,7 @@
       "apiVersions": [
         "2019-06-01-preview"
       ],
-      "capabilities": "None",
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
         "West US 2",
         "East US",
@@ -102,7 +124,18 @@
         "East Asia",
         "Brazil South",
         "Central US",
-        "Central India"
+        "Central India",
+        "Japan East",
+        "North Central US",
+        "Canada Central",
+        "Canada East",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Japan West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "workspaces/sqlPools"
@@ -128,7 +161,18 @@
         "East Asia",
         "Brazil South",
         "Central US",
-        "Central India"
+        "Central India",
+        "Japan East",
+        "North Central US",
+        "Canada Central",
+        "Canada East",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Japan West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "workspaces/operationStatuses"
@@ -154,7 +198,18 @@
         "East Asia",
         "Brazil South",
         "Central US",
-        "Central India"
+        "Central India",
+        "Japan East",
+        "North Central US",
+        "Canada Central",
+        "Canada East",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Japan West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "workspaces/operationResults"
@@ -189,7 +244,18 @@
         "East Asia",
         "Brazil South",
         "Central US",
-        "Central India"
+        "Central India",
+        "Japan East",
+        "North Central US",
+        "Canada Central",
+        "Canada East",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Japan West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -199,7 +265,7 @@
       "apiVersions": [
         "2019-06-01-preview"
       ],
-      "capabilities": "None",
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
         "West US 2",
         "East US",
@@ -216,7 +282,18 @@
         "East Asia",
         "Brazil South",
         "Central US",
-        "Central India"
+        "Central India",
+        "Japan East",
+        "North Central US",
+        "Canada Central",
+        "Canada East",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Japan West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "privateLinkHubs"
@@ -251,7 +328,18 @@
         "East Asia",
         "Brazil South",
         "Central US",
-        "Central India"
+        "Central India",
+        "Japan East",
+        "North Central US",
+        "Canada Central",
+        "Canada East",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Japan West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -277,7 +365,18 @@
         "East Asia",
         "Brazil South",
         "Central US",
-        "Central India"
+        "Central India",
+        "Japan East",
+        "North Central US",
+        "Canada Central",
+        "Canada East",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Japan West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/operationStatuses"
