@@ -1118,11 +1118,12 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-20",
         "2020-02-12",
         "2018-06-17-preview",
         "2018-06-01-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
         "West Europe",
         "South Central US",
@@ -1188,13 +1189,14 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-20",
         "2020-02-12",
         "2018-06-17-preview",
         "2018-06-15-preview",
         "2018-06-01-preview",
         "2016-06-15-preview"
       ],
-      "capabilities": "SystemAssignedResourceIdentity, SupportsExtension",
+      "capabilities": "SupportsExtension",
       "locations": [
         "West Europe",
         "South Central US",

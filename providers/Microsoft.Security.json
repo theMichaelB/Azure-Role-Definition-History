@@ -1273,7 +1273,9 @@
         "Norway East",
         "Norway West",
         "Germany West Central",
-        "Germany North"
+        "Germany North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "automations"

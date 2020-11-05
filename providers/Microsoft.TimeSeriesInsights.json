@@ -17,7 +17,7 @@
         "2017-11-15",
         "2017-02-28-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "locations": [
         "France Central",
         "South Central Us",

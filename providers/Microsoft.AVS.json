@@ -47,7 +47,8 @@
         "West Europe",
         "Australia East",
         "Japan East",
-        "UK South"
+        "UK South",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "locations/checkTrialAvailability"
@@ -65,7 +66,8 @@
         "West Europe",
         "Australia East",
         "Japan East",
-        "UK South"
+        "UK South",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "locations/checkQuotaAvailability"
@@ -84,7 +86,8 @@
         "West Europe",
         "Australia East",
         "Japan East",
-        "UK South"
+        "UK South",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "privateClouds"
@@ -102,7 +105,8 @@
         "West Europe",
         "Australia East",
         "Japan East",
-        "UK South"
+        "UK South",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "privateClouds/clusters"
@@ -119,7 +123,8 @@
         "West Europe",
         "Australia East",
         "Japan East",
-        "UK South"
+        "UK South",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "privateClouds/authorizations"
@@ -136,7 +141,8 @@
         "West Europe",
         "Australia East",
         "Japan East",
-        "UK South"
+        "UK South",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "privateClouds/hcxEnterpriseSites"
@@ -153,7 +159,8 @@
         "West Europe",
         "Australia East",
         "Japan East",
-        "UK South"
+        "UK South",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "privateClouds/globalReachConnections"
