@@ -50,6 +50,7 @@
         "Japan East",
         "Canada Central",
         "Australia East",
+        "Switzerland North",
         "Central India",
         "France Central",
         "Korea Central",
@@ -64,7 +65,8 @@
         "East Asia",
         "North Central US",
         "South Africa North",
-        "Australia Southeast"
+        "Australia Southeast",
+        "South India"
       ],
       "properties": null,
       "resourceType": "factories"
@@ -89,6 +91,7 @@
         "France Central",
         "Korea Central",
         "Australia East",
+        "Switzerland North",
         "Canada Central",
         "West Central US",
         "North Europe",
@@ -98,7 +101,8 @@
         "East Asia",
         "North Central US",
         "South Africa North",
-        "Australia Southeast"
+        "Australia Southeast",
+        "South India"
       ],
       "properties": null,
       "resourceType": "factories/integrationRuntimes"
@@ -228,6 +232,7 @@
         "South Central US",
         "Japan East",
         "Australia East",
+        "Switzerland North",
         "Canada Central",
         "Central India",
         "Brazil South",
@@ -241,7 +246,8 @@
         "East Asia",
         "North Central US",
         "South Africa North",
-        "Australia Southeast"
+        "Australia Southeast",
+        "South India"
       ],
       "properties": null,
       "resourceType": "locations/configureFactoryRepo"
@@ -264,6 +270,7 @@
         "South Central US",
         "Japan East",
         "Australia East",
+        "Switzerland North",
         "Canada Central",
         "Central India",
         "Brazil South",
@@ -274,7 +281,8 @@
         "East Asia",
         "North Central US",
         "South Africa North",
-        "Australia Southeast"
+        "Australia Southeast",
+        "South India"
       ],
       "properties": null,
       "resourceType": "locations/getFeatureValue"
