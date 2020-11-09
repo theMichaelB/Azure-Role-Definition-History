@@ -164,6 +164,132 @@
       ],
       "properties": null,
       "resourceType": "privateClouds/globalReachConnections"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-17-preview"
+      ],
+      "locations": [
+        "East US",
+        "North Central US",
+        "West US",
+        "West Europe",
+        "Australia East",
+        "Japan East",
+        "UK South",
+        "Canada Central"
+      ],
+      "properties": null,
+      "resourceType": "privateClouds/workloadNetworks"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-17-preview"
+      ],
+      "locations": [
+        "East US",
+        "North Central US",
+        "West US",
+        "West Europe",
+        "Australia East",
+        "Japan East",
+        "UK South",
+        "Canada Central"
+      ],
+      "properties": null,
+      "resourceType": "privateClouds/workloadNetworks/dhcpConfigurations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-17-preview"
+      ],
+      "locations": [
+        "East US",
+        "North Central US",
+        "West US",
+        "West Europe",
+        "Australia East",
+        "Japan East",
+        "UK South",
+        "Canada Central"
+      ],
+      "properties": null,
+      "resourceType": "privateClouds/workloadNetworks/portMirroringProfiles"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-17-preview"
+      ],
+      "locations": [
+        "East US",
+        "North Central US",
+        "West US",
+        "West Europe",
+        "Australia East",
+        "Japan East",
+        "UK South",
+        "Canada Central"
+      ],
+      "properties": null,
+      "resourceType": "privateClouds/workloadNetworks/segments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-17-preview"
+      ],
+      "locations": [
+        "East US",
+        "North Central US",
+        "West US",
+        "West Europe",
+        "Australia East",
+        "Japan East",
+        "UK South",
+        "Canada Central"
+      ],
+      "properties": null,
+      "resourceType": "privateClouds/workloadNetworks/vmGroups"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-17-preview"
+      ],
+      "locations": [
+        "East US",
+        "North Central US",
+        "West US",
+        "West Europe",
+        "Australia East",
+        "Japan East",
+        "UK South",
+        "Canada Central"
+      ],
+      "properties": null,
+      "resourceType": "privateClouds/workloadNetworks/gateways"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-17-preview"
+      ],
+      "locations": [
+        "East US",
+        "North Central US",
+        "West US",
+        "West Europe",
+        "Australia East",
+        "Japan East",
+        "UK South",
+        "Canada Central"
+      ],
+      "properties": null,
+      "resourceType": "privateClouds/workloadNetworks/virtualMachines"
     }
   ]
 }
