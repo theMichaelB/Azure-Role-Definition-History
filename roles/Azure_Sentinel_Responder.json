@@ -35,7 +35,10 @@
         "Microsoft.Support/*"
       ],
       "dataActions": [],
-      "notActions": [],
+      "notActions": [
+        "Microsoft.SecurityInsights/cases/*/Delete",
+        "Microsoft.SecurityInsights/incidents/*/Delete"
+      ],
       "notDataActions": []
     }
   ],
