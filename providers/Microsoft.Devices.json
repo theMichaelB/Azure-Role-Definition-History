@@ -212,7 +212,9 @@
         "Korea South",
         "Korea Central",
         "France Central",
-        "North Central US"
+        "North Central US",
+        "Australia Central",
+        "Australia Central 2"
       ],
       "properties": null,
       "resourceType": "IotHubs"
@@ -249,7 +251,9 @@
         "Korea South",
         "Korea Central",
         "France Central",
-        "North Central US"
+        "North Central US",
+        "Australia Central",
+        "Australia Central 2"
       ],
       "properties": null,
       "resourceType": "IotHubs/eventGridFilters"
@@ -319,7 +323,9 @@
         "Korea South",
         "Korea Central",
         "France Central",
-        "North Central US"
+        "North Central US",
+        "Australia Central",
+        "Australia Central 2"
       ],
       "properties": null,
       "resourceType": "IotHubs/securitySettings"
