@@ -1,27 +1,18 @@
 {
   "authorizations": [
     {
-      "applicationId": "b8ed041c-aa91-418e-8f47-20c70abc2de1",
-      "roleDefinitionId": "b193432e-9b7e-4885-b2c0-052afdceace3"
+      "applicationId": "f9c691e6-93b3-4d57-944c-afcc737f9abf",
+      "roleDefinitionId": "1dc07278-9fb7-4aa4-bf32-bbb5a0a0c0bd"
     }
   ],
-  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.HybridNetwork",
-  "namespace": "Microsoft.HybridNetwork",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AppAssessment",
+  "namespace": "Microsoft.AppAssessment",
   "registrationState": "NotRegistered",
   "resourceTypes": [
     {
       "aliases": null,
       "apiVersions": [
-        "2020-01-01-preview"
-      ],
-      "locations": [],
-      "properties": null,
-      "resourceType": "operations"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-01-01-preview"
+        "2020-09-01-privatepreview"
       ],
       "locations": [],
       "properties": null,
@@ -30,12 +21,20 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-01-01-preview"
+        "2020-09-01-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-09-01-privatepreview"
       ],
       "locations": [
         "East US 2 EUAP",
-        "West Central US",
-        "East US"
+        "West Central US"
       ],
       "properties": null,
       "resourceType": "Locations/OperationStatuses"

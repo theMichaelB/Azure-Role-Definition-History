@@ -141,6 +141,15 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-07"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2020-01-01",
         "2019-06-06",
         "2018-05-01-preview"

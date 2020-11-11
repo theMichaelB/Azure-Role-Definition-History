@@ -16,6 +16,15 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2019-07-19-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "resourceProviders"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2019-04-01",
         "2018-06-01",
         "2017-11-01"
@@ -56,6 +65,16 @@
       "locations": [],
       "properties": null,
       "resourceType": "reservationOrders/reservations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
+        "2019-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "listbenefits"
     },
     {
       "aliases": null,
@@ -308,6 +327,16 @@
       "aliases": null,
       "apiVersions": [
         "2019-04-01-beta",
+        "2019-04-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "reservationOrders/reservations/availableScopes"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-04-01-beta",
         "2019-04-01",
         "2018-06-01-beta",
         "2018-06-01"
@@ -345,6 +374,16 @@
       "locations": [],
       "properties": null,
       "resourceType": "checkPurchaseStatus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-01-beta",
+        "2020-06-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "ownReservations"
     }
   ]
 }
