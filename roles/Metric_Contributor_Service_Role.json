@@ -1,0 +1,19 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "Allows for creation, writes and reads to the metric set via the metrics service APIs.",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/6188b7c9-7d01-4f99-a59f-c88b630326c0",
+  "name": "6188b7c9-7d01-4f99-a59f-c88b630326c0",
+  "permissions": [
+    {
+      "actions": [],
+      "dataActions": [],
+      "notActions": [],
+      "notDataActions": []
+    }
+  ],
+  "roleName": "Metric Contributor Service Role",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}
