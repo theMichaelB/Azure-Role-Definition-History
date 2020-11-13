@@ -94,11 +94,14 @@
         "North Central US",
         "Brazil South",
         "Switzerland North",
+        "Norway East",
         "Australia Southeast",
         "Australia Central 2",
         "Germany West Central",
         "Switzerland West",
         "UK West",
+        "Brazil Southeast",
+        "UAE North",
         "Australia Central"
       ],
       "properties": null,
@@ -149,7 +152,8 @@
         "North Central US",
         "Brazil South",
         "Switzerland North",
-        "Australia Southeast"
+        "Australia Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "components/metrics"
@@ -214,11 +218,14 @@
         "North Central US",
         "Brazil South",
         "Switzerland North",
+        "Norway East",
         "Australia Southeast",
         "Australia Central 2",
         "Germany West Central",
         "Switzerland West",
         "UK West",
+        "Brazil Southeast",
+        "UAE North",
         "Australia Central"
       ],
       "properties": null,
@@ -1146,6 +1153,7 @@
         "North Central US",
         "Brazil South",
         "Switzerland North",
+        "Norway East",
         "Australia Southeast"
       ],
       "properties": null,
@@ -1180,6 +1188,7 @@
         "North Central US",
         "Brazil South",
         "Switzerland North",
+        "Norway East",
         "Australia Southeast"
       ],
       "properties": null,
@@ -1218,6 +1227,7 @@
         "North Central US",
         "Brazil South",
         "Switzerland North",
+        "Norway East",
         "Australia Southeast"
       ],
       "properties": null,

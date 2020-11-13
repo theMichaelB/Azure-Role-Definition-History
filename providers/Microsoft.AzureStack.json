@@ -63,6 +63,19 @@
       ],
       "properties": null,
       "resourceType": "cloudManifestFiles"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "linkedSubscriptions"
     }
   ]
 }
