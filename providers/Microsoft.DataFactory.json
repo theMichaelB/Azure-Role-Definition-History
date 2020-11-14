@@ -51,6 +51,7 @@
         "Canada Central",
         "Australia East",
         "Switzerland North",
+        "Germany West Central",
         "Central India",
         "France Central",
         "Korea Central",
@@ -66,7 +67,9 @@
         "North Central US",
         "South Africa North",
         "Australia Southeast",
-        "South India"
+        "South India",
+        "Canada East",
+        "UK West"
       ],
       "properties": null,
       "resourceType": "factories"
@@ -92,6 +95,7 @@
         "Korea Central",
         "Australia East",
         "Switzerland North",
+        "Germany West Central",
         "Canada Central",
         "West Central US",
         "North Europe",
@@ -102,7 +106,9 @@
         "North Central US",
         "South Africa North",
         "Australia Southeast",
-        "South India"
+        "South India",
+        "Canada East",
+        "UK West"
       ],
       "properties": null,
       "resourceType": "factories/integrationRuntimes"
@@ -233,6 +239,7 @@
         "Japan East",
         "Australia East",
         "Switzerland North",
+        "Germany West Central",
         "Canada Central",
         "Central India",
         "Brazil South",
@@ -247,7 +254,9 @@
         "North Central US",
         "South Africa North",
         "Australia Southeast",
-        "South India"
+        "South India",
+        "Canada East",
+        "UK West"
       ],
       "properties": null,
       "resourceType": "locations/configureFactoryRepo"
@@ -271,6 +280,7 @@
         "Japan East",
         "Australia East",
         "Switzerland North",
+        "Germany West Central",
         "Canada Central",
         "Central India",
         "Brazil South",
@@ -282,7 +292,9 @@
         "North Central US",
         "South Africa North",
         "Australia Southeast",
-        "South India"
+        "South India",
+        "Canada East",
+        "UK West"
       ],
       "properties": null,
       "resourceType": "locations/getFeatureValue"

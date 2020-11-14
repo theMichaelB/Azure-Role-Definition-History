@@ -11,6 +11,14 @@
     {
       "applicationId": "5b404cf4-a79d-4cfe-b866-24bf8e1a4921",
       "roleDefinitionId": "3d07f186-e6fa-4974-ac88-b88eeda6370a"
+    },
+    {
+      "applicationId": "ce48853e-0605-4f77-8746-d70ac63cc6bc",
+      "roleDefinitionId": "d5b49851-91ee-42df-9dc4-00b3a3b4d96b"
+    },
+    {
+      "applicationId": "e6650347-047f-4e51-9386-839384472ea5",
+      "roleDefinitionId": "a9b54502-e245-45bc-bd0f-aa7e1074afdc"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.BotService",
@@ -27,14 +35,19 @@
         {
           "apiVersion": "2018-07-12",
           "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2020-06-02",
+          "profileVersion": "2020-09-01-hybrid"
         }
       ],
       "apiVersions": [
+        "2020-06-02",
         "2018-07-12",
         "2017-12-01"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2017-12-01",
+      "defaultApiVersion": "2020-06-02",
       "locations": [
         "Global"
       ],
@@ -51,13 +64,18 @@
         {
           "apiVersion": "2018-07-12",
           "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2020-06-02",
+          "profileVersion": "2020-09-01-hybrid"
         }
       ],
       "apiVersions": [
+        "2020-06-02",
         "2018-07-12",
         "2017-12-01"
       ],
-      "defaultApiVersion": "2017-12-01",
+      "defaultApiVersion": "2020-06-02",
       "locations": [
         "Global"
       ],
@@ -74,13 +92,18 @@
         {
           "apiVersion": "2018-07-12",
           "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2020-06-02",
+          "profileVersion": "2020-09-01-hybrid"
         }
       ],
       "apiVersions": [
+        "2020-06-02",
         "2018-07-12",
         "2017-12-01"
       ],
-      "defaultApiVersion": "2017-12-01",
+      "defaultApiVersion": "2020-06-02",
       "locations": [
         "Global"
       ],
@@ -97,13 +120,18 @@
         {
           "apiVersion": "2018-07-12",
           "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2020-06-02",
+          "profileVersion": "2020-09-01-hybrid"
         }
       ],
       "apiVersions": [
+        "2020-06-02",
         "2018-07-12",
         "2017-12-01"
       ],
-      "defaultApiVersion": "2017-12-01",
+      "defaultApiVersion": "2020-06-02",
       "locations": [
         "Global"
       ],
@@ -120,13 +148,18 @@
         {
           "apiVersion": "2018-07-12",
           "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2020-06-02",
+          "profileVersion": "2020-09-01-hybrid"
         }
       ],
       "apiVersions": [
+        "2020-06-02",
         "2018-07-12",
         "2017-12-01"
       ],
-      "defaultApiVersion": "2017-12-01",
+      "defaultApiVersion": "2020-06-02",
       "locations": [
         "Global"
       ],
@@ -143,13 +176,18 @@
         {
           "apiVersion": "2018-07-12",
           "profileVersion": "2018-06-01-profile"
+        },
+        {
+          "apiVersion": "2020-06-02",
+          "profileVersion": "2020-09-01-hybrid"
         }
       ],
       "apiVersions": [
+        "2020-06-02",
         "2018-07-12",
         "2017-12-01"
       ],
-      "defaultApiVersion": "2017-12-01",
+      "defaultApiVersion": "2020-06-02",
       "locations": [
         "Global"
       ],

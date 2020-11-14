@@ -5247,6 +5247,7 @@
       "aliases": null,
       "apiVersions": [
         "2020-08-01-preview",
+        "2020-08-01",
         "2020-02-02-preview"
       ],
       "locations": [
@@ -5291,6 +5292,7 @@
       "aliases": null,
       "apiVersions": [
         "2020-08-01-preview",
+        "2020-08-01",
         "2020-02-02-preview"
       ],
       "locations": [

@@ -12,6 +12,18 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-08-04-preview"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "resourceHealthAlertRules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2019-05-05-preview",
         "2019-03-01-preview",
         "2019-03-01",
