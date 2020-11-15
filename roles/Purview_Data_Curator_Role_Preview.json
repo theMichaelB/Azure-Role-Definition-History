@@ -1,0 +1,22 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "The Microsoft.Purview data curator can create, read, modify and delete catalog data objects and establish relationships between objects",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/8a3c2885-9b38-4fd2-9d99-91af537c1347",
+  "name": "8a3c2885-9b38-4fd2-9d99-91af537c1347",
+  "permissions": [
+    {
+      "actions": [],
+      "dataActions": [
+        "Microsoft.Purview/accounts/data/read",
+        "Microsoft.Purview/accounts/data/write"
+      ],
+      "notActions": [],
+      "notDataActions": []
+    }
+  ],
+  "roleName": "Purview Data Curator Role Preview",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}
