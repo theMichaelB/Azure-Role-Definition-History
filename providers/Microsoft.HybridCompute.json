@@ -3,6 +3,10 @@
     {
       "applicationId": "8c420feb-03df-47cc-8a05-55df0cf3064b",
       "roleDefinitionId": "83eeb1c6-47f8-4da2-bbc3-42a7ac767360"
+    },
+    {
+      "applicationId": "d2a590e7-6906-4a45-8f41-cecfdca9bca1",
+      "roleDefinitionId": "f32ad452-2b05-4296-bee4-fc9056ed85fa"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.HybridCompute",
