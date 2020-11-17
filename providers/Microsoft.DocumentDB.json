@@ -9,7 +9,8 @@
       "roleDefinitionId": "D5A795DE-916D-4818-B015-33C9E103E39B"
     },
     {
-      "applicationId": "a232010e-820c-4083-83bb-3ace5fc29d0b"
+      "applicationId": "a232010e-820c-4083-83bb-3ace5fc29d0b",
+      "roleDefinitionId": "D5A795DE-916D-4818-B015-33C9E103E39B"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DocumentDB",
@@ -39,6 +40,7 @@
         "2014-04-01"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2020-06-01-preview",
       "locations": [
         "Australia Central",
         "Australia East",
@@ -62,7 +64,6 @@
         "South India",
         "Southeast Asia",
         "Switzerland North",
-        "West Central US",
         "West Europe",
         "West India",
         "West US",
@@ -72,7 +73,8 @@
         "UK South",
         "Brazil South",
         "Korea South",
-        "Korea Central"
+        "Korea Central",
+        "West Central US"
       ],
       "properties": null,
       "resourceType": "databaseAccounts"
@@ -302,7 +304,6 @@
         "South India",
         "Southeast Asia",
         "Switzerland North",
-        "West Central US",
         "West Europe",
         "West India",
         "West US",
@@ -312,7 +313,8 @@
         "UK South",
         "Brazil South",
         "Korea South",
-        "Korea Central"
+        "Korea Central",
+        "West Central US"
       ],
       "properties": null,
       "resourceType": "locations/operationsStatus"
@@ -362,7 +364,6 @@
         "South India",
         "Southeast Asia",
         "Switzerland North",
-        "West Central US",
         "West Europe",
         "West India",
         "West US",
@@ -372,7 +373,8 @@
         "UK South",
         "Brazil South",
         "Korea South",
-        "Korea Central"
+        "Korea Central",
+        "West Central US"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -470,7 +472,6 @@
         "South India",
         "Southeast Asia",
         "Switzerland North",
-        "West Central US",
         "West Europe",
         "West India",
         "West US",
@@ -480,7 +481,8 @@
         "UK South",
         "Brazil South",
         "Korea South",
-        "Korea Central"
+        "Korea Central",
+        "West Central US"
       ],
       "properties": null,
       "resourceType": "locations/deleteVirtualNetworkOrSubnets"
@@ -513,7 +515,6 @@
         "South India",
         "Southeast Asia",
         "Switzerland North",
-        "West Central US",
         "West Europe",
         "West India",
         "West US",
@@ -523,7 +524,8 @@
         "UK South",
         "Brazil South",
         "Korea South",
-        "Korea Central"
+        "Korea Central",
+        "West Central US"
       ],
       "properties": null,
       "resourceType": "locations/restorableDatabaseAccounts"
@@ -556,7 +558,6 @@
         "South India",
         "Southeast Asia",
         "Switzerland North",
-        "West Central US",
         "West Europe",
         "West India",
         "West US",
@@ -566,7 +567,8 @@
         "UK South",
         "Brazil South",
         "Korea South",
-        "Korea Central"
+        "Korea Central",
+        "West Central US"
       ],
       "properties": null,
       "resourceType": "restorableDatabaseAccounts"

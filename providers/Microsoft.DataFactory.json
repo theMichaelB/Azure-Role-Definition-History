@@ -69,7 +69,8 @@
         "Australia Southeast",
         "South India",
         "Canada East",
-        "UK West"
+        "UK West",
+        "Japan West"
       ],
       "properties": null,
       "resourceType": "factories"
@@ -108,7 +109,8 @@
         "Australia Southeast",
         "South India",
         "Canada East",
-        "UK West"
+        "UK West",
+        "Japan West"
       ],
       "properties": null,
       "resourceType": "factories/integrationRuntimes"
@@ -256,7 +258,8 @@
         "Australia Southeast",
         "South India",
         "Canada East",
-        "UK West"
+        "UK West",
+        "Japan West"
       ],
       "properties": null,
       "resourceType": "locations/configureFactoryRepo"
@@ -294,7 +297,8 @@
         "Australia Southeast",
         "South India",
         "Canada East",
-        "UK West"
+        "UK West",
+        "Japan West"
       ],
       "properties": null,
       "resourceType": "locations/getFeatureValue"

@@ -13,7 +13,8 @@
       "aliases": null,
       "apiVersions": [
         "2020-10-01",
-        "2018-09-01-preview"
+        "2018-09-01-preview",
+        "2018-09-01"
       ],
       "capabilities": "None",
       "locations": [
@@ -22,7 +23,11 @@
         "UK South",
         "East US",
         "Canada Central",
-        "Canada East"
+        "Canada East",
+        "UK West",
+        "West US",
+        "North Europe",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "attestationProviders"
@@ -31,7 +36,8 @@
       "aliases": null,
       "apiVersions": [
         "2020-10-01",
-        "2018-09-01-preview"
+        "2018-09-01-preview",
+        "2018-09-01"
       ],
       "locations": [
         "East US 2",
@@ -39,7 +45,11 @@
         "UK South",
         "East US",
         "Canada Central",
-        "Canada East"
+        "Canada East",
+        "UK West",
+        "West US",
+        "North Europe",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "defaultProviders"
@@ -48,7 +58,8 @@
       "aliases": null,
       "apiVersions": [
         "2020-10-01",
-        "2018-09-01-preview"
+        "2018-09-01-preview",
+        "2018-09-01"
       ],
       "locations": [],
       "properties": null,
@@ -58,7 +69,8 @@
       "aliases": null,
       "apiVersions": [
         "2020-10-01",
-        "2018-09-01-preview"
+        "2018-09-01-preview",
+        "2018-09-01"
       ],
       "locations": [
         "East US 2",
@@ -66,7 +78,11 @@
         "UK South",
         "East US",
         "Canada Central",
-        "Canada East"
+        "Canada East",
+        "UK West",
+        "West US",
+        "North Europe",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "locations/defaultProvider"
@@ -75,7 +91,8 @@
       "aliases": null,
       "apiVersions": [
         "2020-10-01",
-        "2018-09-01-preview"
+        "2018-09-01-preview",
+        "2018-09-01"
       ],
       "locations": [],
       "properties": null,

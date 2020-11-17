@@ -2,6 +2,10 @@
   "authorizations": [
     {
       "applicationId": "9ae330ab-d710-466b-851c-c828e7340846"
+    },
+    {
+      "applicationId": "d828acde-4b48-47f5-a6e8-52460104a052",
+      "roleDefinitionId": "111e90e1-c9ec-40f6-b898-c0964578da58"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Automanage",

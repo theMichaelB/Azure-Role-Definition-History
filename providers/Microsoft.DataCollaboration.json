@@ -15,6 +15,7 @@
       "locations": [
         "East US",
         "Australia East",
+        "Southeast Asia",
         "East US 2",
         "West Europe"
       ],
@@ -39,7 +40,8 @@
       ],
       "locations": [
         "East US",
-        "Australia East"
+        "Australia East",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -52,6 +54,7 @@
       "locations": [
         "East US",
         "Australia East",
+        "Southeast Asia",
         "East US 2",
         "West Europe"
       ],
@@ -66,6 +69,7 @@
       "locations": [
         "East US",
         "Australia East",
+        "Southeast Asia",
         "East US 2",
         "West Europe"
       ],

@@ -287,7 +287,13 @@
         "West US 2",
         "West Central US",
         "North Central US",
-        "South Central US"
+        "South Central US",
+        "Australia Central",
+        "Australia Central 2",
+        "France Central",
+        "France South",
+        "Canada East",
+        "Canada Central"
       ],
       "properties": null,
       "resourceType": "ProvisioningServices"
