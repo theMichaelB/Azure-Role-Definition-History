@@ -7,7 +7,9 @@
   "name": "8a3c2885-9b38-4fd2-9d99-91af537c1347",
   "permissions": [
     {
-      "actions": [],
+      "actions": [
+        "Microsoft.Purview/accounts/read"
+      ],
       "dataActions": [
         "Microsoft.Purview/accounts/data/read",
         "Microsoft.Purview/accounts/data/write"

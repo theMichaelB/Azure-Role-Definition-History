@@ -7,7 +7,9 @@
   "name": "ff100721-1b9d-43d8-af52-42b69c1272db",
   "permissions": [
     {
-      "actions": [],
+      "actions": [
+        "Microsoft.Purview/accounts/read"
+      ],
       "dataActions": [
         "Microsoft.Purview/accounts/data/read"
       ],

@@ -10,6 +10,8 @@
       "actions": [
         "Microsoft.Authorization/*/read",
         "Microsoft.Authorization/locks/read",
+        "Microsoft.Authorization/locks/write",
+        "Microsoft.Authorization/locks/delete",
         "Microsoft.Features/features/read",
         "Microsoft.Features/providers/features/read",
         "Microsoft.Resources/subscriptions/resourceGroups/read",

@@ -8,12 +8,14 @@
   "permissions": [
     {
       "actions": [],
-      "dataActions": [],
+      "dataActions": [
+        "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/metricwrite/action"
+      ],
       "notActions": [],
       "notDataActions": []
     }
   ],
-  "roleName": "Metric Contributor Service Role",
+  "roleName": "Metric Contributor",
   "roleType": "BuiltInRole",
   "type": "Microsoft.Authorization/roleDefinitions"
 }
