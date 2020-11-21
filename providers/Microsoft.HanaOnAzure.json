@@ -32,9 +32,11 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-02-07-preview",
         "2017-11-03-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2020-02-07-preview",
       "locations": [
         "West US",
         "West US 2",
