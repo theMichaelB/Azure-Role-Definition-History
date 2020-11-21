@@ -2,12 +2,14 @@
   "assignableScopes": [
     "/"
   ],
-  "description": "The Microsoft.ProjectBabylon data reader can read catalog data objects",
+  "description": "The Microsoft.ProjectBabylon data reader can read catalog data objects. This role is in preview and subject to change.",
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/c8d896ba-346d-4f50-bc1d-7d1c84130446",
   "name": "c8d896ba-346d-4f50-bc1d-7d1c84130446",
   "permissions": [
     {
-      "actions": [],
+      "actions": [
+        "Microsoft.ProjectBabylon/accounts/read"
+      ],
       "dataActions": [
         "Microsoft.ProjectBabylon/accounts/data/read"
       ],
@@ -15,7 +17,7 @@
       "notDataActions": []
     }
   ],
-  "roleName": "Project Babylon Data Reader Role Preview",
+  "roleName": "Project Babylon Data Reader",
   "roleType": "BuiltInRole",
   "type": "Microsoft.Authorization/roleDefinitions"
 }
