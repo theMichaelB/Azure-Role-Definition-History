@@ -9,6 +9,8 @@
     {
       "actions": [],
       "dataActions": [
+        "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/write",
+        "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/read",
         "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/metricwrite/action"
       ],
       "notActions": [],
