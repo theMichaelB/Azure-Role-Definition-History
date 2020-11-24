@@ -23,7 +23,7 @@
         "2014-02-14"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
-      "defaultApiVersion": "2019-12-01",
+      "defaultApiVersion": "2020-06-01-preview",
       "locations": [
         "Central India",
         "UAE North",
@@ -195,6 +195,104 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-06-01-preview"
+      ],
+      "defaultApiVersion": "2020-06-01-preview",
+      "locations": [
+        "Central India",
+        "UAE North",
+        "Australia Central",
+        "Germany West Central",
+        "West Central US",
+        "Norway East",
+        "Switzerland North",
+        "Korea South",
+        "West India",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Brazil South",
+        "East Asia",
+        "South India",
+        "Canada Central",
+        "Canada East",
+        "Australia Southeast",
+        "Japan East",
+        "North Central US",
+        "Southeast Asia",
+        "West US 2",
+        "Central US",
+        "UK South",
+        "Australia East",
+        "Japan West",
+        "West US",
+        "France Central",
+        "South Central US",
+        "East US 2",
+        "East US",
+        "North Europe",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "deletedServices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-01-preview"
+      ],
+      "defaultApiVersion": "2020-06-01-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-01-preview"
+      ],
+      "defaultApiVersion": "2020-06-01-preview",
+      "locations": [
+        "Central India",
+        "UAE North",
+        "Australia Central",
+        "Germany West Central",
+        "West Central US",
+        "Norway East",
+        "Switzerland North",
+        "Korea South",
+        "West India",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Brazil South",
+        "East Asia",
+        "South India",
+        "Canada Central",
+        "Canada East",
+        "Australia Southeast",
+        "Japan East",
+        "North Central US",
+        "Southeast Asia",
+        "West US 2",
+        "Central US",
+        "UK South",
+        "Australia East",
+        "Japan West",
+        "West US",
+        "France Central",
+        "South Central US",
+        "East US 2",
+        "East US",
+        "North Europe",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/deletedServices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2015-09-15",
         "2014-02-14"
       ],
@@ -227,7 +325,7 @@
         "2015-09-15",
         "2014-02-14"
       ],
-      "defaultApiVersion": "2019-12-01",
+      "defaultApiVersion": "2020-06-01-preview",
       "locations": [
         "Central India",
         "UAE North",

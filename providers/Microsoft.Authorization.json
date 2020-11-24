@@ -276,12 +276,22 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-09-01",
         "2020-03-01-preview",
         "2018-06-01-preview"
       ],
       "locations": [],
       "properties": null,
       "resourceType": "dataAliases"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "dataPolicyManifests"
     },
     {
       "aliases": null,
