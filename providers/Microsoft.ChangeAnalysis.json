@@ -3,6 +3,10 @@
     {
       "applicationId": "2cfc91a4-7baa-4a8f-a6c9-5f3d279060b8",
       "roleDefinitionId": "f5a6bd90-af71-455c-9030-c486e8c42c95"
+    },
+    {
+      "applicationId": "3edcf11f-df80-41b2-a5e4-7e213cca30d1",
+      "roleDefinitionId": "f5a6bd90-af71-455c-9030-c486e8c42c95"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ChangeAnalysis",
@@ -28,6 +32,16 @@
       "locations": [],
       "properties": null,
       "resourceType": "resourceChanges"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "changes"
     }
   ]
 }

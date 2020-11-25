@@ -155,7 +155,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2019-11-01",
         "2019-01-01-preview"
       ],
       "locations": [],
