@@ -27,36 +27,6 @@
       "defaultApiVersion": "2020-12-01-preview",
       "locations": [],
       "properties": null,
-      "resourceType": "setDefaultAccount"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-12-01-preview"
-      ],
-      "defaultApiVersion": "2020-12-01-preview",
-      "locations": [],
-      "properties": null,
-      "resourceType": "removeDefaultAccount"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-12-01-preview"
-      ],
-      "defaultApiVersion": "2020-12-01-preview",
-      "locations": [],
-      "properties": null,
-      "resourceType": "getDefaultAccount"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-12-01-preview"
-      ],
-      "defaultApiVersion": "2020-12-01-preview",
-      "locations": [],
-      "properties": null,
       "resourceType": "checkNameAvailability"
     }
   ]
