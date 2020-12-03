@@ -38,6 +38,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-15-preview",
+        "2020-11-15-beta",
         "2020-06-01-beta",
         "2020-06-01",
         "2019-04-01-beta",

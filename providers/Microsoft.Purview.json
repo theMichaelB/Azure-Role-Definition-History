@@ -15,6 +15,23 @@
       "apiVersions": [
         "2020-12-01-preview"
       ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2020-12-01-preview",
+      "locations": [
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Brazil South",
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "accounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01-preview"
+      ],
       "locations": [],
       "properties": null,
       "resourceType": "operations"
@@ -58,6 +75,30 @@
       "locations": [],
       "properties": null,
       "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Brazil South",
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationResults"
     }
   ]
 }
