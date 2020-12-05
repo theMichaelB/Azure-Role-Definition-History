@@ -10,6 +10,7 @@
       "actions": [
         "Microsoft.DesktopVirtualization/applicationgroups/*",
         "Microsoft.DesktopVirtualization/hostpools/read",
+        "Microsoft.DesktopVirtualization/hostpools/sessionhosts/read",
         "Microsoft.DesktopVirtualization/workspaces/read",
         "Microsoft.Resources/subscriptions/resourceGroups/read",
         "Microsoft.Resources/deployments/*",
