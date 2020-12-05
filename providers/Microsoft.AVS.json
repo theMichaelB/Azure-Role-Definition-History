@@ -48,7 +48,9 @@
         "Australia East",
         "Japan East",
         "UK South",
-        "Canada Central"
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "locations/checkTrialAvailability"
@@ -67,7 +69,9 @@
         "Australia East",
         "Japan East",
         "UK South",
-        "Canada Central"
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "locations/checkQuotaAvailability"
@@ -87,7 +91,9 @@
         "Australia East",
         "Japan East",
         "UK South",
-        "Canada Central"
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "privateClouds"
@@ -106,7 +112,9 @@
         "Australia East",
         "Japan East",
         "UK South",
-        "Canada Central"
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "privateClouds/clusters"
@@ -124,7 +132,9 @@
         "Australia East",
         "Japan East",
         "UK South",
-        "Canada Central"
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "privateClouds/authorizations"
@@ -142,7 +152,9 @@
         "Australia East",
         "Japan East",
         "UK South",
-        "Canada Central"
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "privateClouds/hcxEnterpriseSites"
@@ -160,7 +172,9 @@
         "Australia East",
         "Japan East",
         "UK South",
-        "Canada Central"
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "privateClouds/globalReachConnections"
@@ -178,7 +192,29 @@
         "Australia East",
         "Japan East",
         "UK South",
-        "Canada Central"
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "privateClouds/addons"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-17-preview"
+      ],
+      "locations": [
+        "East US",
+        "North Central US",
+        "West US",
+        "West Europe",
+        "Australia East",
+        "Japan East",
+        "UK South",
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks"
@@ -196,7 +232,9 @@
         "Australia East",
         "Japan East",
         "UK South",
-        "Canada Central"
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks/dhcpConfigurations"
@@ -214,7 +252,9 @@
         "Australia East",
         "Japan East",
         "UK South",
-        "Canada Central"
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks/portMirroringProfiles"
@@ -232,7 +272,9 @@
         "Australia East",
         "Japan East",
         "UK South",
-        "Canada Central"
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks/segments"
@@ -250,7 +292,9 @@
         "Australia East",
         "Japan East",
         "UK South",
-        "Canada Central"
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks/vmGroups"
@@ -268,7 +312,9 @@
         "Australia East",
         "Japan East",
         "UK South",
-        "Canada Central"
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks/gateways"
@@ -286,10 +332,52 @@
         "Australia East",
         "Japan East",
         "UK South",
-        "Canada Central"
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks/virtualMachines"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-17-preview"
+      ],
+      "locations": [
+        "East US",
+        "North Central US",
+        "West US",
+        "West Europe",
+        "Australia East",
+        "Japan East",
+        "UK South",
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "privateClouds/workloadNetworks/dnsServices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-17-preview"
+      ],
+      "locations": [
+        "East US",
+        "North Central US",
+        "West US",
+        "West Europe",
+        "Australia East",
+        "Japan East",
+        "UK South",
+        "Canada Central",
+        "North Europe",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "privateClouds/workloadNetworks/dnsZones"
     }
   ]
 }

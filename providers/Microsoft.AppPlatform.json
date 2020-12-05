@@ -33,7 +33,11 @@
         "UK South",
         "North Europe",
         "South Central US",
-        "East US 2"
+        "East US 2",
+        "Canada Central",
+        "North Central US",
+        "West US",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "Spring"
@@ -56,7 +60,11 @@
         "UK South",
         "North Europe",
         "South Central US",
-        "East US 2"
+        "East US 2",
+        "Canada Central",
+        "North Central US",
+        "West US",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "Spring/apps"
@@ -78,7 +86,11 @@
         "UK South",
         "North Europe",
         "South Central US",
-        "East US 2"
+        "East US 2",
+        "Canada Central",
+        "North Central US",
+        "West US",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "Spring/apps/deployments"
@@ -100,7 +112,11 @@
         "UK South",
         "North Europe",
         "South Central US",
-        "East US 2"
+        "East US 2",
+        "Canada Central",
+        "North Central US",
+        "West US",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -144,7 +160,11 @@
         "UK South",
         "North Europe",
         "South Central US",
-        "East US 2"
+        "East US 2",
+        "Canada Central",
+        "North Central US",
+        "West US",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -166,7 +186,11 @@
         "UK South",
         "North Europe",
         "South Central US",
-        "East US 2"
+        "East US 2",
+        "Canada Central",
+        "North Central US",
+        "West US",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/operationStatus"

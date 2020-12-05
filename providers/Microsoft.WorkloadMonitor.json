@@ -13,8 +13,7 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-01-13-preview",
-        "2018-08-31-preview"
+        "2020-01-13-preview"
       ],
       "locations": [],
       "properties": null,
@@ -23,61 +22,12 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2018-08-31-preview"
-      ],
-      "locations": [],
-      "properties": null,
-      "resourceType": "componentsSummary"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2018-08-31-preview"
-      ],
-      "locations": [],
-      "properties": null,
-      "resourceType": "monitorInstancesSummary"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2018-08-31-preview"
-      ],
-      "capabilities": "SupportsExtension",
-      "locations": [],
-      "properties": null,
-      "resourceType": "monitorInstances"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2018-08-31-preview"
-      ],
-      "capabilities": "SupportsExtension",
-      "locations": [],
-      "properties": null,
-      "resourceType": "components"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-01-13-preview",
-        "2018-08-31-preview"
+        "2020-01-13-preview"
       ],
       "capabilities": "SupportsExtension",
       "locations": [],
       "properties": null,
       "resourceType": "monitors"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2018-08-31-preview"
-      ],
-      "capabilities": "SupportsExtension",
-      "locations": [],
-      "properties": null,
-      "resourceType": "notificationSettings"
     }
   ]
 }

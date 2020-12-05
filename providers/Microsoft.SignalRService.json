@@ -35,7 +35,8 @@
         "South Central US",
         "Brazil South",
         "France Central",
-        "Korea Central"
+        "Korea Central",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "SignalR"
@@ -78,7 +79,8 @@
         "South Central US",
         "Brazil South",
         "France Central",
-        "Korea Central"
+        "Korea Central",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -108,7 +110,8 @@
         "South Central US",
         "Brazil South",
         "France Central",
-        "Korea Central"
+        "Korea Central",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "locations/operationStatuses"
@@ -157,7 +160,8 @@
         "South Central US",
         "Brazil South",
         "France Central",
-        "Korea Central"
+        "Korea Central",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -187,7 +191,8 @@
         "South Central US",
         "Brazil South",
         "France Central",
-        "Korea Central"
+        "Korea Central",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "locations/usages"
@@ -217,7 +222,8 @@
         "South Central US",
         "Brazil South",
         "France Central",
-        "Korea Central"
+        "Korea Central",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "SignalR/eventGridFilters"
