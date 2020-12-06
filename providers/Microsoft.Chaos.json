@@ -1,4 +1,10 @@
 {
+  "authorizations": [
+    {
+      "applicationId": "ecad3f28-c75d-4414-94e0-a5e1de4df79e",
+      "roleDefinitionId": "16f6458e-a375-4d8d-934e-5c9933967cb4"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Chaos",
   "namespace": "Microsoft.Chaos",
   "registrationState": "NotRegistered",
@@ -6,6 +12,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-09-23-preview",
+        "2020-09-14-preview",
         "2020-06-18-preview",
         "2020-05-01-preview"
       ],

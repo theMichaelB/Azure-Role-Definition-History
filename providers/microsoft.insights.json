@@ -1162,6 +1162,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-20",
         "2019-10-17-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -1368,7 +1369,10 @@
         "East US 2",
         "UK South",
         "North Europe",
-        "West US"
+        "West US",
+        "Australia Central",
+        "West Central US",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "dataCollectionRules"
@@ -1396,7 +1400,10 @@
         "East US 2",
         "UK South",
         "North Europe",
-        "West US"
+        "West US",
+        "Australia Central",
+        "West Central US",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "dataCollectionRuleAssociations"

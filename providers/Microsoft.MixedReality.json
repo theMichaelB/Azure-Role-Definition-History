@@ -94,7 +94,12 @@
         "East US 2",
         "Southeast Asia",
         "West Europe",
-        "West US 2"
+        "West US 2",
+        "Japan East",
+        "Australia East",
+        "North Europe",
+        "South Central US",
+        "UK South"
       ],
       "properties": null,
       "resourceType": "remoteRenderingAccounts"

@@ -54,7 +54,8 @@
         "UK South",
         "South Africa North",
         "Switzerland North",
-        "UAE North"
+        "UAE North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "DomainServices"
@@ -94,7 +95,8 @@
         "UK South",
         "South Africa North",
         "Switzerland North",
-        "UAE North"
+        "UAE North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "DomainServices/oucontainer"
@@ -135,7 +137,8 @@
         "UK South",
         "South Africa North",
         "Switzerland North",
-        "UAE North"
+        "UAE North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations"
@@ -176,7 +179,8 @@
         "UK South",
         "South Africa North",
         "Switzerland North",
-        "UAE North"
+        "UAE North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/operationresults"
@@ -217,7 +221,8 @@
         "UK South",
         "South Africa North",
         "Switzerland North",
-        "UAE North"
+        "UAE North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "operations"
