@@ -32,6 +32,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview",
         "2019-05-01",
         "2017-10-01",
@@ -78,6 +79,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-05-01-preview"
       ],
       "locations": [
@@ -120,6 +122,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-05-01-preview"
       ],
       "locations": [
@@ -162,6 +165,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-05-01-preview"
       ],
       "locations": [
@@ -204,6 +208,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview"
       ],
       "locations": [
@@ -246,6 +251,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview"
       ],
       "locations": [
@@ -288,6 +294,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview"
       ],
       "locations": [
@@ -330,6 +337,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview"
       ],
       "locations": [
@@ -372,6 +380,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview",
         "2019-05-01",
         "2017-10-01"
@@ -416,6 +425,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview"
       ],
       "capabilities": "SystemAssignedResourceIdentity",
@@ -459,6 +469,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview"
       ],
       "capabilities": "SystemAssignedResourceIdentity",
@@ -502,6 +513,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview"
       ],
       "locations": [
@@ -1350,6 +1362,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview",
         "2019-05-01",
         "2017-10-01"
@@ -1395,6 +1408,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview",
         "2019-05-01",
         "2017-10-01"
@@ -1440,6 +1454,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview",
         "2019-05-01",
         "2017-10-01"
@@ -1484,6 +1499,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview",
         "2019-05-01",
         "2017-10-01"
@@ -1528,6 +1544,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview",
         "2019-05-01",
         "2017-10-01"
@@ -1656,6 +1673,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview",
         "2019-05-01-preview",
         "2019-05-01",
@@ -1758,6 +1776,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview",
         "2019-05-01",
         "2017-10-01",
@@ -1803,6 +1822,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview",
         "2019-05-01",
         "2017-10-01",
@@ -1848,6 +1868,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview",
         "2019-05-01",
         "2017-10-01"
@@ -2033,6 +2054,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview",
         "2019-05-01",
         "2017-10-01",
@@ -2080,6 +2102,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview",
         "2019-05-01",
         "2017-10-01",
@@ -2126,6 +2149,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2019-12-01-preview",
         "2019-05-01-preview",
         "2019-05-01",
