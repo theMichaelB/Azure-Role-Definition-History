@@ -56,7 +56,6 @@
         "Germany West Central",
         "Japan East",
         "Japan West",
-        "North Central US",
         "North Europe",
         "Norway East",
         "South Africa North",
@@ -74,7 +73,8 @@
         "Brazil South",
         "Korea South",
         "Korea Central",
-        "West Central US"
+        "West Central US",
+        "North Central US"
       ],
       "properties": null,
       "resourceType": "databaseAccounts"
@@ -296,7 +296,6 @@
         "Germany West Central",
         "Japan East",
         "Japan West",
-        "North Central US",
         "North Europe",
         "Norway East",
         "South Africa North",
@@ -314,7 +313,8 @@
         "Brazil South",
         "Korea South",
         "Korea Central",
-        "West Central US"
+        "West Central US",
+        "North Central US"
       ],
       "properties": null,
       "resourceType": "locations/operationsStatus"
@@ -356,7 +356,6 @@
         "Germany West Central",
         "Japan East",
         "Japan West",
-        "North Central US",
         "North Europe",
         "Norway East",
         "South Africa North",
@@ -374,7 +373,8 @@
         "Brazil South",
         "Korea South",
         "Korea Central",
-        "West Central US"
+        "West Central US",
+        "North Central US"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -464,7 +464,6 @@
         "Germany West Central",
         "Japan East",
         "Japan West",
-        "North Central US",
         "North Europe",
         "Norway East",
         "South Africa North",
@@ -482,7 +481,8 @@
         "Brazil South",
         "Korea South",
         "Korea Central",
-        "West Central US"
+        "West Central US",
+        "North Central US"
       ],
       "properties": null,
       "resourceType": "locations/deleteVirtualNetworkOrSubnets"
@@ -507,7 +507,6 @@
         "Germany West Central",
         "Japan East",
         "Japan West",
-        "North Central US",
         "North Europe",
         "Norway East",
         "South Africa North",
@@ -525,7 +524,8 @@
         "Brazil South",
         "Korea South",
         "Korea Central",
-        "West Central US"
+        "West Central US",
+        "North Central US"
       ],
       "properties": null,
       "resourceType": "locations/restorableDatabaseAccounts"
@@ -550,7 +550,6 @@
         "Germany West Central",
         "Japan East",
         "Japan West",
-        "North Central US",
         "North Europe",
         "Norway East",
         "South Africa North",
@@ -568,7 +567,8 @@
         "Brazil South",
         "Korea South",
         "Korea Central",
-        "West Central US"
+        "West Central US",
+        "North Central US"
       ],
       "properties": null,
       "resourceType": "restorableDatabaseAccounts"

@@ -378,7 +378,9 @@
         "UAE North",
         "UAE Central",
         "Germany West Central",
-        "Germany North"
+        "Germany North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "operations"
