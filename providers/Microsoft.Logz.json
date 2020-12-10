@@ -1,0 +1,45 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "a5472e16-e1d2-4bbe-81b3-ecdcd459b536",
+      "roleDefinitionId": "bd91f1c6-cda0-4e9d-9982-18a494ec938e"
+    },
+    {
+      "applicationId": "0ecb6dbc-7807-4951-9a69-b5d3dfa5a0b5",
+      "roleDefinitionId": "b15da9ae-5633-4997-8e2c-b0941fb54476"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Logz",
+  "namespace": "Microsoft.Logz",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "defaultApiVersion": "2020-10-01-preview",
+      "locations": [],
+      "properties": null,
+      "resourceType": "registeredSubscriptions"
+    }
+  ]
+}

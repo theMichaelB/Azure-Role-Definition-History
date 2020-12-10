@@ -1,0 +1,59 @@
+{
+  "authorizations": [],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Cascade",
+  "namespace": "Microsoft.Cascade",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-11-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "sites"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-11-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [],
+      "properties": null,
+      "resourceType": "Locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-11-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US",
+        "Japan East",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "Locations/operationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-11-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US",
+        "Japan East",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "Operations"
+    }
+  ]
+}

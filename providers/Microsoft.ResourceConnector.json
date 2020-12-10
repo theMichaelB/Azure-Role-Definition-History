@@ -1,0 +1,31 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "585fc3c3-9a59-4720-8319-53cce041a605",
+      "roleDefinitionId": "008e7b93-7712-4d05-83ce-a9fcc80300e9"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ResourceConnector",
+  "namespace": "Microsoft.ResourceConnector",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-09-15-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-15-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

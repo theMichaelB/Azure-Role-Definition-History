@@ -23,7 +23,8 @@
         "West US 2",
         "West Central US",
         "West Europe",
-        "Canada Central"
+        "Canada Central",
+        "Japan East"
       ],
       "properties": null,
       "resourceType": "configurationProfileAssignments"
@@ -46,7 +47,8 @@
         "West US",
         "West Europe",
         "North Europe",
-        "Canada Central"
+        "Canada Central",
+        "Japan East"
       ],
       "properties": null,
       "resourceType": "accounts"
@@ -69,7 +71,8 @@
         "West US",
         "West Europe",
         "North Europe",
-        "Canada Central"
+        "Canada Central",
+        "Japan East"
       ],
       "properties": null,
       "resourceType": "configurationProfilePreferences"

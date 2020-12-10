@@ -64,7 +64,7 @@
       "apiVersions": [
         "2020-01-12-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "defaultApiVersion": "2020-01-12-preview",
       "locations": [
         "West Central US",
