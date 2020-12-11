@@ -1011,6 +1011,26 @@
       "locations": [],
       "properties": null,
       "resourceType": "validateAddress"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-11-01-preview",
+        "2020-09-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "promotions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-11-01-preview",
+        "2020-09-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "promotions/checkeligibility"
     }
   ]
 }
