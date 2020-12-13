@@ -912,6 +912,51 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-08-06-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [
+        "East Asia",
+        "Southeast Asia",
+        "Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "North Central US",
+        "South Central US",
+        "Japan West",
+        "Japan East",
+        "Brazil South",
+        "Australia East",
+        "Australia Southeast",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West Central US",
+        "West US 2",
+        "Korea Central",
+        "Korea South",
+        "Australia Central",
+        "Australia Central 2",
+        "UAE Central",
+        "UAE North",
+        "South Africa North",
+        "South Africa West",
+        "North Europe",
+        "West Europe",
+        "UK South",
+        "UK West",
+        "France Central",
+        "France South"
+      ],
+      "properties": null,
+      "resourceType": "iotSites"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2019-08-01",
         "2017-08-01-preview"
       ],

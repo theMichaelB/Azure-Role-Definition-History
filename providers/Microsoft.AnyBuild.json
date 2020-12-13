@@ -1,0 +1,49 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "16f9e0a0-ac78-4c2c-a55a-f3855317a63a",
+      "roleDefinitionId": "6fc3ed3a-fa07-4e79-9ac0-2db46b294d31"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AnyBuild",
+  "namespace": "Microsoft.AnyBuild",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-26"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-26"
+      ],
+      "locations": [
+        "West US 2",
+        "East US",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "Locations/OperationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-08-26"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US 2",
+        "East US",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "clusters"
+    }
+  ]
+}

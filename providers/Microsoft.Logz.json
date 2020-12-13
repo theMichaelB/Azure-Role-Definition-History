@@ -40,6 +40,17 @@
       "locations": [],
       "properties": null,
       "resourceType": "registeredSubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "locations": [
+        "East US 2 EUAP"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationStatuses"
     }
   ]
 }
