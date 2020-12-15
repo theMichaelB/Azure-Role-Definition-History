@@ -44,7 +44,8 @@
         "Canada East",
         "West US 2",
         "Korea Central",
-        "France Central"
+        "France Central",
+        "South India"
       ],
       "properties": null,
       "resourceType": "streamingjobs"
@@ -80,7 +81,8 @@
         "Canada East",
         "West US 2",
         "Korea Central",
-        "France Central"
+        "France Central",
+        "South India"
       ],
       "properties": null,
       "resourceType": "clusters"
@@ -115,7 +117,8 @@
         "Canada East",
         "West US 2",
         "Korea Central",
-        "France Central"
+        "France Central",
+        "South India"
       ],
       "properties": null,
       "resourceType": "clusters/privateEndpoints"
@@ -160,7 +163,8 @@
         "Canada Central",
         "Canada East",
         "Korea Central",
-        "France Central"
+        "France Central",
+        "South India"
       ],
       "properties": null,
       "resourceType": "locations"
@@ -224,7 +228,8 @@
         "Canada East",
         "West US 2",
         "Korea Central",
-        "France Central"
+        "France Central",
+        "South India"
       ],
       "properties": null,
       "resourceType": "operations"

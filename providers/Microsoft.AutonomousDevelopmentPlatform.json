@@ -1,0 +1,48 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "dad37da6-229d-4bc0-8b94-fee8600589db",
+      "managedByRoleDefinitionId": "9e3af657-a8ff-583c-a75c-2fe7c4bcb635",
+      "roleDefinitionId": "5cbfe752-1a6e-4926-b68f-0475c305f85e"
+    },
+    {
+      "applicationId": "150c8903-2280-4ab6-8708-b080044d94c6",
+      "roleDefinitionId": "5cbfe752-1a6e-4926-b68f-0475c305f85e"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AutonomousDevelopmentPlatform",
+  "namespace": "Microsoft.AutonomousDevelopmentPlatform",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-01-preview"
+      ],
+      "locations": [
+        "East US 2 EUAP",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationstatuses"
+    }
+  ]
+}

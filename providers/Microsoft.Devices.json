@@ -216,7 +216,11 @@
         "Australia Central",
         "Australia Central 2",
         "Germany North",
-        "Germany West Central"
+        "Germany West Central",
+        "South Africa North",
+        "South Africa West",
+        "UAE Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "IotHubs"
@@ -257,7 +261,11 @@
         "Australia Central",
         "Australia Central 2",
         "Germany North",
-        "Germany West Central"
+        "Germany West Central",
+        "South Africa North",
+        "South Africa West",
+        "UAE Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "IotHubs/eventGridFilters"
@@ -337,7 +345,11 @@
         "Australia Central",
         "Australia Central 2",
         "Germany North",
-        "Germany West Central"
+        "Germany West Central",
+        "South Africa North",
+        "South Africa West",
+        "UAE Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "IotHubs/securitySettings"
