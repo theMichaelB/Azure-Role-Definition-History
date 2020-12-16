@@ -6,6 +6,9 @@
     },
     {
       "applicationId": "01fc33a7-78ba-4d2f-a4b7-768e336e890e"
+    },
+    {
+      "applicationId": "d8c767ef-3e9a-48c4-aef9-562696539b39"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.CustomerLockbox",

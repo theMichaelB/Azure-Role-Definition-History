@@ -46,6 +46,24 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "featureProviderNamespaces"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-09-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "featureConfigurations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2015-12-01",
         "2014-08-01-preview"
       ],
