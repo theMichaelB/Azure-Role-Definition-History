@@ -1,0 +1,32 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "Grants permissions to manage Autonomous Development Platform data entities, but does not allow accessing the underlying data. Note that entity deletion is not permitted by this role.",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/b8b15564-4fa6-4a59-ab12-03e1d9594795",
+  "name": "b8b15564-4fa6-4a59-ab12-03e1d9594795",
+  "permissions": [
+    {
+      "actions": [
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/*/read",
+        "Microsoft.Authorization/*/read",
+        "Microsoft.Resources/subscriptions/resourceGroups/read"
+      ],
+      "dataActions": [
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*/read",
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*/write",
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*/updateMetadata",
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*/changeState",
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*/runValidations"
+      ],
+      "notActions": [],
+      "notDataActions": [
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*/dataStreams/read",
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*/dataStreams/write"
+      ]
+    }
+  ],
+  "roleName": "Autonomous Development Platform Data Contributor (Preview)",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}
