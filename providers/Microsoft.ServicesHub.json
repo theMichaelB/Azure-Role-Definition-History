@@ -43,28 +43,7 @@
       "apiVersions": [
         "2019-08-15-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "locations": [
-        "Australia East",
-        "Australia Southeast",
-        "Canada Central",
-        "Central India",
-        "Central US",
-        "East Asia",
-        "East US",
-        "East US 2",
-        "France Central",
-        "Japan East",
-        "Korea Central",
-        "North Europe",
-        "Southeast Asia",
-        "South Central US",
-        "UK South",
-        "West Central US",
-        "West Europe",
-        "West US",
-        "West US 2"
-      ],
+      "locations": [],
       "properties": null,
       "resourceType": "workspaces"
     },
@@ -73,28 +52,7 @@
       "apiVersions": [
         "2019-08-15-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "locations": [
-        "Australia East",
-        "Australia Southeast",
-        "Canada Central",
-        "Central India",
-        "Central US",
-        "East Asia",
-        "East US",
-        "East US 2",
-        "France Central",
-        "Japan East",
-        "Korea Central",
-        "North Europe",
-        "Southeast Asia",
-        "South Central US",
-        "UK South",
-        "West Central US",
-        "West Europe",
-        "West US",
-        "West US 2"
-      ],
+      "locations": [],
       "properties": null,
       "resourceType": "supportOfferingEntitlement"
     },
