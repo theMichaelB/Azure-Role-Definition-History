@@ -12,17 +12,21 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2020-03-01",
         "2019-11-01",
         "2019-08-01-preview"
       ],
       "capabilities": "SystemAssignedResourceIdentity",
-      "defaultApiVersion": "2020-03-01",
+      "defaultApiVersion": "2020-10-01",
       "locations": [
         "Australia East",
+        "Canada Central",
+        "Central US",
         "East US",
         "East US 2",
         "Korea Central",
+        "North Central US",
         "North Europe",
         "South Central US",
         "Southeast Asia",
@@ -37,16 +41,20 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2020-03-01",
         "2019-11-01",
         "2019-08-01-preview"
       ],
-      "defaultApiVersion": "2020-03-01",
+      "defaultApiVersion": "2020-10-01",
       "locations": [
         "Australia East",
+        "Canada Central",
+        "Central US",
         "East US",
         "East US 2",
         "Korea Central",
+        "North Central US",
         "North Europe",
         "South Central US",
         "Southeast Asia",
@@ -61,16 +69,20 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2020-03-01",
         "2019-11-01",
         "2019-08-01-preview"
       ],
-      "defaultApiVersion": "2020-03-01",
+      "defaultApiVersion": "2020-10-01",
       "locations": [
         "Australia East",
+        "Canada Central",
+        "Central US",
         "East US",
         "East US 2",
         "Korea Central",
+        "North Central US",
         "North Europe",
         "South Central US",
         "Southeast Asia",
@@ -85,16 +97,20 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2020-03-01",
         "2019-11-01",
         "2019-08-01-preview"
       ],
-      "defaultApiVersion": "2020-03-01",
+      "defaultApiVersion": "2020-10-01",
       "locations": [
         "Australia East",
+        "Canada Central",
+        "Central US",
         "East US",
         "East US 2",
         "Korea Central",
+        "North Central US",
         "North Europe",
         "South Central US",
         "Southeast Asia",
@@ -109,11 +125,12 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2020-03-01",
         "2019-11-01",
         "2019-08-01-preview"
       ],
-      "defaultApiVersion": "2020-03-01",
+      "defaultApiVersion": "2020-10-01",
       "locations": [],
       "properties": null,
       "resourceType": "locations"
@@ -121,16 +138,20 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2020-03-01",
         "2019-11-01",
         "2019-08-01-preview"
       ],
-      "defaultApiVersion": "2020-03-01",
+      "defaultApiVersion": "2020-10-01",
       "locations": [
         "Australia East",
+        "Canada Central",
+        "Central US",
         "East US",
         "East US 2",
         "Korea Central",
+        "North Central US",
         "North Europe",
         "South Central US",
         "Southeast Asia",
