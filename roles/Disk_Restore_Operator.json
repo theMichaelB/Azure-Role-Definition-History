@@ -9,7 +9,9 @@
     {
       "actions": [
         "Microsoft.Authorization/*/read",
-        "Microsoft.Resources/subscriptions/resourceGroups/read"
+        "Microsoft.Resources/subscriptions/resourceGroups/read",
+        "Microsoft.Compute/disks/write",
+        "Microsoft.Compute/disks/read"
       ],
       "dataActions": [],
       "notActions": [],

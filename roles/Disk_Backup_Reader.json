@@ -8,7 +8,9 @@
   "permissions": [
     {
       "actions": [
-        "Microsoft.Authorization/*/read"
+        "Microsoft.Authorization/*/read",
+        "Microsoft.Compute/disks/read",
+        "Microsoft.Compute/disks/beginGetAccess/action"
       ],
       "dataActions": [],
       "notActions": [],
