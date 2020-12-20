@@ -47,7 +47,9 @@
         "Japan East",
         "Korea Central",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "containerGroups"
@@ -90,7 +92,9 @@
         "Japan East",
         "Korea Central",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "serviceAssociationLinks"
@@ -151,7 +155,9 @@
         "Japan East",
         "Korea Central",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/capabilities"
@@ -193,7 +199,9 @@
         "Japan East",
         "Korea Central",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/usages"
@@ -235,7 +243,9 @@
         "Japan East",
         "Korea Central",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/operations"
@@ -277,7 +287,9 @@
         "Japan East",
         "Korea Central",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/operationresults"
@@ -330,7 +342,9 @@
         "Japan East",
         "Korea Central",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/cachedImages"
@@ -373,7 +387,9 @@
         "Japan East",
         "Korea Central",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/deleteVirtualNetworkOrSubnets"

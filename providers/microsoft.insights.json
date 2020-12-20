@@ -299,7 +299,9 @@
         "Germany West Central",
         "Australia Central 2",
         "Brazil SouthEast",
-        "Norway East"
+        "Norway East",
+        "UAE North",
+        "Japan West"
       ],
       "properties": null,
       "resourceType": "scheduledqueryrules"
