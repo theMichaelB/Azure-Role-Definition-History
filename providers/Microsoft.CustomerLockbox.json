@@ -31,6 +31,33 @@
       ],
       "locations": [],
       "properties": null,
+      "resourceType": "TenantOptedIn"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-02-28-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "EnableLockbox"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-02-28-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "DisableLockbox"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-02-28-preview"
+      ],
+      "locations": [],
+      "properties": null,
       "resourceType": "requests"
     }
   ]

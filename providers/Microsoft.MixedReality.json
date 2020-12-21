@@ -90,8 +90,8 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "locations": [
-        "East US",
         "East US 2",
+        "East US",
         "Southeast Asia",
         "West Europe",
         "West US 2",

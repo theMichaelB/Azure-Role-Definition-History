@@ -1,0 +1,56 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "6db4d6bb-6649-4dc2-84b7-0b5c6894031e",
+      "roleDefinitionId": "d42334cd-b979-4a22-accc-650d0d157676"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.HealthBot",
+  "namespace": "Microsoft.HealthBot",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-08"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-08"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-08"
+      ],
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "Locations/OperationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-08"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "healthBots"
+    }
+  ]
+}

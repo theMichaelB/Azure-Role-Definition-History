@@ -55,7 +55,7 @@
         "2018-11-30",
         "2015-08-31-PREVIEW"
       ],
-      "capabilities": "None",
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
         "South Africa North",
         "South Africa West",
