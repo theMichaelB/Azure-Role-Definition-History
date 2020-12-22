@@ -40,7 +40,10 @@
         "France Central",
         "Japan East",
         "Korea Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "configurationStores"
@@ -71,7 +74,10 @@
         "France Central",
         "Japan East",
         "Korea Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "configurationStores/keyValues"
@@ -106,7 +112,10 @@
         "France Central",
         "Japan East",
         "Korea Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "configurationStores/eventGridFilters"
@@ -141,7 +150,10 @@
         "France Central",
         "Japan East",
         "Korea Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "checkNameAvailability"
@@ -176,7 +188,10 @@
         "France Central",
         "Japan East",
         "Korea Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations"
@@ -211,7 +226,10 @@
         "France Central",
         "Japan East",
         "Korea Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/operationsStatus"
@@ -246,7 +264,10 @@
         "France Central",
         "Japan East",
         "Korea Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland North",
+        "Germany West Central",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "operations"
