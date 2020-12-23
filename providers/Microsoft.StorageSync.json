@@ -58,7 +58,9 @@
         "UAE North",
         "UAE Central",
         "Germany West Central",
-        "Germany North"
+        "Germany North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "storageSyncServices"
@@ -111,7 +113,9 @@
         "UAE North",
         "UAE Central",
         "Germany West Central",
-        "Germany North"
+        "Germany North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/syncGroups"
@@ -164,7 +168,9 @@
         "UAE North",
         "UAE Central",
         "Germany West Central",
-        "Germany North"
+        "Germany North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/syncGroups/cloudEndpoints"
@@ -217,7 +223,9 @@
         "UAE North",
         "UAE Central",
         "Germany West Central",
-        "Germany North"
+        "Germany North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/syncGroups/serverEndpoints"
@@ -270,7 +278,9 @@
         "UAE North",
         "UAE Central",
         "Germany West Central",
-        "Germany North"
+        "Germany North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/registeredServers"
@@ -323,7 +333,9 @@
         "UAE North",
         "UAE Central",
         "Germany West Central",
-        "Germany North"
+        "Germany North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/workflows"
@@ -447,7 +459,9 @@
         "UAE North",
         "UAE Central",
         "Germany West Central",
-        "Germany North"
+        "Germany North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -498,7 +512,9 @@
         "UAE North",
         "UAE Central",
         "Germany West Central",
-        "Germany North"
+        "Germany North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "locations/workflows"
@@ -542,7 +558,9 @@
         "UAE North",
         "UAE Central",
         "Germany West Central",
-        "Germany North"
+        "Germany North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "locations/operations"
@@ -586,7 +604,9 @@
         "UAE North",
         "UAE Central",
         "Germany West Central",
-        "Germany North"
+        "Germany North",
+        "Switzerland North",
+        "Switzerland West"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"

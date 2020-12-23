@@ -127,17 +127,21 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-31-preview",
         "2020-05-15",
         "2018-08-15-preview",
         "2017-11-15",
+        "2017-05-31-privatepreview",
         "2017-02-28-preview"
       ],
       "locations": [
+        "West India",
         "France Central",
         "South Central Us",
         "East US 2",
         "West US",
         "East US",
+        "East US 2 EUAP",
         "North Europe",
         "West Europe",
         "West US 2",
@@ -147,6 +151,7 @@
         "Australia Southeast",
         "East Asia",
         "UK West",
+        "North Central US",
         "UK South"
       ],
       "properties": null,
