@@ -260,7 +260,8 @@
         "West US 2",
         "UK South",
         "UK West",
-        "France Central"
+        "France Central",
+        "South Africa North"
       ],
       "properties": null,
       "resourceType": "integrationServiceEnvironments"
@@ -295,7 +296,8 @@
         "West Central US",
         "UK South",
         "UK West",
-        "France Central"
+        "France Central",
+        "South Africa North"
       ],
       "properties": null,
       "resourceType": "integrationServiceEnvironments/managedApis"
