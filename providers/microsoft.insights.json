@@ -99,7 +99,9 @@
         "Australia Central 2",
         "Germany West Central",
         "Switzerland West",
+        "UAE Central",
         "UK West",
+        "Japan West",
         "Brazil Southeast",
         "UAE North",
         "Australia Central"
@@ -223,8 +225,10 @@
         "Australia Central 2",
         "Germany West Central",
         "Switzerland West",
+        "UAE Central",
         "UK West",
         "Brazil Southeast",
+        "Japan West",
         "UAE North",
         "Australia Central"
       ],
@@ -1010,6 +1014,7 @@
         }
       ],
       "apiVersions": [
+        "2020-10-01",
         "2017-04-01",
         "2017-03-01-preview"
       ],
