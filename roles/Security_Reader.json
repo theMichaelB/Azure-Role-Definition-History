@@ -15,6 +15,8 @@
         "Microsoft.Resources/subscriptions/resourceGroups/read",
         "Microsoft.Security/*/read",
         "Microsoft.Support/*/read",
+        "Microsoft.Security/iotDefenderSettings/packageDownloads/action",
+        "Microsoft.Security/iotDefenderSettings/downloadManagerActivation/action",
         "Microsoft.Management/managementGroups/read"
       ],
       "dataActions": [],
