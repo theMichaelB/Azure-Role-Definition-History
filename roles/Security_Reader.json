@@ -17,6 +17,7 @@
         "Microsoft.Support/*/read",
         "Microsoft.Security/iotDefenderSettings/packageDownloads/action",
         "Microsoft.Security/iotDefenderSettings/downloadManagerActivation/action",
+        "Microsoft.Security/iotSensors/downloadResetPassword/action",
         "Microsoft.Management/managementGroups/read"
       ],
       "dataActions": [],
