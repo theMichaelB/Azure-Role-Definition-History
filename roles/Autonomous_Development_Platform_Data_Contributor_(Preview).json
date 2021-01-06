@@ -2,7 +2,7 @@
   "assignableScopes": [
     "/"
   ],
-  "description": "Grants permissions to manage Autonomous Development Platform data entities, but does not allow accessing the underlying data. Note that entity deletion is not permitted by this role.",
+  "description": "Grants permissions to upload and manage new Autonomous Development Platform measurements.",
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/b8b15564-4fa6-4a59-ab12-03e1d9594795",
   "name": "b8b15564-4fa6-4a59-ab12-03e1d9594795",
   "permissions": [
@@ -13,16 +13,13 @@
         "Microsoft.Resources/subscriptions/resourceGroups/read"
       ],
       "dataActions": [
-        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*/read",
-        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*/write",
-        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*/updateMetadata",
-        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*/changeState",
-        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*/runValidations"
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/discoveries/*",
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/uploads/*",
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/measurements/states/new/*"
       ],
       "notActions": [],
       "notDataActions": [
-        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*/dataStreams/read",
-        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*/dataStreams/write"
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/measurements/states/new/changeState/action"
       ]
     }
   ],
