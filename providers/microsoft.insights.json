@@ -1362,6 +1362,7 @@
       "defaultApiVersion": "2019-11-01-preview",
       "locations": [
         "Australia Southeast",
+        "Canada Central",
         "Japan East",
         "Australia East",
         "Central India",
@@ -1393,6 +1394,7 @@
       "defaultApiVersion": "2019-11-01-preview",
       "locations": [
         "Australia Southeast",
+        "Canada Central",
         "Japan East",
         "Australia East",
         "Central India",

@@ -35,11 +35,13 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-06-01-preview",
         "2020-05-01",
         "2019-06-01",
         "2018-09-01-preview"
       ],
-      "capabilities": "None",
+      "capabilities": "SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2018-09-01-preview",
       "locations": [
         "Central US",
         "East Asia",

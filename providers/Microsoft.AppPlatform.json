@@ -38,7 +38,10 @@
         "Canada Central",
         "North Central US",
         "West US",
-        "UAE North"
+        "UAE North",
+        "Central India",
+        "Korea Central",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "Spring"
@@ -66,7 +69,10 @@
         "Canada Central",
         "North Central US",
         "West US",
-        "UAE North"
+        "UAE North",
+        "Central India",
+        "Korea Central",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "Spring/apps"
@@ -93,7 +99,10 @@
         "Canada Central",
         "North Central US",
         "West US",
-        "UAE North"
+        "UAE North",
+        "Central India",
+        "Korea Central",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "Spring/apps/deployments"
@@ -120,7 +129,10 @@
         "Canada Central",
         "North Central US",
         "West US",
-        "UAE North"
+        "UAE North",
+        "Central India",
+        "Korea Central",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -171,7 +183,10 @@
         "Canada Central",
         "North Central US",
         "West US",
-        "UAE North"
+        "UAE North",
+        "Central India",
+        "Korea Central",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -198,7 +213,10 @@
         "Canada Central",
         "North Central US",
         "West US",
-        "UAE North"
+        "UAE North",
+        "Central India",
+        "Korea Central",
+        "East Asia"
       ],
       "properties": null,
       "resourceType": "locations/operationStatus"

@@ -143,9 +143,68 @@
       "apiVersions": [
         "2020-07-07"
       ],
+      "capabilities": "None",
+      "locations": [
+        "Central US",
+        "West Europe",
+        "UK South",
+        "UK West",
+        "North Europe",
+        "West US 2",
+        "Southeast Asia",
+        "East Asia",
+        "Central India",
+        "South India",
+        "Canada Central",
+        "Australia Southeast",
+        "Japan West",
+        "Japan East",
+        "Brazil South",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Switzerland North"
+      ],
+      "properties": null,
+      "resourceType": "MasterSites"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-07"
+      ],
       "locations": [],
       "properties": null,
       "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-07"
+      ],
+      "locations": [
+        "Central US",
+        "West Europe",
+        "UK South",
+        "UK West",
+        "North Europe",
+        "West US 2",
+        "Southeast Asia",
+        "East Asia",
+        "Central India",
+        "South India",
+        "Canada Central",
+        "Australia Southeast",
+        "Japan West",
+        "Japan East",
+        "Brazil South",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "Switzerland North"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationResults"
     },
     {
       "aliases": null,

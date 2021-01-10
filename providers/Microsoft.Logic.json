@@ -51,6 +51,7 @@
         "South Africa North",
         "South Africa West",
         "UAE Central",
+        "UAE North",
         "Switzerland North",
         "Switzerland West",
         "Norway East",
@@ -103,6 +104,7 @@
         "South Africa North",
         "South Africa West",
         "UAE Central",
+        "UAE North",
         "Switzerland North",
         "Switzerland West",
         "Norway East",
@@ -172,6 +174,7 @@
         "South Africa North",
         "South Africa West",
         "UAE Central",
+        "UAE North",
         "Switzerland North",
         "Switzerland West",
         "Norway East",
@@ -221,6 +224,7 @@
         "South Africa North",
         "South Africa West",
         "UAE Central",
+        "UAE North",
         "Switzerland North",
         "Switzerland West",
         "Norway East",
@@ -261,7 +265,8 @@
         "UK South",
         "UK West",
         "France Central",
-        "South Africa North"
+        "South Africa North",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "integrationServiceEnvironments"
@@ -297,7 +302,8 @@
         "UK South",
         "UK West",
         "France Central",
-        "South Africa North"
+        "South Africa North",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "integrationServiceEnvironments/managedApis"

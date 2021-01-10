@@ -19,10 +19,11 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01",
         "2020-10-31",
         "2020-03-01-preview"
       ],
-      "defaultApiVersion": "2020-10-31",
+      "defaultApiVersion": "2020-12-01",
       "locations": [],
       "properties": null,
       "resourceType": "locations"
@@ -30,6 +31,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01",
         "2020-10-31",
         "2020-03-01-preview"
       ],
@@ -51,11 +53,12 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01",
         "2020-10-31",
         "2020-03-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
-      "defaultApiVersion": "2020-10-31",
+      "defaultApiVersion": "2020-12-01",
       "locations": [
         "West Central US",
         "West US 2",
@@ -74,10 +77,11 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01",
         "2020-10-31",
         "2020-03-01-preview"
       ],
-      "defaultApiVersion": "2020-10-31",
+      "defaultApiVersion": "2020-12-01",
       "locations": [
         "West Central US",
         "West US 2",
@@ -96,10 +100,11 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01",
         "2020-10-31",
         "2020-03-01-preview"
       ],
-      "defaultApiVersion": "2020-10-31",
+      "defaultApiVersion": "2020-12-01",
       "locations": [
         "West Central US",
         "West US 2",
@@ -118,10 +123,11 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01",
         "2020-10-31",
         "2020-03-01-preview"
       ],
-      "defaultApiVersion": "2020-10-31",
+      "defaultApiVersion": "2020-12-01",
       "locations": [
         "West Central US",
         "West US 2",
@@ -140,6 +146,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01",
         "2020-10-31",
         "2020-03-01-preview"
       ],
