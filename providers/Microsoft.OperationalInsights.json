@@ -16,6 +16,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2020-08-01",
         "2020-03-01-preview",
         "2017-04-26-preview",
@@ -288,6 +289,53 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
+        "2020-08-01",
+        "2020-03-01-preview",
+        "2017-04-26-preview"
+      ],
+      "defaultApiVersion": "2020-10-01",
+      "locations": [
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Australia Southeast",
+        "West Central US",
+        "Japan East",
+        "UK South",
+        "Central India",
+        "Canada Central",
+        "West US 2",
+        "Australia Central",
+        "Australia East",
+        "France Central",
+        "Korea Central",
+        "North Europe",
+        "Central US",
+        "East Asia",
+        "East US 2",
+        "South Central US",
+        "North Central US",
+        "West US",
+        "UK West",
+        "South Africa North",
+        "Brazil South",
+        "Switzerland North",
+        "Switzerland West",
+        "Germany West Central",
+        "Australia Central 2",
+        "UAE Central",
+        "UAE North",
+        "Japan West",
+        "Brazil Southeast",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/Tables"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2020-08-01",
         "2020-03-01-preview",
         "2014-10-10"
@@ -402,6 +450,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2020-08-01",
         "2020-03-01-preview",
         "2015-11-01-preview",

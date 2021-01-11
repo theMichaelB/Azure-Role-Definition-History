@@ -20,6 +20,8 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "locations": [
+        "Switzerland West",
+        "Switzerland North",
         "West US",
         "West US 2",
         "East US",
@@ -81,6 +83,8 @@
         "2015-08-19"
       ],
       "locations": [
+        "Switzerland West",
+        "Switzerland North",
         "West US",
         "West US 2",
         "East US",
