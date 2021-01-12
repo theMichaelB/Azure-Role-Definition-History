@@ -161,6 +161,41 @@
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-alpha"
+      ],
+      "locations": [
+        "South Central US",
+        "East US",
+        "East US 2",
+        "West US",
+        "UK South",
+        "Australia Central",
+        "Australia East",
+        "Brazil South",
+        "Canada Central",
+        "Central US",
+        "East Asia",
+        "Germany West Central",
+        "Central India",
+        "Japan East",
+        "Japan West",
+        "Korea Central",
+        "Korea South",
+        "North Europe",
+        "Southeast Asia",
+        "Switzerland North",
+        "UAE North",
+        "UK West",
+        "West Central US",
+        "West Europe",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "locations/checkFeatureSupport"
     }
   ]
 }
