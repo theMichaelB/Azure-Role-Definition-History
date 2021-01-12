@@ -7,7 +7,9 @@
   "name": "49632ef5-d9ac-41f4-b8e7-bbe587fa74a1",
   "permissions": [
     {
-      "actions": [],
+      "actions": [
+        "Microsoft.Experimentation/experimentWorkspaces/read"
+      ],
       "dataActions": [
         "Microsoft.Experimentation/experimentWorkspaces/read",
         "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/read"
