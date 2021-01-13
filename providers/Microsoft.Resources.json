@@ -826,6 +826,7 @@
         }
       ],
       "apiVersions": [
+        "2020-10-01",
         "2020-06-01",
         "2019-09-01",
         "2019-08-01",
@@ -869,6 +870,7 @@
         }
       ],
       "apiVersions": [
+        "2020-10-01",
         "2020-06-01",
         "2019-09-01",
         "2019-05-01",
@@ -1001,6 +1003,7 @@
         "East US",
         "Central US",
         "North Central US",
+        "France Central",
         "UK South",
         "Central India",
         "South India",
@@ -1032,6 +1035,7 @@
         "East US",
         "Central US",
         "North Central US",
+        "France Central",
         "UK South",
         "Central India",
         "South India",
@@ -1063,6 +1067,7 @@
         "East US",
         "Central US",
         "North Central US",
+        "France Central",
         "UK South",
         "Central India",
         "South India",
