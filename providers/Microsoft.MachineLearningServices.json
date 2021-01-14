@@ -14,6 +14,11 @@
       "applicationId": "18a66f5f-dbdf-4c17-9dd7-1634712a9cbe",
       "managedByRoleDefinitionId": "91d00862-cf55-46a5-9dce-260bbd92ce25",
       "roleDefinitionId": "8b910db7-60f9-4c04-af30-71aab18eda90"
+    },
+    {
+      "applicationId": "6608bce8-e060-4e82-bfd2-67ed4f60262f",
+      "managedByRoleDefinitionId": "91d00862-cf55-46a5-9dce-260bbd92ce25",
+      "roleDefinitionId": "344880d0-81ee-4377-b825-b8b79810e492"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.MachineLearningServices",

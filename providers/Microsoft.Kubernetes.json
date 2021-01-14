@@ -20,8 +20,8 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "locations": [
-        "East US",
         "West Europe",
+        "East US",
         "West Central US"
       ],
       "properties": null,
