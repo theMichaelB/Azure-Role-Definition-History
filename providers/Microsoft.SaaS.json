@@ -78,6 +78,18 @@
       ],
       "properties": null,
       "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2018-03-01-beta"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "global"
+      ],
+      "properties": null,
+      "resourceType": "resources"
     }
   ]
 }
