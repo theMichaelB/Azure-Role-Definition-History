@@ -8,7 +8,10 @@
   "permissions": [
     {
       "actions": [
-        "Microsoft.Resources/subscriptions/resourceGroups/read"
+        "Microsoft.Resources/subscriptions/resourceGroups/read",
+        "Microsoft.Experimentation/experimentWorkspaces/read",
+        "Microsoft.Experimentation/experimentWorkspaces/write",
+        "Microsoft.Experimentation/experimentWorkspaces/delete"
       ],
       "dataActions": [
         "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/admin/action",
