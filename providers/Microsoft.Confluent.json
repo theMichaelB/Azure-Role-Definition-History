@@ -1,0 +1,101 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "1448fd13-7e74-41f4-b6e3-17e485d8ac2e",
+      "roleDefinitionId": "4db34280-b0be-4827-aa5b-418391409cee"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Confluent",
+  "namespace": "Microsoft.Confluent",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview",
+        "2020-03-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview",
+        "2020-03-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview",
+        "2020-03-01"
+      ],
+      "locations": [
+        "West US 2",
+        "East US 2 EUAP",
+        "West Central US",
+        "Australia East",
+        "France Central",
+        "Canada Central",
+        "East US",
+        "UK South",
+        "West Europe",
+        "Central US",
+        "East US 2",
+        "North Europe",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "locations/OperationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview",
+        "2020-03-01"
+      ],
+      "capabilities": "None",
+      "locations": [
+        "West US 2",
+        "West Central US",
+        "Australia East",
+        "France Central",
+        "Canada Central",
+        "East US",
+        "UK South",
+        "West Europe",
+        "Central US",
+        "East US 2",
+        "North Europe",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "organizations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview",
+        "2020-03-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview",
+        "2020-03-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "agreements"
+    }
+  ]
+}
