@@ -67,6 +67,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01",
         "2020-08-01",
         "2020-03-01-preview",
         "2019-08-01-preview",
@@ -289,12 +290,10 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-10-01",
         "2020-08-01",
         "2020-03-01-preview",
         "2017-04-26-preview"
       ],
-      "defaultApiVersion": "2020-10-01",
       "locations": [
         "East US",
         "West Europe",
@@ -460,6 +459,53 @@
       "locations": [],
       "properties": null,
       "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01",
+        "2020-08-01",
+        "2020-03-01-preview",
+        "2019-08-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2020-08-01",
+      "locations": [
+        "East US",
+        "West Europe",
+        "Southeast Asia",
+        "Australia Southeast",
+        "West Central US",
+        "Japan East",
+        "UK South",
+        "Central India",
+        "Canada Central",
+        "West US 2",
+        "Australia Central",
+        "Australia East",
+        "France Central",
+        "Korea Central",
+        "North Europe",
+        "Central US",
+        "East Asia",
+        "East US 2",
+        "South Central US",
+        "North Central US",
+        "West US",
+        "UK West",
+        "South Africa North",
+        "Switzerland North",
+        "Switzerland West",
+        "Germany West Central",
+        "UAE Central",
+        "Brazil South",
+        "UAE North",
+        "Japan West",
+        "Brazil Southeast",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "clusters"
     },
     {
       "aliases": null,

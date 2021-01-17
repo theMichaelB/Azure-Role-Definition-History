@@ -189,6 +189,22 @@
             "2",
             "3"
           ]
+        },
+        {
+          "location": "Central India",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "Korea Central",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
         }
       ]
     },
