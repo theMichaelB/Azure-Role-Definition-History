@@ -396,6 +396,36 @@
       "locations": [],
       "properties": null,
       "resourceType": "ReservationDetailsOperationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "GenerateDetailedCostReport"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "OperationStatus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "OperationResults"
     }
   ]
 }

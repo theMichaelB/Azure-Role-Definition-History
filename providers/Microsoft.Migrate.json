@@ -175,6 +175,19 @@
       ],
       "properties": null,
       "resourceType": "locations/assessmentOptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01-preview"
+      ],
+      "defaultApiVersion": "2019-10-01-preview",
+      "locations": [
+        "East US 2",
+        "North Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/rmsOperationResults"
     }
   ]
 }
