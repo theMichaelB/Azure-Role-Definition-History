@@ -16,6 +16,7 @@
         }
       ],
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01",
         "2020-05-01",
         "2020-03-01-preview",
@@ -32,7 +33,7 @@
         "2014-05-01-privatepreview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
-      "defaultApiVersion": "2020-09-01",
+      "defaultApiVersion": "2021-01-01",
       "locations": [
         "West Europe",
         "East US",
@@ -80,6 +81,7 @@
         }
       ],
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01",
         "2020-05-01",
         "2020-03-01-preview",
@@ -89,7 +91,7 @@
         "2018-12-01",
         "2017-09-01"
       ],
-      "defaultApiVersion": "2020-09-01",
+      "defaultApiVersion": "2021-01-01",
       "locations": [
         "West Europe",
         "East US",
@@ -137,6 +139,7 @@
         }
       ],
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01",
         "2020-05-01",
         "2020-03-01-preview",
@@ -193,6 +196,7 @@
         }
       ],
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01",
         "2020-05-01",
         "2020-03-01-preview",
@@ -253,6 +257,7 @@
         }
       ],
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01",
         "2020-05-01",
         "2020-03-01-preview",
@@ -279,6 +284,7 @@
         }
       ],
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01",
         "2020-05-01",
         "2020-03-01-preview",
@@ -339,6 +345,7 @@
         }
       ],
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01",
         "2020-05-01",
         "2020-03-01-preview",
@@ -349,7 +356,7 @@
         "2017-09-01",
         "2017-05-01"
       ],
-      "defaultApiVersion": "2017-05-01",
+      "defaultApiVersion": "2021-01-01",
       "locations": [
         "West Europe",
         "East US",
@@ -391,6 +398,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01",
         "2020-05-01",
         "2020-03-01-preview",

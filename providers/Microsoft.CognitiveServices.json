@@ -42,7 +42,8 @@
         "South Africa North",
         "UAE North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "accounts"
@@ -79,7 +80,8 @@
         "South Africa North",
         "UAE North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -116,7 +118,8 @@
         "South Africa North",
         "UAE North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -153,7 +156,8 @@
         "South Africa North",
         "UAE North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations"
@@ -190,7 +194,8 @@
         "South Africa North",
         "UAE North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/deleteVirtualNetworkOrSubnets"
@@ -227,7 +232,8 @@
         "South Africa North",
         "UAE North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/checkSkuAvailability"
@@ -272,7 +278,8 @@
         "South Africa North",
         "UAE North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "accounts/privateLinkResources"
@@ -308,7 +315,8 @@
         "South Africa North",
         "UAE North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "accounts/privateEndpointConnections"
@@ -344,7 +352,8 @@
         "South Africa North",
         "UAE North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "accounts/privateEndpointConnectionProxies"

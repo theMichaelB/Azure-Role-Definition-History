@@ -536,7 +536,12 @@
         "Central US",
         "Switzerland North",
         "South Africa North",
-        "UK South"
+        "UK South",
+        "SouthEast Asia",
+        "East Asia",
+        "Korea Central",
+        "Australia Central",
+        "West US"
       ],
       "properties": null,
       "resourceType": "managedHSMs"

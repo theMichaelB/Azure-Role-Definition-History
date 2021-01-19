@@ -14,6 +14,24 @@
       "apiVersions": [
         "2019-11-04-preview"
       ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "defaultApiVersion": "2019-11-04-preview",
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "West US 2",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "Workspaces"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-04-preview"
+      ],
       "locations": [],
       "properties": null,
       "resourceType": "Operations"
@@ -36,14 +54,32 @@
       ],
       "locations": [
         "West US",
+        "East US",
         "North Europe",
         "West Europe",
         "East US 2 EUAP",
+        "Central US EUAP",
         "West US 2",
         "West Central US"
       ],
       "properties": null,
       "resourceType": "Locations/OperationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-04-preview"
+      ],
+      "locations": [
+        "West US",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "West US 2",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "locations/offerings"
     },
     {
       "aliases": null,
