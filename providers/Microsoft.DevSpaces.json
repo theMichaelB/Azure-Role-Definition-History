@@ -18,8 +18,7 @@
         "East US 2",
         "North Europe",
         "UK South",
-        "South Central US",
-        "Australia SouthEast"
+        "South Central US"
       ],
       "properties": null,
       "resourceType": "controllers"
@@ -38,8 +37,7 @@
         "East US 2",
         "North Europe",
         "UK South",
-        "South Central US",
-        "Australia SouthEast"
+        "South Central US"
       ],
       "properties": null,
       "resourceType": "controllers/listConnectionDetails"
@@ -59,8 +57,7 @@
         "East US 2",
         "North Europe",
         "UK South",
-        "South Central US",
-        "Australia SouthEast"
+        "South Central US"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -79,8 +76,7 @@
         "East US 2",
         "North Europe",
         "UK South",
-        "South Central US",
-        "Australia SouthEast"
+        "South Central US"
       ],
       "properties": null,
       "resourceType": "locations"
@@ -99,8 +95,7 @@
         "East US 2",
         "North Europe",
         "UK South",
-        "South Central US",
-        "Australia SouthEast"
+        "South Central US"
       ],
       "properties": null,
       "resourceType": "locations/operationresults"
@@ -119,8 +114,7 @@
         "East US 2",
         "North Europe",
         "UK South",
-        "South Central US",
-        "Australia SouthEast"
+        "South Central US"
       ],
       "properties": null,
       "resourceType": "locations/checkContainerHostMapping"

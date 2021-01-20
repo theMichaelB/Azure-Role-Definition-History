@@ -49,6 +49,18 @@
       "locations": [],
       "properties": null,
       "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-06-23-preview"
+      ],
+      "locations": [
+        "East US 2 EUAP",
+        "West Central US"
+      ],
+      "properties": null,
+      "resourceType": "shareInvites"
     }
   ]
 }

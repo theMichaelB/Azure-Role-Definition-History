@@ -281,7 +281,11 @@
         },
         {
           "location": "South Central US",
-          "zones": []
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
         },
         {
           "location": "Canada Central",
@@ -554,7 +558,11 @@
         },
         {
           "location": "South Central US",
-          "zones": []
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
         },
         {
           "location": "Canada Central",
@@ -2480,7 +2488,11 @@
         },
         {
           "location": "South Central US",
-          "zones": []
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
         },
         {
           "location": "Canada Central",
@@ -3001,7 +3013,11 @@
         },
         {
           "location": "South Central US",
-          "zones": []
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
         },
         {
           "location": "Canada Central",
@@ -3177,7 +3193,11 @@
         },
         {
           "location": "South Central US",
-          "zones": []
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
         },
         {
           "location": "Canada Central",
