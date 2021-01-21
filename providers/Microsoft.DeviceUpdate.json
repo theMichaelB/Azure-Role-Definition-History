@@ -50,6 +50,15 @@
       "locations": [],
       "properties": null,
       "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "registeredSubscriptions"
     }
   ]
 }
