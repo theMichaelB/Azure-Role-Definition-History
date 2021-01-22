@@ -2,6 +2,9 @@
   "authorizations": [
     {
       "applicationId": "3184af01-7a88-49e0-8b55-8ecdce0aa950"
+    },
+    {
+      "applicationId": "6b3368c6-61d2-4a72-854c-42d1c4e71fed"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.CostManagement",
