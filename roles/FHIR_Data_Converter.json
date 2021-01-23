@@ -1,0 +1,21 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "Role allows user or principal to convert data from legacy format to FHIR",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/a1705bd2-3a8f-45a5-8683-466fcfd5cc24",
+  "name": "a1705bd2-3a8f-45a5-8683-466fcfd5cc24",
+  "permissions": [
+    {
+      "actions": [],
+      "dataActions": [
+        "Microsoft.HealthcareApis/services/fhir/resources/convertData/action"
+      ],
+      "notActions": [],
+      "notDataActions": []
+    }
+  ],
+  "roleName": "FHIR Data Converter",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}
