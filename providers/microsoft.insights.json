@@ -155,7 +155,8 @@
         "Brazil South",
         "Switzerland North",
         "Australia Southeast",
-        "Norway East"
+        "Norway East",
+        "Norway West"
       ],
       "properties": null,
       "resourceType": "components/metrics"
@@ -1380,7 +1381,12 @@
         "West US",
         "Australia Central",
         "West Central US",
-        "East Asia"
+        "East Asia",
+        "UK West",
+        "Korea Central",
+        "France Central",
+        "South Africa North",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "dataCollectionRules"
@@ -1412,7 +1418,12 @@
         "West US",
         "Australia Central",
         "West Central US",
-        "East Asia"
+        "East Asia",
+        "UK West",
+        "Korea Central",
+        "France Central",
+        "South Africa North",
+        "Switzerland North"
       ],
       "properties": null,
       "resourceType": "dataCollectionRuleAssociations"
