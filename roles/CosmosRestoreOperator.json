@@ -2,7 +2,7 @@
   "assignableScopes": [
     "/"
   ],
-  "description": "Can perform restore action for Cosmos DB database account",
+  "description": "Can perform restore action for Cosmos DB database account with continuous backup mode",
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/5432c526-bc82-444a-b7ba-57c5b0b5b34f",
   "name": "5432c526-bc82-444a-b7ba-57c5b0b5b34f",
   "permissions": [
