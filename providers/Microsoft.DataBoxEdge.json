@@ -11,6 +11,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01",
         "2020-09-01-preview",
         "2020-09-01",
         "2020-07-01-preview",
@@ -25,7 +26,7 @@
         "2017-09-01"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
-      "defaultApiVersion": "2020-09-01",
+      "defaultApiVersion": "2020-12-01",
       "locations": [
         "East US",
         "West Europe",
@@ -37,6 +38,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01",
         "2020-09-01-preview",
         "2020-09-01",
         "2020-07-01-preview",
@@ -61,6 +63,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01",
         "2020-09-01-preview",
         "2020-09-01",
         "2020-07-01-preview",
