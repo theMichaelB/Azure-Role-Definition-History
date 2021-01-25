@@ -11,7 +11,12 @@
       "dataActions": [
         "Microsoft.SecurityDetonation/chambers/submissions/delete",
         "Microsoft.SecurityDetonation/chambers/submissions/write",
-        "Microsoft.SecurityDetonation/chambers/submissions/read"
+        "Microsoft.SecurityDetonation/chambers/submissions/read",
+        "Microsoft.SecurityDetonation/chambers/submissions/files/read",
+        "Microsoft.SecurityDetonation/chambers/submissions/accesskeyview/read",
+        "Microsoft.SecurityDetonation/chambers/submissions/adminview/read",
+        "Microsoft.SecurityDetonation/chambers/submissions/analystview/read",
+        "Microsoft.SecurityDetonation/chambers/submissions/publicview/read"
       ],
       "notActions": [],
       "notDataActions": []

@@ -11,6 +11,7 @@
       "dataActions": [
         "Microsoft.SecurityDetonation/chambers/platforms/read",
         "Microsoft.SecurityDetonation/chambers/platforms/write",
+        "Microsoft.SecurityDetonation/chambers/platforms/delete",
         "Microsoft.SecurityDetonation/chambers/workflows/read",
         "Microsoft.SecurityDetonation/chambers/workflows/write",
         "Microsoft.SecurityDetonation/chambers/workflows/delete",
