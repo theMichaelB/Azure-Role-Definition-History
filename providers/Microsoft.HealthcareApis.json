@@ -22,6 +22,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-11",
         "2020-03-30",
         "2020-03-15",
         "2019-09-16",
@@ -194,6 +195,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-11",
         "2020-03-30",
         "2020-03-15",
         "2019-09-16",
@@ -221,6 +223,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-11",
         "2020-05-01-preview",
         "2020-03-30",
         "2020-03-15",
@@ -249,33 +252,20 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-11",
         "2020-03-30",
         "2020-03-15",
         "2019-09-16",
         "2018-08-20-preview"
       ],
-      "locations": [
-        "UK West",
-        "North Central US",
-        "West US 2",
-        "Australia East",
-        "Southeast Asia",
-        "UK South",
-        "East US",
-        "West Europe",
-        "South Central US",
-        "East US 2",
-        "North Europe",
-        "West Central US",
-        "Japan East",
-        "Germany West Central"
-      ],
+      "locations": [],
       "properties": null,
       "resourceType": "checkNameAvailability"
     },
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-11",
         "2020-03-30",
         "2020-03-15",
         "2019-09-16",

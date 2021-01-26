@@ -15,6 +15,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-05-01",
         "2020-04-06-preview",
         "2019-12-02-preview",
@@ -27,6 +28,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-05-01",
         "2020-04-06-preview",
         "2019-12-02-preview",
@@ -51,6 +53,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-05-01",
         "2020-04-06-preview",
         "2019-12-02-preview",
@@ -63,6 +66,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-05-01",
         "2019-12-02-preview",
         "2019-02-28-preview"
@@ -85,6 +89,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-04-06-preview",
         "2019-12-02-preview"
       ],

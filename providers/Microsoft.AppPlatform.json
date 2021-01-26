@@ -9,6 +9,10 @@
     },
     {
       "applicationId": "e8de9221-a19c-4c81-b814-fd37c6caf9d2"
+    },
+    {
+      "applicationId": "366cbfa5-46b3-47fb-9d70-55fb923b4833",
+      "roleDefinitionId": "d63d711d-1c1a-41d9-905a-fb87b28d47d9"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AppPlatform",

@@ -1,0 +1,22 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "dfbed8b2-492a-414e-b2f0-482534e87bc5",
+      "roleDefinitionId": "0922588a-ac0c-4eb6-8d8f-afbeb8edf466"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.IntelligentITDigitalTwin",
+  "namespace": "Microsoft.IntelligentITDigitalTwin",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Operations"
+    }
+  ]
+}

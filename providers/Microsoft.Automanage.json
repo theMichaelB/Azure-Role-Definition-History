@@ -20,8 +20,11 @@
       "capabilities": "SupportsExtension",
       "locations": [
         "East US",
+        "East US 2",
+        "South Central US",
         "West US 2",
         "West Central US",
+        "North Europe",
         "West Europe",
         "Canada Central",
         "Japan East"
