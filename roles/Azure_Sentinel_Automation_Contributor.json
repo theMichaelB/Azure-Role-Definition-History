@@ -8,7 +8,10 @@
   "permissions": [
     {
       "actions": [
-        "Microsoft.Authorization/*/read"
+        "Microsoft.Authorization/*/read",
+        "Microsoft.Logic/workflows/triggers/read",
+        "Microsoft.Logic/workflows/triggers/listCallbackUrl/action",
+        "Microsoft.Logic/workflows/runs/read"
       ],
       "dataActions": [],
       "notActions": [],
