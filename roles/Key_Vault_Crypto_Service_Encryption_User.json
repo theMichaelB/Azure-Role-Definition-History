@@ -21,7 +21,7 @@
       "notDataActions": []
     }
   ],
-  "roleName": "Key Vault Crypto Service Encryption User (preview)",
+  "roleName": "Key Vault Crypto Service Encryption User",
   "roleType": "BuiltInRole",
   "type": "Microsoft.Authorization/roleDefinitions"
 }
