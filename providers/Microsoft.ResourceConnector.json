@@ -3,6 +3,10 @@
     {
       "applicationId": "585fc3c3-9a59-4720-8319-53cce041a605",
       "roleDefinitionId": "008e7b93-7712-4d05-83ce-a9fcc80300e9"
+    },
+    {
+      "applicationId": "d22ea4d1-2678-4a7b-aa5e-f340c2a7d993",
+      "roleDefinitionId": "7c812eee-67c9-4a05-a1b1-c0ac88fd1067"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ResourceConnector",

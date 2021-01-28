@@ -26,7 +26,10 @@
         "South Central US",
         "Canada Central",
         "Central India",
-        "East Asia"
+        "East Asia",
+        "South Africa North",
+        "West US",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "accounts"
@@ -49,7 +52,10 @@
         "South Central US",
         "Canada Central",
         "Central India",
-        "East Asia"
+        "East Asia",
+        "South Africa North",
+        "West US",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "accounts/shares"
@@ -72,7 +78,10 @@
         "South Central US",
         "Canada Central",
         "Central India",
-        "East Asia"
+        "East Asia",
+        "South Africa North",
+        "West US",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "accounts/shares/datasets"
@@ -95,7 +104,10 @@
         "South Central US",
         "Canada Central",
         "Central India",
-        "East Asia"
+        "East Asia",
+        "South Africa North",
+        "West US",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "accounts/shares/synchronizationSettings"
@@ -118,7 +130,10 @@
         "South Central US",
         "Canada Central",
         "Central India",
-        "East Asia"
+        "East Asia",
+        "South Africa North",
+        "West US",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "accounts/shares/invitations"
@@ -141,7 +156,10 @@
         "South Central US",
         "Canada Central",
         "Central India",
-        "East Asia"
+        "East Asia",
+        "South Africa North",
+        "West US",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "accounts/sharesubscriptions"
@@ -164,7 +182,10 @@
         "South Central US",
         "Canada Central",
         "Central India",
-        "East Asia"
+        "East Asia",
+        "South Africa North",
+        "West US",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "accounts/shares/providersharesubscriptions"
@@ -187,7 +208,10 @@
         "South Central US",
         "Canada Central",
         "Central India",
-        "East Asia"
+        "East Asia",
+        "South Africa North",
+        "West US",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "accounts/sharesubscriptions/datasetmappings"
@@ -210,7 +234,10 @@
         "South Central US",
         "Canada Central",
         "Central India",
-        "East Asia"
+        "East Asia",
+        "South Africa North",
+        "West US",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "accounts/sharesubscriptions/triggers"
@@ -233,7 +260,10 @@
         "South Central US",
         "Canada Central",
         "Central India",
-        "East Asia"
+        "East Asia",
+        "South Africa North",
+        "West US",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "accounts/sharesubscriptions/consumerSourceDataSets"
@@ -293,7 +323,10 @@
         "South Central US",
         "Canada Central",
         "Central India",
-        "East Asia"
+        "East Asia",
+        "South Africa North",
+        "West US",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -301,7 +334,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-10-01-preview",
         "2020-09-01",
         "2019-11-01",
         "2018-11-01-alpha"
@@ -319,7 +351,10 @@
         "South Central US",
         "Canada Central",
         "Central India",
-        "East Asia"
+        "East Asia",
+        "South Africa North",
+        "West US",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "locations/rejectInvitation"
@@ -327,7 +362,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-10-01-preview",
         "2020-09-01",
         "2019-11-01",
         "2018-11-01-alpha"
@@ -345,7 +379,10 @@
         "South Central US",
         "Canada Central",
         "Central India",
-        "East Asia"
+        "East Asia",
+        "South Africa North",
+        "West US",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "locations/consumerInvitations"
