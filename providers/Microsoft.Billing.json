@@ -431,6 +431,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -440,6 +441,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -449,6 +451,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -468,6 +471,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -477,6 +481,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -486,6 +491,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-05-01",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -1076,6 +1082,16 @@
       "locations": [],
       "properties": null,
       "resourceType": "promotions/checkeligibility"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-15-privatepreview",
+        "2020-12-15-beta"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingSubscriptions/elevateRole"
     }
   ]
 }
