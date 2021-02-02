@@ -392,7 +392,9 @@
         "Germany West Central",
         "Germany North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Norway West"
       ],
       "properties": null,
       "resourceType": "operations"
