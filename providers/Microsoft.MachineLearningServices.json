@@ -28,6 +28,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01-preview",
         "2020-08-01",
         "2020-06-01",
@@ -46,7 +47,7 @@
         "2018-11-19",
         "2018-03-01-preview"
       ],
-      "capabilities": "SystemAssignedResourceIdentity",
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "defaultApiVersion": "2018-03-01-preview",
       "locations": [
         "Canada Central",
@@ -76,6 +77,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01-preview",
         "2020-08-01",
         "2020-06-01",
@@ -152,6 +154,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01-preview",
         "2020-08-01",
         "2020-06-01",
@@ -195,6 +198,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01-preview",
         "2020-08-01",
         "2020-06-01",
@@ -221,6 +225,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01-preview",
         "2020-08-01",
         "2020-06-01",
@@ -247,6 +252,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01-preview",
         "2020-08-01",
         "2020-06-01",
@@ -292,7 +298,9 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01-preview",
+        "2020-09-01",
         "2020-08-01",
         "2020-06-01",
         "2020-05-15-preview",
@@ -304,6 +312,7 @@
         "2020-02-02",
         "2020-01-01",
         "2019-11-01",
+        "2019-10-01",
         "2019-06-01",
         "2019-05-01",
         "2018-11-19",
@@ -337,6 +346,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01-preview",
         "2020-08-01",
         "2020-06-01",
@@ -381,6 +391,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01-preview",
         "2020-08-01",
         "2020-06-01",
@@ -425,6 +436,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01-preview",
         "2020-08-01",
         "2020-06-01",
@@ -467,6 +479,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-01-preview",
         "2020-08-01",
         "2020-06-01",
