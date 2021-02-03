@@ -24,7 +24,9 @@
         "Microsoft.Experimentation/experimentWorkspaces/read",
         "Microsoft.Experimentation/experimentWorkspaces/write",
         "Microsoft.Experimentation/experimentWorkspaces/delete",
-        "Microsoft.Experimentation/experimentWorkspaces/admin/action"
+        "Microsoft.Experimentation/experimentWorkspaces/admin/action",
+        "Microsoft.Experimentation/experimentWorkspaces/metricwrite/action",
+        "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/metricwrite/action"
       ],
       "notActions": [],
       "notDataActions": []
