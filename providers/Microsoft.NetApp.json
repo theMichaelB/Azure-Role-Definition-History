@@ -3,6 +3,10 @@
     {
       "applicationId": "12fb057d-b751-47cd-857c-f2934bb677b4",
       "roleDefinitionId": "e4796bef-6b6d-4cbc-ba1e-27f1a308d860"
+    },
+    {
+      "applicationId": "608f9929-9737-432e-860f-4e1c1821052f",
+      "roleDefinitionId": "3db66429-be98-4b0c-8ad6-20dc5cb960e4"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.NetApp",

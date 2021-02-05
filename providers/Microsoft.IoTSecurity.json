@@ -1,0 +1,30 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "cfbd4387-1a16-4945-83c0-ec10e46cd4da"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.IoTSecurity",
+  "namespace": "Microsoft.IoTSecurity",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-02-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-02-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "defenderSettings"
+    }
+  ]
+}
