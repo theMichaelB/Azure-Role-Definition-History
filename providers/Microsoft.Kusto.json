@@ -23,7 +23,7 @@
         "2017-09-07-privatepreview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
-      "defaultApiVersion": "2019-05-15",
+      "defaultApiVersion": "2020-06-14",
       "locations": [
         "Australia Central",
         "Australia East",
@@ -224,7 +224,7 @@
         "2018-09-07-preview",
         "2017-09-07-privatepreview"
       ],
-      "defaultApiVersion": "2019-05-15",
+      "defaultApiVersion": "2020-06-14",
       "locations": [
         "Australia Central",
         "Australia East",
@@ -279,7 +279,7 @@
         "2018-09-07-preview",
         "2017-09-07-privatepreview"
       ],
-      "defaultApiVersion": "2019-05-15",
+      "defaultApiVersion": "2020-06-14",
       "locations": [
         "Australia Central",
         "Australia East",
@@ -329,7 +329,7 @@
         "2020-02-15",
         "2019-11-09"
       ],
-      "defaultApiVersion": "2019-11-09",
+      "defaultApiVersion": "2020-06-14",
       "locations": [
         "Australia Central",
         "Australia East",
@@ -384,7 +384,7 @@
         "2018-09-07-preview",
         "2017-09-07-privatepreview"
       ],
-      "defaultApiVersion": "2019-05-15",
+      "defaultApiVersion": "2020-06-14",
       "locations": [
         "Australia Central",
         "Australia East",
@@ -439,7 +439,7 @@
         "2018-09-07-preview",
         "2017-09-07-privatepreview"
       ],
-      "defaultApiVersion": "2019-05-15",
+      "defaultApiVersion": "2020-06-14",
       "locations": [
         "Australia Central",
         "Australia East",
@@ -489,7 +489,7 @@
         "2020-02-15",
         "2019-11-09"
       ],
-      "defaultApiVersion": "2019-11-09",
+      "defaultApiVersion": "2020-06-14",
       "locations": [
         "Australia Central",
         "Australia East",
@@ -544,7 +544,7 @@
         "2018-09-07-preview",
         "2017-09-07-privatepreview"
       ],
-      "defaultApiVersion": "2019-05-15",
+      "defaultApiVersion": "2020-06-14",
       "locations": [
         "Australia Central",
         "Australia East",
@@ -599,7 +599,7 @@
         "2018-09-07-preview",
         "2017-09-07-privatepreview"
       ],
-      "defaultApiVersion": "2019-05-15",
+      "defaultApiVersion": "2020-06-14",
       "locations": [],
       "properties": null,
       "resourceType": "locations"
@@ -617,7 +617,7 @@
         "2018-09-07-preview",
         "2017-09-07-privatepreview"
       ],
-      "defaultApiVersion": "2019-05-15",
+      "defaultApiVersion": "2020-06-14",
       "locations": [
         "Australia Central",
         "Australia East",
@@ -672,7 +672,7 @@
         "2018-09-07-preview",
         "2017-09-07-privatepreview"
       ],
-      "defaultApiVersion": "2019-05-15",
+      "defaultApiVersion": "2020-06-14",
       "locations": [],
       "properties": null,
       "resourceType": "operations"
