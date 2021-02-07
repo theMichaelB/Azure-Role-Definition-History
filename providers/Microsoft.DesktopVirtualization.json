@@ -18,6 +18,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-14-preview",
         "2020-11-10-preview",
         "2020-11-02-preview",
         "2020-10-19-preview",
@@ -43,6 +44,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-14-preview",
         "2020-11-10-preview",
         "2020-11-02-preview",
         "2020-10-19-preview",
@@ -68,6 +70,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-14-preview",
         "2020-11-10-preview",
         "2020-11-02-preview",
         "2020-10-19-preview",
@@ -92,6 +95,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-14-preview",
         "2020-11-10-preview",
         "2020-11-02-preview",
         "2020-10-19-preview",
@@ -116,6 +120,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-14-preview",
         "2020-11-10-preview",
         "2020-11-02-preview",
         "2020-10-19-preview",
@@ -140,6 +145,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-14-preview",
         "2020-11-10-preview",
         "2020-11-02-preview",
         "2020-10-19-preview",
@@ -165,6 +171,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-14-preview",
         "2020-11-10-preview",
         "2020-11-02-preview",
         "2020-10-19-preview",
@@ -189,6 +196,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-14-preview",
         "2020-11-10-preview",
         "2020-11-02-preview",
         "2020-10-19-preview",
@@ -213,6 +221,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-14-preview",
         "2020-11-10-preview",
         "2020-11-02-preview",
         "2020-10-19-preview",
@@ -237,6 +246,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-14-preview",
         "2020-11-10-preview",
         "2020-11-02-preview",
         "2020-10-19-preview",
@@ -261,6 +271,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-14-preview",
         "2020-11-10-preview",
         "2020-11-02-preview",
         "2020-10-19-preview",
@@ -286,6 +297,11 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-14-preview",
+        "2020-11-10-preview",
+        "2020-11-02-preview",
+        "2020-10-19-preview",
+        "2020-09-21-preview",
         "2019-12-10-preview",
         "2019-09-24-preview",
         "2019-01-23-preview"

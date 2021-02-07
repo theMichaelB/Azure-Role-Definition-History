@@ -14,7 +14,8 @@
         "Global",
         "United States",
         "Europe",
-        "Asia Pacific"
+        "Asia Pacific",
+        "Australia"
       ],
       "properties": null,
       "resourceType": "guestUsages"
@@ -35,7 +36,8 @@
         "Global",
         "United States",
         "Europe",
-        "Asia Pacific"
+        "Asia Pacific",
+        "Australia"
       ],
       "properties": null,
       "resourceType": "b2cDirectories"
@@ -51,7 +53,8 @@
         "Global",
         "United States",
         "Europe",
-        "Asia Pacific"
+        "Asia Pacific",
+        "Australia"
       ],
       "properties": null,
       "resourceType": "checkNameAvailability"
@@ -71,7 +74,8 @@
         "Global",
         "United States",
         "Europe",
-        "Asia Pacific"
+        "Asia Pacific",
+        "Australia"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -86,7 +90,8 @@
         "Global",
         "United States",
         "Europe",
-        "Asia Pacific"
+        "Asia Pacific",
+        "Australia"
       ],
       "properties": null,
       "resourceType": "b2ctenants"
