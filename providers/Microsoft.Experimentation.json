@@ -33,6 +33,17 @@
       ],
       "properties": null,
       "resourceType": "locations/operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-11-01-preview"
+      ],
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "operations"
     }
   ]
 }

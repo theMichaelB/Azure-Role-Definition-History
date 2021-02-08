@@ -21,6 +21,8 @@
         "East US",
         "West Europe",
         "Southeast Asia",
+        "Canada Central",
+        "South Central US",
         "Brazil South",
         "East US 2"
       ],
@@ -95,6 +97,8 @@
         "West Europe",
         "Southeast Asia",
         "Brazil South",
+        "Canada Central",
+        "South Central US",
         "East US 2"
       ],
       "properties": null,
