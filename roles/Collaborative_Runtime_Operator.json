@@ -8,6 +8,7 @@
   "permissions": [
     {
       "actions": [
+        "Microsoft.IndustryDataLifecycle/derivedModels/*",
         "Microsoft.IndustryDataLifecycle/pipelineSets/*",
         "Microsoft.Authorization/*/read",
         "Microsoft.Insights/alertRules/*",

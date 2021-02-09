@@ -13,7 +13,7 @@
         "Microsoft.Resources/subscriptions/resourceGroups/read"
       ],
       "dataActions": [
-        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/*"
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/*"
       ],
       "notActions": [],
       "notDataActions": []

@@ -15,7 +15,8 @@
       "dataActions": [
         "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/discoveries/*",
         "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/uploads/*",
-        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/measurements/states/new/*"
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/measurements/states/new/*",
+        "Microsoft.AutonomousDevelopmentPlatform/accounts/measurementCollections/*"
       ],
       "notActions": [],
       "notDataActions": [
