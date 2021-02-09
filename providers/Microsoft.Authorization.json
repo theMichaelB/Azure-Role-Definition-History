@@ -398,16 +398,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2021-01-01-preview"
-      ],
-      "capabilities": "SupportsExtension",
-      "locations": [],
-      "properties": null,
-      "resourceType": "roleAssignmentApprovals"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
         "2020-05-01"
       ],
       "capabilities": "SupportsExtension",
