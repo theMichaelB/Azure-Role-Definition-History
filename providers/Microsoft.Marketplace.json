@@ -4,6 +4,9 @@
       "applicationId": "a0e1e353-1a3e-42cf-a8ea-3a9746eec58c"
     },
     {
+      "applicationId": "87df0fbf-e22d-4d7c-bc30-f59ca7460837"
+    },
+    {
       "applicationId": "a5ce81bb-67c7-4043-952a-22004782adb5"
     }
   ],
@@ -191,6 +194,60 @@
       "locations": [],
       "properties": null,
       "resourceType": "privateStores/offers"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "privateStores/requestApprovals/query"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "privateStores/requestApprovals/withdrawPlan"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "privateStores/RequestApprovals"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "privateStores/queryNotificationsState"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "privateStores/offers/acknowledgeNotification"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "privateStores/AdminRequestApprovals"
     }
   ]
 }
