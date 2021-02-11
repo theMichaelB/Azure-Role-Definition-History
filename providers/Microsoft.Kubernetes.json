@@ -20,6 +20,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-04-01-preview",
+        "2021-03-01",
         "2020-01-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
@@ -41,6 +43,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-04-01-preview",
+        "2021-03-01",
         "2020-01-01-preview"
       ],
       "locations": [],
@@ -50,6 +54,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-04-01-preview",
+        "2021-03-01",
         "2020-01-01-preview"
       ],
       "locations": [
@@ -71,6 +77,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-04-01-preview",
+        "2021-03-01",
         "2020-01-01-preview"
       ],
       "locations": [],
@@ -80,6 +88,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-04-01-preview",
+        "2021-03-01",
         "2020-01-01-preview",
         "2019-11-01-preview",
         "2019-09-01-privatepreview"

@@ -1969,6 +1969,78 @@
     },
     {
       "aliases": null,
+      "apiProfiles": [
+        {
+          "apiVersion": "2016-03-30",
+          "profileVersion": "2017-03-09-profile"
+        },
+        {
+          "apiVersion": "2017-03-30",
+          "profileVersion": "2018-03-01-hybrid"
+        },
+        {
+          "apiVersion": "2017-12-01",
+          "profileVersion": "2018-06-01-profile"
+        }
+      ],
+      "apiVersions": [
+        "2020-12-01",
+        "2020-09-30",
+        "2020-06-01",
+        "2019-12-01",
+        "2019-07-01",
+        "2019-03-01",
+        "2018-10-01",
+        "2018-06-01",
+        "2018-04-01",
+        "2017-12-01",
+        "2017-03-30",
+        "2016-08-30",
+        "2016-04-30-preview",
+        "2016-03-30",
+        "2015-06-15",
+        "2015-05-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "East US 2",
+        "West US",
+        "Central US",
+        "North Central US",
+        "South Central US",
+        "North Europe",
+        "West Europe",
+        "East Asia",
+        "Southeast Asia",
+        "Japan East",
+        "Japan West",
+        "Australia East",
+        "Australia Southeast",
+        "Australia Central",
+        "Brazil South",
+        "South India",
+        "Central India",
+        "West India",
+        "Canada Central",
+        "Canada East",
+        "West US 2",
+        "West Central US",
+        "UK South",
+        "UK West",
+        "Korea Central",
+        "Korea South",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/sharedGalleries"
+    },
+    {
+      "aliases": null,
       "apiVersions": [
         "2017-10-15-preview"
       ],
