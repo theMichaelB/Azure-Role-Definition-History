@@ -9,12 +9,7 @@
     {
       "actions": [
         "Microsoft.Authorization/*/read",
-        "Microsoft.EventGrid/*/write",
-        "Microsoft.EventGrid/*/delete",
-        "Microsoft.EventGrid/*/read",
-        "Microsoft.EventGrid/*/listkeys/action",
-        "Microsoft.EventGrid/*/regenerateKey/action",
-        "Microsoft.EventGrid/*/getFullUrl/action",
+        "Microsoft.EventGrid/*",
         "Microsoft.Insights/alertRules/*",
         "Microsoft.Resources/deployments/*",
         "Microsoft.Resources/subscriptions/resourceGroups/read",
