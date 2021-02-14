@@ -451,6 +451,19 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-preview"
+      ],
+      "locations": [
+        "North Europe",
+        "West Central US",
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "managedclusters/applications"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2020-01-01-preview"
       ],
       "locations": [

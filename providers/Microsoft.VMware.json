@@ -43,6 +43,19 @@
       "locations": [],
       "properties": null,
       "resourceType": "Operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "VCenters/InventoryItems"
     }
   ]
 }

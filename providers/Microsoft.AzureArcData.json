@@ -1,5 +1,10 @@
 {
-  "authorizations": [],
+  "authorizations": [
+    {
+      "applicationId": "319f651f-7ddb-4fc6-9857-7aef9250bd05",
+      "roleDefinitionId": "2e103dbb-6933-4a8b-a358-17ee9ff00b9e"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AzureArcData",
   "namespace": "Microsoft.AzureArcData",
   "registrationState": "NotRegistered",
