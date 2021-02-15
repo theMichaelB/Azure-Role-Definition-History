@@ -541,7 +541,8 @@
         "East Asia",
         "Korea Central",
         "Australia Central",
-        "West US"
+        "West US",
+        "East US"
       ],
       "properties": null,
       "resourceType": "managedHSMs"

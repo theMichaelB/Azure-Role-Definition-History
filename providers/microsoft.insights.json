@@ -274,6 +274,7 @@
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "defaultApiVersion": "2018-04-16",
       "locations": [
+        "Global",
         "West Central US",
         "Australia East",
         "Central US",
