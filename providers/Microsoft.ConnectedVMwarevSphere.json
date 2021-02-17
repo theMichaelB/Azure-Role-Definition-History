@@ -1,0 +1,51 @@
+{
+  "authorizations": [],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ConnectedVMwarevSphere",
+  "namespace": "Microsoft.ConnectedVMwarevSphere",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "East US 2 EUAP",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "Locations/OperationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "Operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "VCenters/InventoryItems"
+    }
+  ]
+}

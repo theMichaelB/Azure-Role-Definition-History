@@ -447,6 +447,7 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01",
         "2020-12-01",
         "2020-06-01",
         "2020-04-01-preview",
@@ -532,10 +533,11 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
-      "defaultApiVersion": "2020-04-01-preview",
+      "defaultApiVersion": "2021-03-01",
       "locations": [
         "East US",
         "West Europe",
@@ -586,7 +588,9 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01",
         "2020-12-01",
+        "2020-10-01-preview",
         "2020-06-01",
         "2019-07-01",
         "2018-03-01",
@@ -612,11 +616,12 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2020-04-01-preview",
+      "defaultApiVersion": "2021-03-01",
       "locations": [
         "East US",
         "West Europe",
@@ -709,6 +714,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
@@ -730,6 +736,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
@@ -751,6 +758,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
@@ -772,6 +780,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
@@ -793,6 +802,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
@@ -814,6 +824,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
@@ -835,10 +846,11 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
-      "defaultApiVersion": "2020-04-01-preview",
+      "defaultApiVersion": "2021-03-01",
       "locations": [
         "East US",
         "West Europe",
