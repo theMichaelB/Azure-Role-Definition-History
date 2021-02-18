@@ -12,9 +12,8 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-08-20-rc",
         "2020-08-20-preview",
-        "2020-08-20-beta"
+        "2020-08-20"
       ],
       "locations": [],
       "properties": null,
@@ -23,11 +22,13 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-08-20-preview"
+        "2020-08-20-preview",
+        "2020-08-20"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "capabilities": "None",
+      "defaultApiVersion": "2020-08-20-preview",
       "locations": [
-        "Global"
+        "global"
       ],
       "properties": null,
       "resourceType": "CommunicationServices"
@@ -35,10 +36,12 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-08-20-preview"
+        "2020-08-20-preview",
+        "2020-08-20"
       ],
+      "defaultApiVersion": "2020-08-20-preview",
       "locations": [
-        "Global"
+        "global"
       ],
       "properties": null,
       "resourceType": "CommunicationServices/eventGridFilters"
@@ -46,9 +49,8 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-08-20-rc",
         "2020-08-20-preview",
-        "2020-08-20-beta"
+        "2020-08-20"
       ],
       "locations": [],
       "properties": null,
@@ -57,7 +59,8 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-08-20-preview"
+        "2020-08-20-preview",
+        "2020-08-20"
       ],
       "defaultApiVersion": "2020-08-20-preview",
       "locations": [],
@@ -67,28 +70,26 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-08-20-rc",
         "2020-08-20-preview",
-        "2020-08-20-beta"
+        "2020-08-20"
       ],
       "locations": [
-        "West US 2",
-        "North Europe",
-        "West US"
+        "West US 2"
       ],
       "properties": null,
-      "resourceType": "Locations/OperationStatuses"
+      "resourceType": "Locations/operationStatuses"
     },
     {
       "aliases": null,
       "apiVersions": [
-        "2020-08-20-preview"
+        "2020-08-20-preview",
+        "2020-08-20"
       ],
       "locations": [
-        "Global"
+        "global"
       ],
       "properties": null,
-      "resourceType": "checkNameAvailability"
+      "resourceType": "CheckNameAvailability"
     }
   ]
 }

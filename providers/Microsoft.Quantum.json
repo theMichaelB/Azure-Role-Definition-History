@@ -41,9 +41,7 @@
       "apiVersions": [
         "2019-11-04-preview"
       ],
-      "locations": [
-        "West US"
-      ],
+      "locations": [],
       "properties": null,
       "resourceType": "Locations"
     },

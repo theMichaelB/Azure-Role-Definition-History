@@ -422,6 +422,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-preview",
         "2020-01-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -437,6 +438,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-preview",
         "2020-01-01-preview"
       ],
       "locations": [
@@ -454,6 +456,7 @@
         "2021-01-01-preview"
       ],
       "locations": [
+        "East Asia",
         "North Europe",
         "West Central US",
         "East US 2"
@@ -464,6 +467,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-preview",
         "2020-01-01-preview"
       ],
       "locations": [
@@ -478,6 +482,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-preview",
         "2020-01-01-preview"
       ],
       "locations": [

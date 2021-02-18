@@ -2178,7 +2178,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "checkNameAvailability"
@@ -2225,7 +2226,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -2272,7 +2274,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations"
