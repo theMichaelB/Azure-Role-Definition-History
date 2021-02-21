@@ -623,6 +623,24 @@
       ],
       "locations": [],
       "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/validateDeleteBillingProfileEligibility"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-11-01-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "billingAccounts/billingProfiles/invoiceSections/validateDeleteInvoiceSectionEligibility"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-11-01-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
       "resourceType": "billingAccounts/invoices/transactionSummary"
     },
     {

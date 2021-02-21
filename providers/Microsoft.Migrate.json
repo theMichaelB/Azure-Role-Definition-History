@@ -109,7 +109,11 @@
       "defaultApiVersion": "2019-10-01-preview",
       "locations": [
         "East US 2",
-        "North Europe"
+        "North Europe",
+        "UK South",
+        "Southeast Asia",
+        "Australia East",
+        "Japan East"
       ],
       "properties": null,
       "resourceType": "moveCollections"
@@ -186,7 +190,11 @@
       "defaultApiVersion": "2019-10-01-preview",
       "locations": [
         "East US 2",
-        "North Europe"
+        "North Europe",
+        "UK South",
+        "Southeast Asia",
+        "Australia East",
+        "Japan East"
       ],
       "properties": null,
       "resourceType": "locations/rmsOperationResults"

@@ -19,16 +19,20 @@
       ],
       "capabilities": "SupportsExtension",
       "locations": [
+        "Central US",
         "East US",
         "East US 2",
         "South Central US",
+        "West US",
         "West US 2",
         "West Central US",
         "North Europe",
         "West Europe",
         "Canada Central",
         "Japan East",
-        "UK South"
+        "UK South",
+        "Australia Southeast",
+        "Australia East"
       ],
       "properties": null,
       "resourceType": "configurationProfileAssignments"
@@ -53,7 +57,9 @@
         "North Europe",
         "Canada Central",
         "Japan East",
-        "UK South"
+        "UK South",
+        "Australia Southeast",
+        "Australia East"
       ],
       "properties": null,
       "resourceType": "accounts"
@@ -78,7 +84,9 @@
         "North Europe",
         "Canada Central",
         "Japan East",
-        "UK South"
+        "UK South",
+        "Australia Southeast",
+        "Australia East"
       ],
       "properties": null,
       "resourceType": "configurationProfilePreferences"
