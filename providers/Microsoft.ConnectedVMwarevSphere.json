@@ -1,5 +1,10 @@
 {
-  "authorizations": [],
+  "authorizations": [
+    {
+      "applicationId": "ac9dc5fe-b644-4832-9d03-d9f1ab70c5f7",
+      "roleDefinitionId": "a27a5b7c-3d1a-4e97-b0ad-195eef808eb6"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ConnectedVMwarevSphere",
   "namespace": "Microsoft.ConnectedVMwarevSphere",
   "registrationState": "NotRegistered",

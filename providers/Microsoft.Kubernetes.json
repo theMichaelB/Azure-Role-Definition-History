@@ -11,6 +11,10 @@
     {
       "applicationId": "0000dab9-8b21-4ba2-807f-1743968cef00",
       "roleDefinitionId": "1b5c71b7-9814-4b40-b62a-23018af874d8"
+    },
+    {
+      "applicationId": "8edd93e1-2103-40b4-bd70-6e34e586362d",
+      "roleDefinitionId": "eb67887a-31e8-4e4e-bf5b-14ff79351a6f"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Kubernetes",

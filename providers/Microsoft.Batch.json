@@ -67,7 +67,8 @@
         "Australia Central",
         "Germany West Central",
         "Switzerland North",
-        "Norway East"
+        "Norway East",
+        "Brazil Southeast"
       ],
       "properties": null,
       "resourceType": "batchAccounts"
@@ -125,7 +126,8 @@
         "Australia Central",
         "Germany West Central",
         "Switzerland North",
-        "Norway East"
+        "Norway East",
+        "Brazil Southeast"
       ],
       "properties": null,
       "resourceType": "batchAccounts/pools"
@@ -182,7 +184,8 @@
         "Australia Central",
         "Germany West Central",
         "Switzerland North",
-        "Norway East"
+        "Norway East",
+        "Brazil Southeast"
       ],
       "properties": null,
       "resourceType": "batchAccounts/certificates"
@@ -243,7 +246,8 @@
         "Australia Central",
         "Germany West Central",
         "Switzerland North",
-        "Norway East"
+        "Norway East",
+        "Brazil Southeast"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -331,7 +335,8 @@
         "Australia Central",
         "Germany West Central",
         "Switzerland North",
-        "Norway East"
+        "Norway East",
+        "Brazil Southeast"
       ],
       "properties": null,
       "resourceType": "locations/quotas"
@@ -390,7 +395,8 @@
         "Australia Central",
         "Germany West Central",
         "Switzerland North",
-        "Norway East"
+        "Norway East",
+        "Brazil Southeast"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -447,7 +453,8 @@
         "Australia Central",
         "Germany West Central",
         "Switzerland North",
-        "Norway East"
+        "Norway East",
+        "Brazil Southeast"
       ],
       "properties": null,
       "resourceType": "locations/accountOperationResults"

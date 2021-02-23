@@ -12,6 +12,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-06-01",
         "2020-04-01-preview",
         "2020-01-01-preview",
@@ -31,6 +32,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-06-01",
         "2020-04-01-preview",
         "2020-01-01-preview",
@@ -84,6 +86,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-06-01",
         "2020-04-01-preview",
         "2020-01-01-preview",
@@ -138,6 +141,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-06-01",
         "2020-04-01-preview",
         "2020-01-01-preview",
@@ -192,6 +196,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-06-01",
         "2020-04-01-preview",
         "2020-01-01-preview",
@@ -241,6 +246,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-06-01",
         "2020-04-01-preview",
         "2020-01-01-preview",
@@ -289,6 +295,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-06-01",
         "2020-04-01-preview",
         "2020-01-01-preview",
@@ -343,6 +350,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-06-01",
         "2020-04-01-preview",
         "2020-01-01-preview",
@@ -397,6 +405,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-06-01",
         "2020-04-01-preview",
         "2020-01-01-preview",
@@ -450,6 +459,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-06-01",
         "2020-04-01-preview",
         "2020-01-01-preview",
@@ -503,6 +513,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-06-01",
         "2020-04-01-preview",
         "2020-01-01-preview",
@@ -555,6 +566,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-06-01",
         "2020-04-01-preview",
         "2020-01-01-preview",
@@ -609,6 +621,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-06-01",
         "2020-04-01-preview",
         "2020-01-01-preview",
@@ -628,6 +641,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-06-01",
         "2020-04-01-preview",
         "2020-01-01-preview",
@@ -647,6 +661,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-04-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
@@ -692,6 +707,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-04-01-preview"
       ],
       "locations": [
@@ -736,6 +752,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-04-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -792,6 +809,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-04-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -836,6 +854,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-04-01-preview"
       ],
       "locations": [
@@ -879,6 +898,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-15-preview",
         "2020-04-01-preview"
       ],
       "locations": [

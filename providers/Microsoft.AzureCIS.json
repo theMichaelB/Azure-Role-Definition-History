@@ -1,0 +1,39 @@
+{
+  "authorizations": [],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AzureCIS",
+  "namespace": "Microsoft.AzureCIS",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-02-01"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "Australia East",
+        "Australia Southeast",
+        "Canada Central",
+        "Central India",
+        "Central US",
+        "East Asia",
+        "East US",
+        "East US 2",
+        "France Central",
+        "Japan East",
+        "Korea Central",
+        "North Europe",
+        "Southeast Asia",
+        "South Central US",
+        "UAE North",
+        "UK South",
+        "West Central US",
+        "West Europe",
+        "West US",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "autopilotEnvironments"
+    }
+  ]
+}

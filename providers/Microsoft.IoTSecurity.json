@@ -1,7 +1,8 @@
 {
   "authorizations": [
     {
-      "applicationId": "cfbd4387-1a16-4945-83c0-ec10e46cd4da"
+      "applicationId": "cfbd4387-1a16-4945-83c0-ec10e46cd4da",
+      "roleDefinitionId": "d5d6ff70-e29a-4cec-b30b-4bd7ebcdcbaa"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.IoTSecurity",
