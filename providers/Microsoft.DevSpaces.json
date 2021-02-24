@@ -10,14 +10,12 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
-        "East US",
         "West Europe",
         "Canada Central",
         "Central US",
         "West US 2",
         "East US 2",
-        "North Europe",
-        "South Central US"
+        "North Europe"
       ],
       "properties": null,
       "resourceType": "controllers"
@@ -28,14 +26,12 @@
         "2019-04-01"
       ],
       "locations": [
-        "East US",
         "West Europe",
         "Canada Central",
         "Central US",
         "West US 2",
         "East US 2",
-        "North Europe",
-        "South Central US"
+        "North Europe"
       ],
       "properties": null,
       "resourceType": "controllers/listConnectionDetails"
@@ -47,14 +43,12 @@
         "2019-04-01"
       ],
       "locations": [
-        "East US",
         "West Europe",
         "Canada Central",
         "Central US",
         "West US 2",
         "East US 2",
-        "North Europe",
-        "South Central US"
+        "North Europe"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -65,14 +59,12 @@
         "2019-04-01"
       ],
       "locations": [
-        "East US",
         "West Europe",
         "Canada Central",
         "Central US",
         "West US 2",
         "East US 2",
-        "North Europe",
-        "South Central US"
+        "North Europe"
       ],
       "properties": null,
       "resourceType": "locations"
@@ -83,14 +75,12 @@
         "2019-04-01"
       ],
       "locations": [
-        "East US",
         "West Europe",
         "Canada Central",
         "Central US",
         "West US 2",
         "East US 2",
-        "North Europe",
-        "South Central US"
+        "North Europe"
       ],
       "properties": null,
       "resourceType": "locations/operationresults"
@@ -101,14 +91,12 @@
         "2019-04-01"
       ],
       "locations": [
-        "East US",
         "West Europe",
         "Canada Central",
         "Central US",
         "West US 2",
         "East US 2",
-        "North Europe",
-        "South Central US"
+        "North Europe"
       ],
       "properties": null,
       "resourceType": "locations/checkContainerHostMapping"
