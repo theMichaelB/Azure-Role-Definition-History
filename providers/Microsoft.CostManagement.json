@@ -376,12 +376,41 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "ScheduledActions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "CheckNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2020-08-01-preview"
       ],
       "capabilities": "SupportsExtension",
       "locations": [],
       "properties": null,
       "resourceType": "Insights"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-01-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "fetchPrices"
     },
     {
       "aliases": null,
