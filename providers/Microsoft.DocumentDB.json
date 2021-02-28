@@ -26,6 +26,7 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01-preview",
         "2021-01-15",
         "2020-09-01",
         "2020-06-01-preview",
@@ -43,15 +44,7 @@
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "defaultApiVersion": "2020-06-01-preview",
       "locations": [
-        "Australia Central",
-        "Australia Southeast",
         "East US",
-        "Japan West",
-        "South Central US",
-        "South India",
-        "West India",
-        "West US",
-        "Korea South",
         "West Central US",
         "North Central US",
         "Central US",
@@ -75,7 +68,15 @@
         "Canada East",
         "East Asia",
         "Germany West Central",
-        "UK South"
+        "UK South",
+        "Australia Central",
+        "Australia Southeast",
+        "Japan West",
+        "Korea South",
+        "South India",
+        "West India",
+        "West US",
+        "South Central US"
       ],
       "properties": null,
       "resourceType": "databaseAccounts"
@@ -89,6 +90,7 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01-preview",
         "2021-01-15",
         "2020-09-01",
         "2020-06-01-preview",
@@ -150,6 +152,7 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01-preview",
         "2021-01-15",
         "2020-09-01",
         "2020-06-01-preview",
@@ -211,6 +214,7 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01-preview",
         "2021-01-15",
         "2020-09-01",
         "2020-06-01-preview",
@@ -272,6 +276,7 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01-preview",
         "2021-01-15",
         "2020-09-01",
         "2020-06-01-preview",
@@ -287,15 +292,7 @@
         "2014-04-01"
       ],
       "locations": [
-        "Australia Central",
-        "Australia Southeast",
         "East US",
-        "Japan West",
-        "South Central US",
-        "South India",
-        "West India",
-        "West US",
-        "Korea South",
         "West Central US",
         "North Central US",
         "Central US",
@@ -319,7 +316,15 @@
         "Canada East",
         "East Asia",
         "Germany West Central",
-        "UK South"
+        "UK South",
+        "Australia Central",
+        "Australia Southeast",
+        "Japan West",
+        "Korea South",
+        "South India",
+        "West India",
+        "West US",
+        "South Central US"
       ],
       "properties": null,
       "resourceType": "locations/operationsStatus"
@@ -333,6 +338,7 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01-preview",
         "2021-01-15",
         "2020-09-01",
         "2020-06-01-preview",
@@ -348,15 +354,7 @@
         "2014-04-01"
       ],
       "locations": [
-        "Australia Central",
-        "Australia Southeast",
         "East US",
-        "Japan West",
-        "South Central US",
-        "South India",
-        "West India",
-        "West US",
-        "Korea South",
         "West Central US",
         "North Central US",
         "Central US",
@@ -380,7 +378,15 @@
         "Canada East",
         "East Asia",
         "Germany West Central",
-        "UK South"
+        "UK South",
+        "Australia Central",
+        "Australia Southeast",
+        "Japan West",
+        "Korea South",
+        "South India",
+        "West India",
+        "West US",
+        "South Central US"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -388,6 +394,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01-preview",
         "2021-01-15",
         "2020-09-01",
         "2020-06-01-preview",
@@ -443,6 +450,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01-preview",
         "2021-01-15",
         "2020-09-01",
         "2020-06-01-preview",
@@ -458,15 +466,7 @@
         "2014-04-01"
       ],
       "locations": [
-        "Australia Central",
-        "Australia Southeast",
         "East US",
-        "Japan West",
-        "South Central US",
-        "South India",
-        "West India",
-        "West US",
-        "Korea South",
         "West Central US",
         "North Central US",
         "Central US",
@@ -490,7 +490,15 @@
         "Canada East",
         "East Asia",
         "Germany West Central",
-        "UK South"
+        "UK South",
+        "Australia Central",
+        "Australia Southeast",
+        "Japan West",
+        "Korea South",
+        "South India",
+        "West India",
+        "West US",
+        "South Central US"
       ],
       "properties": null,
       "resourceType": "locations/deleteVirtualNetworkOrSubnets"
@@ -501,15 +509,7 @@
         "2020-06-01-preview"
       ],
       "locations": [
-        "Australia Central",
-        "Australia Southeast",
         "East US",
-        "Japan West",
-        "South Central US",
-        "South India",
-        "West India",
-        "West US",
-        "Korea South",
         "West Central US",
         "North Central US",
         "Central US",
@@ -533,7 +533,15 @@
         "Canada East",
         "East Asia",
         "Germany West Central",
-        "UK South"
+        "UK South",
+        "Australia Central",
+        "Australia Southeast",
+        "Japan West",
+        "Korea South",
+        "South India",
+        "West India",
+        "West US",
+        "South Central US"
       ],
       "properties": null,
       "resourceType": "locations/restorableDatabaseAccounts"
@@ -544,15 +552,7 @@
         "2020-06-01-preview"
       ],
       "locations": [
-        "Australia Central",
-        "Australia Southeast",
         "East US",
-        "Japan West",
-        "South Central US",
-        "South India",
-        "West India",
-        "West US",
-        "Korea South",
         "West Central US",
         "North Central US",
         "Central US",
@@ -576,10 +576,63 @@
         "Canada East",
         "East Asia",
         "Germany West Central",
-        "UK South"
+        "UK South",
+        "Australia Central",
+        "Australia Southeast",
+        "Japan West",
+        "Korea South",
+        "South India",
+        "West India",
+        "West US",
+        "South Central US"
       ],
       "properties": null,
       "resourceType": "restorableDatabaseAccounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01-preview"
+      ],
+      "capabilities": "None",
+      "defaultApiVersion": "2021-03-01-preview",
+      "locations": [
+        "East US",
+        "West Central US",
+        "North Central US",
+        "Central US",
+        "Brazil South",
+        "Canada Central",
+        "West US 2",
+        "East US 2",
+        "France Central",
+        "Japan East",
+        "Southeast Asia",
+        "Central India",
+        "South Africa North",
+        "Switzerland North",
+        "UAE North",
+        "UK West",
+        "North Europe",
+        "West Europe",
+        "Norway East",
+        "Korea Central",
+        "Australia East",
+        "Canada East",
+        "East Asia",
+        "Germany West Central",
+        "UK South",
+        "Australia Central",
+        "Australia Southeast",
+        "Japan West",
+        "Korea South",
+        "South India",
+        "West India",
+        "West US",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "cassandraClusters"
     }
   ]
 }

@@ -47,6 +47,34 @@
       "apiVersions": [
         "2020-03-01-preview"
       ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "West US 2",
+        "North Europe",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "accounts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US 2",
+        "North Europe",
+        "Southeast Asia"
+      ],
+      "properties": null,
+      "resourceType": "accounts/instances"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-01-preview"
+      ],
       "locations": [],
       "properties": null,
       "resourceType": "checkNameAvailability"
