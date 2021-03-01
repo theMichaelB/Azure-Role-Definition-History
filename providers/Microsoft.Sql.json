@@ -5569,7 +5569,7 @@
         "2017-03-01-preview",
         "2015-05-01-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "capabilities": "SystemAssignedResourceIdentity",
       "locations": [
         "Australia Central",
         "Australia East",
@@ -5666,7 +5666,7 @@
         "2017-10-01-preview",
         "2017-03-01-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "capabilities": "None",
       "locations": [
         "Australia Central",
         "Australia East",

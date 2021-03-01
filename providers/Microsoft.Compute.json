@@ -305,7 +305,11 @@
         },
         {
           "location": "Brazil South",
-          "zones": []
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
         },
         {
           "location": "Central India",
@@ -582,7 +586,11 @@
         },
         {
           "location": "Brazil South",
-          "zones": []
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
         },
         {
           "location": "Central India",
@@ -2584,7 +2592,11 @@
         },
         {
           "location": "Brazil South",
-          "zones": []
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
         },
         {
           "location": "Central India",
@@ -3109,7 +3121,11 @@
         },
         {
           "location": "Brazil South",
-          "zones": []
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
         },
         {
           "location": "Central India",
@@ -3289,7 +3305,11 @@
         },
         {
           "location": "Brazil South",
-          "zones": []
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
         },
         {
           "location": "Central India",
