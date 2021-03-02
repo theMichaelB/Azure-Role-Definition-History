@@ -21,6 +21,7 @@
         }
       ],
       "apiVersions": [
+        "2020-08-01-preview",
         "2020-04-01-preview",
         "2020-03-01-preview",
         "2019-04-01-preview",
@@ -378,6 +379,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01-preview",
         "2018-05-01-preview"
       ],
       "capabilities": "SupportsExtension",

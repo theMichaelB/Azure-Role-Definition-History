@@ -320,7 +320,12 @@
         "France Central",
         "France South",
         "Canada East",
-        "Canada Central"
+        "Canada Central",
+        "Korea South",
+        "Korea Central",
+        "Central India",
+        "South India",
+        "Brazil South"
       ],
       "properties": null,
       "resourceType": "ProvisioningServices"
