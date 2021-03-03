@@ -14,8 +14,7 @@
         "Canada Central",
         "Central US",
         "West US 2",
-        "East US 2",
-        "North Europe"
+        "East US 2"
       ],
       "properties": null,
       "resourceType": "controllers"
@@ -30,8 +29,7 @@
         "Canada Central",
         "Central US",
         "West US 2",
-        "East US 2",
-        "North Europe"
+        "East US 2"
       ],
       "properties": null,
       "resourceType": "controllers/listConnectionDetails"
@@ -47,8 +45,7 @@
         "Canada Central",
         "Central US",
         "West US 2",
-        "East US 2",
-        "North Europe"
+        "East US 2"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -63,8 +60,7 @@
         "Canada Central",
         "Central US",
         "West US 2",
-        "East US 2",
-        "North Europe"
+        "East US 2"
       ],
       "properties": null,
       "resourceType": "locations"
@@ -79,8 +75,7 @@
         "Canada Central",
         "Central US",
         "West US 2",
-        "East US 2",
-        "North Europe"
+        "East US 2"
       ],
       "properties": null,
       "resourceType": "locations/operationresults"
@@ -95,8 +90,7 @@
         "Canada Central",
         "Central US",
         "West US 2",
-        "East US 2",
-        "North Europe"
+        "East US 2"
       ],
       "properties": null,
       "resourceType": "locations/checkContainerHostMapping"

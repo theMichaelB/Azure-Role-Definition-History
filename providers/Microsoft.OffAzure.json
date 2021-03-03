@@ -38,7 +38,8 @@
         "Korea Central",
         "Korea South",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Australia East"
       ],
       "properties": null,
       "resourceType": "VMwareSites"
@@ -70,7 +71,8 @@
         "Korea Central",
         "Korea South",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Australia East"
       ],
       "properties": null,
       "resourceType": "HyperVSites"
@@ -101,7 +103,8 @@
         "Korea Central",
         "Korea South",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Australia East"
       ],
       "properties": null,
       "resourceType": "ServerSites"
@@ -133,7 +136,8 @@
         "Korea Central",
         "Korea South",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Australia East"
       ],
       "properties": null,
       "resourceType": "ImportSites"
@@ -163,7 +167,8 @@
         "Korea Central",
         "Korea South",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Australia East"
       ],
       "properties": null,
       "resourceType": "MasterSites"
@@ -201,7 +206,8 @@
         "Korea Central",
         "Korea South",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Australia East"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"

@@ -300,6 +300,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2020-06-01",
         "2020-05-01-preview",
         "2019-11-01",

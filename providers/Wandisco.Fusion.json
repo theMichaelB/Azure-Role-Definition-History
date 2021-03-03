@@ -12,6 +12,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2019-09-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -31,6 +32,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2019-09-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -50,6 +52,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2019-09-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -69,6 +72,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2019-09-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -88,6 +92,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2019-09-01-preview"
       ],
       "locations": [
@@ -99,6 +104,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2019-09-01-preview"
       ],
       "locations": [
@@ -118,6 +124,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2019-09-01-preview"
       ],
       "locations": [],
@@ -127,6 +134,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2019-09-01-preview"
       ],
       "locations": [],
@@ -136,6 +144,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2019-09-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -155,6 +164,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2019-09-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -174,6 +184,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2019-09-01-preview"
       ],
       "locations": [],
@@ -183,6 +194,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2019-09-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -202,6 +214,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2019-09-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -221,6 +234,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01-preview",
         "2019-09-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",

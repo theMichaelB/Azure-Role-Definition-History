@@ -448,6 +448,7 @@
       ],
       "apiVersions": [
         "2021-03-01",
+        "2021-02-01-preview",
         "2020-12-01",
         "2020-06-01",
         "2020-04-01-preview",
@@ -534,6 +535,7 @@
       ],
       "apiVersions": [
         "2021-03-01",
+        "2021-02-01-preview",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
@@ -548,7 +550,8 @@
         "UK South",
         "Southeast Asia",
         "Australia East",
-        "North Europe"
+        "North Europe",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "locations/operationsStatus"
@@ -589,6 +592,7 @@
       ],
       "apiVersions": [
         "2021-03-01",
+        "2021-02-01-preview",
         "2020-12-01",
         "2020-10-01-preview",
         "2020-06-01",
@@ -617,6 +621,7 @@
       ],
       "apiVersions": [
         "2021-03-01",
+        "2021-02-01-preview",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
@@ -632,13 +637,22 @@
         "UK South",
         "Southeast Asia",
         "Australia East",
-        "North Europe"
+        "North Europe",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "redisEnterprise",
       "zoneMappings": [
         {
           "location": "East US 2",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "Central US",
           "zones": [
             "1",
             "2",
@@ -715,6 +729,7 @@
       "aliases": null,
       "apiVersions": [
         "2021-03-01",
+        "2021-02-01-preview",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
@@ -728,7 +743,8 @@
         "UK South",
         "Southeast Asia",
         "Australia East",
-        "North Europe"
+        "North Europe",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "RedisEnterprise/privateEndpointConnectionProxies"
@@ -737,6 +753,7 @@
       "aliases": null,
       "apiVersions": [
         "2021-03-01",
+        "2021-02-01-preview",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
@@ -750,7 +767,8 @@
         "UK South",
         "Southeast Asia",
         "Australia East",
-        "North Europe"
+        "North Europe",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "RedisEnterprise/privateEndpointConnectionProxies/validate"
@@ -759,6 +777,7 @@
       "aliases": null,
       "apiVersions": [
         "2021-03-01",
+        "2021-02-01-preview",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
@@ -772,7 +791,8 @@
         "UK South",
         "Southeast Asia",
         "Australia East",
-        "North Europe"
+        "North Europe",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "RedisEnterprise/privateEndpointConnectionProxies/operationresults"
@@ -781,6 +801,7 @@
       "aliases": null,
       "apiVersions": [
         "2021-03-01",
+        "2021-02-01-preview",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
@@ -794,7 +815,8 @@
         "UK South",
         "Southeast Asia",
         "Australia East",
-        "North Europe"
+        "North Europe",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "RedisEnterprise/privateEndpointConnections"
@@ -803,6 +825,7 @@
       "aliases": null,
       "apiVersions": [
         "2021-03-01",
+        "2021-02-01-preview",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
@@ -816,7 +839,8 @@
         "UK South",
         "Southeast Asia",
         "Australia East",
-        "North Europe"
+        "North Europe",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "RedisEnterprise/privateEndpointConnections/operationresults"
@@ -825,6 +849,7 @@
       "aliases": null,
       "apiVersions": [
         "2021-03-01",
+        "2021-02-01-preview",
         "2020-10-01-preview",
         "2020-04-01-preview"
       ],
@@ -838,10 +863,36 @@
         "UK South",
         "Southeast Asia",
         "Australia East",
-        "North Europe"
+        "North Europe",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "RedisEnterprise/privateLinkResources"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2021-02-01-preview",
+        "2020-10-01-preview",
+        "2020-04-01-preview"
+      ],
+      "defaultApiVersion": "2021-03-01",
+      "locations": [
+        "East US",
+        "West Europe",
+        "West US",
+        "East US 2",
+        "West US 2",
+        "South Central US",
+        "UK South",
+        "Southeast Asia",
+        "Australia East",
+        "North Europe",
+        "Central US"
+      ],
+      "properties": null,
+      "resourceType": "redisEnterprise/databases"
     },
     {
       "aliases": null,
@@ -861,7 +912,8 @@
         "UK South",
         "Southeast Asia",
         "Australia East",
-        "North Europe"
+        "North Europe",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
