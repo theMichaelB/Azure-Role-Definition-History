@@ -29,6 +29,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-12-01",
         "2019-06-01-preview"
       ],
@@ -68,6 +69,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-12-01",
         "2019-06-01-preview"
       ],
@@ -107,7 +109,9 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-12-01",
+        "2020-04-01-preview",
         "2019-06-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -146,6 +150,193 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-04-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "West US 2",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "West Central US",
+        "South Central US",
+        "East US 2",
+        "UK South",
+        "West US",
+        "Australia Southeast",
+        "East Asia",
+        "Brazil South",
+        "Central US",
+        "Central India",
+        "Japan East",
+        "North Central US",
+        "Canada Central",
+        "Canada East",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Japan West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/sqlDatabases"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-01-preview"
+      ],
+      "locations": [
+        "West US 2",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "West Central US",
+        "South Central US",
+        "East US 2",
+        "UK South",
+        "West US",
+        "Australia Southeast",
+        "East Asia",
+        "Brazil South",
+        "Central US",
+        "Central India",
+        "Japan East",
+        "North Central US",
+        "Canada Central",
+        "Canada East",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Japan West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central"
+      ],
+      "properties": null,
+      "resourceType": "locations/sqlDatabaseAzureAsyncOperation"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-01-preview"
+      ],
+      "locations": [
+        "West US 2",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "West Central US",
+        "South Central US",
+        "East US 2",
+        "UK South",
+        "West US",
+        "Australia Southeast",
+        "East Asia",
+        "Brazil South",
+        "Central US",
+        "Central India",
+        "Japan East",
+        "North Central US",
+        "Canada Central",
+        "Canada East",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Japan West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central"
+      ],
+      "properties": null,
+      "resourceType": "locations/sqlDatabaseOperationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-01-preview"
+      ],
+      "locations": [
+        "West US 2",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "West Central US",
+        "South Central US",
+        "East US 2",
+        "UK South",
+        "West US",
+        "Australia Southeast",
+        "East Asia",
+        "Brazil South",
+        "Central US",
+        "Central India",
+        "Japan East",
+        "North Central US",
+        "Canada Central",
+        "Canada East",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Japan West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central"
+      ],
+      "properties": null,
+      "resourceType": "locations/sqlPoolAzureAsyncOperation"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-04-01-preview"
+      ],
+      "locations": [
+        "West US 2",
+        "East US",
+        "North Europe",
+        "West Europe",
+        "Southeast Asia",
+        "Australia East",
+        "West Central US",
+        "South Central US",
+        "East US 2",
+        "UK South",
+        "West US",
+        "Australia Southeast",
+        "East Asia",
+        "Brazil South",
+        "Central US",
+        "Central India",
+        "Japan East",
+        "North Central US",
+        "Canada Central",
+        "Canada East",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Japan West",
+        "France Central",
+        "Switzerland North",
+        "Germany West Central"
+      ],
+      "properties": null,
+      "resourceType": "locations/sqlPoolOperationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
         "2020-12-01",
         "2019-06-01-preview"
       ],
@@ -184,6 +375,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-12-01",
         "2019-06-01-preview"
       ],
@@ -222,6 +414,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-12-01",
         "2019-06-01-preview"
       ],
@@ -232,6 +425,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-12-01",
         "2019-06-01-preview"
       ],
@@ -270,6 +464,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-12-01",
         "2019-06-01-preview"
       ],
@@ -309,6 +504,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-12-01",
         "2019-06-01-preview"
       ],
@@ -319,6 +515,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-12-01",
         "2019-06-01-preview"
       ],
@@ -357,6 +554,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01",
         "2020-12-01",
         "2019-06-01-preview"
       ],
