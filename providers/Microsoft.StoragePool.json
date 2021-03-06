@@ -17,6 +17,15 @@
       ],
       "locations": [],
       "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-03-15-preview"
+      ],
+      "locations": [],
+      "properties": null,
       "resourceType": "operations"
     }
   ]

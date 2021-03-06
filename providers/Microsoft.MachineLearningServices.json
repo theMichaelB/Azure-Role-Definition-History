@@ -16,6 +16,11 @@
       "roleDefinitionId": "8b910db7-60f9-4c04-af30-71aab18eda90"
     },
     {
+      "applicationId": "fb9de05a-fecc-4642-b3ca-66b9d4434d4d",
+      "managedByRoleDefinitionId": "91d00862-cf55-46a5-9dce-260bbd92ce25",
+      "roleDefinitionId": "8b910db7-60f9-4c04-af30-71aab18eda90"
+    },
+    {
       "applicationId": "6608bce8-e060-4e82-bfd2-67ed4f60262f",
       "managedByRoleDefinitionId": "91d00862-cf55-46a5-9dce-260bbd92ce25",
       "roleDefinitionId": "344880d0-81ee-4377-b825-b8b79810e492"
@@ -124,6 +129,163 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01-preview",
+        "2020-09-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/jobs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01-preview",
+        "2020-09-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/codes"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01-preview",
+        "2020-09-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/codes/versions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01-preview",
+        "2020-09-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/environments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01-preview",
+        "2020-09-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/data"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01-preview",
+        "2020-09-01-preview",
         "2020-05-01-preview"
       ],
       "locations": [
@@ -194,6 +356,68 @@
       ],
       "properties": null,
       "resourceType": "workspaces/eventGridFilters"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01-preview",
+        "2020-09-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/models"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01-preview",
+        "2020-09-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/models/versions"
     },
     {
       "aliases": null,
@@ -552,6 +776,37 @@
       ],
       "properties": null,
       "resourceType": "workspaces/linkedServices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01-preview",
+        "2020-09-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/labelingJobs"
     }
   ]
 }

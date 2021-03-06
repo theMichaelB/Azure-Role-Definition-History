@@ -76,6 +76,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-15-privatepreview",
         "2020-05-01",
         "2019-10-01-preview"
       ],
@@ -86,6 +87,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-15-privatepreview",
         "2020-05-01",
         "2019-10-01-preview"
       ],
@@ -96,6 +98,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-15-privatepreview",
         "2020-05-01",
         "2019-10-01-preview"
       ],
@@ -126,6 +129,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-15-privatepreview",
         "2020-05-01",
         "2019-10-01-preview"
       ],
@@ -183,6 +187,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-15-privatepreview",
         "2020-05-01",
         "2019-10-01-preview"
       ],
@@ -203,6 +208,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-15-privatepreview",
         "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
@@ -273,6 +279,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-15-privatepreview",
         "2020-11-01-privatepreview",
         "2020-05-01",
         "2019-10-01-preview",
@@ -295,6 +302,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-15-privatepreview",
         "2020-05-01",
         "2019-10-01-preview"
       ],
@@ -390,6 +398,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-15-privatepreview",
         "2020-11-01-privatepreview",
         "2020-05-01",
         "2019-10-01-preview",
@@ -421,6 +430,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-15-privatepreview",
         "2019-10-01-preview",
         "2018-06-30"
       ],
@@ -441,6 +451,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-15-privatepreview",
         "2020-05-01",
         "2019-10-01-preview"
       ],
@@ -461,6 +472,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-15-privatepreview",
         "2019-10-01-preview",
         "2018-06-30"
       ],
@@ -481,6 +493,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-15-privatepreview",
         "2020-05-01",
         "2019-10-01-preview"
       ],
@@ -668,6 +681,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-15-privatepreview",
         "2020-05-01",
         "2019-10-01-preview",
         "2018-11-01-preview"
