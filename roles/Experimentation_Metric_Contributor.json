@@ -7,16 +7,20 @@
   "name": "6188b7c9-7d01-4f99-a59f-c88b630326c0",
   "permissions": [
     {
-      "actions": [],
+      "actions": [
+        "Microsoft.Experimentation/experimentWorkspaces/read"
+      ],
       "dataActions": [
         "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/read",
-        "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/metricwrite/action"
+        "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/metricwrite/action",
+        "Microsoft.Experimentation/experimentWorkspaces/metricwrite/action",
+        "Microsoft.Experimentation/experimentWorkspaces/read"
       ],
       "notActions": [],
       "notDataActions": []
     }
   ],
-  "roleName": "Metric Contributor",
+  "roleName": "Experimentation Metric Contributor",
   "roleType": "BuiltInRole",
   "type": "Microsoft.Authorization/roleDefinitions"
 }

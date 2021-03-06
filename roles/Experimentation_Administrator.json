@@ -9,9 +9,7 @@
     {
       "actions": [
         "Microsoft.Resources/subscriptions/resourceGroups/read",
-        "Microsoft.Experimentation/experimentWorkspaces/read",
-        "Microsoft.Experimentation/experimentWorkspaces/write",
-        "Microsoft.Experimentation/experimentWorkspaces/delete"
+        "Microsoft.Experimentation/experimentWorkspaces/read"
       ],
       "dataActions": [
         "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/admin/action",

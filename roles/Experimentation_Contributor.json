@@ -13,6 +13,8 @@
       ],
       "dataActions": [
         "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/read",
+        "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/write",
+        "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/delete",
         "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/experiment/action",
         "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/emergencystop/action",
         "Microsoft.Experimentation/experimentWorkspaces/read",
