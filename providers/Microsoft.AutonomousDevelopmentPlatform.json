@@ -17,6 +17,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-02-01-preview",
         "2020-07-01-preview"
       ],
       "locations": [],
@@ -26,6 +27,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-02-01-preview",
         "2020-07-01-preview"
       ],
       "locations": [],
@@ -35,6 +37,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-02-01-preview",
         "2020-07-01-preview"
       ],
       "locations": [
@@ -43,6 +46,16 @@
       ],
       "properties": null,
       "resourceType": "locations/operationstatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-02-01-preview",
+        "2020-07-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checknameavailability"
     }
   ]
 }

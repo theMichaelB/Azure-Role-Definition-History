@@ -2,12 +2,75 @@
   "authorizations": [
     {
       "applicationId": "de926fbf-e23b-41f9-ae15-c943a9cfa630"
+    },
+    {
+      "applicationId": "01fc33a7-78ba-4d2f-a4b7-768e336e890e"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization",
   "namespace": "Microsoft.Authorization",
   "registrationState": "Registered",
   "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "roleAssignmentScheduleRequests"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "roleEligibilityScheduleRequests"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "roleAssignmentSchedules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "roleEligibilitySchedules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "roleAssignmentScheduleInstances"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "roleEligibilityScheduleInstances"
+    },
     {
       "aliases": null,
       "apiProfiles": [
