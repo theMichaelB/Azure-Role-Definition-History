@@ -12,6 +12,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-05-preview",
         "2021-02-12-preview",
         "2021-01-21-preview",
         "2020-11-30-preview",

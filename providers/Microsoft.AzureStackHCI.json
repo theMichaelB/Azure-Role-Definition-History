@@ -60,7 +60,7 @@
         "Southeast Asia"
       ],
       "properties": null,
-      "resourceType": "locations/operationStatuses"
+      "resourceType": "Locations/OperationStatuses"
     }
   ]
 }
