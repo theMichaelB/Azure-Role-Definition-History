@@ -10,11 +10,21 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-30",
         "2020-04-01"
       ],
       "locations": [],
       "properties": null,
       "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-30"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "enterprisePolicies"
     }
   ]
 }

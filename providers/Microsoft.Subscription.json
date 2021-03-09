@@ -25,6 +25,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-privatepreview",
         "2019-10-01-preview",
         "2018-11-01-preview",
         "2018-03-01-preview",
@@ -103,6 +104,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-privatepreview",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -112,6 +114,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-privatepreview",
         "2020-09-01",
         "2019-10-01-preview"
       ],
@@ -133,6 +136,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-privatepreview",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -142,6 +146,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-privatepreview",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -151,11 +156,40 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-privatepreview",
         "2019-10-01-preview"
       ],
       "locations": [],
       "properties": null,
       "resourceType": "changeTenantRequest"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-01-01-privatepreview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "policies"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-01-01-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "acceptOwnership"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-01-01-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "acceptOwnershipStatus"
     }
   ]
 }

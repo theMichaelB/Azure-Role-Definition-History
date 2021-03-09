@@ -51,6 +51,18 @@
       ],
       "properties": null,
       "resourceType": "VCenters/InventoryItems"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "VirtualMachines/HybridIdentityMetadata"
     }
   ]
 }
