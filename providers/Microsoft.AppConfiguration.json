@@ -43,7 +43,8 @@
         "North Central US",
         "Switzerland North",
         "Germany West Central",
-        "UAE North"
+        "UAE North",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "configurationStores"
@@ -77,7 +78,8 @@
         "North Central US",
         "Switzerland North",
         "Germany West Central",
-        "UAE North"
+        "UAE North",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "configurationStores/keyValues"
@@ -115,7 +117,8 @@
         "North Central US",
         "Switzerland North",
         "Germany West Central",
-        "UAE North"
+        "UAE North",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "configurationStores/eventGridFilters"
@@ -153,7 +156,8 @@
         "North Central US",
         "Switzerland North",
         "Germany West Central",
-        "UAE North"
+        "UAE North",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "checkNameAvailability"
@@ -191,7 +195,8 @@
         "North Central US",
         "Switzerland North",
         "Germany West Central",
-        "UAE North"
+        "UAE North",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations"
@@ -229,7 +234,8 @@
         "North Central US",
         "Switzerland North",
         "Germany West Central",
-        "UAE North"
+        "UAE North",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations/operationsStatus"
@@ -267,7 +273,8 @@
         "North Central US",
         "Switzerland North",
         "Germany West Central",
-        "UAE North"
+        "UAE North",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "operations"
