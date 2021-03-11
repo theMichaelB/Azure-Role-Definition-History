@@ -70,7 +70,9 @@
         "South India",
         "Canada East",
         "UK West",
-        "Japan West"
+        "Japan West",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "factories"
@@ -110,7 +112,9 @@
         "South India",
         "Canada East",
         "UK West",
-        "Japan West"
+        "Japan West",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "factories/integrationRuntimes"
@@ -259,7 +263,9 @@
         "South India",
         "Canada East",
         "UK West",
-        "Japan West"
+        "Japan West",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/configureFactoryRepo"
@@ -298,7 +304,9 @@
         "South India",
         "Canada East",
         "UK West",
-        "Japan West"
+        "Japan West",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/getFeatureValue"
