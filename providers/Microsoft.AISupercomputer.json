@@ -66,6 +66,7 @@
         "Canada East",
         "Central India",
         "East Asia",
+        "East US",
         "East US 2",
         "France Central",
         "Germany West Central",
@@ -87,8 +88,7 @@
         "UK South",
         "Brazil South",
         "Korea South",
-        "Korea Central",
-        "East US"
+        "Korea Central"
       ],
       "properties": null,
       "resourceType": "locations/instanceTypeSeries"
@@ -107,6 +107,7 @@
         "Canada East",
         "Central India",
         "East Asia",
+        "East US",
         "East US 2",
         "France Central",
         "Germany West Central",
@@ -128,8 +129,7 @@
         "UK South",
         "Brazil South",
         "Korea South",
-        "Korea Central",
-        "East US"
+        "Korea Central"
       ],
       "properties": null,
       "resourceType": "locations/instanceTypeSeries/instanceTypes"
@@ -148,6 +148,7 @@
         "Canada East",
         "Central India",
         "East Asia",
+        "East US",
         "East US 2",
         "France Central",
         "Germany West Central",
@@ -169,8 +170,7 @@
         "UK South",
         "Brazil South",
         "Korea South",
-        "Korea Central",
-        "East US"
+        "Korea Central"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -234,6 +234,7 @@
         "Central India",
         "Central US",
         "East Asia",
+        "East US",
         "East US 2",
         "France Central",
         "Germany West Central",
@@ -257,7 +258,6 @@
         "Brazil South",
         "Korea South",
         "Korea Central",
-        "East US",
         "South Central US"
       ],
       "properties": null,
