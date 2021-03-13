@@ -35,7 +35,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "alertRules"
@@ -56,7 +58,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "alertRuleTemplates"
@@ -75,7 +79,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "cases"
@@ -95,7 +101,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "bookmarks"
@@ -116,7 +124,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "dataConnectors"
@@ -135,7 +145,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "dataConnectorsCheckRequirements"
@@ -154,7 +166,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "entities"
@@ -174,7 +188,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "incidents"
@@ -193,7 +209,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "officeConsents"
@@ -212,7 +230,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "settings"
@@ -231,7 +251,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "aggregations"
@@ -250,7 +272,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "entityQueries"
@@ -269,7 +293,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "entityQueryTemplates"
@@ -288,7 +314,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "threatIntelligence"
@@ -307,7 +335,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "automationRules"
@@ -326,7 +356,9 @@
         "UK West",
         "France South",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "watchlists"

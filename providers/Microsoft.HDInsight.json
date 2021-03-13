@@ -54,7 +54,9 @@
         "Switzerland North",
         "Switzerland West",
         "South Africa North",
-        "Germany West Central"
+        "Germany West Central",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "clusters"
@@ -98,7 +100,9 @@
         "Switzerland North",
         "Switzerland West",
         "South Africa North",
-        "Germany West Central"
+        "Germany West Central",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "clusters/applications"
@@ -142,7 +146,9 @@
         "Switzerland North",
         "Switzerland West",
         "South Africa North",
-        "Germany West Central"
+        "Germany West Central",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "clusters/operationresults"
@@ -214,7 +220,9 @@
         "Switzerland North",
         "Switzerland West",
         "South Africa North",
-        "Germany West Central"
+        "Germany West Central",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations/capabilities"
@@ -258,7 +266,9 @@
         "Switzerland North",
         "Switzerland West",
         "South Africa North",
-        "Germany West Central"
+        "Germany West Central",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations/usages"
@@ -302,7 +312,9 @@
         "Switzerland North",
         "Switzerland West",
         "South Africa North",
-        "Germany West Central"
+        "Germany West Central",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations/billingSpecs"
@@ -346,7 +358,9 @@
         "Switzerland North",
         "Switzerland West",
         "South Africa North",
-        "Germany West Central"
+        "Germany West Central",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations/operationresults"
@@ -390,7 +404,9 @@
         "Switzerland North",
         "Switzerland West",
         "South Africa North",
-        "Germany West Central"
+        "Germany West Central",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations/azureasyncoperations"
@@ -434,7 +450,9 @@
         "Switzerland North",
         "Switzerland West",
         "South Africa North",
-        "Germany West Central"
+        "Germany West Central",
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations/validateCreateRequest"

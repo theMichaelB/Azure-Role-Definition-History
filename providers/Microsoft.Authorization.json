@@ -73,6 +73,26 @@
     },
     {
       "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "roleManagementPolicies"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "roleManagementPolicyAssignments"
+    },
+    {
+      "aliases": null,
       "apiProfiles": [
         {
           "apiVersion": "2017-09-01",
