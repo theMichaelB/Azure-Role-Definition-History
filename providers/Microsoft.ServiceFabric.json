@@ -430,7 +430,9 @@
         "East Asia",
         "North Europe",
         "West Central US",
-        "East US 2"
+        "East US 2",
+        "Southeast Asia",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "managedclusters"
@@ -445,7 +447,9 @@
         "East Asia",
         "North Europe",
         "West Central US",
-        "East US 2"
+        "East US 2",
+        "Southeast Asia",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "managedclusters/nodetypes"
@@ -459,7 +463,9 @@
         "East Asia",
         "North Europe",
         "West Central US",
-        "East US 2"
+        "East US 2",
+        "Southeast Asia",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "managedclusters/applicationTypes"
@@ -473,7 +479,9 @@
         "East Asia",
         "North Europe",
         "West Central US",
-        "East US 2"
+        "East US 2",
+        "Southeast Asia",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "managedclusters/applicationTypes/versions"
@@ -487,7 +495,9 @@
         "East Asia",
         "North Europe",
         "West Central US",
-        "East US 2"
+        "East US 2",
+        "Southeast Asia",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "managedclusters/applications"
@@ -501,7 +511,9 @@
         "East Asia",
         "North Europe",
         "West Central US",
-        "East US 2"
+        "East US 2",
+        "Southeast Asia",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "managedclusters/applications/services"
@@ -516,7 +528,9 @@
         "East Asia",
         "North Europe",
         "West Central US",
-        "East US 2"
+        "East US 2",
+        "Southeast Asia",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "locations/managedClusterOperations"
@@ -531,7 +545,9 @@
         "East Asia",
         "North Europe",
         "West Central US",
-        "East US 2"
+        "East US 2",
+        "Southeast Asia",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "locations/managedClusterOperationResults"

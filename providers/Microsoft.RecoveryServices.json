@@ -658,7 +658,8 @@
         }
       ],
       "apiVersions": [
-        "2018-12-20-preview"
+        "2018-12-20-preview",
+        "2018-12-20"
       ],
       "locations": [
         "West US",
