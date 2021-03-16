@@ -61,7 +61,9 @@
         "Japan West",
         "France Central",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "workspaces"
@@ -101,7 +103,9 @@
         "Japan West",
         "France Central",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "workspaces/bigDataPools"
@@ -142,7 +146,9 @@
         "Japan West",
         "France Central",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "workspaces/sqlPools"
@@ -180,7 +186,9 @@
         "Japan West",
         "France Central",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "workspaces/sqlDatabases"
@@ -217,7 +225,9 @@
         "Japan West",
         "France Central",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/sqlDatabaseAzureAsyncOperation"
@@ -254,7 +264,9 @@
         "Japan West",
         "France Central",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/sqlDatabaseOperationResults"
@@ -291,7 +303,9 @@
         "Japan West",
         "France Central",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/sqlPoolAzureAsyncOperation"
@@ -328,7 +342,9 @@
         "Japan West",
         "France Central",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/sqlPoolOperationResults"
@@ -367,7 +383,9 @@
         "Japan West",
         "France Central",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "workspaces/operationStatuses"
@@ -406,7 +424,9 @@
         "Japan West",
         "France Central",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "workspaces/operationResults"
@@ -456,7 +476,9 @@
         "Japan West",
         "France Central",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -496,7 +518,9 @@
         "Japan West",
         "France Central",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "privateLinkHubs"
@@ -546,7 +570,9 @@
         "Japan West",
         "France Central",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -585,7 +611,9 @@
         "Japan West",
         "France Central",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/operationStatuses"

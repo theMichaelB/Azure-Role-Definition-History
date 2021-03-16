@@ -1,14 +1,4 @@
 {
-  "authorizations": [
-    {
-      "applicationId": "bb55177b-a7d9-4939-a257-8ab53a3b2bc6",
-      "roleDefinitionId": "f83de625-af9e-4458-ac9c-e5d62b05fd06"
-    },
-    {
-      "applicationId": "a12e8ccb-0fcd-46f8-b6a1-b9df7a9d7231",
-      "roleDefinitionId": "f83de625-af9e-4458-ac9c-e5d62b05fd06"
-    }
-  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.AzureData",
   "namespace": "Microsoft.AzureData",
   "registrationState": "NotRegistered",
@@ -48,103 +38,6 @@
       ],
       "properties": null,
       "resourceType": "sqlServerRegistrations"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-09-08-preview",
-        "2019-07-24-preview"
-      ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2020-09-08-preview",
-      "locations": [
-        "Japan East",
-        "Australia East",
-        "Korea Central",
-        "North Europe",
-        "UK South",
-        "France Central",
-        "East US",
-        "East US 2",
-        "Central US",
-        "West Europe",
-        "Southeast Asia",
-        "West US 2"
-      ],
-      "properties": null,
-      "resourceType": "dataControllers"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-09-08-preview",
-        "2019-07-24-preview"
-      ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2020-09-08-preview",
-      "locations": [
-        "Japan East",
-        "Australia East",
-        "Korea Central",
-        "North Europe",
-        "UK South",
-        "France Central",
-        "East US",
-        "East US 2",
-        "Central US",
-        "West Europe",
-        "Southeast Asia",
-        "West US 2"
-      ],
-      "properties": null,
-      "resourceType": "postgresInstances"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-09-08-preview",
-        "2019-07-24-preview"
-      ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2020-09-08-preview",
-      "locations": [
-        "Japan East",
-        "Australia East",
-        "Korea Central",
-        "North Europe",
-        "UK South",
-        "France Central",
-        "East US",
-        "East US 2",
-        "Central US",
-        "West Europe",
-        "Southeast Asia",
-        "West US 2"
-      ],
-      "properties": null,
-      "resourceType": "sqlManagedInstances"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-09-08-preview",
-        "2019-07-24-preview"
-      ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2020-09-08-preview",
-      "locations": [
-        "East US",
-        "East US 2",
-        "Central US",
-        "West Europe",
-        "Southeast Asia",
-        "West US 2",
-        "Australia East",
-        "North Europe",
-        "UK South"
-      ],
-      "properties": null,
-      "resourceType": "sqlServerInstances"
     },
     {
       "aliases": null,
