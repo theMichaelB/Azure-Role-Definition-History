@@ -53,7 +53,7 @@
         "2018-03-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
-      "defaultApiVersion": "2018-03-01-preview",
+      "defaultApiVersion": "2021-01-01",
       "locations": [
         "Canada Central",
         "Central India",
@@ -78,6 +78,192 @@
       ],
       "properties": null,
       "resourceType": "workspaces"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01-preview",
+        "2020-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/onlineEndpoints"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01-preview",
+        "2020-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/onlineEndpoints/deployments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/batchEndpoints"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-09-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/batchEndpoints/deployments"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-09-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/batchEndpoints/jobs"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-09-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/batchEndpoints/deployments/jobs"
     },
     {
       "aliases": null,

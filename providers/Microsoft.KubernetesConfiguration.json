@@ -45,6 +45,27 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-07-01-preview"
+      ],
+      "capabilities": "SystemAssignedResourceIdentity, SupportsExtension",
+      "locations": [
+        "East US",
+        "West Europe",
+        "West Central US",
+        "West US 2",
+        "South Central US",
+        "East US 2",
+        "North Europe",
+        "UK South",
+        "Southeast Asia",
+        "Australia East"
+      ],
+      "properties": null,
+      "resourceType": "extensions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2021-03-01",
         "2020-10-01-preview",
         "2020-07-01-preview",

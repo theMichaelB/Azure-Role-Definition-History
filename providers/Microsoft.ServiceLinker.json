@@ -1,0 +1,43 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "c4288165-6698-45ba-98a5-48ea7791fed3",
+      "roleDefinitionId": "57197417-7922-48fd-b5ed-7b142db155ea"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ServiceLinker",
+  "namespace": "Microsoft.ServiceLinker",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-01-01-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-01-01-privatepreview"
+      ],
+      "locations": [
+        "East US 2 EUAP",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-01-01-privatepreview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    }
+  ]
+}

@@ -135,6 +135,8 @@
       ],
       "defaultApiVersion": "2020-07-01-preview",
       "locations": [
+        "Central US EUAP",
+        "West Central US",
         "West US 2",
         "East US",
         "East US 2",
