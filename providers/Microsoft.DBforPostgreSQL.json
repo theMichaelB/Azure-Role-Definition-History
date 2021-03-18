@@ -185,17 +185,19 @@
         "2020-02-14-privatepreview",
         "2020-02-14-preview"
       ],
-      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
+      "capabilities": "SystemAssignedResourceIdentity",
       "locations": [
-        "West US 2",
+        "Australia East",
+        "Canada Central",
+        "Central US",
         "East US",
         "East US 2",
-        "West Europe",
-        "North Europe",
         "Japan East",
+        "North Europe",
         "Southeast Asia",
         "UK South",
-        "Central US"
+        "West US 2",
+        "West Europe"
       ],
       "properties": null,
       "resourceType": "flexibleServers",
@@ -271,6 +273,22 @@
             "2",
             "3"
           ]
+        },
+        {
+          "location": "Australia East",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "Canada Central",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
         }
       ]
     },
@@ -282,15 +300,17 @@
         "2020-02-14-preview"
       ],
       "locations": [
-        "East US 2",
+        "Australia East",
+        "Canada Central",
+        "Central US",
         "East US",
-        "West Europe",
-        "West US 2",
-        "North Europe",
+        "East US 2",
         "Japan East",
+        "North Europe",
         "Southeast Asia",
         "UK South",
-        "Central US"
+        "West Europe",
+        "West US 2"
       ],
       "properties": null,
       "resourceType": "locations/capabilities"
@@ -303,15 +323,17 @@
         "2020-02-14-preview"
       ],
       "locations": [
-        "East US 2",
+        "Australia East",
+        "Canada Central",
+        "Central US",
         "East US",
-        "West Europe",
-        "West US 2",
-        "North Europe",
+        "East US 2",
         "Japan East",
+        "North Europe",
         "Southeast Asia",
         "UK South",
-        "Central US"
+        "West Europe",
+        "West US 2"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -700,18 +722,19 @@
         "2020-02-14-preview"
       ],
       "locations": [
-        "East US 2",
-        "East US",
-        "North Central US",
-        "Canada Central",
         "Australia East",
+        "Canada Central",
+        "Central US",
+        "East US",
+        "East US 2",
+        "France Central",
+        "Japan East",
+        "North Central US",
+        "North Europe",
+        "Southeast Asia",
         "UK South",
         "West Europe",
-        "Southeast Asia",
-        "West US 2",
-        "North Europe",
-        "Japan East",
-        "Central US"
+        "West US 2"
       ],
       "properties": null,
       "resourceType": "locations/checkVirtualNetworkSubnetUsage"
