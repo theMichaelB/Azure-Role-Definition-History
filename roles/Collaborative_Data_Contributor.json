@@ -10,10 +10,12 @@
       "actions": [
         "Microsoft.IndustryDataLifecycle/custodianCollaboratives/*/read",
         "Microsoft.IndustryDataLifecycle/memberCollaboratives/*/read",
-        "Microsoft.IndustryDataLifecycle/dataPackages/*",
+        "Microsoft.IndustryDataLifecycle/locations/dataPackages/*",
         "Microsoft.IndustryDataLifecycle/custodianCollaboratives/receivedDataPackages/*",
         "Microsoft.IndustryDataLifecycle/custodianCollaboratives/rejectDataPackage/action",
         "Microsoft.IndustryDataLifecycle/memberCollaboratives/sharedDataPackages/*",
+        "Microsoft.IndustryDataLifecycle/custodianCollaboratives/dataModels/*",
+        "Microsoft.IndustryDataLifecycle/custodianCollaboratives/auditLogs/action",
         "Microsoft.Authorization/*/read",
         "Microsoft.Insights/alertRules/*",
         "Microsoft.Resources/deployments/*",
