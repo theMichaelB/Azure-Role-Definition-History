@@ -15,6 +15,7 @@
       ],
       "capabilities": "None",
       "locations": [
+        "Germany West Central",
         "West US",
         "West US 2",
         "East US",
@@ -38,6 +39,7 @@
       "capabilities": "None",
       "defaultApiVersion": "2020-02-07-preview",
       "locations": [
+        "Germany West Central",
         "West US",
         "West US 2",
         "East US",
@@ -61,6 +63,7 @@
         "2017-11-03-preview"
       ],
       "locations": [
+        "Germany West Central",
         "West US",
         "West US 2",
         "East US",
@@ -93,6 +96,7 @@
         "2017-11-03-preview"
       ],
       "locations": [
+        "Germany West Central",
         "West US",
         "West US 2",
         "East US",
@@ -116,6 +120,7 @@
         "2017-11-03-preview"
       ],
       "locations": [
+        "Germany West Central",
         "West US",
         "West US 2",
         "East US",

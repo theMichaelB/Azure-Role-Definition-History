@@ -320,6 +320,10 @@
         {
           "location": "Korea Central",
           "zones": []
+        },
+        {
+          "location": "Norway East",
+          "zones": []
         }
       ]
     },
@@ -602,6 +606,10 @@
         },
         {
           "location": "Korea Central",
+          "zones": []
+        },
+        {
+          "location": "Norway East",
           "zones": []
         }
       ]
@@ -2631,6 +2639,10 @@
         {
           "location": "Korea Central",
           "zones": []
+        },
+        {
+          "location": "Norway East",
+          "zones": []
         }
       ]
     },
@@ -3163,6 +3175,10 @@
         {
           "location": "Korea Central",
           "zones": []
+        },
+        {
+          "location": "Norway East",
+          "zones": []
         }
       ]
     },
@@ -3347,6 +3363,10 @@
         },
         {
           "location": "Korea Central",
+          "zones": []
+        },
+        {
+          "location": "Norway East",
           "zones": []
         }
       ]

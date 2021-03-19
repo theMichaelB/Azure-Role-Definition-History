@@ -3,6 +3,14 @@
     {
       "applicationId": "ac9dc5fe-b644-4832-9d03-d9f1ab70c5f7",
       "roleDefinitionId": "a27a5b7c-3d1a-4e97-b0ad-195eef808eb6"
+    },
+    {
+      "applicationId": "157638eb-a5cb-4c10-af42-2d6759eb1871",
+      "roleDefinitionId": "59a59e1d-c18a-4c7c-8a99-2b5b311f08d2"
+    },
+    {
+      "applicationId": "d2a590e7-6906-4a45-8f41-cecfdca9bca1",
+      "roleDefinitionId": "59a59e1d-c18a-4c7c-8a99-2b5b311f08d2"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ConnectedVMwarevSphere",
@@ -63,6 +71,19 @@
       ],
       "properties": null,
       "resourceType": "VirtualMachines/HybridIdentityMetadata"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "VirtualMachines/Extensions"
     }
   ]
 }

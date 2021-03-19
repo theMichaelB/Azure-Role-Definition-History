@@ -312,6 +312,10 @@
         {
           "location": "Korea Central",
           "zones": []
+        },
+        {
+          "location": "Norway East",
+          "zones": []
         }
       ]
     },
