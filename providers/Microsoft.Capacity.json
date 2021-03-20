@@ -137,6 +137,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01-privatepreview",
+        "2021-03-01-beta",
         "2020-10-01-preview",
         "2020-10-01-beta",
         "2019-04-01-beta",
