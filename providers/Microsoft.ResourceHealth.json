@@ -70,6 +70,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-09-01-rc",
         "2018-07-01-rc",
         "2018-07-01"
       ],
@@ -100,19 +101,6 @@
       "locations": [],
       "properties": null,
       "resourceType": "operations"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2016-09-01",
-        "2016-06-01"
-      ],
-      "capabilities": "SupportsExtension",
-      "locations": [
-        "Australia Southeast"
-      ],
-      "properties": null,
-      "resourceType": "notifications"
     }
   ]
 }

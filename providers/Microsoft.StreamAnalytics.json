@@ -192,6 +192,24 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2017-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations/testQuery"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2017-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations/operationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2019-06-01",
         "2018-11-01",
         "2017-04-01-preview",

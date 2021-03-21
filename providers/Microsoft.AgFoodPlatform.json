@@ -15,10 +15,7 @@
         "2020-05-12-preview"
       ],
       "defaultApiVersion": "2020-05-12-preview",
-      "locations": [
-        "East US",
-        "West Central US"
-      ],
+      "locations": [],
       "properties": null,
       "resourceType": "operations"
     },
@@ -28,10 +25,7 @@
         "2020-05-12-preview"
       ],
       "defaultApiVersion": "2020-05-12-preview",
-      "locations": [
-        "East US",
-        "West Central US"
-      ],
+      "locations": [],
       "properties": null,
       "resourceType": "checkNameAvailability"
     }
