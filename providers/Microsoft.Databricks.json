@@ -53,7 +53,8 @@
         "Brazil South",
         "Switzerland North",
         "France Central",
-        "UAE North"
+        "UAE North",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "workspaces"
@@ -95,7 +96,8 @@
         "UAE North",
         "Brazil South",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "workspaces/virtualNetworkPeerings"
@@ -137,7 +139,8 @@
         "UAE North",
         "Brazil South",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "workspaces/dbWorkspaces"
@@ -179,7 +182,8 @@
         "West India",
         "UAE North",
         "Brazil South",
-        "France Central"
+        "France Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -226,7 +230,8 @@
         "UAE North",
         "Brazil South",
         "France Central",
-        "Switzerland North"
+        "Switzerland North",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations"
@@ -268,7 +273,8 @@
         "Brazil South",
         "Switzerland North",
         "France Central",
-        "UAE North"
+        "UAE North",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations/operationstatuses"
@@ -310,7 +316,8 @@
         "Brazil South",
         "Switzerland North",
         "France Central",
-        "UAE North"
+        "UAE North",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations/getNetworkPolicies"

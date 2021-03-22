@@ -84,6 +84,18 @@
       ],
       "properties": null,
       "resourceType": "VirtualMachines/Extensions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-10-01-preview"
+      ],
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "VirtualMachines/GuestAgents"
     }
   ]
 }
