@@ -1,0 +1,62 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "070fc472-7cef-4d53-9b65-34464c4d5f4a",
+      "roleDefinitionId": "d9be9a0d-13a3-4571-9428-498be31834b1"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.ConnectedVehicle",
+  "namespace": "Microsoft.ConnectedVehicle",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01-preview"
+      ],
+      "locations": [
+        "West US 2",
+        "West Europe",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "Locations/OperationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-12-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "registeredSubscriptions"
+    }
+  ]
+}

@@ -10,6 +10,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-preview",
+        "2020-12-01",
         "2020-06-01-preview",
         "2019-12-01-preview",
         "2019-12-01",
@@ -219,6 +221,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-preview",
+        "2020-12-01",
         "2020-06-01-preview"
       ],
       "defaultApiVersion": "2020-06-01-preview",
@@ -263,6 +267,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-preview",
+        "2020-12-01",
         "2020-06-01-preview"
       ],
       "defaultApiVersion": "2020-06-01-preview",
@@ -273,6 +279,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-preview",
+        "2020-12-01",
         "2020-06-01-preview"
       ],
       "defaultApiVersion": "2020-06-01-preview",
@@ -337,6 +345,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-preview",
+        "2020-12-01",
         "2020-06-01-preview",
         "2019-12-01-preview",
         "2019-12-01",
@@ -391,6 +401,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-preview",
+        "2020-12-01",
         "2020-06-01-preview",
         "2019-12-01-preview",
         "2019-12-01",
@@ -410,6 +422,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-preview",
+        "2020-12-01",
         "2020-06-01-preview",
         "2019-12-01-preview",
         "2019-12-01",
@@ -429,6 +443,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01-preview",
+        "2020-12-01",
         "2020-06-01-preview",
         "2019-12-01-preview",
         "2019-12-01",
@@ -445,6 +461,51 @@
       "locations": [],
       "properties": null,
       "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-01-01-preview",
+        "2020-12-01"
+      ],
+      "defaultApiVersion": "2020-12-01",
+      "locations": [
+        "Central India",
+        "UAE North",
+        "Australia Central",
+        "Germany West Central",
+        "West Central US",
+        "Norway East",
+        "Switzerland North",
+        "Korea South",
+        "West India",
+        "Korea Central",
+        "South Africa North",
+        "UK West",
+        "Brazil South",
+        "East Asia",
+        "South India",
+        "Canada Central",
+        "Canada East",
+        "Australia Southeast",
+        "Japan East",
+        "North Central US",
+        "Southeast Asia",
+        "West US 2",
+        "Central US",
+        "UK South",
+        "Australia East",
+        "Japan West",
+        "West US",
+        "France Central",
+        "South Central US",
+        "East US 2",
+        "East US",
+        "North Europe",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "getDomainOwnershipIdentifier"
     }
   ]
 }

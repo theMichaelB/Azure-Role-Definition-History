@@ -65,7 +65,10 @@
         "West US 2",
         "South Africa North",
         "UAE North",
-        "France Central"
+        "France Central",
+        "Norway East",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "services"
@@ -112,7 +115,10 @@
         "West US 2",
         "South Africa North",
         "UAE North",
-        "France Central"
+        "France Central",
+        "Norway East",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "services/projects"
@@ -157,7 +163,10 @@
         "West US 2",
         "South Africa North",
         "UAE North",
-        "France Central"
+        "France Central",
+        "Norway East",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -202,7 +211,10 @@
         "West US 2",
         "South Africa North",
         "UAE North",
-        "France Central"
+        "France Central",
+        "Norway East",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/operationStatuses"
@@ -247,7 +259,10 @@
         "West US 2",
         "South Africa North",
         "UAE North",
-        "France Central"
+        "France Central",
+        "Norway East",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -292,7 +307,10 @@
         "West US 2",
         "South Africa North",
         "UAE North",
-        "France Central"
+        "France Central",
+        "Norway East",
+        "Switzerland North",
+        "Germany West Central"
       ],
       "properties": null,
       "resourceType": "operations"

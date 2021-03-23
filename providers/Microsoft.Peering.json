@@ -200,6 +200,17 @@
       "aliases": null,
       "apiVersions": [
         "2021-01-01",
+        "2020-10-01"
+      ],
+      "defaultApiVersion": "2020-10-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "cdnPeeringPrefixes"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-01-01",
         "2020-10-01",
         "2020-04-01",
         "2020-01-01-preview",

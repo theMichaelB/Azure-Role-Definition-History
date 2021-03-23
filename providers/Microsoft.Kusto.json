@@ -12,6 +12,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-18",
         "2020-06-14",
         "2020-02-15",
@@ -222,6 +223,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-18",
         "2020-06-14",
         "2020-02-15",
@@ -277,6 +279,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-18",
         "2020-06-14",
         "2020-02-15",
@@ -332,6 +335,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-18",
         "2020-06-14",
         "2020-02-15",
@@ -382,6 +386,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-18",
         "2020-06-14",
         "2020-02-15",
@@ -437,6 +442,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-18",
         "2020-06-14",
         "2020-02-15",
@@ -492,6 +498,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-18",
         "2020-06-14",
         "2020-02-15",
@@ -542,6 +549,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-18",
         "2020-06-14",
         "2020-02-15",
@@ -597,6 +605,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-18",
         "2020-06-14",
         "2020-02-15",
@@ -615,6 +624,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-18",
         "2020-06-14",
         "2020-02-15",
@@ -670,6 +680,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-01-01",
         "2020-09-18",
         "2020-06-14",
         "2020-02-15",
@@ -684,6 +695,53 @@
       "locations": [],
       "properties": null,
       "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-01-01"
+      ],
+      "defaultApiVersion": "2021-01-01",
+      "locations": [
+        "Australia Central",
+        "Australia East",
+        "Australia Southeast",
+        "Brazil South",
+        "Brazil Southeast",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "Central US",
+        "East Asia",
+        "East US",
+        "East US 2",
+        "France Central",
+        "France South",
+        "Germany West Central",
+        "Japan East",
+        "Japan West",
+        "Korea Central",
+        "Korea South",
+        "North Central US",
+        "North Europe",
+        "Norway East",
+        "South Africa North",
+        "South Africa West",
+        "South Central US",
+        "South India",
+        "Southeast Asia",
+        "Switzerland North",
+        "UAE North",
+        "UK South",
+        "UK West",
+        "West Central US",
+        "West Europe",
+        "West India",
+        "West US",
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "clusters/databases/scripts"
     }
   ]
 }
