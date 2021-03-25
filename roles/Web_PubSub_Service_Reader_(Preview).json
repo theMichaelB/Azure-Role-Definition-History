@@ -1,0 +1,23 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "Read-only access to Azure Web PubSub Service REST APIs",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf",
+  "name": "bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf",
+  "permissions": [
+    {
+      "actions": [],
+      "dataActions": [
+        "Microsoft.SignalRService/WebPubSub/clientConnection/read",
+        "Microsoft.SignalRService/WebPubSub/group/read",
+        "Microsoft.SignalRService/WebPubSub/user/read"
+      ],
+      "notActions": [],
+      "notDataActions": []
+    }
+  ],
+  "roleName": "Web PubSub Service Reader (Preview)",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}
