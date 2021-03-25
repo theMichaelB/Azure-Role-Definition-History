@@ -309,7 +309,10 @@
         "Brazil SouthEast",
         "Norway East",
         "UAE North",
-        "Japan West"
+        "Japan West",
+        "South India",
+        "France South",
+        "Norway West"
       ],
       "properties": null,
       "resourceType": "scheduledqueryrules"

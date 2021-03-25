@@ -700,7 +700,7 @@
         "2019-12-01-preview",
         "2019-08-01"
       ],
-      "capabilities": "SystemAssignedResourceIdentity",
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "locations": [
         "West US 2",
         "Central US",
