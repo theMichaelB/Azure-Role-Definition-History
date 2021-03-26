@@ -3,6 +3,10 @@
     {
       "applicationId": "349e15d0-1c96-4829-95e5-7fc8fb358ff3",
       "roleDefinitionId": "da5c10f8-3b94-4076-bb95-1421b4518aee"
+    },
+    {
+      "applicationId": "9581bc0e-c952-4fd3-8d99-e777877718b1",
+      "roleDefinitionId": "da5c10f8-3b94-4076-bb95-1421b4518aee"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Singularity",
