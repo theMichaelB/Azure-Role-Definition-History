@@ -42,12 +42,13 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01",
         "2020-06-02",
         "2018-07-12",
         "2017-12-01"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
-      "defaultApiVersion": "2020-06-02",
+      "defaultApiVersion": "2021-03-01",
       "locations": [
         "Global"
       ],
@@ -71,11 +72,12 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01",
         "2020-06-02",
         "2018-07-12",
         "2017-12-01"
       ],
-      "defaultApiVersion": "2020-06-02",
+      "defaultApiVersion": "2021-03-01",
       "locations": [
         "Global"
       ],
@@ -99,11 +101,12 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01",
         "2020-06-02",
         "2018-07-12",
         "2017-12-01"
       ],
-      "defaultApiVersion": "2020-06-02",
+      "defaultApiVersion": "2021-03-01",
       "locations": [
         "Global"
       ],
@@ -127,16 +130,29 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01",
         "2020-06-02",
         "2018-07-12",
         "2017-12-01"
       ],
-      "defaultApiVersion": "2020-06-02",
+      "defaultApiVersion": "2021-03-01",
       "locations": [
         "Global"
       ],
       "properties": null,
       "resourceType": "listAuthServiceProviders"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01"
+      ],
+      "defaultApiVersion": "2021-03-01",
+      "locations": [
+        "Global"
+      ],
+      "properties": null,
+      "resourceType": "hostSettings"
     },
     {
       "aliases": null,
@@ -155,11 +171,12 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01",
         "2020-06-02",
         "2018-07-12",
         "2017-12-01"
       ],
-      "defaultApiVersion": "2020-06-02",
+      "defaultApiVersion": "2021-03-01",
       "locations": [
         "Global"
       ],
@@ -183,11 +200,12 @@
         }
       ],
       "apiVersions": [
+        "2021-03-01",
         "2020-06-02",
         "2018-07-12",
         "2017-12-01"
       ],
-      "defaultApiVersion": "2020-06-02",
+      "defaultApiVersion": "2021-03-01",
       "locations": [
         "Global"
       ],
