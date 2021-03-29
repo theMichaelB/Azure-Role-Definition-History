@@ -269,15 +269,7 @@
     },
     {
       "aliases": null,
-      "apiVersions": [
-        "2018-07-15-preview",
-        "2018-04-19",
-        "2018-03-31-preview",
-        "2018-03-15-preview",
-        "2017-11-15-privatepreview",
-        "2017-11-15-preview",
-        "2017-04-15-privatepreview"
-      ],
+      "apiVersions": [],
       "locations": [
         "West Central US",
         "Brazil South",
@@ -310,10 +302,49 @@
         "France Central",
         "Norway East",
         "Switzerland North",
-        "Germany West Central"
+        "Germany West Central",
+        "East US 2 EUAP"
       ],
       "properties": null,
       "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-09-01-preview"
+      ],
+      "capabilities": "None",
+      "defaultApiVersion": "2020-09-01-preview",
+      "locations": [
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "SqlMigrationServices"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-09-01-preview"
+      ],
+      "capabilities": "SupportsExtension",
+      "defaultApiVersion": "2020-09-01-preview",
+      "locations": [
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "DatabaseMigrations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-09-01-preview"
+      ],
+      "defaultApiVersion": "2020-09-01-preview",
+      "locations": [
+        "East US 2"
+      ],
+      "properties": null,
+      "resourceType": "Locations/OperationTypes"
     }
   ]
 }
