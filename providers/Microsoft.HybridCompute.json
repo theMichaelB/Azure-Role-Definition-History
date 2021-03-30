@@ -7,6 +7,10 @@
     {
       "applicationId": "d2a590e7-6906-4a45-8f41-cecfdca9bca1",
       "roleDefinitionId": "f32ad452-2b05-4296-bee4-fc9056ed85fa"
+    },
+    {
+      "applicationId": "5e5e43d4-54da-4211-86a4-c6e7f3715801",
+      "roleDefinitionId": "ffcd6e5b-8772-457d-bb17-89703c03428f"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.HybridCompute",

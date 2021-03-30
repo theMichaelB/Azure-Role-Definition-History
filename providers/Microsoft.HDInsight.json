@@ -460,6 +460,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-11-01-preview",
         "2018-06-01-preview",
         "2015-03-01-preview"
       ],
@@ -484,6 +485,18 @@
       ],
       "properties": null,
       "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-11-01-preview"
+      ],
+      "locations": [
+        "East US 2",
+        "East US"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationStatuses"
     }
   ]
 }
