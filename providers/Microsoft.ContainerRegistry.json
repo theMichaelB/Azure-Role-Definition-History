@@ -71,7 +71,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries"
@@ -113,7 +114,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/connectedRegistries"
@@ -155,7 +157,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/connectedRegistries/deactivate"
@@ -198,7 +201,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/scopeMaps"
@@ -241,7 +245,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/tokens"
@@ -284,7 +289,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/generateCredentials"
@@ -327,7 +333,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/privateEndpointConnections"
@@ -370,7 +377,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/privateEndpointConnectionProxies"
@@ -413,7 +421,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/privateEndpointConnectionProxies/validate"
@@ -456,7 +465,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/privateLinkResources"
@@ -501,7 +511,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/importImage"
@@ -545,7 +556,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/exportPipelines"
@@ -589,7 +601,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/importPipelines"
@@ -632,7 +645,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/pipelineRuns"
@@ -676,7 +690,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/listBuildSourceUploadUrl"
@@ -720,7 +735,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/scheduleRun"
@@ -764,7 +780,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/runs"
@@ -807,7 +824,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/taskRuns"
@@ -849,7 +867,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/taskRuns/listDetails"
@@ -863,8 +882,10 @@
       "defaultApiVersion": "2019-06-01-preview",
       "locations": [
         "East US",
+        "West Europe",
         "West US 2",
         "South Central US",
+        "Canada Central",
         "Central US",
         "East US 2"
       ],
@@ -925,7 +946,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/runs/listLogSasUrl"
@@ -969,7 +991,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/runs/cancel"
@@ -1015,7 +1038,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/tasks"
@@ -1059,7 +1083,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/tasks/listDetails"
@@ -1101,7 +1126,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/getBuildSourceUploadUrl"
@@ -1143,7 +1169,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/queueBuild"
@@ -1185,7 +1212,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/builds"
@@ -1227,7 +1255,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/builds/getLogLink"
@@ -1269,7 +1298,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/builds/cancel"
@@ -1312,7 +1342,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/buildTasks"
@@ -1354,7 +1385,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/buildTasks/listSourceRepositoryProperties"
@@ -1396,7 +1428,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/buildTasks/steps"
@@ -1438,7 +1471,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/buildTasks/steps/listBuildArguments"
@@ -1484,7 +1518,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/replications"
@@ -1530,7 +1565,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/webhooks"
@@ -1575,7 +1611,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/webhooks/ping"
@@ -1620,7 +1657,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/webhooks/getCallbackConfig"
@@ -1665,7 +1703,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/webhooks/listEvents"
@@ -1707,7 +1746,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations/setupAuth"
@@ -1749,7 +1789,8 @@
         "Switzerland West",
         "UAE Central",
         "Brazil Southeast",
-        "Germany West Central"
+        "Germany West Central",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations/authorize"
@@ -1795,7 +1836,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -1838,7 +1880,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "locations/deleteVirtualNetworkOrSubnets"
@@ -1898,7 +1941,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/listCredentials"
@@ -1944,7 +1988,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/regenerateCredential"
@@ -1989,7 +2034,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/listUsages"
@@ -2031,7 +2077,8 @@
         "Switzerland West",
         "UAE Central",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/listPolicies"
@@ -2073,7 +2120,8 @@
         "Switzerland West",
         "UAE Central",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/updatePolicies"
@@ -2130,7 +2178,8 @@
         "UAE Central",
         "Switzerland West",
         "Germany West Central",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "Norway East"
       ],
       "properties": null,
       "resourceType": "registries/eventGridFilters"
@@ -2179,7 +2228,8 @@
         "Switzerland West",
         "Germany West Central",
         "Brazil Southeast",
-        "Norway East"
+        "Norway East",
+        "Korea South"
       ],
       "properties": null,
       "resourceType": "checkNameAvailability"
@@ -2227,7 +2277,8 @@
         "Switzerland West",
         "Germany West Central",
         "Brazil Southeast",
-        "Norway East"
+        "Norway East",
+        "Korea South"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -2275,7 +2326,8 @@
         "Switzerland West",
         "Germany West Central",
         "Brazil Southeast",
-        "Norway East"
+        "Norway East",
+        "Korea South"
       ],
       "properties": null,
       "resourceType": "locations"

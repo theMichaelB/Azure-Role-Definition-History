@@ -37,7 +37,8 @@
         "North Europe",
         "UK South",
         "Southeast Asia",
-        "Australia East"
+        "Australia East",
+        "France Central"
       ],
       "properties": null,
       "resourceType": "sourceControlConfigurations"
@@ -58,7 +59,8 @@
         "North Europe",
         "UK South",
         "Southeast Asia",
-        "Australia East"
+        "Australia East",
+        "France Central"
       ],
       "properties": null,
       "resourceType": "extensions"

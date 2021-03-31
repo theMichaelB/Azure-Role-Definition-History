@@ -46,7 +46,10 @@
         "Japan West",
         "UAE North",
         "Brazil Southeast",
-        "Norway East"
+        "Norway East",
+        "Norway West",
+        "France South",
+        "South India"
       ],
       "properties": null,
       "resourceType": "solutions"
