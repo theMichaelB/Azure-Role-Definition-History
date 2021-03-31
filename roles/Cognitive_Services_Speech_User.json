@@ -1,0 +1,25 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "This is a role that can create, read, change and delete batch transcriptions, do real time transcriptions and list or get other speech resources.",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/f2dc8367-1007-4938-bd23-fe263f013447",
+  "name": "f2dc8367-1007-4938-bd23-fe263f013447",
+  "permissions": [
+    {
+      "actions": [],
+      "dataActions": [
+        "Microsoft.CognitiveServices/accounts/SpeechServices/*/read",
+        "Microsoft.CognitiveServices/accounts/SpeechServices/*/transcriptions/write",
+        "Microsoft.CognitiveServices/accounts/SpeechServices/*/transcriptions/delete",
+        "Microsoft.CognitiveServices/accounts/SpeechServices/*/transcriptions/read",
+        "Microsoft.CognitiveServices/accounts/SpeechServices/*/frontend/action"
+      ],
+      "notActions": [],
+      "notDataActions": []
+    }
+  ],
+  "roleName": "Cognitive Services Speech User",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}

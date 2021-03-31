@@ -1,0 +1,21 @@
+{
+  "assignableScopes": [
+    "/"
+  ],
+  "description": "This is a role that can read, write and delete all speech resources.",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Authorization/roleDefinitions/0e75ca1e-0464-4b4d-8b93-68208a576181",
+  "name": "0e75ca1e-0464-4b4d-8b93-68208a576181",
+  "permissions": [
+    {
+      "actions": [],
+      "dataActions": [
+        "Microsoft.CognitiveServices/accounts/SpeechServices/*"
+      ],
+      "notActions": [],
+      "notDataActions": []
+    }
+  ],
+  "roleName": "Cognitive Services Speech Contributor",
+  "roleType": "BuiltInRole",
+  "type": "Microsoft.Authorization/roleDefinitions"
+}
