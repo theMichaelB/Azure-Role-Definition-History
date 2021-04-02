@@ -3,6 +3,10 @@
     {
       "applicationId": "9469b9f5-6722-4481-a2b2-14ed560b706f",
       "roleDefinitionId": "4cd49d82-1f4d-43fc-af0c-1c1203668e5a"
+    },
+    {
+      "applicationId": "1fcdfafe-959b-4b32-afff-84f850974e84",
+      "roleDefinitionId": "18c76bf0-ff35-48d1-8a74-bcd770c71a1f"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.StorageSync",
@@ -60,7 +64,9 @@
         "Germany West Central",
         "Germany North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Norway West"
       ],
       "properties": null,
       "resourceType": "storageSyncServices"
@@ -115,7 +121,9 @@
         "Germany West Central",
         "Germany North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Norway West"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/syncGroups"
@@ -170,7 +178,9 @@
         "Germany West Central",
         "Germany North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Norway West"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/syncGroups/cloudEndpoints"
@@ -225,7 +235,9 @@
         "Germany West Central",
         "Germany North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Norway West"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/syncGroups/serverEndpoints"
@@ -280,7 +292,9 @@
         "Germany West Central",
         "Germany North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Norway West"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/registeredServers"
@@ -335,7 +349,9 @@
         "Germany West Central",
         "Germany North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Norway West"
       ],
       "properties": null,
       "resourceType": "storageSyncServices/workflows"
@@ -463,7 +479,9 @@
         "Germany West Central",
         "Germany North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Norway West"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -516,7 +534,9 @@
         "Germany West Central",
         "Germany North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Norway West"
       ],
       "properties": null,
       "resourceType": "locations/workflows"
@@ -562,7 +582,9 @@
         "Germany West Central",
         "Germany North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Norway West"
       ],
       "properties": null,
       "resourceType": "locations/operations"
@@ -608,7 +630,9 @@
         "Germany West Central",
         "Germany North",
         "Switzerland North",
-        "Switzerland West"
+        "Switzerland West",
+        "Norway East",
+        "Norway West"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"

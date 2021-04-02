@@ -491,6 +491,7 @@
       "apiVersions": [
         "2021-01-01-preview"
       ],
+      "capabilities": "SystemAssignedResourceIdentity",
       "locations": [
         "East Asia",
         "North Europe",
