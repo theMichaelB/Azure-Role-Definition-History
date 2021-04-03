@@ -26,6 +26,55 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-15-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "customLocations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-15-preview"
+      ],
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "customLocations/enabledResourceTypes"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-15-preview"
+      ],
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationsstatus"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-15-preview"
+      ],
+      "locations": [
+        "East US",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationresults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2021-03-15-preview",
         "2020-07-15-privatepreview"
       ],

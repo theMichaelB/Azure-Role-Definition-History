@@ -75,7 +75,8 @@
         "UK South",
         "West Europe",
         "West US",
-        "West US 2"
+        "West US 2",
+        "West US 3"
       ],
       "properties": null,
       "resourceType": "labs"
@@ -126,7 +127,8 @@
         "UK South",
         "West Europe",
         "West US",
-        "West US 2"
+        "West US 2",
+        "West US 3"
       ],
       "properties": null,
       "resourceType": "schedules"
@@ -177,7 +179,8 @@
         "UK South",
         "West Europe",
         "West US",
-        "West US 2"
+        "West US 2",
+        "West US 3"
       ],
       "properties": null,
       "resourceType": "labs/virtualMachines"
@@ -228,7 +231,8 @@
         "UK South",
         "West Europe",
         "West US",
-        "West US 2"
+        "West US 2",
+        "West US 3"
       ],
       "properties": null,
       "resourceType": "labs/serviceRunners"
@@ -304,7 +308,8 @@
         "UK South",
         "West Europe",
         "West US",
-        "West US 2"
+        "West US 2",
+        "West US 3"
       ],
       "properties": null,
       "resourceType": "locations/operations"
