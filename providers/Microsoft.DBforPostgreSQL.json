@@ -192,6 +192,7 @@
         "Central US",
         "East US",
         "East US 2",
+        "France Central",
         "Japan East",
         "North Europe",
         "Southeast Asia",
@@ -220,6 +221,14 @@
         },
         {
           "location": "West Europe",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "France Central",
           "zones": [
             "1",
             "2",
@@ -305,6 +314,7 @@
         "Central US",
         "East US",
         "East US 2",
+        "France Central",
         "Japan East",
         "North Europe",
         "Southeast Asia",
@@ -328,6 +338,7 @@
         "Central US",
         "East US",
         "East US 2",
+        "France Central",
         "Japan East",
         "North Europe",
         "Southeast Asia",
