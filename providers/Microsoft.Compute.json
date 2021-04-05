@@ -2876,6 +2876,544 @@
     },
     {
       "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-10-01-preview"
+      ],
+      "capabilities": "None",
+      "defaultApiVersion": "2021-03-01",
+      "locations": [
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "West Europe",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US",
+        "North Europe",
+        "East Asia",
+        "Brazil South",
+        "West US 2",
+        "West Central US",
+        "UK West",
+        "UK South",
+        "Japan East",
+        "Japan West",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "South India",
+        "Australia East",
+        "Australia Southeast",
+        "Korea Central",
+        "Korea South",
+        "West India",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "cloudServices",
+      "zoneMappings": [
+        {
+          "location": "East US 2",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "Central US",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "West Europe",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "France Central",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "Southeast Asia",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "West US 2",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "North Europe",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "East US",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "UK South",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "Japan East",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "Australia East",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "South Africa North",
+          "zones": []
+        },
+        {
+          "location": "South Central US",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "Canada Central",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "Germany West Central",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "Brazil South",
+          "zones": [
+            "3",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "location": "Central India",
+          "zones": []
+        },
+        {
+          "location": "Korea Central",
+          "zones": []
+        },
+        {
+          "location": "Norway East",
+          "zones": []
+        }
+      ]
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-10-01-preview"
+      ],
+      "defaultApiVersion": "2021-03-01",
+      "locations": [
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "West Europe",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US",
+        "North Europe",
+        "East Asia",
+        "Brazil South",
+        "West US 2",
+        "West Central US",
+        "UK West",
+        "UK South",
+        "Japan East",
+        "Japan West",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "South India",
+        "Australia East",
+        "Australia Southeast",
+        "Korea Central",
+        "Korea South",
+        "West India",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "cloudServices/roles"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-10-01-preview"
+      ],
+      "defaultApiVersion": "2021-03-01",
+      "locations": [
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "West Europe",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US",
+        "North Europe",
+        "East Asia",
+        "Brazil South",
+        "West US 2",
+        "West Central US",
+        "UK West",
+        "UK South",
+        "Japan East",
+        "Japan West",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "South India",
+        "Australia East",
+        "Australia Southeast",
+        "Korea Central",
+        "Korea South",
+        "West India",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "cloudServices/roleInstances"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-10-01-preview"
+      ],
+      "locations": [
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "West Europe",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US",
+        "North Europe",
+        "East Asia",
+        "Brazil South",
+        "West US 2",
+        "West Central US",
+        "UK West",
+        "UK South",
+        "Japan East",
+        "Japan West",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "South India",
+        "Australia East",
+        "Australia Southeast",
+        "Korea Central",
+        "Korea South",
+        "West India",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/csoperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01"
+      ],
+      "defaultApiVersion": "2021-03-01",
+      "locations": [
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "West Europe",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US",
+        "North Europe",
+        "East Asia",
+        "Brazil South",
+        "West US 2",
+        "West Central US",
+        "UK West",
+        "UK South",
+        "Japan East",
+        "Japan West",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "South India",
+        "Australia East",
+        "Australia Southeast",
+        "Korea Central",
+        "Korea South",
+        "West India",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/cloudServiceOsVersions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01"
+      ],
+      "defaultApiVersion": "2021-03-01",
+      "locations": [
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "West Europe",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US",
+        "North Europe",
+        "East Asia",
+        "Brazil South",
+        "West US 2",
+        "West Central US",
+        "UK West",
+        "UK South",
+        "Japan East",
+        "Japan West",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "South India",
+        "Australia East",
+        "Australia Southeast",
+        "Korea Central",
+        "Korea South",
+        "West India",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "locations/cloudServiceOsFamilies"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-10-01-preview"
+      ],
+      "locations": [
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "West Europe",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US",
+        "North Europe",
+        "East Asia",
+        "Brazil South",
+        "West US 2",
+        "West Central US",
+        "UK West",
+        "UK South",
+        "Japan East",
+        "Japan West",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "South India",
+        "Australia East",
+        "Australia Southeast",
+        "Korea Central",
+        "Korea South",
+        "West India",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "cloudServices/networkInterfaces"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-10-01-preview"
+      ],
+      "locations": [
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "West Europe",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US",
+        "North Europe",
+        "East Asia",
+        "Brazil South",
+        "West US 2",
+        "West Central US",
+        "UK West",
+        "UK South",
+        "Japan East",
+        "Japan West",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "South India",
+        "Australia East",
+        "Australia Southeast",
+        "Korea Central",
+        "Korea South",
+        "West India",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "cloudServices/roleInstances/networkInterfaces"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-10-01-preview"
+      ],
+      "locations": [
+        "Southeast Asia",
+        "East US 2",
+        "Central US",
+        "West Europe",
+        "East US",
+        "North Central US",
+        "South Central US",
+        "West US",
+        "North Europe",
+        "East Asia",
+        "Brazil South",
+        "West US 2",
+        "West Central US",
+        "UK West",
+        "UK South",
+        "Japan East",
+        "Japan West",
+        "Canada Central",
+        "Canada East",
+        "Central India",
+        "South India",
+        "Australia East",
+        "Australia Southeast",
+        "Korea Central",
+        "Korea South",
+        "West India",
+        "France Central",
+        "South Africa North",
+        "UAE North",
+        "Australia Central",
+        "Switzerland North",
+        "Germany West Central",
+        "Norway East"
+      ],
+      "properties": null,
+      "resourceType": "cloudServices/publicIPAddresses"
+    },
+    {
+      "aliases": null,
       "apiProfiles": [
         {
           "apiVersion": "2017-03-30",

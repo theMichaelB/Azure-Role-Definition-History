@@ -35,13 +35,13 @@
         "West India",
         "Brazil South",
         "Japan East",
-        "Norway East",
+        "Germany West Central",
         "South Africa North",
         "Switzerland North",
-        "Central India",
-        "UAE North",
-        "Germany West Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland West",
+        "Canada East",
+        "Australia Southeast"
       ],
       "properties": null,
       "resourceType": "applications"
@@ -72,13 +72,13 @@
         "West India",
         "Brazil South",
         "Japan East",
-        "Norway East",
+        "Germany West Central",
         "South Africa North",
         "Switzerland North",
-        "Central India",
-        "UAE North",
-        "Germany West Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland West",
+        "Canada East",
+        "Australia Southeast"
       ],
       "properties": null,
       "resourceType": "networks"
@@ -109,13 +109,13 @@
         "West India",
         "Brazil South",
         "Japan East",
-        "Norway East",
+        "Germany West Central",
         "South Africa North",
         "Switzerland North",
-        "Central India",
-        "UAE North",
-        "Germany West Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland West",
+        "Canada East",
+        "Australia Southeast"
       ],
       "properties": null,
       "resourceType": "volumes"
@@ -146,13 +146,13 @@
         "West India",
         "Brazil South",
         "Japan East",
-        "Norway East",
+        "Germany West Central",
         "South Africa North",
         "Switzerland North",
-        "Central India",
-        "UAE North",
-        "Germany West Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland West",
+        "Canada East",
+        "Australia Southeast"
       ],
       "properties": null,
       "resourceType": "secrets"
@@ -183,13 +183,13 @@
         "West India",
         "Brazil South",
         "Japan East",
-        "Norway East",
+        "Germany West Central",
         "South Africa North",
         "Switzerland North",
-        "Central India",
-        "UAE North",
-        "Germany West Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland West",
+        "Canada East",
+        "Australia Southeast"
       ],
       "properties": null,
       "resourceType": "gateways"
@@ -229,13 +229,13 @@
         "West India",
         "Brazil South",
         "Japan East",
-        "Norway East",
+        "Germany West Central",
         "South Africa North",
         "Switzerland North",
-        "Central India",
-        "UAE North",
-        "Germany West Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland West",
+        "Canada East",
+        "Australia Southeast"
       ],
       "properties": null,
       "resourceType": "locations/applicationOperations"
@@ -265,13 +265,13 @@
         "West India",
         "Brazil South",
         "Japan East",
-        "Norway East",
+        "Germany West Central",
         "South Africa North",
         "Switzerland North",
-        "Central India",
-        "UAE North",
-        "Germany West Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland West",
+        "Canada East",
+        "Australia Southeast"
       ],
       "properties": null,
       "resourceType": "locations/networkOperations"
@@ -301,13 +301,13 @@
         "West India",
         "Brazil South",
         "Japan East",
-        "Norway East",
+        "Germany West Central",
         "South Africa North",
         "Switzerland North",
-        "Central India",
-        "UAE North",
-        "Germany West Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland West",
+        "Canada East",
+        "Australia Southeast"
       ],
       "properties": null,
       "resourceType": "locations/volumeOperations"
@@ -337,13 +337,13 @@
         "West India",
         "Brazil South",
         "Japan East",
-        "Norway East",
+        "Germany West Central",
         "South Africa North",
         "Switzerland North",
-        "Central India",
-        "UAE North",
-        "Germany West Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland West",
+        "Canada East",
+        "Australia Southeast"
       ],
       "properties": null,
       "resourceType": "locations/gatewayOperations"
@@ -373,13 +373,13 @@
         "West India",
         "Brazil South",
         "Japan East",
-        "Norway East",
+        "Germany West Central",
         "South Africa North",
         "Switzerland North",
-        "Central India",
-        "UAE North",
-        "Germany West Central",
-        "North Central US"
+        "North Central US",
+        "Switzerland West",
+        "Canada East",
+        "Australia Southeast"
       ],
       "properties": null,
       "resourceType": "locations/secretOperations"
