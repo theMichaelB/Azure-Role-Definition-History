@@ -41,7 +41,10 @@
         "North Central US",
         "Switzerland West",
         "Canada East",
-        "Australia Southeast"
+        "Australia Southeast",
+        "Central India",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "applications"
@@ -78,7 +81,10 @@
         "North Central US",
         "Switzerland West",
         "Canada East",
-        "Australia Southeast"
+        "Australia Southeast",
+        "Central India",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "networks"
@@ -115,7 +121,10 @@
         "North Central US",
         "Switzerland West",
         "Canada East",
-        "Australia Southeast"
+        "Australia Southeast",
+        "Central India",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "volumes"
@@ -152,7 +161,10 @@
         "North Central US",
         "Switzerland West",
         "Canada East",
-        "Australia Southeast"
+        "Australia Southeast",
+        "Central India",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "secrets"
@@ -189,7 +201,10 @@
         "North Central US",
         "Switzerland West",
         "Canada East",
-        "Australia Southeast"
+        "Australia Southeast",
+        "Central India",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "gateways"
@@ -235,7 +250,10 @@
         "North Central US",
         "Switzerland West",
         "Canada East",
-        "Australia Southeast"
+        "Australia Southeast",
+        "Central India",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/applicationOperations"
@@ -271,7 +289,10 @@
         "North Central US",
         "Switzerland West",
         "Canada East",
-        "Australia Southeast"
+        "Australia Southeast",
+        "Central India",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/networkOperations"
@@ -307,7 +328,10 @@
         "North Central US",
         "Switzerland West",
         "Canada East",
-        "Australia Southeast"
+        "Australia Southeast",
+        "Central India",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/volumeOperations"
@@ -343,7 +367,10 @@
         "North Central US",
         "Switzerland West",
         "Canada East",
-        "Australia Southeast"
+        "Australia Southeast",
+        "Central India",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/gatewayOperations"
@@ -379,7 +406,10 @@
         "North Central US",
         "Switzerland West",
         "Canada East",
-        "Australia Southeast"
+        "Australia Southeast",
+        "Central India",
+        "Norway East",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/secretOperations"
