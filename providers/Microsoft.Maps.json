@@ -22,10 +22,12 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
+        "West Central US",
         "Global",
         "West US 2",
         "East US",
-        "West Europe"
+        "West Europe",
+        "North Europe"
       ],
       "properties": null,
       "resourceType": "accounts"
