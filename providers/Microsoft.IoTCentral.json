@@ -1,7 +1,8 @@
 {
   "authorizations": [
     {
-      "applicationId": "9edfcdd9-0bc5-4bd4-b287-c3afc716aac7"
+      "applicationId": "9edfcdd9-0bc5-4bd4-b287-c3afc716aac7",
+      "roleDefinitionId": "913c14c1-35ac-45ee-b8f2-05524381b92c"
     }
   ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.IoTCentral",

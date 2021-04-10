@@ -1,0 +1,21 @@
+{
+  "authorizations": [],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.FluidRelay",
+  "namespace": "Microsoft.FluidRelay",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-12-preview"
+      ],
+      "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "locations": [
+        "North Europe",
+        "East US 2 EUAP"
+      ],
+      "properties": null,
+      "resourceType": "fluidRelayServers"
+    }
+  ]
+}

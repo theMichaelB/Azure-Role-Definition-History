@@ -31,7 +31,9 @@
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
         "East US",
-        "West Europe"
+        "West Europe",
+        "North Europe",
+        "France Central"
       ],
       "properties": null,
       "resourceType": "customLocations"
@@ -43,7 +45,9 @@
       ],
       "locations": [
         "East US",
-        "West Europe"
+        "West Europe",
+        "North Europe",
+        "France Central"
       ],
       "properties": null,
       "resourceType": "customLocations/enabledResourceTypes"
@@ -55,7 +59,9 @@
       ],
       "locations": [
         "East US",
-        "West Europe"
+        "West Europe",
+        "North Europe",
+        "France Central"
       ],
       "properties": null,
       "resourceType": "locations/operationsstatus"
@@ -67,7 +73,9 @@
       ],
       "locations": [
         "East US",
-        "West Europe"
+        "West Europe",
+        "North Europe",
+        "France Central"
       ],
       "properties": null,
       "resourceType": "locations/operationresults"

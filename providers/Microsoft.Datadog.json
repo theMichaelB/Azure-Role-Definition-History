@@ -1,0 +1,196 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "ae11f5fb-c627-4eec-b4a0-f7b5969426e5",
+      "roleDefinitionId": "904f1136-432f-44da-adc4-d3bdf27b156d"
+    },
+    {
+      "applicationId": "055caf97-1b4f-4730-9f5d-acc24b707b06",
+      "roleDefinitionId": "4ac7c055-417e-47eb-9a38-137e6233a688"
+    },
+    {
+      "applicationId": "0c6620df-7b29-44de-8ba4-688a56a20f9f",
+      "roleDefinitionId": "e2116b11-5fb7-4f68-b0e9-9d4173a5dfdb"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Datadog",
+  "namespace": "Microsoft.Datadog",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "defaultApiVersion": "2021-03-01",
+      "locations": [],
+      "properties": null,
+      "resourceType": "registeredSubscriptions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "locations": [
+        "West US 2",
+        "East US 2 EUAP"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "capabilities": "SystemAssignedResourceIdentity",
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "monitors"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "monitors/tagRules"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "monitors/listMonitoredResources"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "monitors/listApiKeys"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "monitors/getDefaultKey"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "monitors/setDefaultKey"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "monitors/singleSignOnConfigurations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "monitors/listHosts"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "monitors/listLinkedResources"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "locations": [
+        "West US 2"
+      ],
+      "properties": null,
+      "resourceType": "monitors/refreshSetPasswordLink"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-01",
+        "2020-02-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "agreements"
+    }
+  ]
+}

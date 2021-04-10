@@ -368,6 +368,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01-preview",
         "2019-01-01-preview"
       ],
       "capabilities": "SupportsExtension",

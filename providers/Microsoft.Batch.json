@@ -68,7 +68,8 @@
         "Germany West Central",
         "Switzerland North",
         "Norway East",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "West US 3"
       ],
       "properties": null,
       "resourceType": "batchAccounts"
@@ -127,7 +128,8 @@
         "Germany West Central",
         "Switzerland North",
         "Norway East",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "West US 3"
       ],
       "properties": null,
       "resourceType": "batchAccounts/pools"
@@ -185,7 +187,8 @@
         "Germany West Central",
         "Switzerland North",
         "Norway East",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "West US 3"
       ],
       "properties": null,
       "resourceType": "batchAccounts/certificates"
@@ -247,7 +250,8 @@
         "Germany West Central",
         "Switzerland North",
         "Norway East",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "West US 3"
       ],
       "properties": null,
       "resourceType": "operations"
@@ -336,7 +340,8 @@
         "Germany West Central",
         "Switzerland North",
         "Norway East",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "West US 3"
       ],
       "properties": null,
       "resourceType": "locations/quotas"
@@ -396,7 +401,8 @@
         "Germany West Central",
         "Switzerland North",
         "Norway East",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "West US 3"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -454,7 +460,8 @@
         "Germany West Central",
         "Switzerland North",
         "Norway East",
-        "Brazil Southeast"
+        "Brazil Southeast",
+        "West US 3"
       ],
       "properties": null,
       "resourceType": "locations/accountOperationResults"
