@@ -10,6 +10,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-05-01",
         "2020-05-01",
         "2018-07-01",
         "2018-06-01-preview",
@@ -830,6 +831,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-05-01",
+        "2021-03-01-preview",
         "2020-05-01",
         "2018-07-01",
         "2018-06-01-preview",
@@ -838,7 +841,7 @@
         "2015-10-01",
         "2015-04-01"
       ],
-      "defaultApiVersion": "2018-07-01",
+      "defaultApiVersion": "2020-05-01",
       "locations": [],
       "properties": null,
       "resourceType": "operations"
@@ -857,6 +860,8 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-05-01",
+        "2021-03-01-preview",
         "2020-05-01",
         "2018-07-01",
         "2018-06-01-preview",
@@ -870,12 +875,14 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-05-01",
+        "2021-03-01-preview",
         "2020-05-01",
         "2018-07-01",
         "2018-06-01-preview",
         "2018-03-30-preview"
       ],
-      "defaultApiVersion": "2018-07-01",
+      "defaultApiVersion": "2020-05-01",
       "locations": [
         "Japan West",
         "Japan East",

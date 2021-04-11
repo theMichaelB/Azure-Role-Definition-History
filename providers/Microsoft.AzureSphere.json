@@ -11,6 +11,8 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
+        "East US 2 EUAP",
+        "Central US EUAP",
         "global"
       ],
       "properties": null,

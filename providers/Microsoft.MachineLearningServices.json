@@ -82,6 +82,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01-preview",
         "2020-12-01-preview",
         "2020-09-01-preview"
       ],
@@ -114,6 +115,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01-preview",
         "2020-12-01-preview",
         "2020-09-01-preview"
       ],
@@ -146,6 +148,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01-preview",
         "2020-09-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
@@ -177,6 +180,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-01-preview",
         "2020-09-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
