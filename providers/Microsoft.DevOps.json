@@ -1,14 +1,8 @@
 {
-  "authorizations": [
-    {
-      "applicationId": "499b84ac-1321-427f-aa17-267ca6975798",
-      "roleDefinitionId": "6a18f445-86f0-4e2e-b8a9-6b9b5677e3d8"
-    },
-    {
-      "applicationId": "4c3095a7-cc8a-4028-8301-c68ea6c2b42e",
-      "roleDefinitionId": "d637ba3a-8a38-41ec-a9e3-5e4a619e7530"
-    }
-  ],
+  "authorization": {
+    "applicationId": "499b84ac-1321-427f-aa17-267ca6975798",
+    "roleDefinitionId": "6a18f445-86f0-4e2e-b8a9-6b9b5677e3d8"
+  },
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.DevOps",
   "namespace": "Microsoft.DevOps",
   "registrationState": "NotRegistered",
@@ -46,44 +40,6 @@
       ],
       "properties": null,
       "resourceType": "pipelines"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-12-01-preview"
-      ],
-      "locations": [],
-      "properties": null,
-      "resourceType": "locations"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-12-01-preview"
-      ],
-      "locations": [
-        "West US 2"
-      ],
-      "properties": null,
-      "resourceType": "locations/operationstatuses"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-12-01-preview"
-      ],
-      "locations": [],
-      "properties": null,
-      "resourceType": "deploymentdetails"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-12-01-preview"
-      ],
-      "locations": [],
-      "properties": null,
-      "resourceType": "Operations"
     }
   ]
 }
