@@ -81,12 +81,41 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-10-01"
+      ],
+      "capabilities": "SupportsExtension",
+      "locations": [],
+      "properties": null,
+      "resourceType": "eventGridFilters"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-01-preview",
+        "2020-07-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkPolicyRestrictions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2018-07-01-preview"
       ],
       "capabilities": "SupportsExtension",
       "locations": [],
       "properties": null,
       "resourceType": "policyTrackedResources"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2019-10-01"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "policyMetadata"
     }
   ]
 }

@@ -41,7 +41,8 @@
         "UK South",
         "West Europe",
         "West US",
-        "West US 2"
+        "West US 2",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "SignalR"
@@ -91,7 +92,8 @@
         "UK South",
         "West Europe",
         "West US",
-        "West US 2"
+        "West US 2",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/operationResults"
@@ -127,7 +129,8 @@
         "UK South",
         "West Europe",
         "West US",
-        "West US 2"
+        "West US 2",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/operationStatuses"
@@ -185,7 +188,8 @@
         "UK South",
         "West Europe",
         "West US",
-        "West US 2"
+        "West US 2",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/checkNameAvailability"
@@ -221,7 +225,8 @@
         "UK South",
         "West Europe",
         "West US",
-        "West US 2"
+        "West US 2",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "locations/usages"
@@ -257,7 +262,8 @@
         "UK South",
         "West Europe",
         "West US",
-        "West US 2"
+        "West US 2",
+        "UAE North"
       ],
       "properties": null,
       "resourceType": "SignalR/eventGridFilters"
