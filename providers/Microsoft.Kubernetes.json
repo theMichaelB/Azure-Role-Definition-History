@@ -39,7 +39,8 @@
         "East US 2",
         "West US 2",
         "Australia East",
-        "North Europe"
+        "North Europe",
+        "France Central"
       ],
       "properties": null,
       "resourceType": "connectedClusters"

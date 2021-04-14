@@ -1,9 +1,16 @@
 {
-  "authorization": {
-    "applicationId": "1a14be2a-e903-4cec-99cf-b2e209259a0f",
-    "managedByRoleDefinitionId": "8f2de81a-b9aa-49d8-b24c-11814d3ab525",
-    "roleDefinitionId": "8f2de81a-b9aa-49d8-b24c-11814d3ab525"
-  },
+  "authorizations": [
+    {
+      "applicationId": "1a14be2a-e903-4cec-99cf-b2e209259a0f",
+      "managedByRoleDefinitionId": "8f2de81a-b9aa-49d8-b24c-11814d3ab525",
+      "roleDefinitionId": "8f2de81a-b9aa-49d8-b24c-11814d3ab525"
+    },
+    {
+      "applicationId": "c7bb12bf-0b39-4f7f-9171-f418ff39b76a",
+      "managedByRoleDefinitionId": "4796d754-aa9c-4af1-be54-f17836325288",
+      "roleDefinitionId": "4796d754-aa9c-4af1-be54-f17836325288"
+    }
+  ],
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.LabServices",
   "namespace": "Microsoft.LabServices",
   "registrationState": "NotRegistered",

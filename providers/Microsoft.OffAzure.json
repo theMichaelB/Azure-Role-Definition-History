@@ -12,6 +12,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-09-09-preview",
         "2020-01-01-preview",
         "2020-01-01",
         "2019-06-06",
@@ -80,6 +81,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-09-09-preview",
         "2020-01-01-preview",
         "2019-05-01-preview"
       ],
