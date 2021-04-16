@@ -552,6 +552,40 @@
       ],
       "properties": null,
       "resourceType": "locations/managedClusterOperationResults"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-01-01-preview",
+        "2020-01-01-preview"
+      ],
+      "locations": [
+        "East Asia",
+        "North Europe",
+        "West Central US",
+        "East US 2",
+        "Southeast Asia",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/managedClusterVersions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-01-01-preview",
+        "2020-01-01-preview"
+      ],
+      "locations": [
+        "East Asia",
+        "North Europe",
+        "West Central US",
+        "East US 2",
+        "Southeast Asia",
+        "West Europe"
+      ],
+      "properties": null,
+      "resourceType": "locations/environments/managedClusterVersions"
     }
   ]
 }

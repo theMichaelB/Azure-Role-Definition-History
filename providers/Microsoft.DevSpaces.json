@@ -11,7 +11,6 @@
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
         "West Europe",
-        "Canada Central",
         "Central US",
         "East US 2"
       ],
@@ -25,7 +24,6 @@
       ],
       "locations": [
         "West Europe",
-        "Canada Central",
         "Central US",
         "East US 2"
       ],
@@ -40,7 +38,6 @@
       ],
       "locations": [
         "West Europe",
-        "Canada Central",
         "Central US",
         "East US 2"
       ],
@@ -54,7 +51,6 @@
       ],
       "locations": [
         "West Europe",
-        "Canada Central",
         "Central US",
         "East US 2"
       ],
@@ -68,7 +64,6 @@
       ],
       "locations": [
         "West Europe",
-        "Canada Central",
         "Central US",
         "East US 2"
       ],
@@ -82,7 +77,6 @@
       ],
       "locations": [
         "West Europe",
-        "Canada Central",
         "Central US",
         "East US 2"
       ],
