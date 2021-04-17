@@ -52,21 +52,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2021-02-01-preview"
-      ],
-      "capabilities": "None",
-      "locations": [
-        "East US 2",
-        "North Europe",
-        "Southeast Asia",
-        "West Central US"
-      ],
-      "properties": null,
-      "resourceType": "ResourceGuards"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
         "2021-02-01-preview",
         "2021-01-01",
         "2020-01-01-alpha"

@@ -61,17 +61,6 @@
       ],
       "properties": null,
       "resourceType": "shareInvites"
-    },
-    {
-      "aliases": null,
-      "apiVersions": [
-        "2020-06-23-preview"
-      ],
-      "locations": [
-        "East US 2 EUAP"
-      ],
-      "properties": null,
-      "resourceType": "applicationRegistrationInvites"
     }
   ]
 }

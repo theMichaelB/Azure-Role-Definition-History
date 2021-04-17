@@ -261,7 +261,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-11-01-privatepreview",
         "2019-10-01-preview"
       ],
       "locations": [],
@@ -606,7 +605,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-11-01-privatepreview",
         "2019-10-01-preview"
       ],
       "locations": [],
