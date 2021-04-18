@@ -21,7 +21,6 @@
         "West US 2",
         "North Central US",
         "South Central US",
-        "West Central US",
         "East Asia",
         "Southeast Asia",
         "Brazil South",
@@ -38,7 +37,8 @@
         "UK South",
         "Germany West Central",
         "Australia Central",
-        "Australia Central 2"
+        "Australia Central 2",
+        "West Central US"
       ],
       "properties": null,
       "resourceType": "namespaces"
@@ -61,7 +61,6 @@
         "West US 2",
         "North Central US",
         "South Central US",
-        "West Central US",
         "East Asia",
         "Southeast Asia",
         "Brazil South",
@@ -78,7 +77,8 @@
         "UK South",
         "Germany West Central",
         "Australia Central",
-        "Australia Central 2"
+        "Australia Central 2",
+        "West Central US"
       ],
       "properties": null,
       "resourceType": "namespaces/notificationHubs"
