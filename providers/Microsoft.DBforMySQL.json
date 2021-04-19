@@ -122,6 +122,7 @@
         "East US 2",
         "West US 2",
         "Brazil South",
+        "France Central",
         "Southeast Asia",
         "North Europe",
         "AUSTRALIA EAST",
@@ -154,6 +155,14 @@
         },
         {
           "location": "WEST EUROPE",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "location": "France Central",
           "zones": [
             "1",
             "2",
@@ -346,6 +355,7 @@
         "East US 2",
         "West US 2",
         "Brazil South",
+        "France Central",
         "Southeast Asia",
         "North Europe",
         "AUSTRALIA EAST",
@@ -419,6 +429,7 @@
         "East US 2",
         "West US 2",
         "Brazil South",
+        "France Central",
         "Southeast Asia",
         "North Europe",
         "AUSTRALIA EAST",

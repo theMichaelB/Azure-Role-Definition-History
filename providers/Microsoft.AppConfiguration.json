@@ -44,7 +44,9 @@
         "Switzerland North",
         "Germany West Central",
         "UAE North",
-        "Norway East"
+        "Norway East",
+        "South Africa North",
+        "UK West"
       ],
       "properties": null,
       "resourceType": "configurationStores"
@@ -79,7 +81,9 @@
         "Switzerland North",
         "Germany West Central",
         "UAE North",
-        "Norway East"
+        "Norway East",
+        "South Africa North",
+        "UK West"
       ],
       "properties": null,
       "resourceType": "configurationStores/keyValues"
@@ -118,7 +122,9 @@
         "Switzerland North",
         "Germany West Central",
         "UAE North",
-        "Norway East"
+        "Norway East",
+        "South Africa North",
+        "UK West"
       ],
       "properties": null,
       "resourceType": "configurationStores/eventGridFilters"
@@ -157,7 +163,9 @@
         "Switzerland North",
         "Germany West Central",
         "UAE North",
-        "Norway East"
+        "Norway East",
+        "South Africa North",
+        "UK West"
       ],
       "properties": null,
       "resourceType": "checkNameAvailability"
@@ -196,7 +204,9 @@
         "Switzerland North",
         "Germany West Central",
         "UAE North",
-        "Norway East"
+        "Norway East",
+        "South Africa North",
+        "UK West"
       ],
       "properties": null,
       "resourceType": "locations"
@@ -235,7 +245,9 @@
         "Switzerland North",
         "Germany West Central",
         "UAE North",
-        "Norway East"
+        "Norway East",
+        "South Africa North",
+        "UK West"
       ],
       "properties": null,
       "resourceType": "locations/operationsStatus"
@@ -274,7 +286,9 @@
         "Switzerland North",
         "Germany West Central",
         "UAE North",
-        "Norway East"
+        "Norway East",
+        "South Africa North",
+        "UK West"
       ],
       "properties": null,
       "resourceType": "operations"

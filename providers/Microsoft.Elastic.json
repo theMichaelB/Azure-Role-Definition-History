@@ -1,0 +1,58 @@
+{
+  "authorizations": [
+    {
+      "applicationId": "9d777fa9-b417-43b8-8991-12f8ee2161d2",
+      "roleDefinitionId": "727fce2f-45e6-4d8d-8a08-7302549a924f"
+    },
+    {
+      "applicationId": "5b81a823-5f67-4fb3-8d0f-4c92b5044fe4",
+      "roleDefinitionId": "e0ad5282-27b3-4c62-a72f-ea7bef45503e"
+    }
+  ],
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/providers/Microsoft.Elastic",
+  "namespace": "Microsoft.Elastic",
+  "registrationState": "NotRegistered",
+  "resourceTypes": [
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "operations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "locations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-01-preview"
+      ],
+      "locations": [
+        "East US 2 EUAP",
+        "Central US EUAP",
+        "West US 2",
+        "UK South"
+      ],
+      "properties": null,
+      "resourceType": "locations/operationStatuses"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-07-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "checkNameAvailability"
+    }
+  ]
+}

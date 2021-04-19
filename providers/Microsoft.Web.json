@@ -521,6 +521,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01",
         "2020-10-01"
       ],
       "locations": [
@@ -564,6 +565,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01",
         "2020-10-01"
       ],
       "locations": [
@@ -607,6 +609,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01",
         "2020-10-01"
       ],
       "locations": [
@@ -650,6 +653,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-12-01",
         "2020-10-01"
       ],
       "locations": [

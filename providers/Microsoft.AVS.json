@@ -48,7 +48,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "locations/checkTrialAvailability"
@@ -69,7 +72,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "locations/checkQuotaAvailability"
@@ -93,7 +99,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds"
@@ -115,7 +124,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds/clusters"
@@ -136,7 +148,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds/authorizations"
@@ -157,7 +172,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds/hcxEnterpriseSites"
@@ -178,7 +196,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds/globalReachConnections"
@@ -199,7 +220,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds/addons"
@@ -220,7 +244,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks"
@@ -241,7 +268,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks/dhcpConfigurations"
@@ -262,7 +292,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks/portMirroringProfiles"
@@ -283,7 +316,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks/segments"
@@ -304,7 +340,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks/vmGroups"
@@ -325,7 +364,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks/gateways"
@@ -346,7 +388,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks/virtualMachines"
@@ -367,7 +412,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks/dnsServices"
@@ -388,7 +436,10 @@
         "UK South",
         "Canada Central",
         "North Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK West",
+        "East US 2",
+        "Central US"
       ],
       "properties": null,
       "resourceType": "privateClouds/workloadNetworks/dnsZones"

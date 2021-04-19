@@ -19,6 +19,7 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove, SystemAssignedResourceIdentity",
       "locations": [
+        "Canada Central",
         "France Central",
         "South Central Us",
         "East US 2",
@@ -48,6 +49,7 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
+        "Canada Central",
         "France Central",
         "South Central Us",
         "East US 2",
@@ -77,6 +79,7 @@
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
       "locations": [
+        "Canada Central",
         "France Central",
         "South Central Us",
         "East US 2",
@@ -105,6 +108,7 @@
         "2017-02-28-preview"
       ],
       "locations": [
+        "Canada Central",
         "France Central",
         "South Central Us",
         "East US 2",

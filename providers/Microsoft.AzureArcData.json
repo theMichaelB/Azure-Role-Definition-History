@@ -32,6 +32,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-02-preview",
         "2019-10-01"
       ],
       "locations": [
@@ -57,6 +58,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-02-preview",
         "2020-12-08-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -80,6 +82,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-02-preview",
         "2020-12-08-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
@@ -103,6 +106,7 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-03-02-preview",
         "2020-12-08-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",

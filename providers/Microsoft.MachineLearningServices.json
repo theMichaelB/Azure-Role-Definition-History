@@ -412,6 +412,66 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2020-09-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/components"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2020-09-01-preview"
+      ],
+      "locations": [
+        "North Central US",
+        "Canada Central",
+        "Central India",
+        "UK South",
+        "West US",
+        "Central US",
+        "East Asia",
+        "Japan East",
+        "East US",
+        "North Europe",
+        "Korea Central",
+        "Brazil South",
+        "France Central",
+        "Australia East",
+        "East US 2",
+        "West US 2",
+        "West Central US",
+        "Southeast Asia",
+        "West Europe",
+        "South Central US"
+      ],
+      "properties": null,
+      "resourceType": "workspaces/components/versions"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2021-03-01-preview",
         "2020-09-01-preview"
       ],
