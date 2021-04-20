@@ -307,8 +307,7 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2020-12-01-preview",
-        "2020-03-01-preview"
+        "2020-12-01-preview"
       ],
       "locations": [
         "Australia Central",

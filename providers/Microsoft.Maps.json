@@ -21,6 +21,7 @@
         "2017-01-01-preview"
       ],
       "capabilities": "CrossResourceGroupResourceMove, CrossSubscriptionResourceMove",
+      "defaultApiVersion": "2018-05-01",
       "locations": [
         "West Central US",
         "Global",
@@ -51,6 +52,7 @@
         "2020-02-01-preview",
         "2018-05-01"
       ],
+      "defaultApiVersion": "2018-05-01",
       "locations": [],
       "properties": null,
       "resourceType": "accounts/eventGridFilters"

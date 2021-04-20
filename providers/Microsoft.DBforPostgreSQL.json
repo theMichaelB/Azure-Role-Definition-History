@@ -185,9 +185,10 @@
         "2020-02-14-privatepreview",
         "2020-02-14-preview"
       ],
-      "capabilities": "SystemAssignedResourceIdentity",
+      "capabilities": "None",
       "locations": [
         "Australia East",
+        "Brazil South",
         "Canada Central",
         "Central US",
         "East US",
@@ -298,6 +299,14 @@
             "2",
             "3"
           ]
+        },
+        {
+          "location": "Brazil South",
+          "zones": [
+            "1",
+            "2",
+            "3"
+          ]
         }
       ]
     },
@@ -310,6 +319,7 @@
       ],
       "locations": [
         "Australia East",
+        "Brazil South",
         "Canada Central",
         "Central US",
         "East US",
@@ -334,6 +344,7 @@
       ],
       "locations": [
         "Australia East",
+        "Brazil South",
         "Canada Central",
         "Central US",
         "East US",
@@ -489,6 +500,36 @@
       ],
       "properties": null,
       "resourceType": "checkNameAvailability"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
+        "2021-03-31-privatepreview",
+        "2020-10-05-privatepreview",
+        "2018-03-29-privatepreview"
+      ],
+      "locations": [
+        "East US 2",
+        "East US",
+        "North Europe",
+        "Southeast Asia",
+        "West Europe",
+        "West US 2",
+        "North Central US",
+        "Canada Central",
+        "Australia East",
+        "UK South",
+        "Japan East",
+        "Central US",
+        "Korea Central",
+        "Central India",
+        "East Asia",
+        "France Central",
+        "Switzerland North",
+        "Brazil South"
+      ],
+      "properties": null,
+      "resourceType": "getPrivateDnsZoneSuffix"
     },
     {
       "aliases": null,
