@@ -65,6 +65,7 @@
       "aliases": null,
       "apiVersions": [
         "2020-02-02-preview",
+        "2020-02-02",
         "2018-05-01-preview",
         "2015-05-01",
         "2014-12-01-preview",
@@ -805,6 +806,7 @@
         "West India",
         "North Europe",
         "West US 2",
+        "West US 3",
         "West Central US",
         "Korea South",
         "Korea Central",
@@ -925,6 +927,7 @@
         "West India",
         "North Europe",
         "West US 2",
+        "West US 3",
         "West Central US",
         "Korea South",
         "Korea Central",
@@ -953,7 +956,6 @@
     {
       "aliases": null,
       "apiVersions": [
-        "2018-01-01",
         "2017-12-01-preview"
       ],
       "capabilities": "SupportsExtension",
@@ -982,6 +984,7 @@
         "West India",
         "North Europe",
         "West US 2",
+        "West US 3",
         "West Central US",
         "Korea South",
         "Korea Central",

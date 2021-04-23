@@ -108,7 +108,7 @@
         "2019-10-01-preview"
       ],
       "capabilities": "SystemAssignedResourceIdentity",
-      "defaultApiVersion": "2019-10-01-preview",
+      "defaultApiVersion": "2021-01-01",
       "locations": [
         "East US 2",
         "North Europe",
@@ -189,7 +189,7 @@
         "2021-01-01",
         "2019-10-01-preview"
       ],
-      "defaultApiVersion": "2019-10-01-preview",
+      "defaultApiVersion": "2021-01-01",
       "locations": [
         "East US 2",
         "North Europe",

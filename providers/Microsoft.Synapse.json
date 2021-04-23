@@ -486,6 +486,15 @@
     {
       "aliases": null,
       "apiVersions": [
+        "2021-04-01-preview"
+      ],
+      "locations": [],
+      "properties": null,
+      "resourceType": "kustoOperations"
+    },
+    {
+      "aliases": null,
+      "apiVersions": [
         "2021-03-01",
         "2020-12-01",
         "2019-06-01-preview"
